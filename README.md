@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditionally Add CSS Classes in Your Stimulus Controllers](https://dev.to/railsdesigner/conditionally-add-css-classes-in-your-stimulus-controllers-42dg)
+- [Dev.to/JS] [Quick and easy loading spinner without JavaScript!](https://dev.to/lennyaiko/quick-and-easy-loading-spinner-without-javascript-3l51)
+- [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)
+- [Lifehacker] [The M1 MacBook Air Is Still the Best Mac For Most People](https://lifehacker.com/tech/m1-macbook-air-is-best-mac)
 - [Dev.to/JS] [React top 50 concepts](https://dev.to/patfinder/react-top-50-concepts-i17)
 - [Dev.to/JS] [A Beginner&#39;s Guide to ReactJS: Unveiling the Power of Web Development](https://dev.to/shaon07/a-beginners-guide-to-reactjs-unveiling-the-power-of-web-development-5h4n)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What I got from Clean Architecture as a FE... &lpar;6-11&rpar;](https://dev.to/hgalvao/what-i-got-from-clean-architecture-as-a-fe-6-11-4bo0)
 - [Dev.to/JS] [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
 - [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)
-- [Dev.to/JS] [Generic Types en TypeScript, desarrollo reutilizable y adaptable](https://dev.to/joanperamas/generic-types-en-typescript-desarrollo-reutilizable-y-adaptable-2mo9)
-- [Dev.to/JS] [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
 - [Lifehacker] [You Should Bury Fish Heads Under Your Tomato Plants](https://lifehacker.com/home/how-to-grow-the-best-tomatoes)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
 - [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
 - [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
-- [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)
-- [Lifehacker] [&#39;Lapse&#39; Is a Twist on Photo Sharing Apps](https://lifehacker.com/tech/lapse-new-photo-sharing-app)
-- [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)<!-- TECH-POSTS:END -->
 
 ---
 
