@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
+- [Dev.to/JS] [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
+- [Dev.to/JS] [Bundling using the Beast](https://dev.to/saikiran76/bundling-using-the-beast-1pnm)
+- [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Dev.to/JS] [Falsey values and -1 returns](https://dev.to/nicksalvatore/falsey-values-and-1-returns-45n)
-- [Dev.to/JS] [Using Redux with React Testing Library.](https://dev.to/jagodabieniek/using-redux-with-react-testing-library-15nc)
+- [Dev.to/JS] [Getting Started with Redux in React Testing Library: A Guide to Custom Render Functions.](https://dev.to/jagodabieniek/using-redux-with-react-testing-library-15nc)
+- [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)
 - [Dev.to/JS] [Angular deferable views: Create a Lazy-loaded Youtube Player for a blog!](https://dev.to/thisiszoaib/angular-deferable-views-create-a-lazy-loaded-youtube-player-for-a-blog-2hca)
 - [Lifehacker] [These Are the Best Wi-Fi 6 Routers](https://lifehacker.com/tech/the-best-wi-fi-6-routers)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/rishabh07r/understanding-closures-in-javascript-3ig1)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finding Your Way With .Map&lpar;&rpar;](https://dev.to/lav-01/finding-your-way-with-map-27oo)
 - [Dev.to/JS] [Joint Plus CBD Gummies Reviews &lpar;Warning Exposed 2024&rpar; Joint Plus CBD Gummies Review Natural Ingredients](https://dev.to/jointpluscbdgummies/joint-plus-cbd-gummies-reviews-warning-exposed-2024-joint-plus-cbd-gummies-review-natural-ingredients-4p1o)
 - [Dev.to/JS] [Usando Callbacks em Hooks Customizados do React](https://dev.to/alanpinhel/usando-callbacks-em-hooks-customizados-do-react-2c0f)
-- [Dev.to/JS] [Crafting a User-Friendly Checkout Process with commercetools](https://dev.to/nitin-rachabathuni/crafting-a-user-friendly-checkout-process-with-commercetools-2gjl)
-- [Dev.to/JS] [Meteor v3 uses express under the hood – How to use and deploy it.](https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n)
-- [Dev.to/JS] [Mastering Backbone.js Development: A Comprehensive Guide for Hiring Backbone.js Developers in 2024](https://dev.to/allenchrios/mastering-backbonejs-development-a-comprehensive-guide-for-hiring-backbonejs-developers-in-2024-ieg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
 - [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [You Can Get This Handheld LCD Microscope on Sale for $82 Right Now](https://lifehacker.com/tech/lcd-microscope-sale)
-- [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
