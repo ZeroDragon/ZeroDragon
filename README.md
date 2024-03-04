@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speed vs. Quality: Finding Balance in Software Development](https://dev.to/nitin-rachabathuni/speed-vs-quality-finding-balance-in-software-development-4la8)
+- [Dev.to/JS] [Top 5 JavaScript Frameworks for Frontend in 2024](https://dev.to/deepakydv9315/top-5-javascript-frameworks-for-frontend-in-2024-2gcm)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/billymurphyr7/buy-google-5-star-reviews-24m1)
+- [Dev.to/JS] [Differences between forEach and map in JavaScript](https://dev.to/akmaurya31/differences-between-foreach-and-map-in-javascript-5b2c)
+- [Dev.to/JS] [Master JavaScript with these 20 tricky yet effective hacks.](https://dev.to/srinureddy/master-javascript-with-these-20-tricky-yet-effective-hacks-c0c)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/billymurphyr7/buy-verified-paxful-account-4a7p)
 - [Dev.to/JS] [How Many Weeks for Awareness Campaign Ads on Meta and Google 2024](https://dev.to/webdosolutions/how-many-weeks-for-awareness-campaign-ads-on-meta-and-google-2024-46ol)
 - [Dev.to/JS] [Where to host your web development projects?](https://dev.to/lemmecode/where-to-host-your-web-development-projects-il3)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Toolbox 2024: Bundlers and Test Frameworks](https://dev.to/olwiba/js-toolbox-2024-bundlers-and-test-frameworks-30f9)
 - [Dev.to/JS] [JS Toolbox 2024: Frameworks and static site generators](https://dev.to/olwiba/js-toolbox-2024-frameworks-and-static-site-generators-3ad0)
 - [Dev.to/JS] [JS Toolbox 2024: Runtime environments &amp; package management](https://dev.to/olwiba/js-toolbox-2024-runtime-environments-package-management-2chg)
-- [Dev.to/JS] [🌟🎉 Interface Segregation Principle: Simplifying Interfaces for Better Code Design🚀🌈🖋️](https://dev.to/mohitkadwe19/interface-segregation-principle-simplifying-interfaces-for-better-code-design-5cba)
-- [Dev.to/JS] [Welcome to Embroiden](https://dev.to/embroiden/welcome-to-embroiden-5772)
-- [Dev.to/JS] [Linting](https://dev.to/samuellubliner/linting-3ami)
-- [Dev.to/JS] [Implementando persistência/banco de dados a um aplicativo react-native](https://dev.to/olucascruz/implementando-persistenciabanco-de-dados-a-um-aplicativo-react-native-4307)
-- [Dev.to/JS] [Buy Linkedin Accounts-Cheap Bulk Accounts](https://dev.to/anguslukin/buy-linkedin-accounts-cheap-bulk-accounts-3cli)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
