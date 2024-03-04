@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React top 50 concepts](https://dev.to/patfinder/react-top-50-concepts-i17)
+- [Dev.to/JS] [A Beginner&#39;s Guide to ReactJS: Unveiling the Power of Web Development](https://dev.to/shaon07/a-beginners-guide-to-reactjs-unveiling-the-power-of-web-development-5h4n)
+- [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
 - [Dev.to/JS] [JS Trick Questtions](https://dev.to/akash32755/js-trick-questtions-406c)
 - [Dev.to/JS] [Understand Javascript let, var, const keywords](https://dev.to/snehalkadwe/understand-javascript-let-var-const-keywords-4ohf)
 - [Dev.to/JS] [How, and why, you should add JavaScript linting to your project. With ESLint and Gulp](https://dev.to/ashconnolly/how-and-why-you-should-add-javascript-linting-to-your-project-with-eslint-and-gulp-5g6j)
+- [Lifehacker] [How to Delete Your Old iPhone Lock Screen Wallpapers](https://lifehacker.com/tech/how-to-delete-lock-screen-wallpapers-on-iphone)
 - [Dev.to/JS] [Writing Clean, Reusable Components in Vue 3 &lpar;Composition API&rpar;: Best Practices](https://dev.to/hakimov_dev/writing-clean-reusable-components-in-vue-3-composition-api-best-practices-37mj)
 - [Dev.to/JS] [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
 - [Lifehacker] [When You Should Buy Insects for Your Garden](https://lifehacker.com/home/adding-insects-to-garden)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)
 - [Dev.to/JS] [Generic Types en TypeScript, desarrollo reutilizable y adaptable](https://dev.to/joanperamas/generic-types-en-typescript-desarrollo-reutilizable-y-adaptable-2mo9)
 - [Dev.to/JS] [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
-- [Dev.to/JS] [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
 - [Lifehacker] [You Should Bury Fish Heads Under Your Tomato Plants](https://lifehacker.com/home/how-to-grow-the-best-tomatoes)
-- [Dev.to/JS] [Bundling using the Beast](https://dev.to/saikiran76/bundling-using-the-beast-1pnm)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)
 - [Lifehacker] [These Are the Best Wi-Fi 6 Routers](https://lifehacker.com/tech/the-best-wi-fi-6-routers)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
 - [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)
 - [Lifehacker] [&#39;Lapse&#39; Is a Twist on Photo Sharing Apps](https://lifehacker.com/tech/lapse-new-photo-sharing-app)
-- [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
-- [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
-- [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)<!-- TECH-POSTS:END -->
+- [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)<!-- TECH-POSTS:END -->
 
 ---
 
