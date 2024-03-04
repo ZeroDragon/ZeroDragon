@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single Page Weather App](https://dev.to/courtneykerr19/single-page-weather-app-3obi)
+- [Dev.to/JS] [Debounce using ES6](https://dev.to/kumarrohan2804_hit/debounce-using-es6-17ag)
 - [Dev.to/JS] [Getting Started with Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/getting-started-with-snapshot-tests-in-playwright-4gfj)
 - [Dev.to/JS] [JavaScript Date: calculating elapsed time](https://dev.to/vivitt/javascript-date-calculating-elapsed-time-5bfl)
 - [Dev.to/JS] [Learning about Date objects in JS](https://dev.to/vivitt/learning-about-date-objects-in-js-56l1)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Virtual Internship Journey at Oasis Infobyte as a Web Developer: A Month of Learning and Growth.](https://dev.to/praneetk/my-virtual-internship-journey-at-oasis-infobyte-as-a-web-developer-a-month-of-learning-and-growth-1i3a)
 - [Dev.to/JS] [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
 - [Dev.to/JS] [Goal to be have by every fullstack Developers](https://dev.to/vimal_adithan/goal-to-be-have-by-every-fullstack-developers-11c1)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/judtinsonnalln/buy-verified-cash-app-account-59k1)
 - [Dev.to/JS] [Unveiling JavaScript: Your Gateway to the Dynamic Web](https://dev.to/hashirdev/unveiling-javascript-your-gateway-to-the-dynamic-web-3k2l)
-- [Dev.to/JS] [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
