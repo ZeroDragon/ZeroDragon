@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HIRE A HACKER TO RECOVER LOST / STOLEN CRYPTO - GO TO OMEGA CRYPTO RECOVERY SPECIALIST HACKER](https://dev.to/baywelli200/hire-a-hacker-to-recover-lost-stolen-crypto-go-to-omega-crypto-recovery-specialist-hacker-2amc)
+- [Lifehacker] [You Can Get Babbel on Sale for $160 Right Now](https://lifehacker.com/babbel-sale)
 - [Dev.to/JS] [Lessons from opensource: Use Object.defineProperty to create an unwritable object’s property.](https://dev.to/ramunarasinga/lessons-from-opensource-use-objectdefineproperty-to-create-an-unwritable-objects-property-1dkk)
+- [Lifehacker] [These Roombas Are Up to 38% Off](https://lifehacker.com/home/these-roombas-are-up-to-38-percent-off)
 - [Dev.to/JS] [Is it just my luck or does the Wi-Fi always drop at the most crucial moments?](https://dev.to/vivek09thakur/is-it-just-my-luck-or-does-the-wi-fi-always-drop-at-the-most-crucial-moments-22h0)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Max in March](https://lifehacker.com/entertainment/best-movies-and-tv-shows-on-max)
 - [Dev.to/JS] [Optimising your OpenSearch Ingestion pipeline using AWS CDK](https://dev.to/aws-builders/optimising-your-opensearch-ingestion-pipeline-using-aws-cdk-20dm)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
 - [Dev.to/JS] [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
-- [Dev.to/JS] [Utility fandom](https://dev.to/merri/utility-fandom-3epl)
 - [Dev.to/JS] [Vue.js tips - How to re-expose slots in wrapping component](https://dev.to/aloisseckar/vuejs-tips-how-to-re-expose-slots-in-wrapping-component-1n1)
 - [Dev.to/JS] [Conditionally Add CSS Classes in Your Stimulus Controllers](https://dev.to/railsdesigner/conditionally-add-css-classes-in-your-stimulus-controllers-42dg)
 - [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)
 - [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
 - [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
-- [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)
-- [Lifehacker] [The Best Products to Organize Your Tech](https://lifehacker.com/tech/best-products-to-organize-tech)
-- [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)<!-- TECH-POSTS:END -->
 
 ---
 
