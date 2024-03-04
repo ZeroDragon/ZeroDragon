@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/getting-started-with-snapshot-tests-in-playwright-4gfj)
+- [Dev.to/JS] [JavaScript Date: calculating elapsed time](https://dev.to/vivitt/javascript-date-calculating-elapsed-time-5bfl)
+- [Dev.to/JS] [Learning about Date objects in JS](https://dev.to/vivitt/learning-about-date-objects-in-js-56l1)
 - [Dev.to/JS] [What is Next.js?](https://dev.to/success_obasi/what-is-nextjs-p5a)
 - [Dev.to/JS] [Building And Deploying A Subgraph &lpar;Part 2&rpar;](https://dev.to/oleanji/building-and-deploying-a-subgraph-part-2-4798)
 - [Dev.to/JS] [Things I learned while building my Component Library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-component-library-1pmc)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/judtinsonnalln/buy-verified-cash-app-account-59k1)
 - [Dev.to/JS] [Unveiling JavaScript: Your Gateway to the Dynamic Web](https://dev.to/hashirdev/unveiling-javascript-your-gateway-to-the-dynamic-web-3k2l)
 - [Dev.to/JS] [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/judtinsonnalln/buy-google-voice-accounts-2pe4)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/judtinsonnalln/buy-google-5-star-reviews-4ej8)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judtinsonnalln/buy-verified-paxful-account-2abf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
