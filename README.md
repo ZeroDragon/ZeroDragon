@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking WordPress Mastery: Essential Tips and Techniques](https://dev.to/jamesmartindev/unlocking-wordpress-mastery-essential-tips-and-techniques-a7k)
+- [Dev.to/JS] [Building a chat app: Chatrooms with Nodejs Websockets and Vue &lpar;PART 1&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-1-1hn3)
+- [Dev.to/JS] [The React Ecosystem in 2024 - Part #1 🔥](https://dev.to/alisamirali/the-react-ecosystem-in-2024-part-1-4063)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/billymurphyr7/buy-old-gmail-accounts-aa3)
 - [Dev.to/JS] [How to Create a To-do App with HTML, CSS, and Vanilla JavaScript with Local Storage](https://dev.to/vaatiesther/how-to-create-a-to-do-app-with-html-css-and-vanilla-javascript-with-local-storage-193g)
 - [Dev.to/JS] [React&#39;s Evolution: Moving Beyond Create React App](https://dev.to/mkrishnancodes/reacts-evolution-moving-beyond-create-react-app-2ho6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Speed vs. Quality: Finding Balance in Software Development](https://dev.to/nitin-rachabathuni/speed-vs-quality-finding-balance-in-software-development-4la8)
 - [Dev.to/JS] [Top 5 JavaScript Frameworks for Frontend in 2024](https://dev.to/deepakydv9315/top-5-javascript-frameworks-for-frontend-in-2024-2gcm)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/billymurphyr7/buy-google-5-star-reviews-24m1)
-- [Dev.to/JS] [Differences between forEach and map in JavaScript](https://dev.to/akmaurya31/differences-between-foreach-and-map-in-javascript-5b2c)
-- [Dev.to/JS] [Master JavaScript with these 20 tricky yet effective hacks.](https://dev.to/srinureddy/master-javascript-with-these-20-tricky-yet-effective-hacks-c0c)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/billymurphyr7/buy-verified-paxful-account-4a7p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
