@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/rishabh07r/understanding-closures-in-javascript-3ig1)
+- [Dev.to/JS] [5 Essential Practices for Front-End Developers &lpar;React Edition&rpar;](https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96)
+- [Dev.to/JS] [Cancelling asynchronous operations with AbortController](https://dev.to/schalkneethling/cancelling-asynchronous-operations-with-abortcontroller-22ef)
+- [Dev.to/JS] [Finding Your Way With .Map&lpar;&rpar;](https://dev.to/lav-01/finding-your-way-with-map-27oo)
 - [Dev.to/JS] [Joint Plus CBD Gummies Reviews &lpar;Warning Exposed 2024&rpar; Joint Plus CBD Gummies Review Natural Ingredients](https://dev.to/jointpluscbdgummies/joint-plus-cbd-gummies-reviews-warning-exposed-2024-joint-plus-cbd-gummies-review-natural-ingredients-4p1o)
 - [Dev.to/JS] [Usando Callbacks em Hooks Customizados do React](https://dev.to/alanpinhel/usando-callbacks-em-hooks-customizados-do-react-2c0f)
 - [Dev.to/JS] [Crafting a User-Friendly Checkout Process with commercetools](https://dev.to/nitin-rachabathuni/crafting-a-user-friendly-checkout-process-with-commercetools-2gjl)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Aria States To Toggle Tailwind Classes](https://dev.to/endymion1818/using-aria-states-to-toggle-tailwind-classes-1lef)
 - [Dev.to/JS] [What is Interaction to Next Paint &lpar;INP&rpar;?](https://dev.to/jacobandrewsky/what-is-interaction-to-next-paint-inp-3clc)
 - [Dev.to/JS] [Advanced JavaScript Tips for Developers](https://dev.to/mileswebhosting/advanced-javascript-tips-for-developers-2bb6)
-- [Dev.to/JS] [Adding passkeys to a Remix App](https://dev.to/hanko/adding-passkeys-to-a-remix-app-31f1)
-- [Dev.to/JS] [Recursive elements in React](https://dev.to/keyurparalkar/recursive-elements-in-react-3jp1)
-- [Dev.to/JS] [Building this app. It can generate PPT in seconds.](https://dev.to/18xdeveloper/building-this-app-it-can-generate-ppt-in-seconds-31k2)
-- [Dev.to/JS] [Step-by-Step Tutorial: How to Achieve Perfect Knotless Braids](https://dev.to/arooj123456/step-by-step-tutorial-how-to-achieve-perfect-knotless-braids-c9k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
