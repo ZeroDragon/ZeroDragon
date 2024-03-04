@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Backbone.js Development: A Comprehensive Guide for Hiring Backbone.js Developers in 2024](https://dev.to/allenchrios/mastering-backbonejs-development-a-comprehensive-guide-for-hiring-backbonejs-developers-in-2024-ieg)
 - [Dev.to/JS] [Using Aria States To Toggle Tailwind Classes](https://dev.to/endymion1818/using-aria-states-to-toggle-tailwind-classes-1lef)
 - [Dev.to/JS] [What is Interaction to Next Paint &lpar;INP&rpar;?](https://dev.to/jacobandrewsky/what-is-interaction-to-next-paint-inp-3clc)
 - [Dev.to/JS] [Advanced JavaScript Tips for Developers](https://dev.to/mileswebhosting/advanced-javascript-tips-for-developers-2bb6)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reactive DOM](https://dev.to/ninjin/reactive-dom-3172)
 - [Dev.to/JS] [WTH is Query String Parameters?](https://dev.to/sanjaykhanssk/wth-is-query-string-parameters-3pem)
 - [Dev.to/JS] [Node.js for Microservices: An Architectural Overview with Coding Examples](https://dev.to/nitin-rachabathuni/nodejs-for-microservices-an-architectural-overview-with-coding-examples-44fp)
-- [Dev.to/JS] [Introduction to Clean Code Principles: A Deeper Dive with JavaScript Examples](https://dev.to/a_gaoba/introduction-to-clean-code-principles-a-deeper-dive-with-javascript-examples-1mca)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
