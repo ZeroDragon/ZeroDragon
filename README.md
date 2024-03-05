@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactive Tech from the Future](https://dev.to/ninjin/reactive-technology-from-the-future-1eon)
+- [Dev.to/JS] [baco.cat](https://dev.to/cescofors75/bacocat-4n0o)
+- [Dev.to/JS] [Webhooks 102](https://dev.to/sanjaykhanssk/webhooks-102-3oh7)
+- [Dev.to/JS] [ECMAScript vs JavaScript vs TypeScript](https://dev.to/marileon/ecmascript-vs-javascript-vs-typescript-42pi)
+- [Dev.to/JS] [Unlocking the Benefits: A Comprehensive Review of Live Conscious Collagen Peptides](https://dev.to/liveconsciou/unlocking-the-benefits-a-comprehensive-review-of-live-conscious-collagen-peptides-1a9j)
 - [Dev.to/JS] [Grow Your Online Business with a Best Website Development Company in Lucknow](https://dev.to/wismad11/grow-your-online-business-with-a-best-website-development-company-in-lucknow-50al)
 - [Dev.to/JS] [IMPORTANCE OF SEMANTIC HTML IN SEARCH ENGINE OPTIMIZATION](https://dev.to/ivyhope/importance-of-semantic-html-in-search-engine-optimization-42ai)
 - [Dev.to/JS] [Angular Addicts #23: Angular 17.2, Nx 18, Signal forms, Analog, WebExpo &amp; more](https://dev.to/this-is-angular/angular-addicts-23-angular-172-nx-18-signal-forms-analog-webexpo-more-bp2)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI-Unbeaten algorithm exercise : can MBappe join Real Madrid?](https://dev.to/bdavidxyz/ai-unbeaten-algorithm-exercise-can-mbappe-join-real-madrid-866)
 - [Dev.to/JS] [Getting started with asynchronous PHP using ReactPHP](https://dev.to/honeybadger/getting-started-with-asynchronous-php-using-reactphp-49b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Master JavaScript Easily: A Complete Guide from ES2015 to ES2023](https://dev.to/ellis22/master-javascript-easily-a-complete-guide-from-es2015-to-es2023-18km)
-- [Dev.to/JS] [How to create an animated log in modal with Tailwind CSS and Alpine.js](https://dev.to/mike_andreuzza/how-to-create-an-animated-log-in-modal-with-tailwind-css-and-alpinejs-5c3f)
-- [Dev.to/JS] [The Ultimate Coconut Cake Vape Recipe for Dessert Lovers](https://dev.to/coconutvape/the-ultimate-coconut-cake-vape-recipe-for-dessert-lovers-58f)
-- [Dev.to/JS] [Implementing a &quot;Defer&quot; Class in TypeScript](https://dev.to/shcheglov/implementing-a-defer-class-in-typescript-3ok3)
-- [Dev.to/JS] [Ultimate Guide Line to Mega Personal Create Account 2024](https://dev.to/webdosolutions/ultimate-guide-line-to-mega-personal-create-account-2024-3cb0)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
 - [Lifehacker] [These Backbone One Controllers Are 30% Off Right Now](https://lifehacker.com/entertainment/backbone-one-controller-deal)
