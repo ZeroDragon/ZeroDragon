@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
+- [Dev.to/JS] [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
+- [Dev.to/JS] [Setup Production Ready Next.js App - Part 2](https://dev.to/jobyjoseph/setup-production-ready-nextjs-app-part-2-3e71)
+- [Dev.to/JS] [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
 - [Dev.to/JS] [Expo AVD &lpar;Android Virtual Device&rpar; on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-avd-android-virtual-device-on-windows-subsystem-for-linux-wsl2-4d8n)
 - [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
 - [Dev.to/JS] [Tornado variáveis globais em react-native com context.](https://dev.to/olucascruz/tornado-variaveis-globais-em-react-native-com-context-oka)
@@ -38,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add Monaco to a Next.js app to enable custom user workflows](https://dev.to/andyjiang/how-to-add-monaco-to-a-nextjs-app-to-enable-custom-user-workflows-2ch0)
 - [Lifehacker] [How to Play Strands, the New York Times’ New Word Search Game](https://lifehacker.com/entertainment/how-to-play-strands-the-nyts-new-word-search-game-with-built-in-hints)
 - [Dev.to/JS] [JavaScript: Supercharge Your Server with Speed and Scalability. PHP MEME](https://dev.to/a4arpon/javascript-supercharge-your-server-with-speed-and-scalability-php-meme-57p0)
-- [Dev.to/JS] [Reactive Programming- Part I](https://dev.to/hearsid/reactive-programming-part-i-5cji)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-sharpen-kitchen-knives)
-- [Dev.to/JS] [LeetCode Meditations: 3Sum](https://dev.to/rivea0/leetcode-meditations-3sum-42g3)
-- [Dev.to/JS] [Verified Cash App Accounts For Sale In 2024](https://dev.to/usaexonacc/verified-cash-app-accounts-for-sale-in-2024-2k9f)
-- [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/tanbalbashi/all-online-tools-in-one-box-3hb)
 - [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
 - [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
 - [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)
