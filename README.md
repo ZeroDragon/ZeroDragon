@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [789Club Mobi](https://dev.to/789clubsmobi/789clubmobi-3b2f)
+- [Dev.to/JS] [Concurrency in Node.js &lpar;Child Processes vs Worker Threads&rpar;](https://dev.to/cechiorlu/concurrency-in-nodejs-child-processes-vs-worker-threads-1ffm)
+- [Dev.to/JS] [Lessons from opensource: Weakmap in Javascript](https://dev.to/ramunarasinga/lessons-from-opensource-weakmap-in-javascript-6g1)
+- [Dev.to/JS] [Chrome Extensions](https://dev.to/bealecs/chrome-extensions-1kmh)
 - [Dev.to/JS] [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
 - [Dev.to/JS] [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
 - [Dev.to/JS] [Setup Production Ready Next.js App - Part 2](https://dev.to/jobyjoseph/setup-production-ready-nextjs-app-part-2-3e71)
+- [Lifehacker] [Google Tasks Now Has a Kanban View](https://lifehacker.com/tech/google-tasks-now-has-a-kanban-view)
 - [Dev.to/JS] [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
+- [Lifehacker] [This New Rule Will Cap Credit Card Late Fees at $8](https://lifehacker.com/money/new-cfpb-rule-caps-banks-credit-card-late-fees)
 - [Dev.to/JS] [Expo AVD &lpar;Android Virtual Device&rpar; on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-avd-android-virtual-device-on-windows-subsystem-for-linux-wsl2-4d8n)
 - [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
 - [Dev.to/JS] [Tornado variáveis globais em react-native com context.](https://dev.to/olucascruz/tornado-variaveis-globais-em-react-native-com-context-oka)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error Handling in Node.js Streams: Best Practices](https://dev.to/ruben_alapont/error-handling-in-nodejs-streams-best-practices-dhb)
 - [Dev.to/JS] [Introducing Tab Closer Pro: Close Tabs More Easily](https://dev.to/plsankar/introducing-tab-closer-pro-close-tabs-more-easily-3lml)
 - [Lifehacker] [How to Prepare for Moving Up &lpar;or Down&rpar; a Tax Bracket](https://lifehacker.com/money/how-to-prepare-for-moving-to-new-tax-bracket)
-- [Dev.to/JS] [A &lpar;somewhat&rpar; deep dive into TypeScript constructor intricacies, step-by-step](https://dev.to/boscodomingo/a-somewhat-deep-dive-into-typescript-constructor-intricacies-step-by-step-3fp1)
-- [Dev.to/JS] [Top Vue Datatables in 2024](https://dev.to/nikunjshingalaofficial/top-vue-datatables-in-2024-53k8)
-- [Dev.to/JS] [How to add Monaco to a Next.js app to enable custom user workflows](https://dev.to/andyjiang/how-to-add-monaco-to-a-nextjs-app-to-enable-custom-user-workflows-2ch0)
 - [Lifehacker] [How to Play Strands, the New York Times’ New Word Search Game](https://lifehacker.com/entertainment/how-to-play-strands-the-nyts-new-word-search-game-with-built-in-hints)
-- [Dev.to/JS] [JavaScript: Supercharge Your Server with Speed and Scalability. PHP MEME](https://dev.to/a4arpon/javascript-supercharge-your-server-with-speed-and-scalability-php-meme-57p0)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-sharpen-kitchen-knives)
 - [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
 - [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Roombas Are Up to 38% Off](https://lifehacker.com/home/these-roombas-are-up-to-38-percent-off)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Max in March](https://lifehacker.com/entertainment/best-movies-and-tv-shows-on-max)
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
-- [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
-- [Lifehacker] [You Might Already Be Able to File Your Taxes for Free With the IRS’s New Tool](https://lifehacker.com/money/do-taxes-for-free-irs-direct-file-program)
-- [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)<!-- TECH-POSTS:END -->
 
 ---
 
