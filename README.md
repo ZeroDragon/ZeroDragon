@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionizing Front-End Development: An In-Depth Look at React 19&#39;s Compiler](https://dev.to/marcelxv/revolutionizing-front-end-development-an-in-depth-look-at-react-19s-compiler-2980)
+- [Dev.to/JS] [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
 - [Dev.to/JS] [Mastering Async/Await: Simplifying JavaScript&#39;s Async Operations](https://dev.to/mattbug3/mastering-asyncawait-simplifying-javascripts-async-operations-1d02)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Dev.to/JS] [The trades of and benefits of different web rendering technique](https://dev.to/imm9o/the-trades-of-and-benefits-of-different-web-rendering-technique-3206)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Webhooks 102](https://dev.to/sanjaykhanssk/webhooks-102-3oh7)
 - [Dev.to/JS] [ECMAScript vs JavaScript vs TypeScript](https://dev.to/marileon/ecmascript-vs-javascript-vs-typescript-42pi)
 - [Dev.to/JS] [Unlocking the Benefits: A Comprehensive Review of Live Conscious Collagen Peptides](https://dev.to/liveconsciou/unlocking-the-benefits-a-comprehensive-review-of-live-conscious-collagen-peptides-1a9j)
-- [Dev.to/JS] [Grow Your Online Business with a Best Website Development Company in Lucknow](https://dev.to/wismad11/grow-your-online-business-with-a-best-website-development-company-in-lucknow-50al)
-- [Dev.to/JS] [IMPORTANCE OF SEMANTIC HTML IN SEARCH ENGINE OPTIMIZATION](https://dev.to/ivyhope/importance-of-semantic-html-in-search-engine-optimization-42ai)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
