@@ -26,22 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add Monaco to a Next.js app to enable custom user workflows](https://dev.to/andyjiang/how-to-add-monaco-to-a-nextjs-app-to-enable-custom-user-workflows-2ch0)
+- [Dev.to/JS] [JavaScript: Supercharge Your Server with Speed and Scalability. PHP MEME](https://dev.to/a4arpon/javascript-supercharge-your-server-with-speed-and-scalability-php-meme-57p0)
+- [Dev.to/JS] [Reactive Programming- Part I](https://dev.to/hearsid/reactive-programming-part-i-5cji)
+- [Dev.to/JS] [LeetCode Meditations: 3Sum](https://dev.to/rivea0/leetcode-meditations-3sum-42g3)
+- [Dev.to/JS] [Verified Cash App Accounts For Sale In 2024](https://dev.to/usaexonacc/verified-cash-app-accounts-for-sale-in-2024-2k9f)
+- [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/tanbalbashi/all-online-tools-in-one-box-3hb)
+- [Dev.to/JS] [Buy Verified Payoneer Accounts - 100% USA, UK Verified](https://dev.to/usaexonacc/buy-verified-payoneer-accounts-100-usa-uk-verified-2k23)
 - [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/shomalikhashayar/all-online-tools-in-one-box-1nbe)
+- [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
 - [Dev.to/JS] [Best Sites To Buy Verified PayPal Accounts in 2024](https://dev.to/usaexonacc/best-sites-to-buy-verified-paypal-accounts-in-2024-5a50)
 - [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/usaexonacc/buy-verified-cash-app-accounts-607)
+- [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
+- [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)
 - [Dev.to/JS] [Building Simple CRM with Vue: Establishing Secure Sign Up Page Using Firebase Authentication](https://dev.to/webcraft-notes/building-simple-crm-with-vue-establishing-secure-sign-up-page-using-firebase-authentication-1lc2)
 - [Dev.to/JS] [Understanding Garbage Collection in JavaScript: A Beginner&#39;s Guide](https://dev.to/harshpathakzz/understanding-garbage-collection-in-javascript-a-beginners-guide-eha)
-- [Dev.to/JS] [I have created a small anti-depression script](https://dev.to/fyodorio/i-have-created-a-small-anti-depression-script-p4i)
-- [Dev.to/JS] [5 Full-Stack JavaScript Frameworks 2024](https://dev.to/lennyaiko/5-full-stack-javascript-frameworks-2024-4ep)
-- [Dev.to/JS] [Building an HTML email form – Frontend and Backend](https://dev.to/veljkoristic/building-an-html-email-form-frontend-and-backend-43l)
 - [Lifehacker] [21 of the World&#39;s Most Banned Movies](https://lifehacker.com/most-banned-movies-in-the-world)
 - [Lifehacker] [Reddit Wants to Be a Meme Stock, Too](https://lifehacker.com/money/reddit-wants-to-be-a-meme-stock-too)
 - [Lifehacker] [What People Are Getting Wrong This Week: ‘Disease X’ Conspiracies](https://lifehacker.com/health/disease-x-conspiracy-theories)
-- [Dev.to/JS] [Google/Dictator?](https://dev.to/aashutosh/googledictator-4ppb)
-- [Dev.to/JS] [Local Texture Features in Javascript](https://dev.to/codemakeratyourservice/local-texture-features-in-javascript-3e0e)
-- [Dev.to/JS] [🎉 Our web framework reached 9,000 stars on GitHub! ⭐️ 9️⃣0️⃣0️⃣0️⃣ ⭐️](https://dev.to/wasp/our-web-framework-reached-9000-stars-on-github-9000-jij)
 - [Lifehacker] [The Best Smart Locks to Secure Your Smart Home](https://lifehacker.com/home/best-smart-locks-for-a-secure-smart-home)
-- [Dev.to/JS] [Revolutionizing Front-End Development: An In-Depth Look at React 19&#39;s Compiler](https://dev.to/marcelxv/revolutionizing-front-end-development-an-in-depth-look-at-react-19s-compiler-2980)
 - [Lifehacker] [Here&#39;s How a Home Equity Loan Works](https://lifehacker.com/money/how-a-home-equity-loan-works)
 - [Lifehacker] [How to Raise a Healthy Gamer, According to a Psychiatrist](https://lifehacker.com/family/how-to-raise-a-healthy-gamer-according-to-a-psychiatrist)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
 - [Lifehacker] [How to Delete Your Old iPhone Lock Screen Wallpapers](https://lifehacker.com/tech/how-to-delete-lock-screen-wallpapers-on-iphone)
 - [Lifehacker] [When You Should Buy Insects for Your Garden](https://lifehacker.com/home/adding-insects-to-garden)
-- [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)
-- [Lifehacker] [You Should Bury Fish Heads Under Your Tomato Plants](https://lifehacker.com/home/how-to-grow-the-best-tomatoes)
-- [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
-- [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)<!-- TECH-POSTS:END -->
 
 ---
 
