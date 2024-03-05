@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Async/Await: Simplifying JavaScript&#39;s Async Operations](https://dev.to/mattbug3/mastering-asyncawait-simplifying-javascripts-async-operations-1d02)
+- [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
+- [Dev.to/JS] [The trades of and benefits of different web rendering technique](https://dev.to/imm9o/the-trades-of-and-benefits-of-different-web-rendering-technique-3206)
 - [Dev.to/JS] [Master detail is now available in Infinite React DataGrid](https://dev.to/radubrehar/master-detail-is-now-available-in-infinite-react-datagrid-5fe1)
 - [Dev.to/JS] [🎰 Rollino Casino 2024: A New Wave in Online Gaming Down Under 🎰](https://dev.to/lolitaaa21/rollino-casino-2024-a-new-wave-in-online-gaming-down-under-1bl2)
 - [Dev.to/JS] [Create Your Side Project With A Single Command](https://dev.to/gc-victor/create-your-side-project-with-a-single-command-4hn0)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Benefits: A Comprehensive Review of Live Conscious Collagen Peptides](https://dev.to/liveconsciou/unlocking-the-benefits-a-comprehensive-review-of-live-conscious-collagen-peptides-1a9j)
 - [Dev.to/JS] [Grow Your Online Business with a Best Website Development Company in Lucknow](https://dev.to/wismad11/grow-your-online-business-with-a-best-website-development-company-in-lucknow-50al)
 - [Dev.to/JS] [IMPORTANCE OF SEMANTIC HTML IN SEARCH ENGINE OPTIMIZATION](https://dev.to/ivyhope/importance-of-semantic-html-in-search-engine-optimization-42ai)
-- [Dev.to/JS] [Angular Addicts #23: Angular 17.2, Nx 18, Signal forms, Analog, WebExpo &amp; more](https://dev.to/this-is-angular/angular-addicts-23-angular-172-nx-18-signal-forms-analog-webexpo-more-bp2)
-- [Dev.to/JS] [The Ultimate Guide to Designing Restaurant Websites: Why WordPress is the Best Choice](https://dev.to/jamesmartindev/the-ultimate-guide-to-designing-restaurant-websites-why-wordpress-is-the-best-choice-3af2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
-- [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
