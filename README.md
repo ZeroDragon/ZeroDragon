@@ -26,11 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/shomalikhashayar/all-online-tools-in-one-box-1nbe)
+- [Dev.to/JS] [Best Sites To Buy Verified PayPal Accounts in 2024](https://dev.to/usaexonacc/best-sites-to-buy-verified-paypal-accounts-in-2024-5a50)
+- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/usaexonacc/buy-verified-cash-app-accounts-607)
 - [Dev.to/JS] [Building Simple CRM with Vue: Establishing Secure Sign Up Page Using Firebase Authentication](https://dev.to/webcraft-notes/building-simple-crm-with-vue-establishing-secure-sign-up-page-using-firebase-authentication-1lc2)
 - [Dev.to/JS] [Understanding Garbage Collection in JavaScript: A Beginner&#39;s Guide](https://dev.to/harshpathakzz/understanding-garbage-collection-in-javascript-a-beginners-guide-eha)
 - [Dev.to/JS] [I have created a small anti-depression script](https://dev.to/fyodorio/i-have-created-a-small-anti-depression-script-p4i)
 - [Dev.to/JS] [5 Full-Stack JavaScript Frameworks 2024](https://dev.to/lennyaiko/5-full-stack-javascript-frameworks-2024-4ep)
 - [Dev.to/JS] [Building an HTML email form – Frontend and Backend](https://dev.to/veljkoristic/building-an-html-email-form-frontend-and-backend-43l)
+- [Lifehacker] [21 of the World&#39;s Most Banned Movies](https://lifehacker.com/most-banned-movies-in-the-world)
 - [Lifehacker] [Reddit Wants to Be a Meme Stock, Too](https://lifehacker.com/money/reddit-wants-to-be-a-meme-stock-too)
 - [Lifehacker] [What People Are Getting Wrong This Week: ‘Disease X’ Conspiracies](https://lifehacker.com/health/disease-x-conspiracy-theories)
 - [Dev.to/JS] [Google/Dictator?](https://dev.to/aashutosh/googledictator-4ppb)
@@ -39,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Smart Locks to Secure Your Smart Home](https://lifehacker.com/home/best-smart-locks-for-a-secure-smart-home)
 - [Dev.to/JS] [Revolutionizing Front-End Development: An In-Depth Look at React 19&#39;s Compiler](https://dev.to/marcelxv/revolutionizing-front-end-development-an-in-depth-look-at-react-19s-compiler-2980)
 - [Lifehacker] [Here&#39;s How a Home Equity Loan Works](https://lifehacker.com/money/how-a-home-equity-loan-works)
-- [Dev.to/JS] [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
 - [Lifehacker] [How to Raise a Healthy Gamer, According to a Psychiatrist](https://lifehacker.com/family/how-to-raise-a-healthy-gamer-according-to-a-psychiatrist)
-- [Dev.to/JS] [Mastering Async/Await: Simplifying JavaScript&#39;s Async Operations](https://dev.to/mattbug3/mastering-asyncawait-simplifying-javascripts-async-operations-1d02)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
-- [Dev.to/JS] [The trade-offs and benefits of different web rendering technique](https://dev.to/imm9o/the-trades-of-and-benefits-of-different-web-rendering-technique-3206)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)
 - [Lifehacker] [You Should Bury Fish Heads Under Your Tomato Plants](https://lifehacker.com/home/how-to-grow-the-best-tomatoes)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
-- [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)
-- [Lifehacker] [These Are the Best Wi-Fi 6 Routers](https://lifehacker.com/tech/the-best-wi-fi-6-routers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)<!-- TECH-POSTS:END -->
 
 ---
 
