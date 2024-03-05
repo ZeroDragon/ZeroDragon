@@ -26,21 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error Handling in Node.js Streams: Best Practices](https://dev.to/ruben_alapont/error-handling-in-nodejs-streams-best-practices-dhb)
+- [Dev.to/JS] [Introducing Tab Closer Pro: Close Tabs More Easily](https://dev.to/plsankar/introducing-tab-closer-pro-close-tabs-more-easily-3lml)
+- [Dev.to/JS] [A &lpar;somewhat&rpar; deep dive into TypeScript constructor intricacies, step-by-step](https://dev.to/boscodomingo/a-somewhat-deep-dive-into-typescript-constructor-intricacies-step-by-step-3fp1)
+- [Dev.to/JS] [Top Vue Datatables in 2024](https://dev.to/nikunjshingalaofficial/top-vue-datatables-in-2024-53k8)
 - [Dev.to/JS] [How to add Monaco to a Next.js app to enable custom user workflows](https://dev.to/andyjiang/how-to-add-monaco-to-a-nextjs-app-to-enable-custom-user-workflows-2ch0)
+- [Lifehacker] [How to Play Strands, the New York Times’ New Word Search Game](https://lifehacker.com/entertainment/how-to-play-strands-the-nyts-new-word-search-game-with-built-in-hints)
 - [Dev.to/JS] [JavaScript: Supercharge Your Server with Speed and Scalability. PHP MEME](https://dev.to/a4arpon/javascript-supercharge-your-server-with-speed-and-scalability-php-meme-57p0)
 - [Dev.to/JS] [Reactive Programming- Part I](https://dev.to/hearsid/reactive-programming-part-i-5cji)
+- [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-sharpen-kitchen-knives)
 - [Dev.to/JS] [LeetCode Meditations: 3Sum](https://dev.to/rivea0/leetcode-meditations-3sum-42g3)
 - [Dev.to/JS] [Verified Cash App Accounts For Sale In 2024](https://dev.to/usaexonacc/verified-cash-app-accounts-for-sale-in-2024-2k9f)
 - [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/tanbalbashi/all-online-tools-in-one-box-3hb)
 - [Dev.to/JS] [Buy Verified Payoneer Accounts - 100% USA, UK Verified](https://dev.to/usaexonacc/buy-verified-payoneer-accounts-100-usa-uk-verified-2k23)
 - [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/shomalikhashayar/all-online-tools-in-one-box-1nbe)
 - [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
-- [Dev.to/JS] [Best Sites To Buy Verified PayPal Accounts in 2024](https://dev.to/usaexonacc/best-sites-to-buy-verified-paypal-accounts-in-2024-5a50)
-- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/usaexonacc/buy-verified-cash-app-accounts-607)
 - [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
 - [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)
-- [Dev.to/JS] [Building Simple CRM with Vue: Establishing Secure Sign Up Page Using Firebase Authentication](https://dev.to/webcraft-notes/building-simple-crm-with-vue-establishing-secure-sign-up-page-using-firebase-authentication-1lc2)
-- [Dev.to/JS] [Understanding Garbage Collection in JavaScript: A Beginner&#39;s Guide](https://dev.to/harshpathakzz/understanding-garbage-collection-in-javascript-a-beginners-guide-eha)
 - [Lifehacker] [21 of the World&#39;s Most Banned Movies](https://lifehacker.com/most-banned-movies-in-the-world)
 - [Lifehacker] [Reddit Wants to Be a Meme Stock, Too](https://lifehacker.com/money/reddit-wants-to-be-a-meme-stock-too)
 - [Lifehacker] [What People Are Getting Wrong This Week: ‘Disease X’ Conspiracies](https://lifehacker.com/health/disease-x-conspiracy-theories)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)
 - [Lifehacker] [The M1 MacBook Air Is Still the Best Mac For Most People](https://lifehacker.com/tech/m1-macbook-air-is-best-mac)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
-- [Lifehacker] [How to Delete Your Old iPhone Lock Screen Wallpapers](https://lifehacker.com/tech/how-to-delete-lock-screen-wallpapers-on-iphone)
-- [Lifehacker] [When You Should Buy Insects for Your Garden](https://lifehacker.com/home/adding-insects-to-garden)
-- [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Delete Your Old iPhone Lock Screen Wallpapers](https://lifehacker.com/tech/how-to-delete-lock-screen-wallpapers-on-iphone)<!-- TECH-POSTS:END -->
 
 ---
 
