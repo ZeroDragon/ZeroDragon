@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Angular Addicts #23: Angular 17.2, NX 18, Signal forms, Analog, WebExpo &amp; more](https://dev.to/this-is-angular/angular-addicts-23-angular-172-nx-18-signal-forms-analog-webexpo-more-bp2)
+- [Dev.to/JS] [Grow Your Online Business with a Best Website Development Company in Lucknow](https://dev.to/wismad11/grow-your-online-business-with-a-best-website-development-company-in-lucknow-50al)
+- [Dev.to/JS] [IMPORTANCE OF SEMANTIC HTML IN SEARCH ENGINE OPTIMIZATION](https://dev.to/ivyhope/importance-of-semantic-html-in-search-engine-optimization-42ai)
+- [Dev.to/JS] [Angular Addicts #23: Angular 17.2, Nx 18, Signal forms, Analog, WebExpo &amp; more](https://dev.to/this-is-angular/angular-addicts-23-angular-172-nx-18-signal-forms-analog-webexpo-more-bp2)
 - [Dev.to/JS] [The Ultimate Guide to Designing Restaurant Websites: Why WordPress is the Best Choice](https://dev.to/jamesmartindev/the-ultimate-guide-to-designing-restaurant-websites-why-wordpress-is-the-best-choice-3af2)
 - [Dev.to/JS] [3 Actually &quot;Unique&quot; Project Ideas + Execution That Will Get You the Job](https://dev.to/xkrishguptaa/3-actually-unique-project-ideas-execution-that-will-get-you-the-job-554a)
 - [Dev.to/JS] [AI-Unbeaten algorithm exercise : can MBappe join Real Madrid?](https://dev.to/bdavidxyz/ai-unbeaten-algorithm-exercise-can-mbappe-join-real-madrid-866)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Ultimate Coconut Cake Vape Recipe for Dessert Lovers](https://dev.to/coconutvape/the-ultimate-coconut-cake-vape-recipe-for-dessert-lovers-58f)
 - [Dev.to/JS] [Implementing a &quot;Defer&quot; Class in TypeScript](https://dev.to/shcheglov/implementing-a-defer-class-in-typescript-3ok3)
 - [Dev.to/JS] [Ultimate Guide Line to Mega Personal Create Account 2024](https://dev.to/webdosolutions/ultimate-guide-line-to-mega-personal-create-account-2024-3cb0)
-- [Dev.to/JS] [Demystifying Coding and Programming: A Journey from Novice to Creator](https://dev.to/ameeralam/demystifying-coding-and-programming-a-journey-from-novice-to-creator-3dif)
-- [Dev.to/JS] [Day 12: Advanced React Hooks](https://dev.to/pdhavalm/advanced-react-hooks-3i7l)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
 - [Lifehacker] [These Backbone One Controllers Are 30% Off Right Now](https://lifehacker.com/entertainment/backbone-one-controller-deal)
