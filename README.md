@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Expo AVD &lpar;Android Virtual Device&rpar; on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-avd-android-virtual-device-on-windows-subsystem-for-linux-wsl2-4d8n)
+- [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
+- [Dev.to/JS] [Tornado variáveis globais em react-native com context.](https://dev.to/olucascruz/tornado-variaveis-globais-em-react-native-com-context-oka)
+- [Lifehacker] [The Best Coffee Subscriptions Based on What You Get](https://lifehacker.com/money/best-coffee-subscription-services)
 - [Dev.to/JS] [Error Handling in Node.js Streams: Best Practices](https://dev.to/ruben_alapont/error-handling-in-nodejs-streams-best-practices-dhb)
 - [Dev.to/JS] [Introducing Tab Closer Pro: Close Tabs More Easily](https://dev.to/plsankar/introducing-tab-closer-pro-close-tabs-more-easily-3lml)
+- [Lifehacker] [How to Prepare for Moving Up &lpar;or Down&rpar; a Tax Bracket](https://lifehacker.com/money/how-to-prepare-for-moving-to-new-tax-bracket)
 - [Dev.to/JS] [A &lpar;somewhat&rpar; deep dive into TypeScript constructor intricacies, step-by-step](https://dev.to/boscodomingo/a-somewhat-deep-dive-into-typescript-constructor-intricacies-step-by-step-3fp1)
 - [Dev.to/JS] [Top Vue Datatables in 2024](https://dev.to/nikunjshingalaofficial/top-vue-datatables-in-2024-53k8)
 - [Dev.to/JS] [How to add Monaco to a Next.js app to enable custom user workflows](https://dev.to/andyjiang/how-to-add-monaco-to-a-nextjs-app-to-enable-custom-user-workflows-2ch0)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Meditations: 3Sum](https://dev.to/rivea0/leetcode-meditations-3sum-42g3)
 - [Dev.to/JS] [Verified Cash App Accounts For Sale In 2024](https://dev.to/usaexonacc/verified-cash-app-accounts-for-sale-in-2024-2k9f)
 - [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/tanbalbashi/all-online-tools-in-one-box-3hb)
-- [Dev.to/JS] [Buy Verified Payoneer Accounts - 100% USA, UK Verified](https://dev.to/usaexonacc/buy-verified-payoneer-accounts-100-usa-uk-verified-2k23)
-- [Dev.to/JS] [All Online Tools in “One Box”](https://dev.to/shomalikhashayar/all-online-tools-in-one-box-1nbe)
 - [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
 - [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
 - [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
 - [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
 - [Lifehacker] [You Might Already Be Able to File Your Taxes for Free With the IRS’s New Tool](https://lifehacker.com/money/do-taxes-for-free-irs-direct-file-program)
-- [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)
-- [Lifehacker] [The M1 MacBook Air Is Still the Best Mac For Most People](https://lifehacker.com/tech/m1-macbook-air-is-best-mac)
-- [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
-- [Lifehacker] [How to Delete Your Old iPhone Lock Screen Wallpapers](https://lifehacker.com/tech/how-to-delete-lock-screen-wallpapers-on-iphone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)<!-- TECH-POSTS:END -->
 
 ---
 
