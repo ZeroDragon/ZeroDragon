@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ultimate Guide Line to Mega Personal Create Account 2024](https://dev.to/webdosolutions/ultimate-guide-line-to-mega-personal-create-account-2024-3cb0)
+- [Dev.to/JS] [Demystifying Coding and Programming: A Journey from Novice to Creator](https://dev.to/ameeralam/demystifying-coding-and-programming-a-journey-from-novice-to-creator-3dif)
 - [Dev.to/JS] [Day 12: Advanced React Hooks](https://dev.to/pdhavalm/advanced-react-hooks-3i7l)
 - [Dev.to/JS] [8 Simple Ways To Become Better at JavaScript!](https://dev.to/codeguage/8-simple-ways-to-become-better-at-javascript-3kk2)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 - [Dev.to/JS] [Safeguarding the Future: The Importance of Protecting the JavaScript Language](https://dev.to/professionalw0/safeguarding-the-future-the-importance-of-protecting-the-javascript-language-ia3)
 - [Dev.to/JS] [Como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
-- [Dev.to/JS] [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
-- [Dev.to/JS] [Vue.js tips - How to re-expose slots in wrapping component](https://dev.to/aloisseckar/vuejs-tips-how-to-re-expose-slots-in-wrapping-component-1n1)
 - [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
 - [Lifehacker] [You Might Already Be Able to File Your Taxes for Free With the IRS’s New Tool](https://lifehacker.com/money/do-taxes-for-free-irs-direct-file-program)
 - [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)
