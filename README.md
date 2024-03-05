@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with asynchronous PHP using ReactPHP](https://dev.to/honeybadger/getting-started-with-asynchronous-php-using-reactphp-49b)
+- [Dev.to/JS] [Master JavaScript Easily: A Complete Guide from ES2015 to ES2023](https://dev.to/ellis22/master-javascript-easily-a-complete-guide-from-es2015-to-es2023-18km)
+- [Dev.to/JS] [How to create an animated log in modal with Tailwind CSS and Alpine.js](https://dev.to/mike_andreuzza/how-to-create-an-animated-log-in-modal-with-tailwind-css-and-alpinejs-5c3f)
+- [Dev.to/JS] [The Ultimate Coconut Cake Vape Recipe for Dessert Lovers](https://dev.to/coconutvape/the-ultimate-coconut-cake-vape-recipe-for-dessert-lovers-58f)
+- [Dev.to/JS] [Implementing a &quot;Defer&quot; Class in TypeScript](https://dev.to/shcheglov/implementing-a-defer-class-in-typescript-3ok3)
 - [Dev.to/JS] [Ultimate Guide Line to Mega Personal Create Account 2024](https://dev.to/webdosolutions/ultimate-guide-line-to-mega-personal-create-account-2024-3cb0)
 - [Dev.to/JS] [Demystifying Coding and Programming: A Journey from Novice to Creator](https://dev.to/ameeralam/demystifying-coding-and-programming-a-journey-from-novice-to-creator-3dif)
 - [Dev.to/JS] [Day 12: Advanced React Hooks](https://dev.to/pdhavalm/advanced-react-hooks-3i7l)
@@ -40,12 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Babbel on Sale for $160 Right Now](https://lifehacker.com/babbel-sale)
 - [Dev.to/JS] [Lessons from opensource: Use Object.defineProperty to create an unwritable object’s property.](https://dev.to/ramunarasinga/lessons-from-opensource-use-objectdefineproperty-to-create-an-unwritable-objects-property-1dkk)
 - [Lifehacker] [These Roombas Are Up to 38% Off](https://lifehacker.com/home/these-roombas-are-up-to-38-percent-off)
-- [Dev.to/JS] [Is it just my luck or does the Wi-Fi always drop at the most crucial moments?](https://dev.to/vivek09thakur/is-it-just-my-luck-or-does-the-wi-fi-always-drop-at-the-most-crucial-moments-22h0)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Max in March](https://lifehacker.com/entertainment/best-movies-and-tv-shows-on-max)
-- [Dev.to/JS] [Optimising your OpenSearch Ingestion pipeline using AWS CDK](https://dev.to/aws-builders/optimising-your-opensearch-ingestion-pipeline-using-aws-cdk-20dm)
-- [Dev.to/JS] [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
-- [Dev.to/JS] [Safeguarding the Future: The Importance of Protecting the JavaScript Language](https://dev.to/professionalw0/safeguarding-the-future-the-importance-of-protecting-the-javascript-language-ia3)
-- [Dev.to/JS] [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
 - [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
 - [Lifehacker] [You Might Already Be Able to File Your Taxes for Free With the IRS’s New Tool](https://lifehacker.com/money/do-taxes-for-free-irs-direct-file-program)
