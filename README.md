@@ -27,6 +27,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Advanced Snapshot Testing in Playwright](https://dev.to/mikestopcontinues/advanced-snapshot-testing-in-playwright-3pip)
+- [Lifehacker] [These Backbone One Controllers Are 30% Off Right Now](https://lifehacker.com/entertainment/backbone-one-controller-deal)
+- [Lifehacker] [You Might Be Using the Wrong Rolling Pin](https://lifehacker.com/food-drink/every-type-of-rolling-pin-and-when-to-use-them)
+- [Lifehacker] [Meta Is Deleting Every Oculus Account](https://lifehacker.com/tech/meta-is-deleting-oculus-accounts-soon)
 - [Dev.to/JS] [HIRE A HACKER TO RECOVER LOST / STOLEN CRYPTO - GO TO OMEGA CRYPTO RECOVERY SPECIALIST HACKER](https://dev.to/baywelli200/hire-a-hacker-to-recover-lost-stolen-crypto-go-to-omega-crypto-recovery-specialist-hacker-2amc)
 - [Lifehacker] [You Can Get Babbel on Sale for $160 Right Now](https://lifehacker.com/babbel-sale)
 - [Dev.to/JS] [Lessons from opensource: Use Object.defineProperty to create an unwritable object’s property.](https://dev.to/ramunarasinga/lessons-from-opensource-use-objectdefineproperty-to-create-an-unwritable-objects-property-1dkk)
@@ -36,8 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimising your OpenSearch Ingestion pipeline using AWS CDK](https://dev.to/aws-builders/optimising-your-opensearch-ingestion-pipeline-using-aws-cdk-20dm)
 - [Dev.to/JS] [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 - [Dev.to/JS] [Safeguarding the Future: The Importance of Protecting the JavaScript Language](https://dev.to/professionalw0/safeguarding-the-future-the-importance-of-protecting-the-javascript-language-ia3)
-- [Dev.to/JS] [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
 - [Dev.to/JS] [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
+- [Dev.to/JS] [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
 - [Dev.to/JS] [Vue.js tips - How to re-expose slots in wrapping component](https://dev.to/aloisseckar/vuejs-tips-how-to-re-expose-slots-in-wrapping-component-1n1)
 - [Dev.to/JS] [Conditionally Add CSS Classes in Your Stimulus Controllers](https://dev.to/railsdesigner/conditionally-add-css-classes-in-your-stimulus-controllers-42dg)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
 - [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)
-- [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)
-- [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
-- [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
-- [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)<!-- TECH-POSTS:END -->
 
 ---
 
