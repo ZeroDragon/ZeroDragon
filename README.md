@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Simple Ways To Become Better at JavaScript!](https://dev.to/codeguage/8-simple-ways-to-become-better-at-javascript-3kk2)
+- [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
 - [Dev.to/JS] [Advanced Snapshot Testing in Playwright](https://dev.to/mikestopcontinues/advanced-snapshot-testing-in-playwright-3pip)
 - [Lifehacker] [These Backbone One Controllers Are 30% Off Right Now](https://lifehacker.com/entertainment/backbone-one-controller-deal)
@@ -40,13 +42,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimising your OpenSearch Ingestion pipeline using AWS CDK](https://dev.to/aws-builders/optimising-your-opensearch-ingestion-pipeline-using-aws-cdk-20dm)
 - [Dev.to/JS] [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 - [Dev.to/JS] [Safeguarding the Future: The Importance of Protecting the JavaScript Language](https://dev.to/professionalw0/safeguarding-the-future-the-importance-of-protecting-the-javascript-language-ia3)
-- [Dev.to/JS] [Como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
 - [Dev.to/JS] [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
+- [Dev.to/JS] [Como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
 - [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
 - [Dev.to/JS] [Vue.js tips - How to re-expose slots in wrapping component](https://dev.to/aloisseckar/vuejs-tips-how-to-re-expose-slots-in-wrapping-component-1n1)
 - [Dev.to/JS] [Conditionally Add CSS Classes in Your Stimulus Controllers](https://dev.to/railsdesigner/conditionally-add-css-classes-in-your-stimulus-controllers-42dg)
 - [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
-- [Dev.to/JS] [Quick and easy loading spinner without JavaScript!](https://dev.to/lennyaiko/quick-and-easy-loading-spinner-without-javascript-3l51)
 - [Lifehacker] [You Might Already Be Able to File Your Taxes for Free With the IRS’s New Tool](https://lifehacker.com/money/do-taxes-for-free-irs-direct-file-program)
 - [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)
 - [Lifehacker] [The M1 MacBook Air Is Still the Best Mac For Most People](https://lifehacker.com/tech/m1-macbook-air-is-best-mac)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
-- [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
-- [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)<!-- TECH-POSTS:END -->
 
 ---
 
