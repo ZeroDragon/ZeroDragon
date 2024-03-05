@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master detail is now available in Infinite React DataGrid](https://dev.to/radubrehar/master-detail-is-now-available-in-infinite-react-datagrid-5fe1)
+- [Dev.to/JS] [🎰 Rollino Casino 2024: A New Wave in Online Gaming Down Under 🎰](https://dev.to/lolitaaa21/rollino-casino-2024-a-new-wave-in-online-gaming-down-under-1bl2)
+- [Dev.to/JS] [Create Your Side Project With A Single Command](https://dev.to/gc-victor/create-your-side-project-with-a-single-command-4hn0)
 - [Dev.to/JS] [Reactive Tech from the Future](https://dev.to/ninjin/reactive-technology-from-the-future-1eon)
 - [Dev.to/JS] [baco.cat](https://dev.to/cescofors75/bacocat-4n0o)
 - [Dev.to/JS] [Webhooks 102](https://dev.to/sanjaykhanssk/webhooks-102-3oh7)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IMPORTANCE OF SEMANTIC HTML IN SEARCH ENGINE OPTIMIZATION](https://dev.to/ivyhope/importance-of-semantic-html-in-search-engine-optimization-42ai)
 - [Dev.to/JS] [Angular Addicts #23: Angular 17.2, Nx 18, Signal forms, Analog, WebExpo &amp; more](https://dev.to/this-is-angular/angular-addicts-23-angular-172-nx-18-signal-forms-analog-webexpo-more-bp2)
 - [Dev.to/JS] [The Ultimate Guide to Designing Restaurant Websites: Why WordPress is the Best Choice](https://dev.to/jamesmartindev/the-ultimate-guide-to-designing-restaurant-websites-why-wordpress-is-the-best-choice-3af2)
-- [Dev.to/JS] [3 Actually &quot;Unique&quot; Project Ideas + Execution That Will Get You the Job](https://dev.to/xkrishguptaa/3-actually-unique-project-ideas-execution-that-will-get-you-the-job-554a)
-- [Dev.to/JS] [AI-Unbeaten algorithm exercise : can MBappe join Real Madrid?](https://dev.to/bdavidxyz/ai-unbeaten-algorithm-exercise-can-mbappe-join-real-madrid-866)
-- [Dev.to/JS] [Getting started with asynchronous PHP using ReactPHP](https://dev.to/honeybadger/getting-started-with-asynchronous-php-using-reactphp-49b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
