@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google/Dictator?](https://dev.to/aashutosh/googledictator-4ppb)
+- [Dev.to/JS] [Local Texture Features in Javascript](https://dev.to/codemakeratyourservice/local-texture-features-in-javascript-3e0e)
+- [Dev.to/JS] [🎉 Our web framework reached 9,000 stars on GitHub! ⭐️ 9️⃣0️⃣0️⃣0️⃣ ⭐️](https://dev.to/wasp/our-web-framework-reached-9000-stars-on-github-9000-jij)
 - [Dev.to/JS] [Revolutionizing Front-End Development: An In-Depth Look at React 19&#39;s Compiler](https://dev.to/marcelxv/revolutionizing-front-end-development-an-in-depth-look-at-react-19s-compiler-2980)
+- [Lifehacker] [Here&#39;s How a Home Equity Loan Works](https://lifehacker.com/money/how-a-home-equity-loan-works)
 - [Dev.to/JS] [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
+- [Lifehacker] [How to Raise a Healthy Gamer, According to a Psychiatrist](https://lifehacker.com/family/how-to-raise-a-healthy-gamer-according-to-a-psychiatrist)
 - [Dev.to/JS] [Mastering Async/Await: Simplifying JavaScript&#39;s Async Operations](https://dev.to/mattbug3/mastering-asyncawait-simplifying-javascripts-async-operations-1d02)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
-- [Dev.to/JS] [The trades of and benefits of different web rendering technique](https://dev.to/imm9o/the-trades-of-and-benefits-of-different-web-rendering-technique-3206)
+- [Dev.to/JS] [The trade-offs and benefits of different web rendering technique](https://dev.to/imm9o/the-trades-of-and-benefits-of-different-web-rendering-technique-3206)
 - [Dev.to/JS] [Master detail is now available in Infinite React DataGrid](https://dev.to/radubrehar/master-detail-is-now-available-in-infinite-react-datagrid-5fe1)
 - [Dev.to/JS] [🎰 Rollino Casino 2024: A New Wave in Online Gaming Down Under 🎰](https://dev.to/lolitaaa21/rollino-casino-2024-a-new-wave-in-online-gaming-down-under-1bl2)
 - [Dev.to/JS] [Create Your Side Project With A Single Command](https://dev.to/gc-victor/create-your-side-project-with-a-single-command-4hn0)
 - [Dev.to/JS] [Reactive Tech from the Future](https://dev.to/ninjin/reactive-technology-from-the-future-1eon)
 - [Dev.to/JS] [baco.cat](https://dev.to/cescofors75/bacocat-4n0o)
-- [Dev.to/JS] [Webhooks 102](https://dev.to/sanjaykhanssk/webhooks-102-3oh7)
-- [Dev.to/JS] [ECMAScript vs JavaScript vs TypeScript](https://dev.to/marileon/ecmascript-vs-javascript-vs-typescript-42pi)
-- [Dev.to/JS] [Unlocking the Benefits: A Comprehensive Review of Live Conscious Collagen Peptides](https://dev.to/liveconsciou/unlocking-the-benefits-a-comprehensive-review-of-live-conscious-collagen-peptides-1a9j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Wi-Fi 6 Routers](https://lifehacker.com/tech/the-best-wi-fi-6-routers)
 - [Lifehacker] [What’s the Ideal Temperature for Your Refrigerator?](https://lifehacker.com/what-temperature-should-you-keep-your-refrigerator-set-533534221)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
-- [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)<!-- TECH-POSTS:END -->
 
 ---
 
