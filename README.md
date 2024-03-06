@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a blog with Astro](https://dev.to/miguelo0098/how-to-build-a-blog-with-astro-48d4)
+- [Dev.to/JS] [Removing &quot;✨ Done in X.XXs.&quot; with Yarn](https://dev.to/koseimori/removing-done-in-xxxs-with-yarn-2map)
+- [Dev.to/JS] [Realtime chatting webapp](https://dev.to/puneetkumar2010/realtime-chatting-webapp-4p9b)
+- [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
+- [Dev.to/JS] [Configure PurgeCSS with Parcel](https://dev.to/shivampawar/configure-purgecss-with-parcel-65a)
+- [Dev.to/JS] [Why Vite is the Best? Exploring the Advanced Features of Vite](https://dev.to/hypercode/why-vite-is-the-best-exploring-the-advanced-features-of-vite-10mm)
+- [Dev.to/JS] [Freelancing](https://dev.to/rizvi/freelancing-260p)
+- [Dev.to/JS] [Simplificando IndexedDB](https://dev.to/robertheory/simplificando-indexeddb-hg1)
+- [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
 - [Dev.to/JS] [10 Best Programming Languages to Learn in 2024: Scale Your Web Development Skills](https://dev.to/hashirdev/10-best-programming-languages-to-learn-in-2024-scale-your-web-development-skills-aml)
 - [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)
 - [Dev.to/JS] [Guided Tours Solution for Your Web Application](https://dev.to/rprabhu/guided-tours-solution-for-your-web-application-4cja)
@@ -35,14 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Running GraphQL Queries and Mutations with no direct session access in your Shopify App](https://dev.to/joshatflare/running-graphql-queries-and-mutations-with-no-direct-session-access-in-your-shopify-app-3h96)
 - [Lifehacker] [The Best Free Steam Games You Can Play Right Now](https://lifehacker.com/entertainment/best-free-steam-games)
 - [Lifehacker] [How to Get a Free Trial of Nintendo Switch Online](https://lifehacker.com/entertainment/nintendo-switch-online-free-trial)
-- [Dev.to/JS] [JavaScript - Difference between map&lpar;&rpar; and forEach&lpar;&rpar;](https://dev.to/theobourdel/javascript-difference-between-map-and-foreach-2gcf)
-- [Dev.to/JS] [Tailwind | Custom Plugins](https://dev.to/shubhamtiwari909/tailwind-custom-plugins-1159)
-- [Dev.to/JS] [How to Get the First Element of a Set in JavaScript](https://dev.to/askyt/how-to-get-the-first-element-of-a-set-in-javascript-3hec)
-- [Dev.to/JS] [Birinchi Dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-4666)
 - [Lifehacker] [Make This Perverted TikTok Ramen Carbonara Even Better](https://lifehacker.com/food-drink/best-ramen-carbonara-recipe)
-- [Dev.to/JS] [IPv4 Subnetting](https://dev.to/teobourloglou/ipv4-subnetting-oam)
-- [Dev.to/JS] [Bun-ify Your Project](https://dev.to/beau-to/bun-ify-your-project-544i)
-- [Dev.to/JS] [What is async / await in JavaScript?](https://dev.to/benajaero/what-is-async-await-in-javascript-596c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 6, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
 - [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)
 - [Lifehacker] [21 of the World&#39;s Most Banned Movies](https://lifehacker.com/most-banned-movies-in-the-world)
-- [Lifehacker] [Reddit Wants to Be a Meme Stock, Too](https://lifehacker.com/money/reddit-wants-to-be-a-meme-stock-too)
-- [Lifehacker] [What People Are Getting Wrong This Week: ‘Disease X’ Conspiracies](https://lifehacker.com/health/disease-x-conspiracy-theories)
-- [Lifehacker] [The Best Smart Locks to Secure Your Smart Home](https://lifehacker.com/home/best-smart-locks-for-a-secure-smart-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Reddit Wants to Be a Meme Stock, Too](https://lifehacker.com/money/reddit-wants-to-be-a-meme-stock-too)<!-- TECH-POSTS:END -->
 
 ---
 
