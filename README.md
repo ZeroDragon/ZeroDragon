@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/justinhendersonn826/buy-negative-google-reviews-ldd)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/justinhendersonn826/buy-google-voice-accounts-5fcc)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/justinhendersonn826/buy-google-5-star-reviews-2ljg)
 - [Dev.to/JS] [Next.js: The Future Of React?](https://dev.to/arjuncodess/nextjs-the-future-of-react-2cmc)
 - [Dev.to/JS] [Building a flat-file CMS with Angular](https://dev.to/peterrauscher/building-a-flat-file-cms-with-angular-5f57)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
@@ -42,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)
 - [Dev.to/JS] [Concurrency in Node.js &lpar;Child Processes vs Worker Threads&rpar;](https://dev.to/cechiorlu/concurrency-in-nodejs-child-processes-vs-worker-threads-1ffm)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: the Disastrous Willy Wonka &#39;Chocolate Experience&#39;](https://lifehacker.com/entertainment/the-disastrous-willy-wonka-chocolate-experience)
-- [Dev.to/JS] [Lessons from opensource: Weakmap in Javascript](https://dev.to/ramunarasinga/lessons-from-opensource-weakmap-in-javascript-6g1)
-- [Dev.to/JS] [Chrome Extensions](https://dev.to/bealecs/chrome-extensions-1kmh)
 - [Lifehacker] [Why You Shouldn’t Buy or Rent for the Building Amenities](https://lifehacker.com/money/are-the-amenities-in-apartment-or-condo-worth-it)
-- [Dev.to/JS] [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
 - [Lifehacker] [Google Tasks Now Has a Kanban View](https://lifehacker.com/tech/google-tasks-now-has-a-kanban-view)
 - [Lifehacker] [This New Rule Will Cap Credit Card Late Fees at $8](https://lifehacker.com/money/new-cfpb-rule-caps-banks-credit-card-late-fees)
 - [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
