@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
 - [Dev.to/JS] [Announcing TechSchool: A free and open-source platform to learn programming](https://dev.to/danielbergholz/announcing-techschool-a-free-and-open-source-platform-to-learn-programming-47fk)
 - [Dev.to/JS] [A Real-World Take on Simplifying Job Queues for Developers](https://dev.to/karolyidav/a-real-world-take-on-simplifying-job-queues-for-developers-33ea)
+- [Lifehacker] [Netflix Is Bringing ‘Hades’ to iOS](https://lifehacker.com/entertainment/netflix-is-bringing-hades-to-ios)
 - [Dev.to/JS] [Implementing Semantic Search with Storyblok and Orama](https://dev.to/robertobutti/implementing-semantic-search-with-storyblok-and-orama-3p9c)
 - [Dev.to/JS] [Pulse Propagation](https://dev.to/rmion/pulse-propagation-he1)
 - [Dev.to/JS] [789Club Mobi](https://dev.to/789clubsmobi/789clubmobi-3b2f)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
 - [Dev.to/JS] [Setup Production Ready Next.js App - Part 2](https://dev.to/jobyjoseph/setup-production-ready-nextjs-app-part-2-3e71)
 - [Lifehacker] [Google Tasks Now Has a Kanban View](https://lifehacker.com/tech/google-tasks-now-has-a-kanban-view)
-- [Dev.to/JS] [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
 - [Lifehacker] [This New Rule Will Cap Credit Card Late Fees at $8](https://lifehacker.com/money/new-cfpb-rule-caps-banks-credit-card-late-fees)
 - [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
 - [Lifehacker] [The Best Coffee Subscriptions Based on What You Get](https://lifehacker.com/money/best-coffee-subscription-services)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Backbone One Controllers Are 30% Off Right Now](https://lifehacker.com/entertainment/backbone-one-controller-deal)
 - [Lifehacker] [You Might Be Using the Wrong Rolling Pin](https://lifehacker.com/food-drink/every-type-of-rolling-pin-and-when-to-use-them)
 - [Lifehacker] [Meta Is Deleting Every Oculus Account](https://lifehacker.com/tech/meta-is-deleting-oculus-accounts-soon)
-- [Lifehacker] [You Can Get Babbel on Sale for $160 Right Now](https://lifehacker.com/babbel-sale)
-- [Lifehacker] [These Roombas Are Up to 38% Off](https://lifehacker.com/home/these-roombas-are-up-to-38-percent-off)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Babbel on Sale for $160 Right Now](https://lifehacker.com/babbel-sale)<!-- TECH-POSTS:END -->
 
 ---
 
