@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Resolve UPI Getaway In Intent View Error On Js Code](https://dev.to/kolkata_fatafat_tips/how-to-resolve-upi-getaway-in-intent-view-error-on-js-code-2nkn)
+- [Dev.to/JS] [A free and open-source platform to learn programming.](https://dev.to/byteom/a-free-and-open-source-platform-to-learn-programming-3onk)
 - [Dev.to/JS] [Step Counter](https://dev.to/rmion/step-counter-4ff8)
 - [Dev.to/JS] [The 5 Must-Know Backend Frameworks in 2024](https://dev.to/sufian/the-5-must-know-backend-frameworks-in-2024-3olg)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/williamcrickk60/buy-verified-paxful-account-2d81)
 - [Dev.to/JS] [Simple &amp; Elegant State-Management with Zustand](https://dev.to/nikneym/simple-elegant-state-management-with-zustand-1lf4)
+- [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
 - [Dev.to/JS] [Server Sent Events&lpar;SSE&rpar;](https://dev.to/subhamdash45/server-sent-eventssse-6i0)
+- [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
 - [Dev.to/JS] [How to build a blog with Astro](https://dev.to/miguelo0098/how-to-build-a-blog-with-astro-48d4)
 - [Dev.to/JS] [Removing &quot;✨ Done in X.XXs.&quot; with Yarn](https://dev.to/koseimori/removing-done-in-xxxs-with-yarn-2map)
 - [Dev.to/JS] [Realtime chatting webapp](https://dev.to/puneetkumar2010/realtime-chatting-webapp-4p9b)
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
 - [Dev.to/JS] [Configure PurgeCSS with Parcel](https://dev.to/shivampawar/configure-purgecss-with-parcel-65a)
 - [Dev.to/JS] [Why Vite is the Best? Exploring the Advanced Features of Vite](https://dev.to/hypercode/why-vite-is-the-best-exploring-the-advanced-features-of-vite-10mm)
-- [Dev.to/JS] [Freelancing](https://dev.to/rizvi/freelancing-260p)
-- [Dev.to/JS] [Simplificando IndexedDB](https://dev.to/robertheory/simplificando-indexeddb-hg1)
 - [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
 - [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)
 - [Lifehacker] [What to Start Seeding and Planting in March](https://lifehacker.com/home/what-to-seed-in-march)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-sharpen-kitchen-knives)
 - [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
 - [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
-- [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)
-- [Lifehacker] [21 of the World&#39;s Most Banned Movies](https://lifehacker.com/most-banned-movies-in-the-world)
-- [Lifehacker] [Reddit Wants to Be a Meme Stock, Too](https://lifehacker.com/money/reddit-wants-to-be-a-meme-stock-too)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)<!-- TECH-POSTS:END -->
 
 ---
 
