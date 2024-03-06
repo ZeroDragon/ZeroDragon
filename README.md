@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing a WASM module in Rust](https://dev.to/shuttle_dev/writing-a-wasm-module-in-rust-3jcf)
+- [Dev.to/JS] [Creating Interactive Data Visualizations with D3.js](https://dev.to/webjoe/creating-interactive-data-visualizations-with-d3js-2i08)
+- [Dev.to/JS] [Next.js Amplified: Full-Stack Web Apps on AWS Amplify Gen2](https://dev.to/codingcatdev/nextjs-amplified-full-stack-web-apps-on-aws-amplify-gen2-191f)
 - [Dev.to/JS] [Learnt Next.JS in 1 week!! and here is GenAI Chat](https://dev.to/abhisheksinha/learnt-nextjs-in-1-week-and-here-is-genai-chat-3gle)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Dev.to/JS] [The Benefits of JavaScript Document Viewers in Your Web Apps](https://dev.to/mescius/the-benefits-of-javascript-document-viewers-in-your-web-apps-2h3c)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I keep an eye on the Vue ecosystem and you should too](https://dev.to/fischi20/why-i-keep-an-eye-on-the-vue-ecosystem-and-you-should-too-4nhk)
 - [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
 - [Dev.to/JS] [How To Resolve UPI Getaway In Intent View Error On Js Code Kolkata Fatafat](https://dev.to/kolkata_fatafat_tips/how-to-resolve-upi-getaway-in-intent-view-error-on-js-code-2nkn)
-- [Dev.to/JS] [A free and open-source platform to learn programming.](https://dev.to/byteom/a-free-and-open-source-platform-to-learn-programming-3onk)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)
-- [Dev.to/JS] [Step Counter](https://dev.to/rmion/step-counter-4ff8)
-- [Dev.to/JS] [The 5 Must-Know Backend Frameworks in 2024](https://dev.to/sufian/the-5-must-know-backend-frameworks-in-2024-3olg)
 - [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
