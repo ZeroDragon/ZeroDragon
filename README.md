@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Step Counter](https://dev.to/rmion/step-counter-4ff8)
+- [Dev.to/JS] [The 5 Must-Know Backend Frameworks in 2024](https://dev.to/sufian/the-5-must-know-backend-frameworks-in-2024-3olg)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/williamcrickk60/buy-verified-paxful-account-2d81)
+- [Dev.to/JS] [Simple &amp; Elegant State-Management with Zustand](https://dev.to/nikneym/simple-elegant-state-management-with-zustand-1lf4)
+- [Dev.to/JS] [Server Sent Events&lpar;SSE&rpar;](https://dev.to/subhamdash45/server-sent-eventssse-6i0)
 - [Dev.to/JS] [How to build a blog with Astro](https://dev.to/miguelo0098/how-to-build-a-blog-with-astro-48d4)
 - [Dev.to/JS] [Removing &quot;✨ Done in X.XXs.&quot; with Yarn](https://dev.to/koseimori/removing-done-in-xxxs-with-yarn-2map)
 - [Dev.to/JS] [Realtime chatting webapp](https://dev.to/puneetkumar2010/realtime-chatting-webapp-4p9b)
@@ -35,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Freelancing](https://dev.to/rizvi/freelancing-260p)
 - [Dev.to/JS] [Simplificando IndexedDB](https://dev.to/robertheory/simplificando-indexeddb-hg1)
 - [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
-- [Dev.to/JS] [10 Best Programming Languages to Learn in 2024: Scale Your Web Development Skills](https://dev.to/hashirdev/10-best-programming-languages-to-learn-in-2024-scale-your-web-development-skills-aml)
 - [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)
-- [Dev.to/JS] [Guided Tours Solution for Your Web Application](https://dev.to/rprabhu/guided-tours-solution-for-your-web-application-4cja)
 - [Lifehacker] [What to Start Seeding and Planting in March](https://lifehacker.com/home/what-to-seed-in-march)
-- [Dev.to/JS] [The most anticipated JS conference in 2024, for you](https://dev.to/daelmaak/the-most-anticipated-js-conference-in-2024-for-you-llm)
-- [Dev.to/JS] [Enatega: Simplifying Food Ordering for Everyone](https://dev.to/alvinal9/enatega-simplifying-food-ordering-for-everyone-165i)
-- [Dev.to/JS] [Running GraphQL Queries and Mutations with no direct session access in your Shopify App](https://dev.to/joshatflare/running-graphql-queries-and-mutations-with-no-direct-session-access-in-your-shopify-app-3h96)
 - [Lifehacker] [The Best Free Steam Games You Can Play Right Now](https://lifehacker.com/entertainment/best-free-steam-games)
 - [Lifehacker] [How to Get a Free Trial of Nintendo Switch Online](https://lifehacker.com/entertainment/nintendo-switch-online-free-trial)
 - [Lifehacker] [Make This Perverted TikTok Ramen Carbonara Even Better](https://lifehacker.com/food-drink/best-ramen-carbonara-recipe)
