@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generate text-to-image right in your Frontend.](https://dev.to/maximgatilin/generate-images-from-text-right-from-frontend-30aj)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/justinhendersonn826/buy-negative-google-reviews-ldd)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/justinhendersonn826/buy-google-voice-accounts-5fcc)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/justinhendersonn826/buy-google-5-star-reviews-2ljg)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pulse Propagation](https://dev.to/rmion/pulse-propagation-he1)
 - [Dev.to/JS] [789Club Mobi](https://dev.to/789clubsmobi/789clubmobi-3b2f)
 - [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)
-- [Dev.to/JS] [Concurrency in Node.js &lpar;Child Processes vs Worker Threads&rpar;](https://dev.to/cechiorlu/concurrency-in-nodejs-child-processes-vs-worker-threads-1ffm)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: the Disastrous Willy Wonka &#39;Chocolate Experience&#39;](https://lifehacker.com/entertainment/the-disastrous-willy-wonka-chocolate-experience)
 - [Lifehacker] [Why You Shouldn’t Buy or Rent for the Building Amenities](https://lifehacker.com/money/are-the-amenities-in-apartment-or-condo-worth-it)
 - [Lifehacker] [Google Tasks Now Has a Kanban View](https://lifehacker.com/tech/google-tasks-now-has-a-kanban-view)
