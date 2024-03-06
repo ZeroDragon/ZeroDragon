@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Benefits of JavaScript Document Viewers in Your Web Apps](https://dev.to/mescius/the-benefits-of-javascript-document-viewers-in-your-web-apps-2h3c)
+- [Dev.to/JS] [How to begin web development.!](https://dev.to/nabu_naush/how-to-begin-web-development-1bec)
 - [Dev.to/JS] [Développer une application iOS sur Windows, c&#39;est possible !](https://dev.to/brietgame/developper-une-application-ios-sur-windows-cest-possible--494o)
 - [Dev.to/JS] [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
 - [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Step Counter](https://dev.to/rmion/step-counter-4ff8)
 - [Dev.to/JS] [The 5 Must-Know Backend Frameworks in 2024](https://dev.to/sufian/the-5-must-know-backend-frameworks-in-2024-3olg)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/williamcrickk60/buy-verified-paxful-account-2d81)
-- [Dev.to/JS] [Simple &amp; Elegant State-Management with Zustand](https://dev.to/nikneym/simple-elegant-state-management-with-zustand-1lf4)
 - [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
-- [Dev.to/JS] [Server Sent Events&lpar;SSE&rpar;](https://dev.to/subhamdash45/server-sent-eventssse-6i0)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
 - [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
