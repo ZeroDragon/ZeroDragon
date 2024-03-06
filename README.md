@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learnt Next.JS in 1 week!! and here is GenAI Chat](https://dev.to/abhisheksinha/learnt-nextjs-in-1-week-and-here-is-genai-chat-3gle)
+- [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Dev.to/JS] [The Benefits of JavaScript Document Viewers in Your Web Apps](https://dev.to/mescius/the-benefits-of-javascript-document-viewers-in-your-web-apps-2h3c)
+- [Lifehacker] [Fry Your Eggs in Barbecue Sauce for a Feisty Start to Your Day](https://lifehacker.com/food-drink/fried-eggs-in-barbecue-sauce-recipe)
 - [Dev.to/JS] [How to begin web development.!](https://dev.to/nabu_naush/how-to-begin-web-development-1bec)
+- [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/best-so-bad-theyre-good-movies-ever)
 - [Dev.to/JS] [Développer une application iOS sur Windows, c&#39;est possible !](https://dev.to/brietgame/developper-une-application-ios-sur-windows-cest-possible--494o)
 - [Dev.to/JS] [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
 - [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)
 - [Dev.to/JS] [Step Counter](https://dev.to/rmion/step-counter-4ff8)
 - [Dev.to/JS] [The 5 Must-Know Backend Frameworks in 2024](https://dev.to/sufian/the-5-must-know-backend-frameworks-in-2024-3olg)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/williamcrickk60/buy-verified-paxful-account-2d81)
 - [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Buy or Rent for the Building Amenities](https://lifehacker.com/money/are-the-amenities-in-apartment-or-condo-worth-it)
 - [Lifehacker] [Google Tasks Now Has a Kanban View](https://lifehacker.com/tech/google-tasks-now-has-a-kanban-view)
 - [Lifehacker] [This New Rule Will Cap Credit Card Late Fees at $8](https://lifehacker.com/money/new-cfpb-rule-caps-banks-credit-card-late-fees)
-- [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
-- [Lifehacker] [The Best Coffee Subscriptions Based on What You Get](https://lifehacker.com/money/best-coffee-subscription-services)
-- [Lifehacker] [How to Prepare for Moving Up &lpar;or Down&rpar; a Tax Bracket](https://lifehacker.com/money/how-to-prepare-for-moving-to-new-tax-bracket)
-- [Lifehacker] [How to Play Strands, the New York Times’ New Word Search Game](https://lifehacker.com/entertainment/how-to-play-strands-the-nyts-new-word-search-game-with-built-in-hints)<!-- TECH-POSTS:END -->
+- [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)<!-- TECH-POSTS:END -->
 
 ---
 
