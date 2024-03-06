@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running GraphQL Queries and Mutations with no direct session access in your Shopify App](https://dev.to/joshatflare/running-graphql-queries-and-mutations-with-no-direct-session-access-in-your-shopify-app-3h96)
+- [Dev.to/JS] [Tailwind | Custom Plugins](https://dev.to/shubhamtiwari909/tailwind-custom-plugins-1159)
+- [Dev.to/JS] [Birinchi Dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-4666)
+- [Lifehacker] [Make This Perverted TikTok Ramen Carbonara Even Better](https://lifehacker.com/food-drink/best-ramen-carbonara-recipe)
 - [Dev.to/JS] [IPv4 Subnetting](https://dev.to/teobourloglou/ipv4-subnetting-oam)
 - [Dev.to/JS] [Bun-ify Your Project](https://dev.to/beau-to/bun-ify-your-project-544i)
 - [Dev.to/JS] [What is async / await in JavaScript?](https://dev.to/benajaero/what-is-async-await-in-javascript-596c)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Electron.js and Why You Should Use it?](https://dev.to/shariqahmed525/what-is-electronjs-and-why-you-should-use-it-167j)
 - [Dev.to/JS] [How do you Refactor a 2,700-Line React Component?](https://dev.to/mohammadfaisal/how-do-you-refactor-a-2700-line-react-component-1c14)
 - [Dev.to/JS] [Auto-Deploy React Apps With Render](https://dev.to/martinsonuoha/auto-deploy-react-apps-with-render-2plj)
-- [Dev.to/JS] [How I create my first Chrome extension with Github Copilot](https://dev.to/1337namnori/how-i-wrote-my-first-chrome-extension-with-github-copilot-bc7)
-- [Dev.to/JS] [Node.js and Docker: Containerizing Your Node.js Applications](https://dev.to/nitin-rachabathuni/nodejs-and-docker-containerizing-your-nodejs-applications-4l4c)
-- [Dev.to/JS] [A Beginner-Friendly Illustrated Guide to Verifiable Credentials](https://dev.to/tbdevs/the-illustrated-beginners-guide-to-cryptographic-identity-verification-51f0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 6, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How a Home Equity Loan Works](https://lifehacker.com/money/how-a-home-equity-loan-works)
 - [Lifehacker] [How to Raise a Healthy Gamer, According to a Psychiatrist](https://lifehacker.com/family/how-to-raise-a-healthy-gamer-according-to-a-psychiatrist)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
-- [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
-- [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)<!-- TECH-POSTS:END -->
 
 ---
 
