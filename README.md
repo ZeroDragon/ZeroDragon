@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
 - [Dev.to/JS] [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
 - [Lifehacker] [The Pixel 7 Just Got &#39;Circle to Search&#39;](https://lifehacker.com/tech/march-pixel-feature-drop-brings-circle-to-search-to-pixel-7)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
-- [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)
-- [Lifehacker] [These Backbone One Controllers Are 30% Off Right Now](https://lifehacker.com/entertainment/backbone-one-controller-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)<!-- TECH-POSTS:END -->
 
 ---
 
