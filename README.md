@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Birinchi mavzu if va else](https://dev.to/zafar7709/birinchi-mavzu-if-va-else-398k)
+- [Dev.to/JS] [IPv4 Subnetting](https://dev.to/teobourloglou/ipv4-subnetting-oam)
+- [Dev.to/JS] [Bun-ify Your Project](https://dev.to/beau-to/bun-ify-your-project-544i)
+- [Dev.to/JS] [What is async / await in JavaScript?](https://dev.to/benajaero/what-is-async-await-in-javascript-596c)
+- [Dev.to/JS] [What is the difference between React and React Native ?](https://dev.to/swhabitation/what-is-the-difference-between-react-and-react-native--45b3)
 - [Dev.to/JS] [Desvendando a lógica de programação](https://dev.to/izaaccomze/desvendando-a-logica-de-programacao-1ig2)
 - [Dev.to/JS] [GripTechno](https://dev.to/griptechno/griptechno-fol)
 - [Dev.to/JS] [What is Electron.js and Why You Should Use it?](https://dev.to/shariqahmed525/what-is-electronjs-and-why-you-should-use-it-167j)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I create my first Chrome extension with Github Copilot](https://dev.to/1337namnori/how-i-wrote-my-first-chrome-extension-with-github-copilot-bc7)
 - [Dev.to/JS] [Node.js and Docker: Containerizing Your Node.js Applications](https://dev.to/nitin-rachabathuni/nodejs-and-docker-containerizing-your-nodejs-applications-4l4c)
 - [Dev.to/JS] [A Beginner-Friendly Illustrated Guide to Verifiable Credentials](https://dev.to/tbdevs/the-illustrated-beginners-guide-to-cryptographic-identity-verification-51f0)
-- [Dev.to/JS] [Building APIs with Node.js and gRPC](https://dev.to/honeybadger/building-apis-with-nodejs-and-grpc-24kn)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 6, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [What sets GB WhatsApp apart from the standard WhatsApp application?](https://dev.to/goreeann/what-sets-gb-whatsapp-apart-from-the-standard-whatsapp-application-486h)
-- [Dev.to/JS] [Why you should NOT use Jest w/ Solid](https://dev.to/daelmaak/why-you-should-not-use-jest-w-solid-3i00)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
 - [Lifehacker] [The Pixel 7 Just Got &#39;Circle to Search&#39;](https://lifehacker.com/tech/march-pixel-feature-drop-brings-circle-to-search-to-pixel-7)
