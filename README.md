@@ -26,8 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How To Resolve UPI Getaway In Intent View Error On Js Code](https://dev.to/kolkata_fatafat_tips/how-to-resolve-upi-getaway-in-intent-view-error-on-js-code-2nkn)
+- [Dev.to/JS] [Développer une application iOS sur Windows, c&#39;est possible !](https://dev.to/brietgame/developper-une-application-ios-sur-windows-cest-possible--494o)
+- [Dev.to/JS] [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
+- [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
+- [Dev.to/JS] [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
+- [Dev.to/JS] [Accident Lawyers In Renaissance, Arizona](https://dev.to/vobep/accident-lawyers-in-renaissance-arizona-10c2)
+- [Dev.to/JS] [Why I keep an eye on the Vue ecosystem and you should too](https://dev.to/fischi20/why-i-keep-an-eye-on-the-vue-ecosystem-and-you-should-too-4nhk)
+- [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
+- [Dev.to/JS] [How To Resolve UPI Getaway In Intent View Error On Js Code Kolkata Fatafat](https://dev.to/kolkata_fatafat_tips/how-to-resolve-upi-getaway-in-intent-view-error-on-js-code-2nkn)
 - [Dev.to/JS] [A free and open-source platform to learn programming.](https://dev.to/byteom/a-free-and-open-source-platform-to-learn-programming-3onk)
+- [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
+- [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)
 - [Dev.to/JS] [Step Counter](https://dev.to/rmion/step-counter-4ff8)
 - [Dev.to/JS] [The 5 Must-Know Backend Frameworks in 2024](https://dev.to/sufian/the-5-must-know-backend-frameworks-in-2024-3olg)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/williamcrickk60/buy-verified-paxful-account-2d81)
@@ -35,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
 - [Dev.to/JS] [Server Sent Events&lpar;SSE&rpar;](https://dev.to/subhamdash45/server-sent-eventssse-6i0)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
-- [Dev.to/JS] [How to build a blog with Astro](https://dev.to/miguelo0098/how-to-build-a-blog-with-astro-48d4)
-- [Dev.to/JS] [Removing &quot;✨ Done in X.XXs.&quot; with Yarn](https://dev.to/koseimori/removing-done-in-xxxs-with-yarn-2map)
-- [Dev.to/JS] [Realtime chatting webapp](https://dev.to/puneetkumar2010/realtime-chatting-webapp-4p9b)
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
-- [Dev.to/JS] [Configure PurgeCSS with Parcel](https://dev.to/shivampawar/configure-purgecss-with-parcel-65a)
-- [Dev.to/JS] [Why Vite is the Best? Exploring the Advanced Features of Vite](https://dev.to/hypercode/why-vite-is-the-best-exploring-the-advanced-features-of-vite-10mm)
 - [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
 - [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)
 - [Lifehacker] [What to Start Seeding and Planting in March](https://lifehacker.com/home/what-to-seed-in-march)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
 - [Lifehacker] [The Best Coffee Subscriptions Based on What You Get](https://lifehacker.com/money/best-coffee-subscription-services)
 - [Lifehacker] [How to Prepare for Moving Up &lpar;or Down&rpar; a Tax Bracket](https://lifehacker.com/money/how-to-prepare-for-moving-to-new-tax-bracket)
-- [Lifehacker] [How to Play Strands, the New York Times’ New Word Search Game](https://lifehacker.com/entertainment/how-to-play-strands-the-nyts-new-word-search-game-with-built-in-hints)
-- [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-sharpen-kitchen-knives)
-- [Lifehacker] [How to Choose Between NordVPN vs ExpressVPN](https://lifehacker.com/tech/nordvpn-vs-expressvpn)
-- [Lifehacker] [The Corsair Scuf Instinct Pro Xbox Controller Is $60 Off Right Now](https://lifehacker.com/entertainment/corsair-scuf-instinct-pro-xbox-controller-sale)
-- [Lifehacker] [Facebook, Instagram, and Threads Are All Down](https://lifehacker.com/tech/meta-is-down)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Play Strands, the New York Times’ New Word Search Game](https://lifehacker.com/entertainment/how-to-play-strands-the-nyts-new-word-search-game-with-built-in-hints)<!-- TECH-POSTS:END -->
 
 ---
 
