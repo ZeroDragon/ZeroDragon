@@ -26,22 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do you Refactor a 2,700-Line React Component?](https://dev.to/mohammadfaisal/how-do-you-refactor-a-2700-line-react-component-1c14)
+- [Dev.to/JS] [JavaScript - Difference between map&lpar;&rpar; and forEach&lpar;&rpar;](https://dev.to/theobourdel/javascript-difference-between-map-and-foreach-2gm7)
+- [Dev.to/JS] [Auto-Deploy React Apps With Render](https://dev.to/martinsonuoha/auto-deploy-react-apps-with-render-2plj)
+- [Dev.to/JS] [How I wrote my first Chrome extension with Github Copilot](https://dev.to/1337namnori/how-i-wrote-my-first-chrome-extension-with-github-copilot-bc7)
+- [Dev.to/JS] [Node.js and Docker: Containerizing Your Node.js Applications](https://dev.to/nitin-rachabathuni/nodejs-and-docker-containerizing-your-nodejs-applications-4l4c)
 - [Dev.to/JS] [A Beginner-Friendly Illustrated Guide to Verifiable Credentials](https://dev.to/tbdevs/the-illustrated-beginners-guide-to-cryptographic-identity-verification-51f0)
 - [Dev.to/JS] [Building APIs with Node.js and gRPC](https://dev.to/honeybadger/building-apis-with-nodejs-and-grpc-24kn)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 6, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [What sets GB WhatsApp apart from the standard WhatsApp application?](https://dev.to/goreeann/what-sets-gb-whatsapp-apart-from-the-standard-whatsapp-application-486h)
 - [Dev.to/JS] [Generate text-to-image right in your Frontend.](https://dev.to/maximgatilin/generate-images-from-text-right-from-frontend-30aj)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/justinhendersonn826/buy-negative-google-reviews-ldd)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/justinhendersonn826/buy-google-voice-accounts-5fcc)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/justinhendersonn826/buy-google-5-star-reviews-2ljg)
-- [Dev.to/JS] [Next.js: The Future Of React?](https://dev.to/arjuncodess/nextjs-the-future-of-react-2cmc)
-- [Dev.to/JS] [Building a flat-file CMS with Angular](https://dev.to/peterrauscher/building-a-flat-file-cms-with-angular-5f57)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
-- [Dev.to/JS] [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
 - [Lifehacker] [The Pixel 7 Just Got &#39;Circle to Search&#39;](https://lifehacker.com/tech/march-pixel-feature-drop-brings-circle-to-search-to-pixel-7)
 - [Lifehacker] [These Samsung Sound Systems Are up to 62% Off](https://lifehacker.com/tech/samsung-soundbar-speaker-system-sale)
-- [Dev.to/JS] [Announcing TechSchool: A free and open-source platform to learn programming](https://dev.to/danielbergholz/announcing-techschool-a-free-and-open-source-platform-to-learn-programming-47fk)
-- [Dev.to/JS] [A Real-World Take on Simplifying Job Queues for Developers](https://dev.to/karolyidav/a-real-world-take-on-simplifying-job-queues-for-developers-33ea)
 - [Lifehacker] [Netflix Is Bringing ‘Hades’ to iOS](https://lifehacker.com/entertainment/netflix-is-bringing-hades-to-ios)
 - [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: the Disastrous Willy Wonka &#39;Chocolate Experience&#39;](https://lifehacker.com/entertainment/the-disastrous-willy-wonka-chocolate-experience)
@@ -63,7 +64,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How a Home Equity Loan Works](https://lifehacker.com/money/how-a-home-equity-loan-works)
 - [Lifehacker] [How to Raise a Healthy Gamer, According to a Psychiatrist](https://lifehacker.com/family/how-to-raise-a-healthy-gamer-according-to-a-psychiatrist)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $80 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 5, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get a Discontinued Google Nest Wifi for 72% Off Right Now](https://lifehacker.com/tech/the-google-nest-wifi-is-72-off-right-now-on-amazon)
 - [Lifehacker] [How to Delete Your Reddit Account](https://lifehacker.com/tech/how-to-delete-your-reddit-account)<!-- TECH-POSTS:END -->
 
