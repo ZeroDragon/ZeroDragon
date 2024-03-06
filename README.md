@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building APIs with Node.js and gRPC](https://dev.to/honeybadger/building-apis-with-nodejs-and-grpc-24kn)
+- [Dev.to/JS] [What sets GB WhatsApp apart from the standard WhatsApp application?](https://dev.to/goreeann/what-sets-gb-whatsapp-apart-from-the-standard-whatsapp-application-486h)
 - [Dev.to/JS] [Generate text-to-image right in your Frontend.](https://dev.to/maximgatilin/generate-images-from-text-right-from-frontend-30aj)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/justinhendersonn826/buy-negative-google-reviews-ldd)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/justinhendersonn826/buy-google-voice-accounts-5fcc)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Real-World Take on Simplifying Job Queues for Developers](https://dev.to/karolyidav/a-real-world-take-on-simplifying-job-queues-for-developers-33ea)
 - [Lifehacker] [Netflix Is Bringing ‘Hades’ to iOS](https://lifehacker.com/entertainment/netflix-is-bringing-hades-to-ios)
 - [Dev.to/JS] [Implementing Semantic Search with Storyblok and Orama](https://dev.to/robertobutti/implementing-semantic-search-with-storyblok-and-orama-3p9c)
-- [Dev.to/JS] [Pulse Propagation](https://dev.to/rmion/pulse-propagation-he1)
-- [Dev.to/JS] [789Club Mobi](https://dev.to/789clubsmobi/789clubmobi-3b2f)
 - [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: the Disastrous Willy Wonka &#39;Chocolate Experience&#39;](https://lifehacker.com/entertainment/the-disastrous-willy-wonka-chocolate-experience)
 - [Lifehacker] [Why You Shouldn’t Buy or Rent for the Building Amenities](https://lifehacker.com/money/are-the-amenities-in-apartment-or-condo-worth-it)
