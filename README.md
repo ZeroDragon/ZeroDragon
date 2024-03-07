@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how-to-scrape-tripadvisor](https://dev.to/crawlbase/how-to-scrape-tripadvisor-5d0l)
+- [Dev.to/JS] [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
+- [Dev.to/JS] [Sync Vs Defer in JavaScript](https://dev.to/gabby1234/sync-vs-defer-in-javascript-16n6)
+- [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)
 - [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 13 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3m94)
-- [Dev.to/JS] [How To Buy Verified Cash App Accounts 2024](https://dev.to/vickigascony/how-to-buy-verified-cash-app-accounts-2024-32i6)
 - [Dev.to/JS] [how-to-scrape-google-news](https://dev.to/crawlbase/how-to-scrape-google-news-mpi)
 - [Dev.to/JS] [Unlocking the Power of Mongoose Schemas: Enhancements for Better Data Handling](https://dev.to/justinjdaniel/unlocking-the-power-of-mongoose-schemas-enhancements-for-better-data-handling-l1g)
 - [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modern Date Time Libraries for JavaScript and TypeScript](https://dev.to/rudolfolah/modern-date-time-libraries-for-javascript-and-typescript-o4l)
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
 - [Dev.to/JS] [Quick Tip: Breaking Vue&#39;s Reactivity](https://dev.to/ninjasoards/quick-tip-breaking-vues-reactivity-7i4)
-- [Dev.to/JS] [How to Add a React Map Component to Your Web Application](https://dev.to/mescius/how-to-add-a-react-map-component-to-your-web-application-4n0h)
-- [Dev.to/JS] [The future of the web: navigating HTMX, vanilla JS, and React](https://dev.to/jaydevm/the-future-of-the-web-navigating-htmx-vanilla-js-and-react-29i7)
 - [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
 - [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
 - [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
-- [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)
-- [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)<!-- TECH-POSTS:END -->
 
 ---
 
