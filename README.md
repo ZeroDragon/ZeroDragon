@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to update documents in Firebase Firestore with Nextjs14](https://dev.to/thatanjan/how-to-update-documents-in-firebase-firestore-with-nextjs14-2nm)
+- [Dev.to/JS] [The React Ecosystem in 2024 - Part #2 🔥](https://dev.to/alisamirali/the-react-ecosystem-in-2024-part-2-6i7)
+- [Dev.to/JS] [Unlocking Glassdoor Full Scroll: A Quick Console Trick](https://dev.to/shariar-hasan/unlocking-glassdoor-full-scroll-a-quick-console-trick-2nk5)
+- [Dev.to/JS] [How I made Infinite Craft a multiplayer game with a few lines of code](https://dev.to/vtnorton/how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7)
 - [Dev.to/JS] [HAIR GROWTH SERUM-CERISE NATURALS INTENSE GROWTH HAIR SERUM](https://dev.to/mannu2112/hair-growth-serum-cerise-naturals-intense-growth-hair-serum-7l4)
 - [Dev.to/JS] [I am a chinese programmer. I&#39;ve developed an online tool, and you&#39;re welcome to check it out](https://dev.to/cuihaoweb/i-am-a-chinese-programmer-ive-developed-an-online-tool-and-youre-welcome-to-check-it-out-5gl)
 - [Dev.to/JS] [Meteor.js 2.15.0: The Latest Stable Release Bolsters Confidence in Framework&#39;s Continuity](https://dev.to/allenchrios/meteorjs-2150-the-latest-stable-release-bolsters-confidence-in-frameworks-continuity-4jf2)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Pass Your Exam with CCA 500 Dumps: Insider Secrets](https://dev.to/sairikelodir/how-to-pass-your-exam-with-cca-500-dumps-insider-secrets-29b4)
 - [Dev.to/JS] [Hello World!](https://dev.to/angelicajeni7/hello-world-2fj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Dial Cabbies Taxi Company](https://dev.to/hmzi67/dial-cabbies-taxi-company-5hei)
-- [Dev.to/JS] [Make your Faker unit tests run faster with this one weird tip](https://dev.to/rrees/make-your-faker-unit-tests-run-faster-with-this-one-weird-tip-4mbc)
-- [Dev.to/JS] [JavaScript Design Patterns - Creational - Factory](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-factory-21gn)
-- [Dev.to/JS] [Firebase scales, my wallet does not](https://dev.to/dennisivy11/firebase-scales-my-wallet-does-not-11l3)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
