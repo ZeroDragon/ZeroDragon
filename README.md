@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionizing Your LinkedIn Strategy, How Tapilo Enhances Networking and Engagement?](https://dev.to/yagnapandya9/revolutionizing-your-linkedin-strategy-how-tapilo-enhances-networking-and-engagement-3pp4)
+- [Dev.to/JS] [Best Practices for Effective Logging in Node.js Applications](https://dev.to/nitin-rachabathuni/best-practices-for-effective-logging-in-nodejs-applications-2ag)
+- [Dev.to/JS] [A Simple CRUD app With GraphQL, Apollo Server, MongoDB, and Express](https://dev.to/fredabod/a-simple-crud-app-with-graphql-apollo-server-mongodb-and-express-227f)
 - [Dev.to/JS] [Navigating JavaScript Promises: Exploring .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/sayuj/navigating-javascript-promises-exploring-all-vs-allsettled-and-race-vs-any-4803)
 - [Dev.to/JS] [Different Techniques for Fetching Data in React Applications](https://dev.to/ashishxcode/different-techniques-for-fetching-data-in-react-applications-2i7d)
 - [Dev.to/JS] [Authentication: Decoding Digital Defense](https://dev.to/mjubair/authentication-decoding-digital-defense-2bfm)
@@ -41,12 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons from open-source: Use nested functions for logic encapsulation and separation of concerns.](https://dev.to/ramunarasinga/lessons-from-open-source-use-nested-functions-for-logic-encapsulation-and-separation-of-concerns-1bkd)
 - [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)
 - [Dev.to/JS] [Writing a WASM module in Rust](https://dev.to/shuttle_dev/writing-a-wasm-module-in-rust-3jcf)
-- [Dev.to/JS] [Creating Interactive Data Visualizations with D3.js](https://dev.to/webjoe/creating-interactive-data-visualizations-with-d3js-2i08)
 - [Lifehacker] [The Best Streaming Deals Right Now](https://lifehacker.com/best-streaming-deals)
-- [Dev.to/JS] [Next.js Amplified: Full-Stack Web Apps on AWS Amplify Gen2](https://dev.to/codingcatdev/nextjs-amplified-full-stack-web-apps-on-aws-amplify-gen2-191f)
 - [Lifehacker] [The Smalo LX2 E-bike Is a Joy to Ride, but It’s Not for Everyone](https://lifehacker.com/tech/smalo-lx2-ebike-review)
 - [Lifehacker] [Apple Just Blocked Epic Games From Starting an App Store in the EU](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
-- [Dev.to/JS] [Learnt Next.JS in 1 week!! and here is GenAI Chat](https://dev.to/abhisheksinha/learnt-nextjs-in-1-week-and-here-is-genai-chat-3gle)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Lifehacker] [Fry Your Eggs in Barbecue Sauce for a Feisty Start to Your Day](https://lifehacker.com/food-drink/fried-eggs-in-barbecue-sauce-recipe)
 - [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/entertainment/the-best-so-bad-theyre-actually-good-movies-ever)
