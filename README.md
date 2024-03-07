@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Firebase scales, my wallet does not](https://dev.to/dennisivy11/firebase-scales-my-wallet-does-not-11l3)
+- [Dev.to/JS] [Dial Cabbies Taxi Company](https://dev.to/hmzi67/dial-cabbies-taxi-company-5hei)
+- [Dev.to/JS] [Make your Faker unit tests run faster with this one weird tip](https://dev.to/rrees/make-your-faker-unit-tests-run-faster-with-this-one-weird-tip-4mbc)
+- [Dev.to/JS] [JavaScript Design Patterns - Creational - Factory](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-factory-21gn)
+- [Dev.to/JS] [Why choose Appwrite over Firebase](https://dev.to/dennisivy11/firebase-scales-my-wallet-does-not-11l3)
 - [Dev.to/JS] [Javascript | String Methods](https://dev.to/shubhamtiwari909/javascript-string-methods-bfe)
 - [Dev.to/JS] [Revolutionizing Your LinkedIn Strategy, How Tapilo Enhances Networking and Engagement?](https://dev.to/yagnapandya9/revolutionizing-your-linkedin-strategy-how-tapilo-enhances-networking-and-engagement-3pp4)
 - [Dev.to/JS] [Best Practices for Effective Logging in Node.js Applications](https://dev.to/nitin-rachabathuni/best-practices-for-effective-logging-in-nodejs-applications-2ag)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
-- [Dev.to/JS] [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
 - [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)
-- [Dev.to/JS] [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $128 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
-- [Dev.to/JS] [7 Essentials for Front End Architecture in 2024](https://dev.to/benajaero/7-essentials-for-front-end-architecture-in-2024-m29)
 - [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)
 - [Lifehacker] [The Best Streaming Deals Right Now](https://lifehacker.com/best-streaming-deals)
 - [Lifehacker] [The Smalo LX2 E-bike Is a Joy to Ride, but It’s Not for Everyone](https://lifehacker.com/tech/smalo-lx2-ebike-review)
