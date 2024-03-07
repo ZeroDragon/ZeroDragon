@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most important concepts in React](https://dev.to/sebastian9995/most-important-concepts-in-react-3oal)
+- [Dev.to/JS] [Different ways to dynamically render components in React](https://dev.to/sebastian9995/different-ways-to-dynamically-render-components-in-react-4m75)
+- [Dev.to/JS] [ScrollReveal.js](https://dev.to/nadiafedev/scrollrevealjs-5g75)
+- [Dev.to/JS] [Modern Date Time Libraries for JavaScript and TypeScript](https://dev.to/rudolfolah/modern-date-time-libraries-for-javascript-and-typescript-o4l)
+- [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
 - [Dev.to/JS] [Quick Tip: Breaking Vue&#39;s Reactivity](https://dev.to/ninjasoards/quick-tip-breaking-vues-reactivity-7i4)
 - [Dev.to/JS] [How to Add a React Map Component to Your Web Application](https://dev.to/mescius/how-to-add-a-react-map-component-to-your-web-application-4n0h)
 - [Dev.to/JS] [The future of the web: navigating HTMX, vanilla JS, and React](https://dev.to/jaydevm/the-future-of-the-web-navigating-htmx-vanilla-js-and-react-29i7)
 - [Dev.to/JS] [Building Multi-Brand Systems with Next.js and Tailwind Theme](https://dev.to/marcelxv/building-multi-brand-systems-with-nextjs-and-tailwind-theme-15l6)
+- [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
 - [Dev.to/JS] [Construindo sistemas multi-marca com Next.js e Tailwind Theme](https://dev.to/marcelxv/construindo-sistemas-multi-marca-com-nextjs-e-tailwind-theme-3ml2)
 - [Dev.to/JS] [Learning Milestone](https://dev.to/codebuddylarin/learning-milestone-3pfk)
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
 - [Dev.to/JS] [Shield Your Site: The Best WordPress Security Plugins&quot;](https://dev.to/jamesmartindev/shield-your-site-the-best-wordpress-security-plugins-m3b)
 - [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)
-- [Dev.to/JS] [TanStack Router: Query Parameters &amp; Validators](https://dev.to/this-is-learning/tanstack-router-query-parameters-validators-4ijg)
-- [Dev.to/JS] [JavaScript Meets Java: Nashorn Engine Explained](https://dev.to/utteshkumar/javascript-meets-java-nashorns-integration-explained-3ao5)
-- [Dev.to/JS] [How to update documents in Firebase Firestore with Nextjs14](https://dev.to/thatanjan/how-to-update-documents-in-firebase-firestore-with-nextjs14-2nm)
-- [Dev.to/JS] [The React Ecosystem in 2024 - Part #2 🔥](https://dev.to/alisamirali/the-react-ecosystem-in-2024-part-2-6i7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
 - [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
 - [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)
-- [Lifehacker] [What to Start Seeding and Planting in March](https://lifehacker.com/home/what-to-seed-in-march)
-- [Lifehacker] [The Best Free Steam Games You Can Play Right Now](https://lifehacker.com/entertainment/best-free-steam-games)
-- [Lifehacker] [How to Get a Free Trial of Nintendo Switch Online](https://lifehacker.com/entertainment/nintendo-switch-online-free-trial)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Start Seeding and Planting in March](https://lifehacker.com/home/what-to-seed-in-march)<!-- TECH-POSTS:END -->
 
 ---
 
