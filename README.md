@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Construindo sistemas multi-marca com Next.js e Tailwind Theme](https://dev.to/marcelxv/construindo-sistemas-multi-marca-com-nextjs-e-tailwind-theme-3ml2)
+- [Dev.to/JS] [Learning Milestone](https://dev.to/codebuddylarin/learning-milestone-3pfk)
+- [Dev.to/JS] [Best Crypto Exchange Development Company - Cryptocurrencies supported by Crypto Exchange Software](https://dev.to/aliana23/best-crypto-exchange-development-company-cryptocurrencies-supported-by-crypto-exchange-software-j6)
 - [Dev.to/JS] [Shield Your Site: The Best WordPress Security Plugins&quot;](https://dev.to/jamesmartindev/shield-your-site-the-best-wordpress-security-plugins-m3b)
+- [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)
 - [Dev.to/JS] [TanStack Router: Query Parameters &amp; Validators](https://dev.to/this-is-learning/tanstack-router-query-parameters-validators-4ijg)
-- [Dev.to/JS] [JavaScript Meets Java: Nashorn&#39;s Integration Explained](https://dev.to/utteshkumar/javascript-meets-java-nashorns-integration-explained-3ao5)
+- [Dev.to/JS] [JavaScript Meets Java: Nashorn Engine Explained](https://dev.to/utteshkumar/javascript-meets-java-nashorns-integration-explained-3ao5)
 - [Dev.to/JS] [How to update documents in Firebase Firestore with Nextjs14](https://dev.to/thatanjan/how-to-update-documents-in-firebase-firestore-with-nextjs14-2nm)
 - [Dev.to/JS] [The React Ecosystem in 2024 - Part #2 🔥](https://dev.to/alisamirali/the-react-ecosystem-in-2024-part-2-6i7)
 - [Dev.to/JS] [Unlocking Glassdoor Full Scroll: A Quick Console Trick](https://dev.to/shariar-hasan/unlocking-glassdoor-full-scroll-a-quick-console-trick-2nk5)
 - [Dev.to/JS] [How I made Infinite Craft a multiplayer game with a few lines of code](https://dev.to/vtnorton/how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7)
 - [Dev.to/JS] [HAIR GROWTH SERUM-CERISE NATURALS INTENSE GROWTH HAIR SERUM](https://dev.to/mannu2112/hair-growth-serum-cerise-naturals-intense-growth-hair-serum-7l4)
 - [Dev.to/JS] [I am a chinese programmer. I&#39;ve developed an online tool, and you&#39;re welcome to check it out](https://dev.to/cuihaoweb/i-am-a-chinese-programmer-ive-developed-an-online-tool-and-youre-welcome-to-check-it-out-5gl)
-- [Dev.to/JS] [Meteor.js 2.15.0: The Latest Stable Release Bolsters Confidence in Framework&#39;s Continuity](https://dev.to/allenchrios/meteorjs-2150-the-latest-stable-release-bolsters-confidence-in-frameworks-continuity-4jf2)
-- [Dev.to/JS] [Scalable REST APIs with NestJS: A Testing-Driven Approach](https://dev.to/codexam/scalable-rest-apis-with-nestjs-a-testing-driven-approach-1i9k)
-- [Dev.to/JS] [What are the Pros and Cons of Using GitHub Copilot?](https://dev.to/shariqahmed525/what-are-the-pros-and-cons-of-using-github-copilot-5deo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free Steam Games You Can Play Right Now](https://lifehacker.com/entertainment/best-free-steam-games)
 - [Lifehacker] [How to Get a Free Trial of Nintendo Switch Online](https://lifehacker.com/entertainment/nintendo-switch-online-free-trial)
 - [Lifehacker] [Make This Perverted TikTok Ramen Carbonara Even Better](https://lifehacker.com/food-drink/best-ramen-carbonara-recipe)
-- [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
-- [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)<!-- TECH-POSTS:END -->
 
 ---
 
