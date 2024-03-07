@@ -28,6 +28,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Authentication: Decoding Digital Defense](https://dev.to/mjubair/authentication-decoding-digital-defense-2bfm)
 - [Dev.to/JS] [Improve App Bundle Size with Import Cost](https://dev.to/michaeljolley/improve-app-bundle-size-with-import-cost-1mh5)
+- [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
+- [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
 - [Dev.to/JS] [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
 - [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Perverted TikTok Ramen Carbonara Even Better](https://lifehacker.com/food-drink/best-ramen-carbonara-recipe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 6, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
-- [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
-- [Lifehacker] [The Pixel 7 Just Got &#39;Circle to Search&#39;](https://lifehacker.com/tech/march-pixel-feature-drop-brings-circle-to-search-to-pixel-7)
-- [Lifehacker] [These Samsung Sound Systems Are up to 62% Off](https://lifehacker.com/tech/samsung-soundbar-speaker-system-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)<!-- TECH-POSTS:END -->
 
 ---
 
