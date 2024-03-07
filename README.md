@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication: Decoding Digital Defense](https://dev.to/mjubair/authentication-decoding-digital-defense-2bfm)
+- [Dev.to/JS] [Improve App Bundle Size with Import Cost](https://dev.to/michaeljolley/improve-app-bundle-size-with-import-cost-1mh5)
+- [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
 - [Dev.to/JS] [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
+- [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)
 - [Dev.to/JS] [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $128 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Dev.to/JS] [7 Essentials for Front End Architecture in 2024](https://dev.to/benajaero/7-essentials-for-front-end-architecture-in-2024-m29)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fry Your Eggs in Barbecue Sauce for a Feisty Start to Your Day](https://lifehacker.com/food-drink/fried-eggs-in-barbecue-sauce-recipe)
 - [Dev.to/JS] [How to begin web development.!](https://dev.to/nabu_naush/how-to-begin-web-development-1bec)
 - [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/entertainment/the-best-so-bad-theyre-actually-good-movies-ever)
-- [Dev.to/JS] [Développer une application iOS sur Windows, c&#39;est possible !](https://dev.to/brietgame/developper-une-application-ios-sur-windows-cest-possible--494o)
-- [Dev.to/JS] [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
 - [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
 - [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)
 - [Lifehacker] [The Pixel 7 Just Got &#39;Circle to Search&#39;](https://lifehacker.com/tech/march-pixel-feature-drop-brings-circle-to-search-to-pixel-7)
-- [Lifehacker] [These Samsung Sound Systems Are up to 62% Off](https://lifehacker.com/tech/samsung-soundbar-speaker-system-sale)
-- [Lifehacker] [Netflix Is Bringing ‘Hades’ to iOS](https://lifehacker.com/entertainment/netflix-is-bringing-hades-to-ios)
-- [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Samsung Sound Systems Are up to 62% Off](https://lifehacker.com/tech/samsung-soundbar-speaker-system-sale)<!-- TECH-POSTS:END -->
 
 ---
 
