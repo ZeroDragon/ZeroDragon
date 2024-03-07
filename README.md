@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating JavaScript Promises: Exploring .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/sayuj/navigating-javascript-promises-exploring-all-vs-allsettled-and-race-vs-any-4803)
+- [Dev.to/JS] [Different Techniques for Fetching Data in React Applications](https://dev.to/ashishxcode/different-techniques-for-fetching-data-in-react-applications-2i7d)
 - [Dev.to/JS] [Authentication: Decoding Digital Defense](https://dev.to/mjubair/authentication-decoding-digital-defense-2bfm)
 - [Dev.to/JS] [Improve App Bundle Size with Import Cost](https://dev.to/michaeljolley/improve-app-bundle-size-with-import-cost-1mh5)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Just Blocked Epic Games From Starting an App Store in the EU](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
 - [Dev.to/JS] [Learnt Next.JS in 1 week!! and here is GenAI Chat](https://dev.to/abhisheksinha/learnt-nextjs-in-1-week-and-here-is-genai-chat-3gle)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
-- [Dev.to/JS] [The Benefits of JavaScript Document Viewers in Your Web Apps](https://dev.to/mescius/the-benefits-of-javascript-document-viewers-in-your-web-apps-2h3c)
 - [Lifehacker] [Fry Your Eggs in Barbecue Sauce for a Feisty Start to Your Day](https://lifehacker.com/food-drink/fried-eggs-in-barbecue-sauce-recipe)
-- [Dev.to/JS] [How to begin web development.!](https://dev.to/nabu_naush/how-to-begin-web-development-1bec)
 - [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/entertainment/the-best-so-bad-theyre-actually-good-movies-ever)
 - [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
 - [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
