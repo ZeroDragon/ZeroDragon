@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 1](https://dev.to/sayuj/10-javascript-tricky-hacks-part-1-52dl)
 - [Dev.to/JS] [how-to-scrape-tripadvisor](https://dev.to/crawlbase/how-to-scrape-tripadvisor-5d0l)
 - [Dev.to/JS] [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
 - [Dev.to/JS] [Sync Vs Defer in JavaScript](https://dev.to/gabby1234/sync-vs-defer-in-javascript-16n6)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ScrollReveal.js](https://dev.to/nadiafedev/scrollrevealjs-5g75)
 - [Dev.to/JS] [Modern Date Time Libraries for JavaScript and TypeScript](https://dev.to/rudolfolah/modern-date-time-libraries-for-javascript-and-typescript-o4l)
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
-- [Dev.to/JS] [Quick Tip: Breaking Vue&#39;s Reactivity](https://dev.to/ninjasoards/quick-tip-breaking-vues-reactivity-7i4)
 - [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
 - [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
