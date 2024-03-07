@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
+- [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
 - [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 1](https://dev.to/sayuj/10-javascript-tricky-hacks-part-1-52dl)
 - [Dev.to/JS] [how-to-scrape-tripadvisor](https://dev.to/crawlbase/how-to-scrape-tripadvisor-5d0l)
+- [Lifehacker] [You Can Connect Your Apple Card and Cash Spending to These iOS Budgeting Apps](https://lifehacker.com/tech/how-to-connect-your-apple-card-to-ios-budgeting-apps)
 - [Dev.to/JS] [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
+- [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)
 - [Dev.to/JS] [Sync Vs Defer in JavaScript](https://dev.to/gabby1234/sync-vs-defer-in-javascript-16n6)
 - [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)
 - [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Just Blocked Epic Games From Starting an App Store in the EU](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Lifehacker] [Fry Your Eggs in Barbecue Sauce for a Feisty Start to Your Day](https://lifehacker.com/food-drink/fried-eggs-in-barbecue-sauce-recipe)
-- [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/entertainment/the-best-so-bad-theyre-actually-good-movies-ever)
-- [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
-- [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
-- [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
-- [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)<!-- TECH-POSTS:END -->
+- [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/entertainment/the-best-so-bad-theyre-actually-good-movies-ever)<!-- TECH-POSTS:END -->
 
 ---
 
