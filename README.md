@@ -26,23 +26,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
+- [Dev.to/JS] [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
+- [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $128 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
+- [Dev.to/JS] [7 Essentials for Front End Architecture in 2024](https://dev.to/benajaero/7-essentials-for-front-end-architecture-in-2024-m29)
+- [Dev.to/JS] [Lessons from open-source: Use nested functions for logic encapsulation and separation of concerns.](https://dev.to/ramunarasinga/lessons-from-open-source-use-nested-functions-for-logic-encapsulation-and-separation-of-concerns-1bkd)
+- [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)
 - [Dev.to/JS] [Writing a WASM module in Rust](https://dev.to/shuttle_dev/writing-a-wasm-module-in-rust-3jcf)
 - [Dev.to/JS] [Creating Interactive Data Visualizations with D3.js](https://dev.to/webjoe/creating-interactive-data-visualizations-with-d3js-2i08)
+- [Lifehacker] [The Best Streaming Deals Right Now](https://lifehacker.com/best-streaming-deals)
 - [Dev.to/JS] [Next.js Amplified: Full-Stack Web Apps on AWS Amplify Gen2](https://dev.to/codingcatdev/nextjs-amplified-full-stack-web-apps-on-aws-amplify-gen2-191f)
+- [Lifehacker] [The Smalo LX2 E-bike Is a Joy to Ride, but It’s Not for Everyone](https://lifehacker.com/tech/smalo-lx2-ebike-review)
+- [Lifehacker] [Apple Just Blocked Epic Games From Starting an App Store in the EU](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
 - [Dev.to/JS] [Learnt Next.JS in 1 week!! and here is GenAI Chat](https://dev.to/abhisheksinha/learnt-nextjs-in-1-week-and-here-is-genai-chat-3gle)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Dev.to/JS] [The Benefits of JavaScript Document Viewers in Your Web Apps](https://dev.to/mescius/the-benefits-of-javascript-document-viewers-in-your-web-apps-2h3c)
 - [Lifehacker] [Fry Your Eggs in Barbecue Sauce for a Feisty Start to Your Day](https://lifehacker.com/food-drink/fried-eggs-in-barbecue-sauce-recipe)
 - [Dev.to/JS] [How to begin web development.!](https://dev.to/nabu_naush/how-to-begin-web-development-1bec)
-- [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/best-so-bad-theyre-good-movies-ever)
+- [Lifehacker] [30 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/entertainment/the-best-so-bad-theyre-actually-good-movies-ever)
 - [Dev.to/JS] [Développer une application iOS sur Windows, c&#39;est possible !](https://dev.to/brietgame/developper-une-application-ios-sur-windows-cest-possible--494o)
 - [Dev.to/JS] [To Polyfill Or Not To Polyfill.io](https://dev.to/schalkneethling/to-polyfill-or-not-to-polyfillio-5ggd)
 - [Lifehacker] [Yes, You Should Be Cleaning Your Coffee Grinder](https://lifehacker.com/home/how-to-clean-a-coffee-grinder)
-- [Dev.to/JS] [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
-- [Dev.to/JS] [Accident Lawyers In Renaissance, Arizona](https://dev.to/vobep/accident-lawyers-in-renaissance-arizona-10c2)
-- [Dev.to/JS] [Why I keep an eye on the Vue ecosystem and you should too](https://dev.to/fischi20/why-i-keep-an-eye-on-the-vue-ecosystem-and-you-should-too-4nhk)
 - [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
-- [Dev.to/JS] [How To Resolve UPI Getaway In Intent View Error On Js Code Kolkata Fatafat](https://dev.to/kolkata_fatafat_tips/how-to-resolve-upi-getaway-in-intent-view-error-on-js-code-2nkn)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)
 - [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pixel 7 Just Got &#39;Circle to Search&#39;](https://lifehacker.com/tech/march-pixel-feature-drop-brings-circle-to-search-to-pixel-7)
 - [Lifehacker] [These Samsung Sound Systems Are up to 62% Off](https://lifehacker.com/tech/samsung-soundbar-speaker-system-sale)
 - [Lifehacker] [Netflix Is Bringing ‘Hades’ to iOS](https://lifehacker.com/entertainment/netflix-is-bringing-hades-to-ios)
-- [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: the Disastrous Willy Wonka &#39;Chocolate Experience&#39;](https://lifehacker.com/entertainment/the-disastrous-willy-wonka-chocolate-experience)
-- [Lifehacker] [Why You Shouldn’t Buy or Rent for the Building Amenities](https://lifehacker.com/money/are-the-amenities-in-apartment-or-condo-worth-it)
-- [Lifehacker] [Google Tasks Now Has a Kanban View](https://lifehacker.com/tech/google-tasks-now-has-a-kanban-view)
-- [Lifehacker] [This New Rule Will Cap Credit Card Late Fees at $8](https://lifehacker.com/money/new-cfpb-rule-caps-banks-credit-card-late-fees)
-- [Lifehacker] [iOS 17.4 Is a Huge Change for the iPhone, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Claude 3 Is Anthropic’s Most Powerful AI Chatbot Yet](https://lifehacker.com/tech/anthropic-debuts-claude-3-ai-chatbot)<!-- TECH-POSTS:END -->
 
 ---
 
