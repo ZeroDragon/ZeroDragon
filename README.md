@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Weather App with React, OpenWeatherMap API, Wijmo Gauges](https://dev.to/mescius/building-a-weather-app-with-react-openweathermap-api-wijmo-gauges-2ej7)
 - [Dev.to/JS] [Most important concepts in React](https://dev.to/sebastian9995/most-important-concepts-in-react-3oal)
 - [Dev.to/JS] [Different ways to dynamically render components in React](https://dev.to/sebastian9995/different-ways-to-dynamically-render-components-in-react-4m75)
+- [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)
 - [Dev.to/JS] [ScrollReveal.js](https://dev.to/nadiafedev/scrollrevealjs-5g75)
 - [Dev.to/JS] [Modern Date Time Libraries for JavaScript and TypeScript](https://dev.to/rudolfolah/modern-date-time-libraries-for-javascript-and-typescript-o4l)
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
 - [Dev.to/JS] [Best Crypto Exchange Development Company - Cryptocurrencies supported by Crypto Exchange Software](https://dev.to/aliana23/best-crypto-exchange-development-company-cryptocurrencies-supported-by-crypto-exchange-software-j6)
 - [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
-- [Dev.to/JS] [Shield Your Site: The Best WordPress Security Plugins&quot;](https://dev.to/jamesmartindev/shield-your-site-the-best-wordpress-security-plugins-m3b)
 - [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
 - [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
 - [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
-- [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)
-- [Lifehacker] [What to Start Seeding and Planting in March](https://lifehacker.com/home/what-to-seed-in-march)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)<!-- TECH-POSTS:END -->
 
 ---
 
