@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Pass Your Exam with CCA 500 Dumps: Insider Secrets](https://dev.to/sairikelodir/how-to-pass-your-exam-with-cca-500-dumps-insider-secrets-29b4)
+- [Dev.to/JS] [Hello World!](https://dev.to/angelicajeni7/hello-world-2fj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Dial Cabbies Taxi Company](https://dev.to/hmzi67/dial-cabbies-taxi-company-5hei)
 - [Dev.to/JS] [Make your Faker unit tests run faster with this one weird tip](https://dev.to/rrees/make-your-faker-unit-tests-run-faster-with-this-one-weird-tip-4mbc)
 - [Dev.to/JS] [JavaScript Design Patterns - Creational - Factory](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-factory-21gn)
-- [Dev.to/JS] [Why choose Appwrite over Firebase](https://dev.to/dennisivy11/firebase-scales-my-wallet-does-not-11l3)
+- [Dev.to/JS] [Firebase scales, my wallet does not](https://dev.to/dennisivy11/firebase-scales-my-wallet-does-not-11l3)
 - [Dev.to/JS] [Javascript | String Methods](https://dev.to/shubhamtiwari909/javascript-string-methods-bfe)
 - [Dev.to/JS] [Revolutionizing Your LinkedIn Strategy, How Tapilo Enhances Networking and Engagement?](https://dev.to/yagnapandya9/revolutionizing-your-linkedin-strategy-how-tapilo-enhances-networking-and-engagement-3pp4)
 - [Dev.to/JS] [Best Practices for Effective Logging in Node.js Applications](https://dev.to/nitin-rachabathuni/best-practices-for-effective-logging-in-nodejs-applications-2ag)
 - [Dev.to/JS] [A Simple CRUD app With GraphQL, Apollo Server, MongoDB, and Express](https://dev.to/fredabod/a-simple-crud-app-with-graphql-apollo-server-mongodb-and-express-227f)
 - [Dev.to/JS] [Navigating JavaScript Promises: Exploring .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/sayuj/navigating-javascript-promises-exploring-all-vs-allsettled-and-race-vs-any-4803)
 - [Dev.to/JS] [Different Techniques for Fetching Data in React Applications](https://dev.to/ashishxcode/different-techniques-for-fetching-data-in-react-applications-2i7d)
-- [Dev.to/JS] [Authentication: Decoding Digital Defense](https://dev.to/mjubair/authentication-decoding-digital-defense-2bfm)
-- [Dev.to/JS] [Improve App Bundle Size with Import Cost](https://dev.to/michaeljolley/improve-app-bundle-size-with-import-cost-1mh5)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
@@ -63,7 +64,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free Steam Games You Can Play Right Now](https://lifehacker.com/entertainment/best-free-steam-games)
 - [Lifehacker] [How to Get a Free Trial of Nintendo Switch Online](https://lifehacker.com/entertainment/nintendo-switch-online-free-trial)
 - [Lifehacker] [Make This Perverted TikTok Ramen Carbonara Even Better](https://lifehacker.com/food-drink/best-ramen-carbonara-recipe)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 6, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Add New Fonts to Google Docs](https://lifehacker.com/tech/how-to-add-fonts-to-google-docs)
 - [Lifehacker] [Transcripts Are Apple Podcasts&#39;s Best New Feature in Years](https://lifehacker.com/tech/apple-podcasts-launches-transcripts)<!-- TECH-POSTS:END -->
 
