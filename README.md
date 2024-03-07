@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from open-source: Convert an array-like HTML NodeList to a standard javascript array.](https://dev.to/ramunarasinga/lessons-from-open-source-convert-an-array-like-html-nodelist-to-a-standard-javascript-array-5ee9)
+- [Dev.to/JS] [How to Add JavaScript Drill-Through Charts in Your Web Application](https://dev.to/mescius/how-to-add-javascript-drill-through-charts-in-your-web-application-58ie)
+- [Dev.to/JS] [The Busy JavaScript Developer&#39;s Guide to Generative AI](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
 - [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
 - [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
 - [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 1](https://dev.to/sayuj/10-javascript-tricky-hacks-part-1-52dl)
@@ -44,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Weather App with React, OpenWeatherMap API, Wijmo Gauges](https://dev.to/mescius/building-a-weather-app-with-react-openweathermap-api-wijmo-gauges-2ej7)
 - [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
 - [Dev.to/JS] [Most important concepts in React](https://dev.to/sebastian9995/most-important-concepts-in-react-3oal)
-- [Dev.to/JS] [Different ways to dynamically render components in React](https://dev.to/sebastian9995/different-ways-to-dynamically-render-components-in-react-4m75)
 - [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)
-- [Dev.to/JS] [ScrollReveal.js](https://dev.to/nadiafedev/scrollrevealjs-5g75)
-- [Dev.to/JS] [Modern Date Time Libraries for JavaScript and TypeScript](https://dev.to/rudolfolah/modern-date-time-libraries-for-javascript-and-typescript-o4l)
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
 - [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
