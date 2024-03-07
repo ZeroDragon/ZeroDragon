@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 13 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3m94)
+- [Dev.to/JS] [How To Buy Verified Cash App Accounts 2024](https://dev.to/vickigascony/how-to-buy-verified-cash-app-accounts-2024-32i6)
+- [Dev.to/JS] [how-to-scrape-google-news](https://dev.to/crawlbase/how-to-scrape-google-news-mpi)
+- [Dev.to/JS] [Unlocking the Power of Mongoose Schemas: Enhancements for Better Data Handling](https://dev.to/justinjdaniel/unlocking-the-power-of-mongoose-schemas-enhancements-for-better-data-handling-l1g)
+- [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
+- [Lifehacker] [Everything You Should Know About Solar-Powered Security Cameras](https://lifehacker.com/home/everything-about-solar-security-cameras)
 - [Dev.to/JS] [Building a Weather App with React, OpenWeatherMap API, Wijmo Gauges](https://dev.to/mescius/building-a-weather-app-with-react-openweathermap-api-wijmo-gauges-2ej7)
+- [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
 - [Dev.to/JS] [Most important concepts in React](https://dev.to/sebastian9995/most-important-concepts-in-react-3oal)
 - [Dev.to/JS] [Different ways to dynamically render components in React](https://dev.to/sebastian9995/different-ways-to-dynamically-render-components-in-react-4m75)
 - [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)
@@ -36,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quick Tip: Breaking Vue&#39;s Reactivity](https://dev.to/ninjasoards/quick-tip-breaking-vues-reactivity-7i4)
 - [Dev.to/JS] [How to Add a React Map Component to Your Web Application](https://dev.to/mescius/how-to-add-a-react-map-component-to-your-web-application-4n0h)
 - [Dev.to/JS] [The future of the web: navigating HTMX, vanilla JS, and React](https://dev.to/jaydevm/the-future-of-the-web-navigating-htmx-vanilla-js-and-react-29i7)
-- [Dev.to/JS] [Building Multi-Brand Systems with Next.js and Tailwind Theme](https://dev.to/marcelxv/building-multi-brand-systems-with-nextjs-and-tailwind-theme-15l6)
 - [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
-- [Dev.to/JS] [Construindo sistemas multi-marca com Next.js e Tailwind Theme](https://dev.to/marcelxv/construindo-sistemas-multi-marca-com-nextjs-e-tailwind-theme-3ml2)
-- [Dev.to/JS] [Learning Milestone](https://dev.to/codebuddylarin/learning-milestone-3pfk)
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
-- [Dev.to/JS] [Best Crypto Exchange Development Company - Cryptocurrencies supported by Crypto Exchange Software](https://dev.to/aliana23/best-crypto-exchange-development-company-cryptocurrencies-supported-by-crypto-exchange-software-j6)
 - [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
 - [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Windows Is Dropping Support for Android Apps](https://lifehacker.com/tech/windows-dropping-support-for-android-apps)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $250 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [Fix Nintendo Switch Issues With a Factory Reset](https://lifehacker.com/entertainment/how-to-reset-your-nintendo-switch)
-- [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)
-- [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-federal-tax-return)
-- [Lifehacker] [Proton Mail Now Lets You Hide Your Real Email Address](https://lifehacker.com/tech/how-to-set-up-email-aliases-proton-mail)
-- [Lifehacker] [The Best WordPress Alternatives for Bloggers](https://lifehacker.com/tech/the-best-alternatives-to-wordpress-bloggers)
-- [Lifehacker] [How to Choose Between Shopify, Squarespace, and All the Other E-commerce Sites](https://lifehacker.com/tech/how-to-choose-between-shopify-squarespace-ecommerce-platforms)<!-- TECH-POSTS:END -->
+- [Lifehacker] [iOS 17.4 Fixes Two Big iPhone Security Flaws](https://lifehacker.com/tech/update-to-ios-174-to-fix-security-flaws)<!-- TECH-POSTS:END -->
 
 ---
 
