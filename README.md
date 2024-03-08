@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 3](https://dev.to/sayuj/10-javascript-tricky-hacks-part-3-1jia)
+- [Dev.to/JS] [Build 01 complex frontend feature every week with me.](https://dev.to/swastikyadav/build-01-complex-frontend-feature-every-week-with-me-2jjc)
 - [Dev.to/JS] [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
 - [Dev.to/JS] [Interview Preparation Tailored for Software Engineers](https://dev.to/coocoon09/interview-preparation-tailored-for-software-engineers-456c)
 - [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Smart-layout: Unleash UI Freedom for You and Your Users Their Own UI](https://dev.to/juangarcia0323/smart-layout-unleash-ui-freedom-for-you-and-your-users-their-own-ui-4e3h)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Dev.to/JS] [Conway&#39;s Game of Life in TensorFlow JS](https://dev.to/jgracie52/conways-game-of-life-in-tensorflow-js-3hdf)
-- [Dev.to/JS] [How to Recover Usdt from a Telegram Scam - Consult OMEGA CRYPTO RECOVERY SPECIALIST HACKER](https://dev.to/moyesskye1/how-to-recover-usdt-from-a-telegram-scam-consult-omega-crypto-recovery-specialist-hacker-1h6h)
 - [Lifehacker] [The Best Quad Exercises for Leg Day](https://lifehacker.com/health/the-best-quad-exercises-for-leg-day)
 - [Lifehacker] [Google Hates the SEO Spam as Much as You Do](https://lifehacker.com/tech/google-hates-seo-spam-as-much-as-you-do)
 - [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
