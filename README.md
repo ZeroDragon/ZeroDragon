@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I test Signal &amp; Model Inputs?](https://dev.to/this-is-angular/how-do-i-test-signal-model-inputs-2acf)
+- [Dev.to/JS] [How to create an animated hamburger menu](https://dev.to/codeauthor/how-to-create-an-animated-hamburger-menu-2m02)
+- [Dev.to/JS] [Rolldown: why it matters](https://dev.to/justinschroeder/rolldown-why-it-matters-4129)
 - [Dev.to/JS] [Crear un menú responsive con CSS y JavaScript](https://dev.to/miguelquispe/crear-un-menu-responsive-con-css-y-javascript-c7k)
 - [Dev.to/JS] [Handling API Errors Safely with a Wrapper Function](https://dev.to/woovi/handling-api-errors-safely-with-a-wrapper-function-5358)
 - [Dev.to/JS] [CypressConf 2024 - Call For Papers](https://dev.to/kailashpathak7/cypressconf-2024-call-for-papers-425)
+- [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
 - [Dev.to/JS] [Build Your Own Uptime Monitor with MeteorJS + Fetch + Plotly.js ☄️🔭](https://dev.to/meteor/build-your-own-uptime-monitor-with-meteorjs-fetch-plotlyjs-4fe0)
 - [Dev.to/JS] [React Code Review - Unraveling A Tightly Coupled Component &amp; Mixed Responsibilities &lpar;Incl Video&rpar;](https://dev.to/profydev/react-code-review-unraveling-a-tightly-coupled-component-mixed-responsibilities-5d6j)
 - [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/mquanit/trace-observe-modern-apps-using-aws-x-ray-2578)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [Build Robust Web Apps Faster: A Beginner&#39;s Guide to Next.js Boilerplate with TypeScript](https://dev.to/nwanoch/build-robust-web-apps-faster-a-beginners-guide-to-nextjs-boilerplate-with-typescript-7n)
-- [Dev.to/JS] [Tech gems 👁️ #3: Node.js redesign, Memory-safe languages and Tailwind V4](https://dev.to/adri_zag/tech-gems-3-nodejs-redesign-memory-safe-languages-and-tailwind-v4-152k)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Dev.to/JS] [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
-- [Dev.to/JS] [Building UI Elements with JSX and Components](https://dev.to/sayuj/building-ui-elements-with-jsx-and-components-ce7)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
 - [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
-- [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
-- [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)<!-- TECH-POSTS:END -->
 
 ---
 
