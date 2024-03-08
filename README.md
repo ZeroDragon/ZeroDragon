@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Props and State Management in React](https://dev.to/sayuj/mastering-props-and-state-management-in-react-h2l)
+- [Dev.to/JS] [What you are learning this week ?](https://dev.to/deveshsainii/what-you-are-learning-this-week--n27)
+- [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/mquanit/trace-observe-modern-apps-using-aws-x-ray-2578)
+- [Dev.to/JS] [Build Robust Web Apps Faster: A Beginner&#39;s Guide to Next.js Boilerplate with TypeScript](https://dev.to/nwanoch/build-robust-web-apps-faster-a-beginners-guide-to-nextjs-boilerplate-with-typescript-7n)
 - [Dev.to/JS] [Tech gems 👁️ #3: Node.js redesign, Memory-safe languages and Tailwind V4](https://dev.to/adri_zag/tech-gems-3-nodejs-redesign-memory-safe-languages-and-tailwind-v4-152k)
 - [Dev.to/JS] [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
 - [Dev.to/JS] [Building UI Elements with JSX and Components](https://dev.to/sayuj/building-ui-elements-with-jsx-and-components-ce7)
+- [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
 - [Dev.to/JS] [Introdução Tagueamento](https://dev.to/brgsx/introducao-tagueamento-4lfo)
 - [Dev.to/JS] [Beyond the Syntax: Mastering the Art of Programming](https://dev.to/maxwill/beyond-the-syntax-mastering-the-art-of-programming-3763)
 - [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/aws-builders/trace-observe-modern-apps-using-aws-x-ray-2bbl)
 - [Dev.to/JS] [Modules in Javascript. Comprehension problems. When and where to outsource what](https://dev.to/sardello/modules-in-javascript-comprehension-problems-when-and-where-to-outsource-what-1fho)
 - [Dev.to/JS] [🚀 Embarking on a Mobile Development Journey: Seeking Guidance and Support 🚀](https://dev.to/kharex71/embarking-on-a-mobile-development-journey-seeking-guidance-and-support-14i9)
-- [Dev.to/JS] [The Art of Software Engineering: Navigating Complexity with Precision](https://dev.to/rohit1415/the-art-of-software-engineering-navigating-complexity-with-precision-i5b)
-- [Dev.to/JS] [Build React Apps Like a Boss: The Ultimate Development Environment Setup React.JS](https://dev.to/sayuj/build-react-apps-like-a-boss-the-ultimate-development-environment-setup-reactjs-3nm9)
-- [Dev.to/JS] [React 101: Your Beginner’s Guide to the Popular JavaScript Library](https://dev.to/sayuj/react-101-your-beginners-guide-to-the-popular-javascript-library-29nb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [JavaScript: Essential Tricks for Savvy Developers](https://dev.to/ellis22/javascript-essential-tricks-for-savvy-developers-2p49)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
-- [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
-- [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)<!-- TECH-POSTS:END -->
 
 ---
 
