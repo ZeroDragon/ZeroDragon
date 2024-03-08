@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transforming Data: Using Transform Streams](https://dev.to/ruben_alapont/transforming-data-using-transform-streams-48lm)
+- [Dev.to/JS] [Migrate to Turso From PlanetScale](https://dev.to/swalker326/migrate-to-turso-from-planetscale-3gg3)
 - [Dev.to/JS] [Vue.js tips – Scoped slot props and how to type them](https://dev.to/aloisseckar/vuejs-tips-scoped-slot-props-and-how-to-type-them-lph)
+- [Lifehacker] [Woot Is Selling the Meta Quest 2 for Its Lowest Price Ever](https://lifehacker.com/tech/the-meta-quest-2-woot-sale)
 - [Dev.to/JS] [Como decidir quando utilizar um método de Array](https://dev.to/terminalcoffee/como-decidir-quando-utilizar-um-metodo-de-array-4io3)
+- [Lifehacker] [JK, Apple Will Let Epic Games Start an EU App Store After All](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
 - [Dev.to/JS] [Lessons from open-source: Use Symbol in Javascript to avoid name collisions](https://dev.to/ramunarasinga/lessons-from-open-source-use-symbol-in-javascript-to-avoid-name-collisions-5h45)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals)
 - [Dev.to/JS] [webcam effects in javascript](https://dev.to/codescriptcreator/webcam-effects-in-javascript-14d0)
@@ -42,11 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Weirdest Side Hustles That Can Make You Real Money](https://lifehacker.com/money/the-weirdest-side-hustles-that-can-make-money)
 - [Dev.to/JS] [Simple update operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-update-operations-in-fauna-query-language-fql-v10-2bh6)
 - [Dev.to/JS] [Completed Scrimba JavaScript Course: My Experience](https://dev.to/r-ddle/completed-scrimba-javascript-course-my-experience-14lm)
-- [Dev.to/JS] [Simple write operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-write-operations-in-fauna-query-language-fql-v10-3lee)
 - [Lifehacker] [You Can Now Save Drafts and Take Pictures in the Threads App](https://lifehacker.com/tech/you-can-now-save-drafts-and-take-pictures-in-threads)
 - [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
 - [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
-- [Dev.to/JS] [Getting Started with Angular: Building Your First Todo List App](https://dev.to/bowen/getting-started-with-angular-building-your-first-todo-list-app-40ck)
 - [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
 - [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This High-end Samsung OLED TV Is up to 43% Off Right Now](https://lifehacker.com/tech/samsung-s95c-oled-tv-sale)
 - [Lifehacker] [All the Metal Stuff You Can Sell for Scrap When Remodeling](https://lifehacker.com/money/all-the-metal-stuff-you-can-sell-for-scrap-when-remodeling)
 - [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
-- [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
-- [Lifehacker] [You Can Connect Your Apple Card and Cash Spending to These iOS Budgeting Apps](https://lifehacker.com/tech/how-to-connect-your-apple-card-to-ios-budgeting-apps)
-- [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)<!-- TECH-POSTS:END -->
 
 ---
 
