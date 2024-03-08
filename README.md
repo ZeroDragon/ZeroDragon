@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Angular: Building Your First Todo List App](https://dev.to/bowen/getting-started-with-angular-building-your-first-todo-list-app-40ck)
 - [Dev.to/JS] [How do I test Signal &amp; Model Inputs?](https://dev.to/this-is-angular/how-do-i-test-signal-model-inputs-2acf)
 - [Dev.to/JS] [How to create an animated hamburger menu](https://dev.to/codeauthor/how-to-create-an-animated-hamburger-menu-2m02)
+- [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)
 - [Dev.to/JS] [Rolldown: why it matters](https://dev.to/justinschroeder/rolldown-why-it-matters-4129)
+- [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
 - [Dev.to/JS] [Crear un menú responsive con CSS y JavaScript](https://dev.to/miguelquispe/crear-un-menu-responsive-con-css-y-javascript-c7k)
 - [Dev.to/JS] [Handling API Errors Safely with a Wrapper Function](https://dev.to/woovi/handling-api-errors-safely-with-a-wrapper-function-5358)
 - [Dev.to/JS] [CypressConf 2024 - Call For Papers](https://dev.to/kailashpathak7/cypressconf-2024-call-for-papers-425)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What you are learning this week ?](https://dev.to/deveshsainii/what-you-are-learning-this-week--n27)
 - [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/mquanit/trace-observe-modern-apps-using-aws-x-ray-2578)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Dev.to/JS] [Build Robust Web Apps Faster: A Beginner&#39;s Guide to Next.js Boilerplate with TypeScript](https://dev.to/nwanoch/build-robust-web-apps-faster-a-beginners-guide-to-nextjs-boilerplate-with-typescript-7n)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
 - [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
-- [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
-- [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
-- [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)<!-- TECH-POSTS:END -->
 
 ---
 
