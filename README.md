@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Art of Software Engineering: Navigating Complexity with Precision](https://dev.to/rohit1415/the-art-of-software-engineering-navigating-complexity-with-precision-i5b)
 - [Dev.to/JS] [Build React Apps Like a Boss: The Ultimate Development Environment Setup React.JS](https://dev.to/sayuj/build-react-apps-like-a-boss-the-ultimate-development-environment-setup-reactjs-3nm9)
 - [Dev.to/JS] [React 101: Your Beginner’s Guide to the Popular JavaScript Library](https://dev.to/sayuj/react-101-your-beginners-guide-to-the-popular-javascript-library-29nb)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [JavaScript: Essential Tricks for Savvy Developers](https://dev.to/ellis22/javascript-essential-tricks-for-savvy-developers-2p49)
 - [Dev.to/JS] [All about routing in React &lpar;Part 1&rpar; ft. react-router-dom](https://dev.to/jmilind1234/all-about-routing-in-react-part-1-ft-react-router-dom-2fd1)
 - [Dev.to/JS] [1 of 365 Coding challenge](https://dev.to/xdmarttt/1-of-365-coding-challenge-41mp)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interview Preparation Tailored for Software Engineers](https://dev.to/coocoon09/interview-preparation-tailored-for-software-engineers-456c)
 - [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
 - [Dev.to/JS] [Breath fellow classmates, breath...](https://dev.to/xyzed3k1ah/breath-fellow-classmates-breath-3feo)
-- [Dev.to/JS] [Understanding Promise in JavaScript with Real Life Example](https://dev.to/sayuj/understanding-promise-in-javascript-with-real-life-example-16i5)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save Money on Childcare by Starting a Babysitting Co-op](https://lifehacker.com/family/how-to-form-a-babysitting-co-op)
 - [Lifehacker] [How to Decide Between the PS5 Digital or Disc Version](https://lifehacker.com/entertainment/ps5-digital-vs-disc)
 - [Lifehacker] [You Can Get Microsoft Office Pro on Sale for $56 Right Now](https://lifehacker.com/microsoft-office-2021-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 7, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
