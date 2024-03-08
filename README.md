@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring JSX: The Gateway to React’s Powerful UI Construction](https://dev.to/gabby1234/exploring-jsx-the-gateway-to-reacts-powerful-ui-construction-2cpc)
+- [Dev.to/JS] [Algumas boas práticas que utilizo diariamente](https://dev.to/girordo/algumas-das-melhores-praticas-que-utilizo-diariamente-41c4)
 - [Dev.to/JS] [Simple update operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-update-operations-in-fauna-query-language-fql-v10-2bh6)
 - [Dev.to/JS] [Completed Scrimba JavaScript Course: My Experience](https://dev.to/r-ddle/completed-scrimba-javascript-course-my-experience-14lm)
 - [Dev.to/JS] [Simple write operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-write-operations-in-fauna-query-language-fql-v10-3lee)
+- [Lifehacker] [You Can Now Save Drafts and Take Pictures in the Threads App](https://lifehacker.com/tech/you-can-now-save-drafts-and-take-pictures-in-threads)
 - [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
 - [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
 - [Dev.to/JS] [Getting Started with Angular: Building Your First Todo List App](https://dev.to/bowen/getting-started-with-angular-building-your-first-todo-list-app-40ck)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling API Errors Safely with a Wrapper Function](https://dev.to/woovi/handling-api-errors-safely-with-a-wrapper-function-5358)
 - [Dev.to/JS] [CypressConf 2024 - Call For Papers](https://dev.to/kailashpathak7/cypressconf-2024-call-for-papers-425)
 - [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
-- [Dev.to/JS] [Build Your Own Uptime Monitor with MeteorJS + Fetch + Plotly.js ☄️🔭](https://dev.to/meteor/build-your-own-uptime-monitor-with-meteorjs-fetch-plotlyjs-4fe0)
-- [Dev.to/JS] [React Code Review - Unraveling A Tightly Coupled Component &amp; Mixed Responsibilities &lpar;Incl Video&rpar;](https://dev.to/profydev/react-code-review-unraveling-a-tightly-coupled-component-mixed-responsibilities-5d6j)
 - [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
 - [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
 - [Lifehacker] [Everything You Should Know About Solar-Powered Security Cameras](https://lifehacker.com/home/everything-about-solar-security-cameras)
-- [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
-- [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)<!-- TECH-POSTS:END -->
 
 ---
 
