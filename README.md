@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
+- [Dev.to/JS] [Breath fellow classmates, breath...](https://dev.to/xyzed3k1ah/breath-fellow-classmates-breath-3feo)
+- [Dev.to/JS] [Understanding Promise in JavaScript with Real Life Example](https://dev.to/sayuj/understanding-promise-in-javascript-with-real-life-example-16i5)
 - [Dev.to/JS] [Getting back on track, the smart way...](https://dev.to/xyzed3k1ah/getting-back-on-track-the-smart-way-2cjk)
 - [Dev.to/JS] [Shift Left API Testing](https://dev.to/sanjaykhanssk/shift-left-api-testing-17kl)
 - [Dev.to/JS] [Where the time flies...](https://dev.to/xyzed3k1ah/where-the-time-flies-pjm)
@@ -42,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons from open-source: Convert an array-like HTML NodeList to a standard javascript array.](https://dev.to/ramunarasinga/lessons-from-open-source-convert-an-array-like-html-nodelist-to-a-standard-javascript-array-5ee9)
 - [Lifehacker] [This High-end Samsung OLED TV Is up to 43% Off Right Now](https://lifehacker.com/tech/samsung-s95c-oled-tv-sale)
 - [Dev.to/JS] [How to Add JavaScript Drill-Through Charts in Your Web Application](https://dev.to/mescius/how-to-add-javascript-drill-through-charts-in-your-web-application-58ie)
-- [Dev.to/JS] [LLM Development with JavaScript: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
 - [Lifehacker] [All the Metal Stuff You Can Sell for Scrap When Remodeling](https://lifehacker.com/money/all-the-metal-stuff-you-can-sell-for-scrap-when-remodeling)
 - [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
 - [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
-- [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 1](https://dev.to/sayuj/10-javascript-tricky-hacks-part-1-52dl)
-- [Dev.to/JS] [how-to-scrape-tripadvisor](https://dev.to/crawlbase/how-to-scrape-tripadvisor-5d0l)
 - [Lifehacker] [You Can Connect Your Apple Card and Cash Spending to These iOS Budgeting Apps](https://lifehacker.com/tech/how-to-connect-your-apple-card-to-ios-budgeting-apps)
 - [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)
 - [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)
