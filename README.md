@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from open-source: Use Symbol in Javascript to avoid name collisions](https://dev.to/ramunarasinga/lessons-from-open-source-use-symbol-in-javascript-to-avoid-name-collisions-5h45)
+- [Dev.to/JS] [webcam effects in javascript](https://dev.to/codescriptcreator/webcam-effects-in-javascript-14d0)
 - [Dev.to/JS] [Create a custom Streamlit component with Alpine.js](https://dev.to/aaronblondeau/create-a-custom-streamlit-component-with-alpinejs-2jf0)
+- [Lifehacker] [Apple Updated Your Other Devices This Week, Too](https://lifehacker.com/tech/apple-updated-other-devices-this-week)
 - [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/imashwani/understanding-hoisting-in-javascript-4ie1)
+- [Lifehacker] [It’s Time to Learn What ‘Core Sleep’ Actually Is](https://lifehacker.com/health/what-is-core-sleep-apple-watch)
 - [Dev.to/JS] [Exploring JSX: The Gateway to React’s Powerful UI Construction](https://dev.to/gabby1234/exploring-jsx-the-gateway-to-reacts-powerful-ui-construction-2cpc)
 - [Lifehacker] [Use ‘DiSSS’ Method to Study More Effectively](https://lifehacker.com/family/disss-method-to-study-more-effectively)
 - [Dev.to/JS] [Algumas boas práticas que utilizo diariamente](https://dev.to/girordo/algumas-das-melhores-praticas-que-utilizo-diariamente-41c4)
@@ -42,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do I test Signal &amp; Model Inputs?](https://dev.to/this-is-angular/how-do-i-test-signal-model-inputs-2acf)
 - [Dev.to/JS] [How to create an animated hamburger menu](https://dev.to/codeauthor/how-to-create-an-animated-hamburger-menu-2m02)
 - [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)
-- [Dev.to/JS] [Rolldown: why it matters](https://dev.to/justinschroeder/rolldown-why-it-matters-4129)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
-- [Dev.to/JS] [Crear un menú responsive con CSS y JavaScript](https://dev.to/miguelquispe/crear-un-menu-responsive-con-css-y-javascript-c7k)
 - [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
 - [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
 - [Lifehacker] [You Can Connect Your Apple Card and Cash Spending to These iOS Budgeting Apps](https://lifehacker.com/tech/how-to-connect-your-apple-card-to-ios-budgeting-apps)
 - [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)
-- [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)
-- [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
-- [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)<!-- TECH-POSTS:END -->
 
 ---
 
