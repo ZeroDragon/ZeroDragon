@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Smart-layout: Unleash UI Freedom for You and Your Users Their Own UI](https://dev.to/juangarcia0323/smart-layout-unleash-ui-freedom-for-you-and-your-users-their-own-ui-4e3h)
+- [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Dev.to/JS] [Conway&#39;s Game of Life in TensorFlow JS](https://dev.to/jgracie52/conways-game-of-life-in-tensorflow-js-3hdf)
 - [Dev.to/JS] [How to Recover Usdt from a Telegram Scam - Consult OMEGA CRYPTO RECOVERY SPECIALIST HACKER](https://dev.to/moyesskye1/how-to-recover-usdt-from-a-telegram-scam-consult-omega-crypto-recovery-specialist-hacker-1h6h)
+- [Lifehacker] [The Best Quad Exercises for Leg Day](https://lifehacker.com/health/the-best-quad-exercises-for-leg-day)
 - [Lifehacker] [Google Hates the SEO Spam as Much as You Do](https://lifehacker.com/tech/google-hates-seo-spam-as-much-as-you-do)
 - [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Dev.to/JS] [Lessons from open-source: Convert an array-like HTML NodeList to a standard javascript array.](https://dev.to/ramunarasinga/lessons-from-open-source-convert-an-array-like-html-nodelist-to-a-standard-javascript-array-5ee9)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 13 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3m94)
 - [Dev.to/JS] [how-to-scrape-google-news](https://dev.to/crawlbase/how-to-scrape-google-news-mpi)
-- [Dev.to/JS] [Unlocking the Power of Mongoose Schemas: Enhancements for Better Data Handling](https://dev.to/justinjdaniel/unlocking-the-power-of-mongoose-schemas-enhancements-for-better-data-handling-l1g)
 - [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
 - [Lifehacker] [Everything You Should Know About Solar-Powered Security Cameras](https://lifehacker.com/home/everything-about-solar-security-cameras)
 - [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
 - [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $128 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
-- [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)
-- [Lifehacker] [The Best Streaming Deals Right Now](https://lifehacker.com/best-streaming-deals)
-- [Lifehacker] [The Smalo LX2 E-bike Is a Joy to Ride, but It’s Not for Everyone](https://lifehacker.com/tech/smalo-lx2-ebike-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)<!-- TECH-POSTS:END -->
 
 ---
 
