@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beyond the Syntax: Mastering the Art of Programming](https://dev.to/maxwill/beyond-the-syntax-mastering-the-art-of-programming-3763)
+- [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/aws-builders/trace-observe-modern-apps-using-aws-x-ray-2bbl)
+- [Dev.to/JS] [Modules in Javascript. Comprehension problems. When and where to outsource what](https://dev.to/sardello/modules-in-javascript-comprehension-problems-when-and-where-to-outsource-what-1fho)
+- [Dev.to/JS] [🚀 Embarking on a Mobile Development Journey: Seeking Guidance and Support 🚀](https://dev.to/kharex71/embarking-on-a-mobile-development-journey-seeking-guidance-and-support-14i9)
 - [Dev.to/JS] [The Art of Software Engineering: Navigating Complexity with Precision](https://dev.to/rohit1415/the-art-of-software-engineering-navigating-complexity-with-precision-i5b)
 - [Dev.to/JS] [Build React Apps Like a Boss: The Ultimate Development Environment Setup React.JS](https://dev.to/sayuj/build-react-apps-like-a-boss-the-ultimate-development-environment-setup-reactjs-3nm9)
 - [Dev.to/JS] [React 101: Your Beginner’s Guide to the Popular JavaScript Library](https://dev.to/sayuj/react-101-your-beginners-guide-to-the-popular-javascript-library-29nb)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [1 of 365 Coding challenge](https://dev.to/xdmarttt/1-of-365-coding-challenge-41mp)
 - [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 3](https://dev.to/sayuj/10-javascript-tricky-hacks-part-3-1jia)
 - [Dev.to/JS] [Build 01 complex frontend feature every week with me.](https://dev.to/swastikyadav/build-01-complex-frontend-feature-every-week-with-me-2jjc)
-- [Dev.to/JS] [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
-- [Dev.to/JS] [Interview Preparation Tailored for Software Engineers](https://dev.to/coocoon09/interview-preparation-tailored-for-software-engineers-456c)
-- [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
-- [Dev.to/JS] [Breath fellow classmates, breath...](https://dev.to/xyzed3k1ah/breath-fellow-classmates-breath-3feo)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
