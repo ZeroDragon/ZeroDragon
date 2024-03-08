@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting back on track, the smart way...](https://dev.to/xyzed3k1ah/getting-back-on-track-the-smart-way-2cjk)
+- [Dev.to/JS] [Shift Left API Testing](https://dev.to/sanjaykhanssk/shift-left-api-testing-17kl)
+- [Dev.to/JS] [Where the time flies...](https://dev.to/xyzed3k1ah/where-the-time-flies-pjm)
+- [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 2](https://dev.to/sayuj/10-javascript-tricky-hacks-part-2-36pp)
+- [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Dev.to/JS] [Smart-layout: Unleash UI Freedom for You and Your Users Their Own UI](https://dev.to/juangarcia0323/smart-layout-unleash-ui-freedom-for-you-and-your-users-their-own-ui-4e3h)
+- [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Dev.to/JS] [Conway&#39;s Game of Life in TensorFlow JS](https://dev.to/jgracie52/conways-game-of-life-in-tensorflow-js-3hdf)
 - [Dev.to/JS] [How to Recover Usdt from a Telegram Scam - Consult OMEGA CRYPTO RECOVERY SPECIALIST HACKER](https://dev.to/moyesskye1/how-to-recover-usdt-from-a-telegram-scam-consult-omega-crypto-recovery-specialist-hacker-1h6h)
@@ -43,13 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 1](https://dev.to/sayuj/10-javascript-tricky-hacks-part-1-52dl)
 - [Dev.to/JS] [how-to-scrape-tripadvisor](https://dev.to/crawlbase/how-to-scrape-tripadvisor-5d0l)
 - [Lifehacker] [You Can Connect Your Apple Card and Cash Spending to These iOS Budgeting Apps](https://lifehacker.com/tech/how-to-connect-your-apple-card-to-ios-budgeting-apps)
-- [Dev.to/JS] [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
 - [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)
-- [Dev.to/JS] [Sync Vs Defer in JavaScript](https://dev.to/gabby1234/sync-vs-defer-in-javascript-16n6)
 - [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)
 - [Lifehacker] [How to Play Instagram&#39;s Hidden DM Game](https://lifehacker.com/tech/how-to-play-instagrams-hidden-dm-game)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 13 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3m94)
-- [Dev.to/JS] [how-to-scrape-google-news](https://dev.to/crawlbase/how-to-scrape-google-news-mpi)
 - [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
 - [Lifehacker] [Everything You Should Know About Solar-Powered Security Cameras](https://lifehacker.com/home/everything-about-solar-security-cameras)
 - [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $36 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [What to Eat After a Workout](https://lifehacker.com/health/what-to-eat-after-a-workout)
 - [Lifehacker] [Tidal’s Prices Are Dropping &lpar;by a Lot&rpar;](https://lifehacker.com/tech/tidal-price-drop)
-- [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)
-- [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $128 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
-- [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Waze Just Gave You Six More Reasons to Ditch Google Maps](https://lifehacker.com/tech/new-waze-maps-features)<!-- TECH-POSTS:END -->
 
 ---
 
