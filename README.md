@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
 - [Dev.to/JS] [Interview Preparation Tailored for Software Engineers](https://dev.to/coocoon09/interview-preparation-tailored-for-software-engineers-456c)
 - [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
 - [Dev.to/JS] [Breath fellow classmates, breath...](https://dev.to/xyzed3k1ah/breath-fellow-classmates-breath-3feo)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Quad Exercises for Leg Day](https://lifehacker.com/health/the-best-quad-exercises-for-leg-day)
 - [Lifehacker] [Google Hates the SEO Spam as Much as You Do](https://lifehacker.com/tech/google-hates-seo-spam-as-much-as-you-do)
 - [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
-- [Dev.to/JS] [Lessons from open-source: Convert an array-like HTML NodeList to a standard javascript array.](https://dev.to/ramunarasinga/lessons-from-open-source-convert-an-array-like-html-nodelist-to-a-standard-javascript-array-5ee9)
 - [Lifehacker] [This High-end Samsung OLED TV Is up to 43% Off Right Now](https://lifehacker.com/tech/samsung-s95c-oled-tv-sale)
 - [Lifehacker] [All the Metal Stuff You Can Sell for Scrap When Remodeling](https://lifehacker.com/money/all-the-metal-stuff-you-can-sell-for-scrap-when-remodeling)
 - [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
