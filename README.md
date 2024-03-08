@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple update operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-update-operations-in-fauna-query-language-fql-v10-2bh6)
+- [Dev.to/JS] [Completed Scrimba JavaScript Course: My Experience](https://dev.to/r-ddle/completed-scrimba-javascript-course-my-experience-14lm)
+- [Dev.to/JS] [Simple write operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-write-operations-in-fauna-query-language-fql-v10-3lee)
+- [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
+- [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
 - [Dev.to/JS] [Getting Started with Angular: Building Your First Todo List App](https://dev.to/bowen/getting-started-with-angular-building-your-first-todo-list-app-40ck)
 - [Dev.to/JS] [How do I test Signal &amp; Model Inputs?](https://dev.to/this-is-angular/how-do-i-test-signal-model-inputs-2acf)
 - [Dev.to/JS] [How to create an animated hamburger menu](https://dev.to/codeauthor/how-to-create-an-animated-hamburger-menu-2m02)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Your Own Uptime Monitor with MeteorJS + Fetch + Plotly.js ☄️🔭](https://dev.to/meteor/build-your-own-uptime-monitor-with-meteorjs-fetch-plotlyjs-4fe0)
 - [Dev.to/JS] [React Code Review - Unraveling A Tightly Coupled Component &amp; Mixed Responsibilities &lpar;Incl Video&rpar;](https://dev.to/profydev/react-code-review-unraveling-a-tightly-coupled-component-mixed-responsibilities-5d6j)
 - [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
-- [Dev.to/JS] [Mastering Props and State Management in React](https://dev.to/sayuj/mastering-props-and-state-management-in-react-h2l)
-- [Dev.to/JS] [What you are learning this week ?](https://dev.to/deveshsainii/what-you-are-learning-this-week--n27)
-- [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/mquanit/trace-observe-modern-apps-using-aws-x-ray-2578)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
 - [Lifehacker] [Everything You Should Know About Solar-Powered Security Cameras](https://lifehacker.com/home/everything-about-solar-security-cameras)
 - [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
-- [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)
-- [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
-- [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)<!-- TECH-POSTS:END -->
 
 ---
 
