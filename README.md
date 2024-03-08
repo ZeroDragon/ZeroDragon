@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conway&#39;s Game of Life in TensorFlow JS](https://dev.to/jgracie52/conways-game-of-life-in-tensorflow-js-3hdf)
+- [Dev.to/JS] [How to Recover Usdt from a Telegram Scam - Consult OMEGA CRYPTO RECOVERY SPECIALIST HACKER](https://dev.to/moyesskye1/how-to-recover-usdt-from-a-telegram-scam-consult-omega-crypto-recovery-specialist-hacker-1h6h)
+- [Lifehacker] [Google Hates the SEO Spam as Much as You Do](https://lifehacker.com/tech/google-hates-seo-spam-as-much-as-you-do)
+- [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Dev.to/JS] [Lessons from open-source: Convert an array-like HTML NodeList to a standard javascript array.](https://dev.to/ramunarasinga/lessons-from-open-source-convert-an-array-like-html-nodelist-to-a-standard-javascript-array-5ee9)
 - [Lifehacker] [This High-end Samsung OLED TV Is up to 43% Off Right Now](https://lifehacker.com/tech/samsung-s95c-oled-tv-sale)
 - [Dev.to/JS] [How to Add JavaScript Drill-Through Charts in Your Web Application](https://dev.to/mescius/how-to-add-javascript-drill-through-charts-in-your-web-application-58ie)
@@ -46,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Power of Mongoose Schemas: Enhancements for Better Data Handling](https://dev.to/justinjdaniel/unlocking-the-power-of-mongoose-schemas-enhancements-for-better-data-handling-l1g)
 - [Lifehacker] [A Complete Guide to Customizing Apple CarPlay](https://lifehacker.com/tech/a-complete-guide-to-customizing-apple-carplay)
 - [Lifehacker] [Everything You Should Know About Solar-Powered Security Cameras](https://lifehacker.com/home/everything-about-solar-security-cameras)
-- [Dev.to/JS] [Building a Weather App with React, OpenWeatherMap API, Wijmo Gauges](https://dev.to/mescius/building-a-weather-app-with-react-openweathermap-api-wijmo-gauges-2ej7)
 - [Lifehacker] [Even Doors and Windows Can Be Smart Now](https://lifehacker.com/tech/best-smart-doors-and-windows)
-- [Dev.to/JS] [Most important concepts in React](https://dev.to/sebastian9995/most-important-concepts-in-react-3oal)
 - [Lifehacker] [How to Spot a Fake IRS Letter](https://lifehacker.com/how-to-spot-a-fake-irs-letter)
 - [Lifehacker] [Switchbot&#39;s New Smart Lock Retrofits on Any Deadbolt](https://lifehacker.com/tech/switchbot-launches-retrofit-smart-lock)
 - [Lifehacker] [The Best Non-Kindle E-readers You Can Buy Right Now](https://lifehacker.com/tech/best-non-kindle-ereaders)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $128 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [These Samsung Monitors Are on Sale for up to 44% Off](https://lifehacker.com/tech/samsung-monitor-sale)
 - [Lifehacker] [The Best Streaming Deals Right Now](https://lifehacker.com/best-streaming-deals)
-- [Lifehacker] [The Smalo LX2 E-bike Is a Joy to Ride, but It’s Not for Everyone](https://lifehacker.com/tech/smalo-lx2-ebike-review)
-- [Lifehacker] [Apple Just Blocked Epic Games From Starting an App Store in the EU](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
-- [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Smalo LX2 E-bike Is a Joy to Ride, but It’s Not for Everyone](https://lifehacker.com/tech/smalo-lx2-ebike-review)<!-- TECH-POSTS:END -->
 
 ---
 
