@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interview Preparation Tailored for Software Engineers](https://dev.to/coocoon09/interview-preparation-tailored-for-software-engineers-456c)
 - [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
 - [Dev.to/JS] [Breath fellow classmates, breath...](https://dev.to/xyzed3k1ah/breath-fellow-classmates-breath-3feo)
 - [Dev.to/JS] [Understanding Promise in JavaScript with Real Life Example](https://dev.to/sayuj/understanding-promise-in-javascript-with-real-life-example-16i5)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Dev.to/JS] [Lessons from open-source: Convert an array-like HTML NodeList to a standard javascript array.](https://dev.to/ramunarasinga/lessons-from-open-source-convert-an-array-like-html-nodelist-to-a-standard-javascript-array-5ee9)
 - [Lifehacker] [This High-end Samsung OLED TV Is up to 43% Off Right Now](https://lifehacker.com/tech/samsung-s95c-oled-tv-sale)
-- [Dev.to/JS] [How to Add JavaScript Drill-Through Charts in Your Web Application](https://dev.to/mescius/how-to-add-javascript-drill-through-charts-in-your-web-application-58ie)
 - [Lifehacker] [All the Metal Stuff You Can Sell for Scrap When Remodeling](https://lifehacker.com/money/all-the-metal-stuff-you-can-sell-for-scrap-when-remodeling)
 - [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
 - [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
