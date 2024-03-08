@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tech gems 👁️ #3: Node.js redesign, Memory-safe languages and Tailwind V4](https://dev.to/adri_zag/tech-gems-3-nodejs-redesign-memory-safe-languages-and-tailwind-v4-152k)
+- [Dev.to/JS] [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
+- [Dev.to/JS] [Building UI Elements with JSX and Components](https://dev.to/sayuj/building-ui-elements-with-jsx-and-components-ce7)
+- [Dev.to/JS] [Introdução Tagueamento](https://dev.to/brgsx/introducao-tagueamento-4lfo)
 - [Dev.to/JS] [Beyond the Syntax: Mastering the Art of Programming](https://dev.to/maxwill/beyond-the-syntax-mastering-the-art-of-programming-3763)
 - [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/aws-builders/trace-observe-modern-apps-using-aws-x-ray-2bbl)
 - [Dev.to/JS] [Modules in Javascript. Comprehension problems. When and where to outsource what](https://dev.to/sardello/modules-in-javascript-comprehension-problems-when-and-where-to-outsource-what-1fho)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 101: Your Beginner’s Guide to the Popular JavaScript Library](https://dev.to/sayuj/react-101-your-beginners-guide-to-the-popular-javascript-library-29nb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [JavaScript: Essential Tricks for Savvy Developers](https://dev.to/ellis22/javascript-essential-tricks-for-savvy-developers-2p49)
-- [Dev.to/JS] [All about routing in React &lpar;Part 1&rpar; ft. react-router-dom](https://dev.to/jmilind1234/all-about-routing-in-react-part-1-ft-react-router-dom-2fd1)
-- [Dev.to/JS] [1 of 365 Coding challenge](https://dev.to/xdmarttt/1-of-365-coding-challenge-41mp)
-- [Dev.to/JS] [10 JavaScript Tricky Hacks - Part 3](https://dev.to/sayuj/10-javascript-tricky-hacks-part-3-1jia)
-- [Dev.to/JS] [Build 01 complex frontend feature every week with me.](https://dev.to/swastikyadav/build-01-complex-frontend-feature-every-week-with-me-2jjc)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
