@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build React Apps Like a Boss: The Ultimate Development Environment Setup React.JS](https://dev.to/sayuj/build-react-apps-like-a-boss-the-ultimate-development-environment-setup-reactjs-3nm9)
+- [Dev.to/JS] [React 101: Your Beginner’s Guide to the Popular JavaScript Library](https://dev.to/sayuj/react-101-your-beginners-guide-to-the-popular-javascript-library-29nb)
 - [Dev.to/JS] [JavaScript: Essential Tricks for Savvy Developers](https://dev.to/ellis22/javascript-essential-tricks-for-savvy-developers-2p49)
 - [Dev.to/JS] [All about routing in React &lpar;Part 1&rpar; ft. react-router-dom](https://dev.to/jmilind1234/all-about-routing-in-react-part-1-ft-react-router-dom-2fd1)
 - [Dev.to/JS] [1 of 365 Coding challenge](https://dev.to/xdmarttt/1-of-365-coding-challenge-41mp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking SEO Excellence Introduction Google SEO Updates 2024 Jackyan](https://dev.to/webdosolutions/unlocking-seo-excellence-introduction-google-seo-updates-2024-jackyan-196i)
 - [Dev.to/JS] [Breath fellow classmates, breath...](https://dev.to/xyzed3k1ah/breath-fellow-classmates-breath-3feo)
 - [Dev.to/JS] [Understanding Promise in JavaScript with Real Life Example](https://dev.to/sayuj/understanding-promise-in-javascript-with-real-life-example-16i5)
-- [Dev.to/JS] [Getting back on track, the smart way...](https://dev.to/xyzed3k1ah/getting-back-on-track-the-smart-way-2cjk)
-- [Dev.to/JS] [Shift Left API Testing](https://dev.to/sanjaykhanssk/shift-left-api-testing-17kl)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
