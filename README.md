@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue.js tips – Scoped slot props and how to type them](https://dev.to/aloisseckar/vuejs-tips-scoped-slot-props-and-how-to-type-them-lph)
+- [Dev.to/JS] [Como decidir quando utilizar um método de Array](https://dev.to/terminalcoffee/como-decidir-quando-utilizar-um-metodo-de-array-4io3)
 - [Dev.to/JS] [Lessons from open-source: Use Symbol in Javascript to avoid name collisions](https://dev.to/ramunarasinga/lessons-from-open-source-use-symbol-in-javascript-to-avoid-name-collisions-5h45)
+- [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals)
 - [Dev.to/JS] [webcam effects in javascript](https://dev.to/codescriptcreator/webcam-effects-in-javascript-14d0)
+- [Lifehacker] [Sony Just Released a New PS5 Slim Digital &#39;Spider-Man 2&#39; Bundle for $399.99](https://lifehacker.com/entertainment/sony-ps5-slim-digital-bundle-sale)
 - [Dev.to/JS] [Create a custom Streamlit component with Alpine.js](https://dev.to/aaronblondeau/create-a-custom-streamlit-component-with-alpinejs-2jf0)
 - [Lifehacker] [Apple Updated Your Other Devices This Week, Too](https://lifehacker.com/tech/apple-updated-other-devices-this-week)
 - [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/imashwani/understanding-hoisting-in-javascript-4ie1)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
 - [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
 - [Dev.to/JS] [Getting Started with Angular: Building Your First Todo List App](https://dev.to/bowen/getting-started-with-angular-building-your-first-todo-list-app-40ck)
-- [Dev.to/JS] [How do I test Signal &amp; Model Inputs?](https://dev.to/this-is-angular/how-do-i-test-signal-model-inputs-2acf)
-- [Dev.to/JS] [How to create an animated hamburger menu](https://dev.to/codeauthor/how-to-create-an-animated-hamburger-menu-2m02)
 - [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
 - [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
@@ -55,7 +57,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
-- [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [The Best Quad Exercises for Leg Day](https://lifehacker.com/health/the-best-quad-exercises-for-leg-day)
 - [Lifehacker] [Google Hates the SEO Spam as Much as You Do](https://lifehacker.com/tech/google-hates-seo-spam-as-much-as-you-do)
 - [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
 - [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)
 - [Lifehacker] [You Can Connect Your Apple Card and Cash Spending to These iOS Budgeting Apps](https://lifehacker.com/tech/how-to-connect-your-apple-card-to-ios-budgeting-apps)
-- [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)
-- [Lifehacker] [Conduct a Personal ‘After-Action Review’ to Improve Your Productivity](https://lifehacker.com/work/conduct-personal-after-action-review-to-improve-productivity)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Verizon Will Give You $200 and a Nintendo Switch for Signing up for Home Internet](https://lifehacker.com/entertainment/verizon-wants-to-give-you-a-free-nintendo-switch)<!-- TECH-POSTS:END -->
 
 ---
 
