@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crear un menú responsive con CSS y JavaScript](https://dev.to/miguelquispe/crear-un-menu-responsive-con-css-y-javascript-c7k)
+- [Dev.to/JS] [Handling API Errors Safely with a Wrapper Function](https://dev.to/woovi/handling-api-errors-safely-with-a-wrapper-function-5358)
+- [Dev.to/JS] [CypressConf 2024 - Call For Papers](https://dev.to/kailashpathak7/cypressconf-2024-call-for-papers-425)
 - [Dev.to/JS] [Build Your Own Uptime Monitor with MeteorJS + Fetch + Plotly.js ☄️🔭](https://dev.to/meteor/build-your-own-uptime-monitor-with-meteorjs-fetch-plotlyjs-4fe0)
 - [Dev.to/JS] [React Code Review - Unraveling A Tightly Coupled Component &amp; Mixed Responsibilities &lpar;Incl Video&rpar;](https://dev.to/profydev/react-code-review-unraveling-a-tightly-coupled-component-mixed-responsibilities-5d6j)
 - [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
 - [Dev.to/JS] [Building UI Elements with JSX and Components](https://dev.to/sayuj/building-ui-elements-with-jsx-and-components-ce7)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
-- [Dev.to/JS] [Introdução Tagueamento](https://dev.to/brgsx/introducao-tagueamento-4lfo)
-- [Dev.to/JS] [Beyond the Syntax: Mastering the Art of Programming](https://dev.to/maxwill/beyond-the-syntax-mastering-the-art-of-programming-3763)
-- [Dev.to/JS] [Trace &amp; Observe Modern Apps using AWS X-Ray](https://dev.to/aws-builders/trace-observe-modern-apps-using-aws-x-ray-2bbl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 8, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
