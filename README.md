@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Breathing difficult &lpar;Issue #154&rpar;](https://dev.to/mjgs/latest-newsletter-breathing-difficult-issue-154-mh1)
+- [Dev.to/JS] [Ikkinchi dars cin qilish](https://dev.to/zafar7709/ikkinchi-dars-cin-qilish-259d)
+- [Dev.to/JS] [Birinchi dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-5g22)
+- [Dev.to/JS] [JavaScript Variables.](https://dev.to/daluclemas/javascript-variables-8d2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 9, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Best Real Estate App Development Company: Best Real Estate App Developers in 2024](https://dev.to/kumarsunil/best-real-estate-app-development-company-best-real-estate-app-developers-in-2024-4hca)
 - [Dev.to/JS] [Elevating UI Development Process: 10 Essential Strategies](https://dev.to/srivastavabhi001/elevating-ui-development-process-10-essential-strategies-1m0)
@@ -41,13 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Woot Is Selling the Meta Quest 2 for Its Lowest Price Ever](https://lifehacker.com/tech/the-meta-quest-2-woot-sale)
 - [Dev.to/JS] [Como decidir quando utilizar um método de Array](https://dev.to/terminalcoffee/como-decidir-quando-utilizar-um-metodo-de-array-4io3)
 - [Lifehacker] [JK, Apple Will Let Epic Games Start an EU App Store After All](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
-- [Dev.to/JS] [Lessons from open-source: Use Symbol in Javascript to avoid name collisions](https://dev.to/ramunarasinga/lessons-from-open-source-use-symbol-in-javascript-to-avoid-name-collisions-5h45)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals)
-- [Dev.to/JS] [webcam effects in javascript](https://dev.to/codescriptcreator/webcam-effects-in-javascript-14d0)
 - [Lifehacker] [Sony Just Released a New PS5 Slim Digital &#39;Spider-Man 2&#39; Bundle for $399.99](https://lifehacker.com/entertainment/sony-ps5-slim-digital-bundle-sale)
-- [Dev.to/JS] [Create a custom Streamlit component with Alpine.js](https://dev.to/aaronblondeau/create-a-custom-streamlit-component-with-alpinejs-2jf0)
 - [Lifehacker] [Apple Updated Your Other Devices This Week, Too](https://lifehacker.com/tech/apple-updated-other-devices-this-week)
-- [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/imashwani/understanding-hoisting-in-javascript-4ie1)
 - [Lifehacker] [It’s Time to Learn What ‘Core Sleep’ Actually Is](https://lifehacker.com/health/what-is-core-sleep-apple-watch)
 - [Lifehacker] [Use ‘DiSSS’ Method to Study More Effectively](https://lifehacker.com/family/disss-method-to-study-more-effectively)
 - [Lifehacker] [The Weirdest Side Hustles That Can Make You Real Money](https://lifehacker.com/money/the-weirdest-side-hustles-that-can-make-money)
