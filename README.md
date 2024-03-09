@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrow Funcion In javascript](https://dev.to/mahimabhardwaj/arrow-funcion-in-javascript-mgj)
+- [Dev.to/JS] [Master the Art of Writing and Launching Your Own Modern JavaScript and Typescript Library in 2024](https://dev.to/jfmelo/master-the-art-of-writing-and-launching-your-own-modern-javascript-and-typescript-library-in-2024-4p50)
 - [Dev.to/JS] [Top 10 Mistakes To Avoid When Using React in 2024](https://dev.to/sufian/top-10-mistakes-to-avoid-when-using-react-in-2024-1o3m)
 - [Dev.to/JS] [Embrace the AI Revolution: Explore Text Transformation with Transformers.js in JavaScript](https://dev.to/robertobutti/embrace-the-ai-revolution-explore-text-transformation-with-transformerjs-in-javascript-27l8)
 - [Dev.to/JS] [How I Coded a game of Asteroids while dealing with SVG paths in P5](https://dev.to/hendrikras/coding-a-game-of-asteroids-while-dealing-with-svg-paths-in-p5-4baa)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Meditations — Chapter 3: Sliding Window](https://dev.to/rivea0/leetcode-meditations-chapter-3-sliding-window-i36)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/carlosnwarnerb21/buy-google-voice-accounts-23og)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/carlosnwarnerb21/buy-google-5-star-reviews-5ggp)
-- [Dev.to/JS] [Introducing data-standards: Simplifying Data Standardization](https://dev.to/desouky95/introducing-data-standards-simplifying-data-standardization-4nj4)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/carlosnwarnerb21/buy-verified-cash-app-account-3i2o)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
