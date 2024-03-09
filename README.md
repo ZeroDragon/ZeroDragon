@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/carlosnwarnerb21/buy-negative-google-reviews-2mbi)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/carlosnwarnerb21/buy-old-gmail-accounts-5g4h)
+- [Dev.to/JS] [LeetCode Meditations — Chapter 3: Sliding Window](https://dev.to/rivea0/leetcode-meditations-chapter-3-sliding-window-i36)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/carlosnwarnerb21/buy-google-voice-accounts-23og)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/carlosnwarnerb21/buy-google-5-star-reviews-5ggp)
 - [Dev.to/JS] [Introducing data-standards: Simplifying Data Standardization](https://dev.to/desouky95/introducing-data-standards-simplifying-data-standardization-4nj4)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Time to intercept...](https://dev.to/ethernmyth/time-to-intercept-1150)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/carlosnwarnerb21/buy-verified-paxful-account-42ik)
 - [Dev.to/JS] [🔥 Top 10 Best Websites to Learn Coding for Free! 💻](https://dev.to/aayush518/top-10-best-websites-to-learn-coding-for-free-1llk)
-- [Dev.to/JS] [Biometric authentication with Passkeys](https://dev.to/meldiron/biometric-authentication-with-passkeys-3e1)
-- [Dev.to/JS] [Full Backend Project Setup And Structure in NodeJS Part - 1](https://dev.to/shaon07/full-backend-project-setup-and-structure-in-nodejs-part-1-188g)
-- [Dev.to/JS] [API Gateway with CORS, Lambdas, and CRUD on DynamoDB using AWS CDK Typescript](https://dev.to/joelwembo/api-gateway-with-cors-lambdas-and-crud-on-dynamodb-using-aws-cdk-typescript-3h6)
-- [Dev.to/JS] [Argument of type &#39;HTMLInputElement&#39; is not assignable to parameter of type &#39;SetStateAction&lt;string&gt;&#39; TypeScript Error](https://dev.to/wonuola_w/argument-of-type-htmlinputelement-is-not-assignable-to-parameter-of-type-setstateaction-typescript-error-21fa)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
