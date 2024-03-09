@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering TypeScript Generics: A Comprehensive Beginner&#39;s Guide](https://dev.to/junaidkhan/mastering-typescript-generics-a-comprehensive-beginners-guide-3ei4)
 - [Dev.to/JS] [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/carlosnwarnerb21/buy-negative-google-reviews-2mbi)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/carlosnwarnerb21/buy-old-gmail-accounts-5g4h)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Websites for IT Training, Programming, and More](https://dev.to/aayush518/60-websites-for-it-training-programming-and-more-a2d)
 - [Dev.to/JS] [Time to intercept...](https://dev.to/ethernmyth/time-to-intercept-1150)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/carlosnwarnerb21/buy-verified-paxful-account-42ik)
-- [Dev.to/JS] [🔥 Top 10 Best Websites to Learn Coding for Free! 💻](https://dev.to/aayush518/top-10-best-websites-to-learn-coding-for-free-1llk)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
