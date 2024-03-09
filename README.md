@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
+- [Dev.to/JS] [WHAT TO DO IF SCAMMED IN CRYPTOCURRENCY: GEARHEAD ENGINEERS ORG INTERVENTION](https://dev.to/sofiema/what-to-do-if-scammed-in-cryptocurrency-gearhead-engineers-org-intervention-1c48)
+- [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Dev.to/JS] [Transforming Data: Using Transform Streams](https://dev.to/ruben_alapont/transforming-data-using-transform-streams-48lm)
+- [Lifehacker] [How to Choose Between the M2 and M3 MacBook Air](https://lifehacker.com/tech/m3-versus-m2-macbook-air)
+- [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
 - [Dev.to/JS] [Migrate to Turso From PlanetScale](https://dev.to/swalker326/migrate-to-turso-from-planetscale-3gg3)
+- [Lifehacker] [You Can Use Progressive Muscle Relaxation to Destress at Work](https://lifehacker.com/work/use-progressive-muscle-relaxation-to-destress-at-work)
 - [Dev.to/JS] [Vue.js tips – Scoped slot props and how to type them](https://dev.to/aloisseckar/vuejs-tips-scoped-slot-props-and-how-to-type-them-lph)
 - [Lifehacker] [Woot Is Selling the Meta Quest 2 for Its Lowest Price Ever](https://lifehacker.com/tech/the-meta-quest-2-woot-sale)
 - [Dev.to/JS] [Como decidir quando utilizar um método de Array](https://dev.to/terminalcoffee/como-decidir-quando-utilizar-um-metodo-de-array-4io3)
@@ -44,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use ‘DiSSS’ Method to Study More Effectively](https://lifehacker.com/family/disss-method-to-study-more-effectively)
 - [Dev.to/JS] [Algumas boas práticas que utilizo diariamente](https://dev.to/girordo/algumas-das-melhores-praticas-que-utilizo-diariamente-41c4)
 - [Lifehacker] [The Weirdest Side Hustles That Can Make You Real Money](https://lifehacker.com/money/the-weirdest-side-hustles-that-can-make-money)
-- [Dev.to/JS] [Simple update operations in Fauna Query Language &lpar;FQL v10&rpar;](https://dev.to/nosqlknowhow/simple-update-operations-in-fauna-query-language-fql-v10-2bh6)
-- [Dev.to/JS] [Completed Scrimba JavaScript Course: My Experience](https://dev.to/r-ddle/completed-scrimba-javascript-course-my-experience-14lm)
 - [Lifehacker] [You Can Now Save Drafts and Take Pictures in the Threads App](https://lifehacker.com/tech/you-can-now-save-drafts-and-take-pictures-in-threads)
 - [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
 - [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)
 - [Lifehacker] [The Best Quad Exercises for Leg Day](https://lifehacker.com/health/the-best-quad-exercises-for-leg-day)
 - [Lifehacker] [Google Hates the SEO Spam as Much as You Do](https://lifehacker.com/tech/google-hates-seo-spam-as-much-as-you-do)
-- [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
-- [Lifehacker] [This High-end Samsung OLED TV Is up to 43% Off Right Now](https://lifehacker.com/tech/samsung-s95c-oled-tv-sale)
-- [Lifehacker] [All the Metal Stuff You Can Sell for Scrap When Remodeling](https://lifehacker.com/money/all-the-metal-stuff-you-can-sell-for-scrap-when-remodeling)
-- [Lifehacker] [The M3 MacBook&#39;s Dual Monitor Support Is a Big Deal](https://lifehacker.com/tech/m3-macbook-air-dual-monitor-support)
-- [Lifehacker] [TikTok Wants You to Help Stop a US TikTok Ban](https://lifehacker.com/tech/tiktok-bill-ban-in-the-us)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Skoove Premium Piano Lessons Are on Sale for $120 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)<!-- TECH-POSTS:END -->
 
 ---
 
