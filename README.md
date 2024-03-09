@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue 3 Currency Converter Component](https://dev.to/zorine/vue-3-currency-converter-component-1dn9)
+- [Dev.to/JS] [Dependency Injection, Inversion of Control &amp; Jails 5](https://dev.to/javiani/dependency-injection-inversion-of-control-jails-5-252b)
+- [Dev.to/JS] [WebSockets Explained Under 10 Minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/websockets-explained-under-10-minutes-with-visuals-3ocl)
 - [Dev.to/JS] [Arrow Funcion In javascript](https://dev.to/mahimabhardwaj/arrow-funcion-in-javascript-mgj)
 - [Dev.to/JS] [Master the Art of Writing and Launching Your Own Modern JavaScript and Typescript Library in 2024](https://dev.to/jfmelo/master-the-art-of-writing-and-launching-your-own-modern-javascript-and-typescript-library-in-2024-4p50)
 - [Dev.to/JS] [Top 10 Mistakes To Avoid When Using React in 2024](https://dev.to/sufian/top-10-mistakes-to-avoid-when-using-react-in-2024-1o3m)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/carlosnwarnerb21/buy-negative-google-reviews-2mbi)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/carlosnwarnerb21/buy-old-gmail-accounts-5g4h)
-- [Dev.to/JS] [LeetCode Meditations — Chapter 3: Sliding Window](https://dev.to/rivea0/leetcode-meditations-chapter-3-sliding-window-i36)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/carlosnwarnerb21/buy-google-voice-accounts-23og)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/carlosnwarnerb21/buy-google-5-star-reviews-5ggp)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
