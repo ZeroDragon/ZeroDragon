@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Real Estate App Development Company: Best Real Estate App Developers in 2024](https://dev.to/kumarsunil/best-real-estate-app-development-company-best-real-estate-app-developers-in-2024-4hca)
+- [Dev.to/JS] [Elevating UI Development Process: 10 Essential Strategies](https://dev.to/srivastavabhi001/elevating-ui-development-process-10-essential-strategies-1m0)
 - [Dev.to/JS] [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
 - [Dev.to/JS] [WHAT TO DO IF SCAMMED IN CRYPTOCURRENCY: GEARHEAD ENGINEERS ORG INTERVENTION](https://dev.to/sofiema/what-to-do-if-scammed-in-cryptocurrency-gearhead-engineers-org-intervention-1c48)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Updated Your Other Devices This Week, Too](https://lifehacker.com/tech/apple-updated-other-devices-this-week)
 - [Dev.to/JS] [Understanding Hoisting in JavaScript](https://dev.to/imashwani/understanding-hoisting-in-javascript-4ie1)
 - [Lifehacker] [It’s Time to Learn What ‘Core Sleep’ Actually Is](https://lifehacker.com/health/what-is-core-sleep-apple-watch)
-- [Dev.to/JS] [Exploring JSX: The Gateway to React’s Powerful UI Construction](https://dev.to/gabby1234/exploring-jsx-the-gateway-to-reacts-powerful-ui-construction-2cpc)
 - [Lifehacker] [Use ‘DiSSS’ Method to Study More Effectively](https://lifehacker.com/family/disss-method-to-study-more-effectively)
-- [Dev.to/JS] [Algumas boas práticas que utilizo diariamente](https://dev.to/girordo/algumas-das-melhores-praticas-que-utilizo-diariamente-41c4)
 - [Lifehacker] [The Weirdest Side Hustles That Can Make You Real Money](https://lifehacker.com/money/the-weirdest-side-hustles-that-can-make-money)
 - [Lifehacker] [You Can Now Save Drafts and Take Pictures in the Threads App](https://lifehacker.com/tech/you-can-now-save-drafts-and-take-pictures-in-threads)
 - [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
