@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embrace the AI Revolution: Explore Text Transformation with Transformers.js in JavaScript](https://dev.to/robertobutti/embrace-the-ai-revolution-explore-text-transformation-with-transformerjs-in-javascript-27l8)
+- [Dev.to/JS] [How I Coded a game of Asteroids while dealing with SVG paths in P5](https://dev.to/hendrikras/coding-a-game-of-asteroids-while-dealing-with-svg-paths-in-p5-4baa)
 - [Dev.to/JS] [Mastering TypeScript Generics: A Comprehensive Beginner&#39;s Guide](https://dev.to/junaidkhan/mastering-typescript-generics-a-comprehensive-beginners-guide-3ei4)
 - [Dev.to/JS] [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/carlosnwarnerb21/buy-negative-google-reviews-2mbi)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing data-standards: Simplifying Data Standardization](https://dev.to/desouky95/introducing-data-standards-simplifying-data-standardization-4nj4)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/carlosnwarnerb21/buy-verified-cash-app-account-3i2o)
 - [Dev.to/JS] [Websites for IT Training, Programming, and More](https://dev.to/aayush518/60-websites-for-it-training-programming-and-more-a2d)
-- [Dev.to/JS] [Time to intercept...](https://dev.to/ethernmyth/time-to-intercept-1150)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/carlosnwarnerb21/buy-verified-paxful-account-42ik)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
