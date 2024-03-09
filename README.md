@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JSX in React](https://dev.to/shaon07/understanding-jsx-in-react-5f7j)
+- [Dev.to/JS] [Forming a Magic Square &lpar;Day 2 of 365&rpar;](https://dev.to/xdmarttt/forming-a-magic-square-day-2-of-365-43a)
 - [Dev.to/JS] [Exploring JSON stringify](https://dev.to/plsr/exploring-json-stringify-3j22)
 - [Dev.to/JS] [Is server side rendering always good?](https://dev.to/codeparrot/is-server-side-rendering-always-good-5g9f)
 - [Dev.to/JS] [Unlocking Real-Time Applications with Node.js and WebSocket: A Developer&#39;s Guide](https://dev.to/nitin-rachabathuni/unlocking-real-time-applications-with-nodejs-and-websocket-a-developers-guide-3hf)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Variables.](https://dev.to/tochi_/javascript-variables-8d2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 9, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Best Real Estate App Development Company: Best Real Estate App Developers in 2024](https://dev.to/kumarsunil/best-real-estate-app-development-company-best-real-estate-app-developers-in-2024-4hca)
-- [Dev.to/JS] [Elevating UI Development Process: 10 Essential Strategies](https://dev.to/srivastavabhi001/elevating-ui-development-process-10-essential-strategies-1m0)
-- [Dev.to/JS] [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [How to Choose Between the M2 and M3 MacBook Air](https://lifehacker.com/tech/m3-versus-m2-macbook-air)
 - [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
