@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using `!!` to Convert to Boolean](https://dev.to/withrvr/using-to-convert-to-boolean-1hhp)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Unlocking the Power of WebAssembly](https://dev.to/adarshgoyal/unlocking-the-power-of-webassembly-22o)
 - [Dev.to/JS] [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
 - [Dev.to/JS] [Format and Parse Amazon S3 URL](https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10)
@@ -37,11 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automates the consolidation of npm dependencies from different projects into a single new project.](https://dev.to/joseluis18vs/automates-the-consolidation-of-npm-dependencies-from-different-projects-into-a-single-new-project-59g6)
 - [Dev.to/JS] [LeetCode Question 29](https://dev.to/varit05/leetcode-question-29-4bm2)
 - [Dev.to/JS] [Vue 3 Currency Converter Component](https://dev.to/zorine/vue-3-currency-converter-component-1dn9)
-- [Dev.to/JS] [Dependency Injection, Inversion of Control &amp; Jails 5](https://dev.to/javiani/dependency-injection-inversion-of-control-jails-5-252b)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 9, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [How to Choose Between the M2 and M3 MacBook Air](https://lifehacker.com/tech/m3-versus-m2-macbook-air)
 - [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
