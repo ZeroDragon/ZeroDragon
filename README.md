@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Book Club: Eloquent JavaScript. 5 Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-5-functions-4057)
+- [Dev.to/JS] [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
+- [Dev.to/JS] [I just made Gemini Ai clone today using Gemini Ai&#39;s api 😉.](https://dev.to/shanib_c_k/i-just-made-gemini-ai-clone-today-using-gemini-ais-api--8jf)
+- [Dev.to/JS] [All about routing in react &lpar;Part 2&rpar; ft. react-router-dom](https://dev.to/jmilind1234/all-about-routing-in-react-part-2-ft-react-router-dom-2ecn)
 - [Dev.to/JS] [Create a Discord bot with NodeJS](https://dev.to/arindam_1729/create-a-discord-bot-with-nodejs-i5p)
 - [Dev.to/JS] [Unveiling the Magic: A Deep Dive into Software Development](https://dev.to/deanmichel6/unveiling-the-magic-a-deep-dive-into-software-development-6i6)
 - [Dev.to/JS] [Leveraging Custom Hooks in React and Next.js: A Comprehensive Guide](https://dev.to/yugjadvani/leveraging-custom-hooks-in-react-and-nextjs-a-comprehensive-guide-3ig4)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering 3D Experiences with JavaScript and Wix: A Step-by-Step Guide](https://dev.to/yitzi/mastering-3d-experiences-with-javascript-and-wix-a-step-by-step-guide-3ojm)
 - [Dev.to/JS] [Javascript classes explanation in a simple way](https://dev.to/sakul007/javascript-classes-explanation-in-a-simple-way-3n29)
 - [Dev.to/JS] [Leveraging Custom Analytics with commercetools: Tracking What Matters Most](https://dev.to/nitin-rachabathuni/leveraging-custom-analytics-with-commercetools-tracking-what-matters-most-5hn4)
-- [Dev.to/JS] [Typescript Type Aliases](https://dev.to/ccsunnydev/typescript-type-aliases-2l94)
-- [Dev.to/JS] [Typescript Arrays](https://dev.to/ccsunnydev/typescript-arrays-3ao1)
-- [Dev.to/JS] [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/phillipbfowlern/buy-verified-paxful-account-4f9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
