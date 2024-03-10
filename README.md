@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como eu melhorei meus testes utilizando React Context](https://dev.to/alanpinhel/como-eu-melhorei-meus-testes-utilizando-react-context-1f7n)
 - [Dev.to/JS] [Mastering 3D Experiences with JavaScript and Wix: A Step-by-Step Guide](https://dev.to/yitzi/mastering-3d-experiences-with-javascript-and-wix-a-step-by-step-guide-3ojm)
 - [Dev.to/JS] [Javascript classes explanation in a simple way](https://dev.to/sakul007/javascript-classes-explanation-in-a-simple-way-3n29)
 - [Dev.to/JS] [Leveraging Custom Analytics with commercetools: Tracking What Matters Most](https://dev.to/nitin-rachabathuni/leveraging-custom-analytics-with-commercetools-tracking-what-matters-most-5hn4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling File Uploads in Node.js with Multer: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/handling-file-uploads-in-nodejs-with-multer-a-comprehensive-guide-3pfc)
 - [Dev.to/JS] [Point click care login](https://dev.to/pointclickcarelogin/point-click-care-login-4emj)
 - [Dev.to/JS] [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
-- [Dev.to/JS] [DevWorld Conference 2024](https://dev.to/imtiaz101325/devworld-conference-2024-k5j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
