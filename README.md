@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common JavaScript Errors and How To Handle Them](https://dev.to/saniyagazala/common-javascript-errors-and-how-to-handle-them-2ghe)
+- [Dev.to/JS] [We love building Cross Platform App!](https://dev.to/ponikar/we-love-building-cross-platform-app-4j23)
 - [Dev.to/JS] [Using `!!` to Convert to Boolean](https://dev.to/withrvr/using-to-convert-to-boolean-1hhp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Unlocking the Power of WebAssembly](https://dev.to/adarshgoyal/unlocking-the-power-of-webassembly-22o)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sand Slabs](https://dev.to/rmion/sand-slabs-203b)
 - [Dev.to/JS] [Building a Reactive Single-File Web App with Svelte](https://dev.to/subaiyalshk/an-entire-reactive-application-within-a-single-html-file-with-svelte-5dcg)
 - [Dev.to/JS] [Automates the consolidation of npm dependencies from different projects into a single new project.](https://dev.to/joseluis18vs/automates-the-consolidation-of-npm-dependencies-from-different-projects-into-a-single-new-project-59g6)
-- [Dev.to/JS] [LeetCode Question 29](https://dev.to/varit05/leetcode-question-29-4bm2)
-- [Dev.to/JS] [Vue 3 Currency Converter Component](https://dev.to/zorine/vue-3-currency-converter-component-1dn9)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
