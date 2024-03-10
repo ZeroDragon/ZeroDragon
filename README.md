@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
+- [Dev.to/JS] [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
+- [Dev.to/JS] [Upscale Your React App Into Next Level - Reactive Radiation - @a4arpon.me](https://dev.to/a4arpon/upscale-your-react-app-into-next-level-reactive-radiation-a4arponme-20n5)
 - [Dev.to/JS] [Book Club: Eloquent JavaScript. 5 Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-5-functions-4057)
 - [Dev.to/JS] [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
 - [Dev.to/JS] [I just made Gemini Ai clone today using Gemini Ai&#39;s api 😉.](https://dev.to/shanib_c_k/i-just-made-gemini-ai-clone-today-using-gemini-ais-api--8jf)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging Custom Hooks in React and Next.js: A Comprehensive Guide](https://dev.to/yugjadvani/leveraging-custom-hooks-in-react-and-nextjs-a-comprehensive-guide-3ig4)
 - [Dev.to/JS] [Building the Foundation: Devlog Entry #1](https://dev.to/souravlayek/building-the-foundation-devlog-entry-1-43c8)
 - [Dev.to/JS] [Como eu melhorei meus testes utilizando React Context](https://dev.to/alanpinhel/como-eu-melhorei-meus-testes-utilizando-react-context-1f7n)
-- [Dev.to/JS] [Mastering 3D Experiences with JavaScript and Wix: A Step-by-Step Guide](https://dev.to/yitzi/mastering-3d-experiences-with-javascript-and-wix-a-step-by-step-guide-3ojm)
-- [Dev.to/JS] [Javascript classes explanation in a simple way](https://dev.to/sakul007/javascript-classes-explanation-in-a-simple-way-3n29)
-- [Dev.to/JS] [Leveraging Custom Analytics with commercetools: Tracking What Matters Most](https://dev.to/nitin-rachabathuni/leveraging-custom-analytics-with-commercetools-tracking-what-matters-most-5hn4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
