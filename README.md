@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Power of WebAssembly](https://dev.to/adarshgoyal/unlocking-the-power-of-webassembly-22o)
+- [Dev.to/JS] [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
+- [Dev.to/JS] [Format and Parse Amazon S3 URL](https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10)
 - [Dev.to/JS] [The Future Is Now: Next-Generation Programming Languages](https://dev.to/nitin-rachabathuni/the-future-is-now-next-generation-programming-languages-33na)
 - [Dev.to/JS] [Mastering React Context: Simplifying State Management and Prop Drilling](https://dev.to/anshumanmahato/mastering-react-context-simplifying-state-management-and-prop-drilling-2k0f)
 - [Dev.to/JS] [Free RPM System: Build a 7-Figure Business Today!](https://dev.to/elizabethlipa/free-rpm-system-build-a-7-figure-business-today-1kl3)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Question 29](https://dev.to/varit05/leetcode-question-29-4bm2)
 - [Dev.to/JS] [Vue 3 Currency Converter Component](https://dev.to/zorine/vue-3-currency-converter-component-1dn9)
 - [Dev.to/JS] [Dependency Injection, Inversion of Control &amp; Jails 5](https://dev.to/javiani/dependency-injection-inversion-of-control-jails-5-252b)
-- [Dev.to/JS] [WebSockets Explained Under 10 Minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/websockets-explained-under-10-minutes-with-visuals-3ocl)
-- [Dev.to/JS] [Arrow Funcion In javascript](https://dev.to/mahimabhardwaj/arrow-funcion-in-javascript-mgj)
-- [Dev.to/JS] [Master the Art of Writing and Launching Your Own Modern JavaScript and Typescript Library in 2024](https://dev.to/jfmelo/master-the-art-of-writing-and-launching-your-own-modern-javascript-and-typescript-library-in-2024-4p50)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
