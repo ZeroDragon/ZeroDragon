@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [India’s first sari-donning AI humanoid robot teacher starts teaching](https://dev.to/sufian/indias-first-sari-donning-ai-humanoid-robot-teacher-starts-teaching-2343)
 - [Dev.to/JS] [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
 - [Dev.to/JS] [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
 - [Dev.to/JS] [Upscale Your React App Into Next Level - Reactive Radiation - @a4arpon.me](https://dev.to/a4arpon/upscale-your-react-app-into-next-level-reactive-radiation-a4arponme-20n5)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Magic: A Deep Dive into Software Development](https://dev.to/deanmichel6/unveiling-the-magic-a-deep-dive-into-software-development-6i6)
 - [Dev.to/JS] [Leveraging Custom Hooks in React and Next.js: A Comprehensive Guide](https://dev.to/yugjadvani/leveraging-custom-hooks-in-react-and-nextjs-a-comprehensive-guide-3ig4)
 - [Dev.to/JS] [Building the Foundation: Devlog Entry #1](https://dev.to/souravlayek/building-the-foundation-devlog-entry-1-43c8)
-- [Dev.to/JS] [Como eu melhorei meus testes utilizando React Context](https://dev.to/alanpinhel/como-eu-melhorei-meus-testes-utilizando-react-context-1f7n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
