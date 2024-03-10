@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
+- [Dev.to/JS] [DevWorld Conference 2024](https://dev.to/imtiaz101325/devworld-conference-2024-k5j)
 - [Dev.to/JS] [Common JavaScript Errors and How To Handle Them](https://dev.to/saniyagazala/common-javascript-errors-and-how-to-handle-them-2ghe)
 - [Dev.to/JS] [We love building Cross Platform App!](https://dev.to/ponikar/we-love-building-cross-platform-app-4j23)
 - [Dev.to/JS] [Using `!!` to Convert to Boolean](https://dev.to/withrvr/using-to-convert-to-boolean-1hhp)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering React Context: Simplifying State Management and Prop Drilling](https://dev.to/anshumanmahato/mastering-react-context-simplifying-state-management-and-prop-drilling-2k0f)
 - [Dev.to/JS] [Free RPM System: Build a 7-Figure Business Today!](https://dev.to/elizabethlipa/free-rpm-system-build-a-7-figure-business-today-1kl3)
 - [Dev.to/JS] [Sand Slabs](https://dev.to/rmion/sand-slabs-203b)
-- [Dev.to/JS] [Building a Reactive Single-File Web App with Svelte](https://dev.to/subaiyalshk/an-entire-reactive-application-within-a-single-html-file-with-svelte-5dcg)
-- [Dev.to/JS] [Automates the consolidation of npm dependencies from different projects into a single new project.](https://dev.to/joseluis18vs/automates-the-consolidation-of-npm-dependencies-from-different-projects-into-a-single-new-project-59g6)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
