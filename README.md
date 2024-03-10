@@ -26,10 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Resources Each TypeScript Developer Should Know About](https://dev.to/alexefimenko/5-resources-each-typescript-developer-should-know-about-30m4)
 - [Dev.to/JS] [E-Sync - ALX Portfolio Project](https://dev.to/allcodez/e-sync-alx-portfolio-project-36ld)
 - [Dev.to/JS] [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
 - [Dev.to/JS] [What is a REST API?](https://dev.to/glowinginthedark/what-is-a-rest-api-4ng6)
-- [Dev.to/JS] [How to convert exist nodejs/expressjs app from javascript to typescript, the painless way](https://dev.to/jocanola/how-to-convert-exist-nodejsexpressjs-app-from-javascript-to-typescript-the-painless-way-3g51)
+- [Dev.to/JS] [How to convert existing nodejs/expressjs app from javascript to typescript, the painless way](https://dev.to/jocanola/how-to-convert-exist-nodejsexpressjs-app-from-javascript-to-typescript-the-painless-way-3g51)
 - [Dev.to/JS] [LeetCode Meditations: Best Time to Buy and Sell Stock](https://dev.to/rivea0/leetcode-meditations-best-time-to-buy-and-sell-stock-2c0m)
 - [Dev.to/JS] [Beyond Basic Validation: Elevating Your Form Data Handling Strategy.](https://dev.to/jayboricha07/beyond-basic-validation-elevating-your-form-data-handling-strategy-1fnn)
 - [Dev.to/JS] [India’s first sari-donning AI humanoid robot teacher starts teaching](https://dev.to/sufian/indias-first-sari-donning-ai-humanoid-robot-teacher-starts-teaching-2343)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
 - [Dev.to/JS] [Upscale Your React App Into Next Level - Reactive Radiation - @a4arpon.me](https://dev.to/a4arpon/upscale-your-react-app-into-next-level-reactive-radiation-a4arponme-20n5)
 - [Dev.to/JS] [Book Club: Eloquent JavaScript. 5 Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-5-functions-4057)
-- [Dev.to/JS] [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
