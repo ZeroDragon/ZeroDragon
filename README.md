@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Type Aliases](https://dev.to/ccsunnydev/typescript-type-aliases-2l94)
+- [Dev.to/JS] [Typescript Arrays](https://dev.to/ccsunnydev/typescript-arrays-3ao1)
 - [Dev.to/JS] [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/phillipbfowlern/buy-verified-paxful-account-4f9)
 - [Dev.to/JS] [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We love building Cross Platform App!](https://dev.to/ponikar/we-love-building-cross-platform-app-4j23)
 - [Dev.to/JS] [Using `!!` to Convert to Boolean](https://dev.to/withrvr/using-to-convert-to-boolean-1hhp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Unlocking the Power of WebAssembly](https://dev.to/adarshgoyal/unlocking-the-power-of-webassembly-22o)
-- [Dev.to/JS] [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
