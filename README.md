@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering 3D Experiences with JavaScript and Wix: A Step-by-Step Guide](https://dev.to/yitzi/mastering-3d-experiences-with-javascript-and-wix-a-step-by-step-guide-3ojm)
+- [Dev.to/JS] [Javascript classes explanation in a simple way](https://dev.to/sakul007/javascript-classes-explanation-in-a-simple-way-3n29)
+- [Dev.to/JS] [Leveraging Custom Analytics with commercetools: Tracking What Matters Most](https://dev.to/nitin-rachabathuni/leveraging-custom-analytics-with-commercetools-tracking-what-matters-most-5hn4)
 - [Dev.to/JS] [Typescript Type Aliases](https://dev.to/ccsunnydev/typescript-type-aliases-2l94)
 - [Dev.to/JS] [Typescript Arrays](https://dev.to/ccsunnydev/typescript-arrays-3ao1)
 - [Dev.to/JS] [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Point click care login](https://dev.to/pointclickcarelogin/point-click-care-login-4emj)
 - [Dev.to/JS] [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
 - [Dev.to/JS] [DevWorld Conference 2024](https://dev.to/imtiaz101325/devworld-conference-2024-k5j)
-- [Dev.to/JS] [Common JavaScript Errors and How To Handle Them](https://dev.to/saniyagazala/common-javascript-errors-and-how-to-handle-them-2ghe)
-- [Dev.to/JS] [We love building Cross Platform App!](https://dev.to/ponikar/we-love-building-cross-platform-app-4j23)
-- [Dev.to/JS] [Using `!!` to Convert to Boolean](https://dev.to/withrvr/using-to-convert-to-boolean-1hhp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
