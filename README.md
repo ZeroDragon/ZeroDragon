@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future Is Now: Next-Generation Programming Languages](https://dev.to/nitin-rachabathuni/the-future-is-now-next-generation-programming-languages-33na)
+- [Dev.to/JS] [Mastering React Context: Simplifying State Management and Prop Drilling](https://dev.to/anshumanmahato/mastering-react-context-simplifying-state-management-and-prop-drilling-2k0f)
+- [Dev.to/JS] [Free RPM System: Build a 7-Figure Business Today!](https://dev.to/elizabethlipa/free-rpm-system-build-a-7-figure-business-today-1kl3)
 - [Dev.to/JS] [Sand Slabs](https://dev.to/rmion/sand-slabs-203b)
 - [Dev.to/JS] [Building a Reactive Single-File Web App with Svelte](https://dev.to/subaiyalshk/an-entire-reactive-application-within-a-single-html-file-with-svelte-5dcg)
 - [Dev.to/JS] [Automates the consolidation of npm dependencies from different projects into a single new project.](https://dev.to/joseluis18vs/automates-the-consolidation-of-npm-dependencies-from-different-projects-into-a-single-new-project-59g6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebSockets Explained Under 10 Minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/websockets-explained-under-10-minutes-with-visuals-3ocl)
 - [Dev.to/JS] [Arrow Funcion In javascript](https://dev.to/mahimabhardwaj/arrow-funcion-in-javascript-mgj)
 - [Dev.to/JS] [Master the Art of Writing and Launching Your Own Modern JavaScript and Typescript Library in 2024](https://dev.to/jfmelo/master-the-art-of-writing-and-launching-your-own-modern-javascript-and-typescript-library-in-2024-4p50)
-- [Dev.to/JS] [Top 10 Mistakes To Avoid When Using React in 2024](https://dev.to/sufian/top-10-mistakes-to-avoid-when-using-react-in-2024-1o3m)
-- [Dev.to/JS] [Embrace the AI Revolution: Explore Text Transformation with Transformers.js in JavaScript](https://dev.to/robertobutti/embrace-the-ai-revolution-explore-text-transformation-with-transformerjs-in-javascript-27l8)
-- [Dev.to/JS] [How I Coded a game of Asteroids while dealing with SVG paths in P5](https://dev.to/hendrikras/coding-a-game-of-asteroids-while-dealing-with-svg-paths-in-p5-4baa)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
