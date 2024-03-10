@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/phillipbfowlern/buy-verified-paxful-account-4f9)
+- [Dev.to/JS] [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96)
 - [Dev.to/JS] [Handling File Uploads in Node.js with Multer: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/handling-file-uploads-in-nodejs-with-multer-a-comprehensive-guide-3pfc)
 - [Dev.to/JS] [Point click care login](https://dev.to/pointclickcarelogin/point-click-care-login-4emj)
 - [Dev.to/JS] [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Unlocking the Power of WebAssembly](https://dev.to/adarshgoyal/unlocking-the-power-of-webassembly-22o)
 - [Dev.to/JS] [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
-- [Dev.to/JS] [Format and Parse Amazon S3 URL](https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10)
-- [Dev.to/JS] [The Future Is Now: Next-Generation Programming Languages](https://dev.to/nitin-rachabathuni/the-future-is-now-next-generation-programming-languages-33na)
-- [Dev.to/JS] [Mastering React Context: Simplifying State Management and Prop Drilling](https://dev.to/anshumanmahato/mastering-react-context-simplifying-state-management-and-prop-drilling-2k0f)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
