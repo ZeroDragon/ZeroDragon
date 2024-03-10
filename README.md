@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [E-Sync - ALX Portfolio Project](https://dev.to/allcodez/e-sync-alx-portfolio-project-36ld)
+- [Dev.to/JS] [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
 - [Dev.to/JS] [What is a REST API?](https://dev.to/glowinginthedark/what-is-a-rest-api-4ng6)
 - [Dev.to/JS] [How to convert exist nodejs/expressjs app from javascript to typescript, the painless way](https://dev.to/jocanola/how-to-convert-exist-nodejsexpressjs-app-from-javascript-to-typescript-the-painless-way-3g51)
 - [Dev.to/JS] [LeetCode Meditations: Best Time to Buy and Sell Stock](https://dev.to/rivea0/leetcode-meditations-best-time-to-buy-and-sell-stock-2c0m)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Upscale Your React App Into Next Level - Reactive Radiation - @a4arpon.me](https://dev.to/a4arpon/upscale-your-react-app-into-next-level-reactive-radiation-a4arponme-20n5)
 - [Dev.to/JS] [Book Club: Eloquent JavaScript. 5 Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-5-functions-4057)
 - [Dev.to/JS] [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
-- [Dev.to/JS] [I just made Gemini Ai clone today using Gemini Ai&#39;s api 😉.](https://dev.to/shanib_c_k/i-just-made-gemini-ai-clone-today-using-gemini-ais-api--8jf)
-- [Dev.to/JS] [All about routing in react &lpar;Part 2&rpar; ft. react-router-dom](https://dev.to/jmilind1234/all-about-routing-in-react-part-2-ft-react-router-dom-2ecn)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
