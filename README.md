@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a REST API?](https://dev.to/glowinginthedark/what-is-a-rest-api-4ng6)
+- [Dev.to/JS] [How to convert exist nodejs/expressjs app from javascript to typescript, the painless way](https://dev.to/jocanola/how-to-convert-exist-nodejsexpressjs-app-from-javascript-to-typescript-the-painless-way-3g51)
+- [Dev.to/JS] [LeetCode Meditations: Best Time to Buy and Sell Stock](https://dev.to/rivea0/leetcode-meditations-best-time-to-buy-and-sell-stock-2c0m)
+- [Dev.to/JS] [Beyond Basic Validation: Elevating Your Form Data Handling Strategy.](https://dev.to/jayboricha07/beyond-basic-validation-elevating-your-form-data-handling-strategy-1fnn)
 - [Dev.to/JS] [India’s first sari-donning AI humanoid robot teacher starts teaching](https://dev.to/sufian/indias-first-sari-donning-ai-humanoid-robot-teacher-starts-teaching-2343)
 - [Dev.to/JS] [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
 - [Dev.to/JS] [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
 - [Dev.to/JS] [I just made Gemini Ai clone today using Gemini Ai&#39;s api 😉.](https://dev.to/shanib_c_k/i-just-made-gemini-ai-clone-today-using-gemini-ais-api--8jf)
 - [Dev.to/JS] [All about routing in react &lpar;Part 2&rpar; ft. react-router-dom](https://dev.to/jmilind1234/all-about-routing-in-react-part-2-ft-react-router-dom-2ecn)
-- [Dev.to/JS] [Create a Discord bot with NodeJS](https://dev.to/arindam_1729/create-a-discord-bot-with-nodejs-i5p)
-- [Dev.to/JS] [Unveiling the Magic: A Deep Dive into Software Development](https://dev.to/deanmichel6/unveiling-the-magic-a-deep-dive-into-software-development-6i6)
-- [Dev.to/JS] [Leveraging Custom Hooks in React and Next.js: A Comprehensive Guide](https://dev.to/yugjadvani/leveraging-custom-hooks-in-react-and-nextjs-a-comprehensive-guide-3ig4)
-- [Dev.to/JS] [Building the Foundation: Devlog Entry #1](https://dev.to/souravlayek/building-the-foundation-devlog-entry-1-43c8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
