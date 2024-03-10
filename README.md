@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automates the consolidation of npm dependencies from different projects into a single new project.](https://dev.to/joseluis18vs/automates-the-consolidation-of-npm-dependencies-from-different-projects-into-a-single-new-project-59g6)
+- [Dev.to/JS] [LeetCode Question 29](https://dev.to/varit05/leetcode-question-29-4bm2)
 - [Dev.to/JS] [Vue 3 Currency Converter Component](https://dev.to/zorine/vue-3-currency-converter-component-1dn9)
 - [Dev.to/JS] [Dependency Injection, Inversion of Control &amp; Jails 5](https://dev.to/javiani/dependency-injection-inversion-of-control-jails-5-252b)
 - [Dev.to/JS] [WebSockets Explained Under 10 Minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/websockets-explained-under-10-minutes-with-visuals-3ocl)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Coded a game of Asteroids while dealing with SVG paths in P5](https://dev.to/hendrikras/coding-a-game-of-asteroids-while-dealing-with-svg-paths-in-p5-4baa)
 - [Dev.to/JS] [Mastering TypeScript Generics: A Comprehensive Beginner&#39;s Guide](https://dev.to/junaidkhan/mastering-typescript-generics-a-comprehensive-beginners-guide-3ei4)
 - [Dev.to/JS] [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
-- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/carlosnwarnerb21/buy-negative-google-reviews-2mbi)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/carlosnwarnerb21/buy-old-gmail-accounts-5g4h)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
