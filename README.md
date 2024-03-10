@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An entire reactive application within a single HTML file with Svelte](https://dev.to/subaiyalshk/an-entire-reactive-application-within-a-single-html-file-with-svelte-5dcg)
 - [Dev.to/JS] [Automates the consolidation of npm dependencies from different projects into a single new project.](https://dev.to/joseluis18vs/automates-the-consolidation-of-npm-dependencies-from-different-projects-into-a-single-new-project-59g6)
 - [Dev.to/JS] [LeetCode Question 29](https://dev.to/varit05/leetcode-question-29-4bm2)
 - [Dev.to/JS] [Vue 3 Currency Converter Component](https://dev.to/zorine/vue-3-currency-converter-component-1dn9)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Embrace the AI Revolution: Explore Text Transformation with Transformers.js in JavaScript](https://dev.to/robertobutti/embrace-the-ai-revolution-explore-text-transformation-with-transformerjs-in-javascript-27l8)
 - [Dev.to/JS] [How I Coded a game of Asteroids while dealing with SVG paths in P5](https://dev.to/hendrikras/coding-a-game-of-asteroids-while-dealing-with-svg-paths-in-p5-4baa)
 - [Dev.to/JS] [Mastering TypeScript Generics: A Comprehensive Beginner&#39;s Guide](https://dev.to/junaidkhan/mastering-typescript-generics-a-comprehensive-beginners-guide-3ei4)
-- [Dev.to/JS] [What is JSON](https://dev.to/otumianempire/what-is-json-5cel)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
