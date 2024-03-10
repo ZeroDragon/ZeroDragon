@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Discord bot with NodeJS](https://dev.to/arindam_1729/create-a-discord-bot-with-nodejs-i5p)
+- [Dev.to/JS] [Unveiling the Magic: A Deep Dive into Software Development](https://dev.to/deanmichel6/unveiling-the-magic-a-deep-dive-into-software-development-6i6)
+- [Dev.to/JS] [Leveraging Custom Hooks in React and Next.js: A Comprehensive Guide](https://dev.to/yugjadvani/leveraging-custom-hooks-in-react-and-nextjs-a-comprehensive-guide-3ig4)
+- [Dev.to/JS] [Building the Foundation: Devlog Entry #1](https://dev.to/souravlayek/building-the-foundation-devlog-entry-1-43c8)
 - [Dev.to/JS] [Como eu melhorei meus testes utilizando React Context](https://dev.to/alanpinhel/como-eu-melhorei-meus-testes-utilizando-react-context-1f7n)
 - [Dev.to/JS] [Mastering 3D Experiences with JavaScript and Wix: A Step-by-Step Guide](https://dev.to/yitzi/mastering-3d-experiences-with-javascript-and-wix-a-step-by-step-guide-3ojm)
 - [Dev.to/JS] [Javascript classes explanation in a simple way](https://dev.to/sakul007/javascript-classes-explanation-in-a-simple-way-3n29)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Arrays](https://dev.to/ccsunnydev/typescript-arrays-3ao1)
 - [Dev.to/JS] [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/phillipbfowlern/buy-verified-paxful-account-4f9)
-- [Dev.to/JS] [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96)
-- [Dev.to/JS] [Handling File Uploads in Node.js with Multer: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/handling-file-uploads-in-nodejs-with-multer-a-comprehensive-guide-3pfc)
-- [Dev.to/JS] [Point click care login](https://dev.to/pointclickcarelogin/point-click-care-login-4emj)
-- [Dev.to/JS] [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
