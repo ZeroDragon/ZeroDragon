@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sort of Remote Astro Collections](https://dev.to/raae/sort-of-remote-astro-collections-4o9g)
+- [Dev.to/JS] [Build a simple VPN via socks 5 from scratch](https://dev.to/arichy/build-a-simple-vpn-via-socks-5-from-scratch-4ia4)
+- [Dev.to/JS] [Using Regex Search for MongoDB Queries](https://dev.to/andrewchaa/using-regex-search-for-mongodb-queries-3m08)
+- [Dev.to/JS] [How to count lines in Javascript](https://dev.to/websilvercraft/how-to-count-lines-in-javascript-59k2)
+- [Lifehacker] [Where to Stream the 2024 Oscar Winners Right Now](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-winners)
 - [Dev.to/JS] [How does Webpack work?](https://dev.to/khushilmistry/how-does-webpack-work-35c9)
+- [Lifehacker] [The Google Pixel 7 and 7 Pro Are at Their Lowest Prices Right Now](https://lifehacker.com/google-pixel-7-deal)
 - [Dev.to/JS] [Best Tech Stack for Web App Development in 2024](https://dev.to/durgesh4993/best-tech-stack-for-web-app-development-in-2024-2o4)
 - [Dev.to/JS] [Dynamic import of javascript files in Power Pages](https://dev.to/andrewelans/dynamic-import-of-javascript-files-in-power-pages-3729)
 - [Dev.to/JS] [.sort&lpar;&rpar; vs .toSorted&lpar;&rpar; performance: which Array is faster?](https://dev.to/dariomannu/sort-vs-tosorted-performance-which-array-is-faster-2gbg)
@@ -39,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the Future: A Deep Dive into WordPress Plugin Trends for 2024](https://dev.to/jamesmartindev/navigating-the-future-a-deep-dive-into-wordpress-plugin-trends-for-2024-48p9)
 - [Dev.to/JS] [Zustand EntityAdapter - A bookshelf example](https://dev.to/michaeljota/zustand-entityadapter-a-bookshelf-example-28bk)
 - [Lifehacker] [You May Need a Permit to Travel Abroad With Your Meds](https://lifehacker.com/travel/you-may-need-permit-to-travel-abroad-with-meds)
-- [Dev.to/JS] [Why are Web Components interesting?](https://dev.to/rrees/why-are-web-components-interesting-1p53)
-- [Dev.to/JS] [Zustand EntityAdapter - An EntityAdapter example for Zustand](https://dev.to/michaeljota/zustand-entityadapter-an-entityadapter-example-for-zustand-cd2)
-- [Dev.to/JS] [Search Recommendations in Nuxt with Algolia](https://dev.to/jacobandrewsky/search-recommendations-in-nuxt-with-algolia-23o)
 - [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
-- [Dev.to/JS] [Full-stack developers are tech wizards skilled in both front and back end development](https://dev.to/codingmadeeasy/full-stack-developers-are-tech-wizards-skilled-in-both-front-and-back-end-development-1191)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Save Drafts and Take Pictures in the Threads App](https://lifehacker.com/tech/you-can-now-save-drafts-and-take-pictures-in-threads)
 - [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)
 - [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
-- [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)
-- [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
-- [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)<!-- TECH-POSTS:END -->
 
 ---
 
