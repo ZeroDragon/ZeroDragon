@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic import of javascript files in Power Pages](https://dev.to/andrewelans/dynamic-import-of-javascript-files-in-power-pages-3729)
+- [Dev.to/JS] [.sort&lpar;&rpar; vs .toSorted&lpar;&rpar; performance: which Array is faster?](https://dev.to/dariomannu/sort-vs-tosorted-performance-which-array-is-faster-2gbg)
+- [Lifehacker] [You Can Get Promova Premium on Sale for $80 Right Now](https://lifehacker.com/entertainment/promova-premium-sale)
 - [Dev.to/JS] [Introduction to Docker &lpar;Module 1&rpar; : Understanding the Concept of Containerization.](https://dev.to/vectorware/introduction-to-docker-module-1-understanding-the-concept-of-containerization-16ec)
+- [Lifehacker] [How to Use AI to Build Your Own Website](https://lifehacker.com/tech/how-to-use-ai-to-build-your-own-website)
 - [Lifehacker] [How to Stop Beating Yourself Up About Your Body Image](https://lifehacker.com/health/how-to-stop-beating-yourself-up-about-your-body-image)
 - [Lifehacker] [The Nanoleaf Smart Ceiling Light Mimics a Skylight](https://lifehacker.com/tech/nanoleaf-skylight-review)
 - [Dev.to/JS] [Backend Authentication](https://dev.to/asharali999/backend-authentication-2n1m)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full-stack developers are tech wizards skilled in both front and back end development](https://dev.to/codingmadeeasy/full-stack-developers-are-tech-wizards-skilled-in-both-front-and-back-end-development-1191)
 - [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/abdelbrid/conquering-common-coding-challenges-your-programmers-toolkit-ln0)
 - [Dev.to/JS] [How to Excel on Your CompTIA A+ 1101 Practice Test](https://dev.to/eally1939/how-to-excel-on-your-comptia-a-1101-practice-test-1do2)
-- [Dev.to/JS] [Transforming Chaos: Unleashing the Power of Ramda in ReactJS](https://dev.to/mike-at-redspace/transforming-chaos-unleashing-the-power-of-ramda-in-reactjs-34fa)
-- [Dev.to/JS] [Vue.js: An Intelligent Perspective and the Evolution of the Framework](https://dev.to/bubu13gu/vuejs-an-intelligent-perspective-and-the-evolution-of-the-framework-187j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Smart Home Products Can Help Older People Live Independently](https://lifehacker.com/tech/these-smart-home-products-help-older-people-live-at-home)
 - [Lifehacker] [How to Decide Between a Roku and a Fire Stick](https://lifehacker.com/tech/roku-vs-fire-tv-stick)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
-- [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
-- [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
