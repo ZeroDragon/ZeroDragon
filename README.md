@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js and MongoDB: Building a CRUD Application](https://dev.to/nitin-rachabathuni/nodejs-and-mongodb-building-a-crud-application-2keh)
+- [Dev.to/JS] [JavaScript Functions — Understanding The Basics](https://dev.to/iamrazzakk/javascript-functions-understanding-the-basics-31j0)
 - [Dev.to/JS] [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
 - [Dev.to/JS] [DevOps: The Conductor of the Digital Business Transformation Symphony](https://dev.to/aniket1997/devops-the-conductor-of-the-digital-business-transformation-symphony-3ie9)
 - [Dev.to/JS] [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [E-Sync - ALX Portfolio Project](https://dev.to/allcodez/e-sync-alx-portfolio-project-36ld)
 - [Dev.to/JS] [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
 - [Dev.to/JS] [What is a REST API?](https://dev.to/glowinginthedark/what-is-a-rest-api-4ng6)
-- [Dev.to/JS] [How to convert existing nodejs/expressjs app from javascript to typescript, the painless way](https://dev.to/jocanola/how-to-convert-exist-nodejsexpressjs-app-from-javascript-to-typescript-the-painless-way-3g51)
-- [Dev.to/JS] [LeetCode Meditations: Best Time to Buy and Sell Stock](https://dev.to/rivea0/leetcode-meditations-best-time-to-buy-and-sell-stock-2c0m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
