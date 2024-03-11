@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backend Authentication](https://dev.to/asharali999/backend-authentication-2n1m)
+- [Dev.to/JS] [Navigating the Future: A Deep Dive into WordPress Plugin Trends for 2024](https://dev.to/jamesmartindev/navigating-the-future-a-deep-dive-into-wordpress-plugin-trends-for-2024-48p9)
+- [Dev.to/JS] [Zustand EntityAdapter - A bookshelf example](https://dev.to/michaeljota/zustand-entityadapter-a-bookshelf-example-28bk)
+- [Dev.to/JS] [Why are Web Components interesting?](https://dev.to/rrees/why-are-web-components-interesting-1p53)
+- [Dev.to/JS] [Zustand EntityAdapter - An EntityAdapter example for Zustand](https://dev.to/michaeljota/zustand-entityadapter-an-entityadapter-example-for-zustand-cd2)
+- [Dev.to/JS] [Search Recommendations in Nuxt with Algolia](https://dev.to/jacobandrewsky/search-recommendations-in-nuxt-with-algolia-23o)
+- [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
 - [Dev.to/JS] [Full-stack developers are tech wizards skilled in both front and back end development](https://dev.to/codingmadeeasy/full-stack-developers-are-tech-wizards-skilled-in-both-front-and-back-end-development-1191)
 - [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/abdelbrid/conquering-common-coding-challenges-your-programmers-toolkit-ln0)
 - [Dev.to/JS] [How to Excel on Your CompTIA A+ 1101 Practice Test](https://dev.to/eally1939/how-to-excel-on-your-comptia-a-1101-practice-test-1do2)
 - [Dev.to/JS] [Transforming Chaos: Unleashing the Power of Ramda in ReactJS](https://dev.to/mike-at-redspace/transforming-chaos-unleashing-the-power-of-ramda-in-reactjs-34fa)
 - [Dev.to/JS] [Vue.js: An Intelligent Perspective and the Evolution of the Framework](https://dev.to/bubu13gu/vuejs-an-intelligent-perspective-and-the-evolution-of-the-framework-187j)
 - [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/atifali/conquering-common-coding-challenges-your-programmers-toolkit-ec4)
-- [Dev.to/JS] [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
-- [Dev.to/JS] [Some uncommon Ajax techniques that most people don&#39;t know](https://dev.to/wangliwen/some-uncommon-ajax-techniques-that-most-people-dont-know-281j)
-- [Dev.to/JS] [What Is JAMstack?](https://dev.to/swhabitation/what-is-jamstack-2gil)
-- [Dev.to/JS] [Building a chat app: Chatrooms with Nodejs websockets and Vue &lpar;PART 2&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-2-5f05)
-- [Dev.to/JS] [React: 5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Refs](https://dev.to/_ndeyefatoudiop/react-5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-refs-3in8)
-- [Dev.to/JS] [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
-- [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)
-- [Lifehacker] [What Your Old iPhone, iPad, and Apple Watch Are Worth, According to Apple](https://lifehacker.com/tech/what-your-iphone-ipad-and-apple-watch-are-worth)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)<!-- TECH-POSTS:END -->
 
 ---
 
