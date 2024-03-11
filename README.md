@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full-stack developers are tech wizards skilled in both front and back end development](https://dev.to/codingmadeeasy/full-stack-developers-are-tech-wizards-skilled-in-both-front-and-back-end-development-1191)
 - [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/abdelbrid/conquering-common-coding-challenges-your-programmers-toolkit-ln0)
 - [Dev.to/JS] [How to Excel on Your CompTIA A+ 1101 Practice Test](https://dev.to/eally1939/how-to-excel-on-your-comptia-a-1101-practice-test-1do2)
 - [Dev.to/JS] [Transforming Chaos: Unleashing the Power of Ramda in ReactJS](https://dev.to/mike-at-redspace/transforming-chaos-unleashing-the-power-of-ramda-in-reactjs-34fa)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a chat app: Chatrooms with Nodejs websockets and Vue &lpar;PART 2&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-2-5f05)
 - [Dev.to/JS] [React: 5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Refs](https://dev.to/_ndeyefatoudiop/react-5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-refs-3in8)
 - [Dev.to/JS] [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
-- [Dev.to/JS] [From Script Kiddie to Software Architect: Your Programming Journey Awaits](https://dev.to/atifali/from-script-kiddie-to-software-architect-your-programming-journey-awaits-35aa)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
