@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Welcome to the Cloud](https://dev.to/tbello/welcome-to-the-cloud-30p3)
+- [Dev.to/JS] [My Journey developing my own NPM Package](https://dev.to/andresclua/my-journey-developing-my-own-npm-package-56ff)
 - [Dev.to/JS] [Lessons from open-source: Can you use &quot;require&quot; and &quot;import&quot; in the same file in NodeJs](https://dev.to/ramunarasinga/lessons-from-open-source-can-you-use-require-and-import-in-the-same-file-in-nodejs-2obd)
 - [Dev.to/JS] [The Web Page Rendering Process in Browsers: A Deep Dive](https://dev.to/sewas87/the-web-page-rendering-process-in-browsers-a-deep-dive-4bgd)
+- [Lifehacker] [The Samsung Galaxy Buds Pro 2 Are 53% Off](https://lifehacker.com/tech/samsung-galaxy-buds-pro-2-sale)
 - [Dev.to/JS] [How I would begin a career in software QA](https://dev.to/samelawrence/how-i-would-begin-a-career-in-software-qa-83e)
+- [Lifehacker] [You Didn&#39;t Want an Apple Car Anyway](https://lifehacker.com/tech/what-the-apple-car-looked-like)
 - [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)
 - [Dev.to/JS] [Navigation without reloading - JavaScript Dynamic Loader](https://dev.to/sh20raj/navigation-without-reloading-javascript-dynamic-loader-2ca0)
 - [Dev.to/JS] [I need help](https://dev.to/someoni/i-need-help-486h)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue&#39;s reactivity is a trap](https://dev.to/razi91/vues-reactivity-is-a-trap-2jci)
 - [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
 - [Dev.to/JS] [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
-- [Dev.to/JS] [Online IT Jobs For All](https://dev.to/carlabrazil/online-it-jobs-for-all-1jao)
-- [Dev.to/JS] [LeetCode Meditations: Longest Substring without Repeating Characters](https://dev.to/rivea0/leetcode-meditations-longest-substring-without-repeating-characters-pak)
 - [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)
 - [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
 - [Lifehacker] [When Renovating Your Rental Is Actually a Good Idea](https://lifehacker.com/money/benefits-of-renovating-your-rental)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Woot Is Selling the Meta Quest 2 for Its Lowest Price Ever](https://lifehacker.com/tech/the-meta-quest-2-woot-sale)
 - [Lifehacker] [JK, Apple Will Let Epic Games Start an EU App Store After All](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals)
-- [Lifehacker] [Sony Just Released a New PS5 Slim Digital &#39;Spider-Man 2&#39; Bundle for $399.99](https://lifehacker.com/entertainment/sony-ps5-slim-digital-bundle-sale)
-- [Lifehacker] [Apple Updated Your Other Devices This Week, Too](https://lifehacker.com/tech/apple-updated-other-devices-this-week)
-- [Lifehacker] [It’s Time to Learn What ‘Core Sleep’ Actually Is](https://lifehacker.com/health/what-is-core-sleep-apple-watch)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sony Just Released a New PS5 Slim Digital &#39;Spider-Man 2&#39; Bundle for $399.99](https://lifehacker.com/entertainment/sony-ps5-slim-digital-bundle-sale)<!-- TECH-POSTS:END -->
 
 ---
 
