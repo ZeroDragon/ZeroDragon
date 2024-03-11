@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
+- [Dev.to/JS] [Como Implementar um Botão &quot;Voltar ao Topo&quot; em Seu Site com JavaScript](https://dev.to/kaiquen/como-implementar-um-botao-voltar-ao-topo-em-seu-site-com-javascript-145n)
 - [Dev.to/JS] [Static Code Analysis Tools for Next.js](https://dev.to/fajarriv/static-code-analysis-tools-for-nextjs-m9b)
 - [Dev.to/JS] [Static Code Analysis Tools for Next.js](https://dev.to/fajarriv/static-code-analysis-tools-for-nextjs-5hmi)
 - [Dev.to/JS] [5 Resources Each TypeScript Developer Should Know About](https://dev.to/alexefimenko/5-resources-each-typescript-developer-should-know-about-30m4)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Meditations: Best Time to Buy and Sell Stock](https://dev.to/rivea0/leetcode-meditations-best-time-to-buy-and-sell-stock-2c0m)
 - [Dev.to/JS] [Beyond Basic Validation: Elevating Your Form Data Handling Strategy.](https://dev.to/jayboricha07/beyond-basic-validation-elevating-your-form-data-handling-strategy-1fnn)
 - [Dev.to/JS] [India’s first sari-donning AI humanoid robot teacher starts teaching](https://dev.to/sufian/indias-first-sari-donning-ai-humanoid-robot-teacher-starts-teaching-2343)
-- [Dev.to/JS] [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
-- [Dev.to/JS] [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
