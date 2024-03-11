@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Performance Tuning: Optimizing Streams in Node.js](https://dev.to/ruben_alapont/performance-tuning-optimizing-streams-in-nodejs-2b53)
+- [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
+- [Dev.to/JS] [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
+- [Dev.to/JS] [10 JavaScript Array Methods That Will Make You Look Like a Pro](https://dev.to/adexbam/10-javascript-array-methods-that-will-make-you-look-like-a-pro-57dh)
+- [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
 - [Dev.to/JS] [Welcome to the Cloud](https://dev.to/tbello/welcome-to-the-cloud-30p3)
+- [Lifehacker] [These Smart Video Doorbells Are up to 62% Off](https://lifehacker.com/tech/arlo-essential-video-doorbell-and-blink-outdoor-4-sale)
 - [Dev.to/JS] [My Journey developing my own NPM Package](https://dev.to/andresclua/my-journey-developing-my-own-npm-package-56ff)
+- [Lifehacker] [LG’s New High-end Gaming Monitors Look Nice, and Are Very Expensive](https://lifehacker.com/tech/lgs-new-ultragear-oled-gaming-monitors-release-date-and-price)
 - [Dev.to/JS] [Lessons from open-source: Can you use &quot;require&quot; and &quot;import&quot; in the same file in NodeJs](https://dev.to/ramunarasinga/lessons-from-open-source-can-you-use-require-and-import-in-the-same-file-in-nodejs-2obd)
 - [Dev.to/JS] [The Web Page Rendering Process in Browsers: A Deep Dive](https://dev.to/sewas87/the-web-page-rendering-process-in-browsers-a-deep-dive-4bgd)
 - [Lifehacker] [The Samsung Galaxy Buds Pro 2 Are 53% Off](https://lifehacker.com/tech/samsung-galaxy-buds-pro-2-sale)
@@ -38,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I need help](https://dev.to/someoni/i-need-help-486h)
 - [Dev.to/JS] [10 Advanced JavaScript Tricks for Experienced Developers 🚀🚀](https://dev.to/sufian/10-advanced-javascript-tricks-for-experienced-developers-4e8e)
 - [Dev.to/JS] [How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖](https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5)
-- [Dev.to/JS] [Enhancing Error Handling: 🚀Leveraging Logging and Effective Error Management in Your Codebase](https://dev.to/gautamvaishnav/enhancing-error-handling-leveraging-logging-and-effective-error-management-in-your-codebase-59c5)
-- [Dev.to/JS] [Vue&#39;s reactivity is a trap](https://dev.to/razi91/vues-reactivity-is-a-trap-2jci)
 - [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
-- [Dev.to/JS] [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
 - [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)
 - [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
 - [Lifehacker] [When Renovating Your Rental Is Actually a Good Idea](https://lifehacker.com/money/benefits-of-renovating-your-rental)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [How to Choose Between the M2 and M3 MacBook Air](https://lifehacker.com/tech/m3-versus-m2-macbook-air)
 - [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
-- [Lifehacker] [You Can Use Progressive Muscle Relaxation to Destress at Work](https://lifehacker.com/work/use-progressive-muscle-relaxation-to-destress-at-work)
-- [Lifehacker] [Woot Is Selling the Meta Quest 2 for Its Lowest Price Ever](https://lifehacker.com/tech/the-meta-quest-2-woot-sale)
-- [Lifehacker] [JK, Apple Will Let Epic Games Start an EU App Store After All](https://lifehacker.com/tech/apple-blocks-epic-games-from-starting-an-app-store-in-the-eu)
-- [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals)
-- [Lifehacker] [Sony Just Released a New PS5 Slim Digital &#39;Spider-Man 2&#39; Bundle for $399.99](https://lifehacker.com/entertainment/sony-ps5-slim-digital-bundle-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use Progressive Muscle Relaxation to Destress at Work](https://lifehacker.com/work/use-progressive-muscle-relaxation-to-destress-at-work)<!-- TECH-POSTS:END -->
 
 ---
 
