@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/abdelbrid/conquering-common-coding-challenges-your-programmers-toolkit-ln0)
+- [Dev.to/JS] [How to Excel on Your CompTIA A+ 1101 Practice Test](https://dev.to/eally1939/how-to-excel-on-your-comptia-a-1101-practice-test-1do2)
+- [Dev.to/JS] [Transforming Chaos: Unleashing the Power of Ramda in ReactJS](https://dev.to/mike-at-redspace/transforming-chaos-unleashing-the-power-of-ramda-in-reactjs-34fa)
+- [Dev.to/JS] [Vue.js: An Intelligent Perspective and the Evolution of the Framework](https://dev.to/bubu13gu/vuejs-an-intelligent-perspective-and-the-evolution-of-the-framework-187j)
+- [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/atifali/conquering-common-coding-challenges-your-programmers-toolkit-ec4)
 - [Dev.to/JS] [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
 - [Dev.to/JS] [Some uncommon Ajax techniques that most people don&#39;t know](https://dev.to/wangliwen/some-uncommon-ajax-techniques-that-most-people-dont-know-281j)
 - [Dev.to/JS] [What Is JAMstack?](https://dev.to/swhabitation/what-is-jamstack-2gil)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: 5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Refs](https://dev.to/_ndeyefatoudiop/react-5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-refs-3in8)
 - [Dev.to/JS] [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
 - [Dev.to/JS] [From Script Kiddie to Software Architect: Your Programming Journey Awaits](https://dev.to/atifali/from-script-kiddie-to-software-architect-your-programming-journey-awaits-35aa)
-- [Dev.to/JS] [Using $redact in Mongoose Aggregation&lpar;Simple example&rpar;](https://dev.to/mansourmobarakian/using-redact-in-mongoose-aggregationsimple-example-2klh)
-- [Dev.to/JS] [Demystifying Debugging: From Frustration to Flow State](https://dev.to/haresgour/demystifying-debugging-from-frustration-to-flow-state-726)
-- [Dev.to/JS] [Unveiling the Secret of Essential Keto Gummies: Your Ultimate Guide](https://dev.to/essentialketog/unveiling-the-secret-of-essential-keto-gummies-your-ultimate-guide-4l41)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Node.js and MongoDB: Building a CRUD Application](https://dev.to/nitin-rachabathuni/nodejs-and-mongodb-building-a-crud-application-2keh)
-- [Dev.to/JS] [JavaScript Functions — Understanding The Basics](https://dev.to/iamrazzakk/javascript-functions-understanding-the-basics-31j0)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
