@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
+- [Dev.to/JS] [Some uncommon Ajax techniques that most people don&#39;t know](https://dev.to/wangliwen/some-uncommon-ajax-techniques-that-most-people-dont-know-281j)
+- [Dev.to/JS] [What Is JAMstack?](https://dev.to/swhabitation/what-is-jamstack-2gil)
+- [Dev.to/JS] [Building a chat app: Chatrooms with Nodejs websockets and Vue &lpar;PART 2&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-2-5f05)
 - [Dev.to/JS] [React: 5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Refs](https://dev.to/_ndeyefatoudiop/react-5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-refs-3in8)
 - [Dev.to/JS] [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
 - [Dev.to/JS] [From Script Kiddie to Software Architect: Your Programming Journey Awaits](https://dev.to/atifali/from-script-kiddie-to-software-architect-your-programming-journey-awaits-35aa)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Node.js and MongoDB: Building a CRUD Application](https://dev.to/nitin-rachabathuni/nodejs-and-mongodb-building-a-crud-application-2keh)
 - [Dev.to/JS] [JavaScript Functions — Understanding The Basics](https://dev.to/iamrazzakk/javascript-functions-understanding-the-basics-31j0)
-- [Dev.to/JS] [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
-- [Dev.to/JS] [Next.js SaaS Boilerplate and Starter Kit - SaaSBold](https://dev.to/saasboilerplate/saas-boilerplate-and-starter-kit-4c1p)
-- [Dev.to/JS] [DevOps: The Conductor of the Digital Business Transformation Symphony](https://dev.to/aniket1997/devops-the-conductor-of-the-digital-business-transformation-symphony-3ie9)
-- [Dev.to/JS] [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
