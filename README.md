@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Secret of Essential Keto Gummies: Your Ultimate Guide](https://dev.to/essentialketog/unveiling-the-secret-of-essential-keto-gummies-your-ultimate-guide-4l41)
 - [Dev.to/JS] [Node.js and MongoDB: Building a CRUD Application](https://dev.to/nitin-rachabathuni/nodejs-and-mongodb-building-a-crud-application-2keh)
 - [Dev.to/JS] [JavaScript Functions — Understanding The Basics](https://dev.to/iamrazzakk/javascript-functions-understanding-the-basics-31j0)
 - [Dev.to/JS] [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Resources Each TypeScript Developer Should Know About](https://dev.to/alexefimenko/5-resources-each-typescript-developer-should-know-about-30m4)
 - [Dev.to/JS] [E-Sync - ALX Portfolio Project](https://dev.to/allcodez/e-sync-alx-portfolio-project-36ld)
 - [Dev.to/JS] [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
-- [Dev.to/JS] [What is a REST API?](https://dev.to/glowinginthedark/what-is-a-rest-api-4ng6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 10, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
