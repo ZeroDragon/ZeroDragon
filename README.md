@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Docker &lpar;Module 1&rpar; : Understanding the Concept of Containerization.](https://dev.to/vectorware/introduction-to-docker-module-1-understanding-the-concept-of-containerization-16ec)
+- [Lifehacker] [How to Stop Beating Yourself Up About Your Body Image](https://lifehacker.com/health/how-to-stop-beating-yourself-up-about-your-body-image)
+- [Lifehacker] [The Nanoleaf Smart Ceiling Light Mimics a Skylight](https://lifehacker.com/tech/nanoleaf-skylight-review)
 - [Dev.to/JS] [Backend Authentication](https://dev.to/asharali999/backend-authentication-2n1m)
 - [Dev.to/JS] [Navigating the Future: A Deep Dive into WordPress Plugin Trends for 2024](https://dev.to/jamesmartindev/navigating-the-future-a-deep-dive-into-wordpress-plugin-trends-for-2024-48p9)
 - [Dev.to/JS] [Zustand EntityAdapter - A bookshelf example](https://dev.to/michaeljota/zustand-entityadapter-a-bookshelf-example-28bk)
+- [Lifehacker] [You May Need a Permit to Travel Abroad With Your Meds](https://lifehacker.com/travel/you-may-need-permit-to-travel-abroad-with-meds)
 - [Dev.to/JS] [Why are Web Components interesting?](https://dev.to/rrees/why-are-web-components-interesting-1p53)
 - [Dev.to/JS] [Zustand EntityAdapter - An EntityAdapter example for Zustand](https://dev.to/michaeljota/zustand-entityadapter-an-entityadapter-example-for-zustand-cd2)
 - [Dev.to/JS] [Search Recommendations in Nuxt with Algolia](https://dev.to/jacobandrewsky/search-recommendations-in-nuxt-with-algolia-23o)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Excel on Your CompTIA A+ 1101 Practice Test](https://dev.to/eally1939/how-to-excel-on-your-comptia-a-1101-practice-test-1do2)
 - [Dev.to/JS] [Transforming Chaos: Unleashing the Power of Ramda in ReactJS](https://dev.to/mike-at-redspace/transforming-chaos-unleashing-the-power-of-ramda-in-reactjs-34fa)
 - [Dev.to/JS] [Vue.js: An Intelligent Perspective and the Evolution of the Framework](https://dev.to/bubu13gu/vuejs-an-intelligent-perspective-and-the-evolution-of-the-framework-187j)
-- [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/atifali/conquering-common-coding-challenges-your-programmers-toolkit-ec4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S. in 2024](https://lifehacker.com/where-is-weed-legal-in-the-us)
 - [Lifehacker] [Make These Emergency Rice Krispies Treats in the Microwave](https://lifehacker.com/food-drink/microwave-rice-krispies-treats-recipe)
 - [Lifehacker] [Use a ‘Jar of Awesome’ to Stay Motivated](https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
-- [Lifehacker] [You Can Get This DIY Gaming Console Kit on Sale for $80 Right Now](https://lifehacker.com/diy-game-console-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
