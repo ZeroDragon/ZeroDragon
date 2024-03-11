@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How does Webpack work?](https://dev.to/khushilmistry/how-does-webpack-work-35c9)
+- [Dev.to/JS] [Best Tech Stack for Web App Development in 2024](https://dev.to/durgesh4993/best-tech-stack-for-web-app-development-in-2024-2o4)
 - [Dev.to/JS] [Dynamic import of javascript files in Power Pages](https://dev.to/andrewelans/dynamic-import-of-javascript-files-in-power-pages-3729)
 - [Dev.to/JS] [.sort&lpar;&rpar; vs .toSorted&lpar;&rpar; performance: which Array is faster?](https://dev.to/dariomannu/sort-vs-tosorted-performance-which-array-is-faster-2gbg)
 - [Lifehacker] [You Can Get Promova Premium on Sale for $80 Right Now](https://lifehacker.com/entertainment/promova-premium-sale)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Search Recommendations in Nuxt with Algolia](https://dev.to/jacobandrewsky/search-recommendations-in-nuxt-with-algolia-23o)
 - [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
 - [Dev.to/JS] [Full-stack developers are tech wizards skilled in both front and back end development](https://dev.to/codingmadeeasy/full-stack-developers-are-tech-wizards-skilled-in-both-front-and-back-end-development-1191)
-- [Dev.to/JS] [Conquering Common Coding Challenges: Your Programmer&#39;s Toolkit](https://dev.to/abdelbrid/conquering-common-coding-challenges-your-programmers-toolkit-ln0)
-- [Dev.to/JS] [How to Excel on Your CompTIA A+ 1101 Practice Test](https://dev.to/eally1939/how-to-excel-on-your-comptia-a-1101-practice-test-1do2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
