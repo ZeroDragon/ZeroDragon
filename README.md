@@ -26,18 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)
+- [Dev.to/JS] [Navigation without reloading - JavaScript Dynamic Loader](https://dev.to/sh20raj/navigation-without-reloading-javascript-dynamic-loader-2ca0)
+- [Dev.to/JS] [I need help](https://dev.to/someoni/i-need-help-486h)
+- [Dev.to/JS] [10 Advanced JavaScript Tricks for Experienced Developers 🚀🚀](https://dev.to/sufian/10-advanced-javascript-tricks-for-experienced-developers-4e8e)
+- [Dev.to/JS] [How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖](https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5)
 - [Dev.to/JS] [Enhancing Error Handling: 🚀Leveraging Logging and Effective Error Management in Your Codebase](https://dev.to/gautamvaishnav/enhancing-error-handling-leveraging-logging-and-effective-error-management-in-your-codebase-59c5)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/martinnjoss8/buy-negative-google-reviews-5hak)
 - [Dev.to/JS] [Vue&#39;s reactivity is a trap](https://dev.to/razi91/vues-reactivity-is-a-trap-2jci)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/martinnjoss8/buy-google-reviews-4mcj)
+- [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
 - [Dev.to/JS] [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/martinnjoss8/buy-old-gmail-accounts-jjo)
 - [Dev.to/JS] [Online IT Jobs For All](https://dev.to/carlabrazil/online-it-jobs-for-all-1jao)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/martinnjoss8/buy-google-voice-accounts-5dnm)
-- [Dev.to/JS] [LeetCode Meditations: Longest Substring without Repeating Characters](https://dev.to/rivea0/leetcode-meditations-longest-substring-without-repeating-characters-pak)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/martinnjoss8/buy-google-5-star-reviews-31o3)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/martinnjoss8/buy-verified-cash-app-account-i4g)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/martinnjoss8/buy-verified-paxful-account-2lef)
+- [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)
+- [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
 - [Lifehacker] [When Renovating Your Rental Is Actually a Good Idea](https://lifehacker.com/money/benefits-of-renovating-your-rental)
 - [Lifehacker] [How Smart Home Tech Is Evolving](https://lifehacker.com/tech/smart-home-tech-is-evolving)
 - [Lifehacker] [Where to Stream the 2024 Oscar Winners Right Now](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-winners)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals)
 - [Lifehacker] [Sony Just Released a New PS5 Slim Digital &#39;Spider-Man 2&#39; Bundle for $399.99](https://lifehacker.com/entertainment/sony-ps5-slim-digital-bundle-sale)
 - [Lifehacker] [Apple Updated Your Other Devices This Week, Too](https://lifehacker.com/tech/apple-updated-other-devices-this-week)
-- [Lifehacker] [It’s Time to Learn What ‘Core Sleep’ Actually Is](https://lifehacker.com/health/what-is-core-sleep-apple-watch)
-- [Lifehacker] [Use ‘DiSSS’ Method to Study More Effectively](https://lifehacker.com/family/disss-method-to-study-more-effectively)
-- [Lifehacker] [The Weirdest Side Hustles That Can Make You Real Money](https://lifehacker.com/money/the-weirdest-side-hustles-that-can-make-money)
-- [Lifehacker] [You Can Now Save Drafts and Take Pictures in the Threads App](https://lifehacker.com/tech/you-can-now-save-drafts-and-take-pictures-in-threads)
-- [Lifehacker] [How I Became a Children&#39;s Book Author](https://lifehacker.com/money/how-i-became-a-childrens-book-author)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It’s Time to Learn What ‘Core Sleep’ Actually Is](https://lifehacker.com/health/what-is-core-sleep-apple-watch)<!-- TECH-POSTS:END -->
 
 ---
 
