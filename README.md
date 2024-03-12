@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating Rust into Next.js: How-To Developer Guide](https://dev.to/capjavert/integrating-rust-into-nextjs-how-to-developer-guide-4jo6)
+- [Dev.to/JS] [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
+- [Dev.to/JS] [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
+- [Dev.to/JS] [🚀 Exciting news for all developers and tech enthusiasts! 🚀](https://dev.to/proweblook/exciting-news-for-all-developers-and-tech-enthusiasts-2e0c)
 - [Dev.to/JS] [Build Your Markdown Editor with React | My Co.Lab Insights](https://dev.to/ijay/build-your-markdown-editor-with-react-my-colab-insights-47m4)
+- [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
 - [Dev.to/JS] [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
+- [Dev.to/JS] [Um pouco de mim](https://dev.to/viana/uhiii-l3d)
 - [Dev.to/JS] [What is a Static Site Generator?](https://dev.to/swhabitation/what-is-a-static-site-generator-26ba)
 - [Dev.to/JS] [How to Build and Integrate a React Chatbot with LLMs: A React ChatBotify Guide &lpar;Part 4&rpar;](https://dev.to/tjtanjin/how-to-build-and-integrate-a-react-chatbot-with-llms-a-react-chatbotify-guide-part-4-3gbk)
 - [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/keepcoding/material-design-for-bootstrap-version-720-released-3h4i)
 - [Dev.to/JS] [3 Examples of TypeScript Generic React Components](https://dev.to/alexefimenko/3-examples-of-typescript-generic-react-components-4f9)
 - [Dev.to/JS] [Building Simple CRM with Vue: First Firestore Database Integration for User Data Management](https://dev.to/webcraft-notes/building-simple-crm-with-vue-first-firestore-database-integration-for-user-data-management-37ng)
-- [Dev.to/JS] [Spread vs Rest Operators in JavaScript](https://dev.to/baroblesvi/spread-vs-rest-operators-in-javascript-45f3)
-- [Dev.to/JS] [Operadores Spread vs Rest em JavaScript](https://dev.to/barobles/operadores-spread-vs-rest-em-javascript-2d14)
 - [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
-- [Dev.to/JS] [Comprehensive Java Full Stack Training](https://dev.to/ppaannkkaajj9927/comprehensive-java-full-stack-training-5m9)
-- [Dev.to/JS] [New Partnership](https://dev.to/alexroor4/new-partnership-3k41)
 - [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
-- [Dev.to/JS] [⚡️Top 6 Vue.js UI Libraries &lpar;Vue 3&rpar; Trending in 2024 🔥](https://dev.to/ansonch/top-6-vuejs-ui-libraries-vue-3-trending-in-2024-4nf2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
-- [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
-- [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)<!-- TECH-POSTS:END -->
 
 ---
 
