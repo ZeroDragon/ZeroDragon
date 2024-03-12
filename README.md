@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Your Markdown Editor with React | My Co.Lab Insights](https://dev.to/ijay/build-your-markdown-editor-with-react-my-colab-insights-47m4)
+- [Dev.to/JS] [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
+- [Dev.to/JS] [What is a Static Site Generator?](https://dev.to/swhabitation/what-is-a-static-site-generator-26ba)
+- [Dev.to/JS] [How to Build and Integrate a React Chatbot with LLMs: A React ChatBotify Guide &lpar;Part 4&rpar;](https://dev.to/tjtanjin/how-to-build-and-integrate-a-react-chatbot-with-llms-a-react-chatbotify-guide-part-4-3gbk)
 - [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/keepcoding/material-design-for-bootstrap-version-720-released-3h4i)
 - [Dev.to/JS] [3 Examples of TypeScript Generic React Components](https://dev.to/alexefimenko/3-examples-of-typescript-generic-react-components-4f9)
 - [Dev.to/JS] [Building Simple CRM with Vue: First Firestore Database Integration for User Data Management](https://dev.to/webcraft-notes/building-simple-crm-with-vue-first-firestore-database-integration-for-user-data-management-37ng)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Partnership](https://dev.to/alexroor4/new-partnership-3k41)
 - [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
 - [Dev.to/JS] [⚡️Top 6 Vue.js UI Libraries &lpar;Vue 3&rpar; Trending in 2024 🔥](https://dev.to/ansonch/top-6-vuejs-ui-libraries-vue-3-trending-in-2024-4nf2)
-- [Dev.to/JS] [How to count lines of code](https://dev.to/websilvercraft/how-to-count-lines-of-code-3dnp)
-- [Dev.to/JS] [Uchinchi dars if va else](https://dev.to/zafar7709/uchinchi-dars-if-va-else-56ke)
-- [Dev.to/JS] [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
-- [Dev.to/JS] [Top 22 Must-Have VSCode Extensions for Frontend Developers](https://dev.to/ellis22/top-22-must-have-vscode-extensions-for-frontend-developers-2mme)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
