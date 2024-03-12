@@ -26,12 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from open-source: Taskr in Next.js source code.](https://dev.to/ramunarasinga/lessons-from-open-source-taskr-in-nextjs-source-code-1ml7)
+- [Dev.to/JS] [Nodejs Security - What You Need To Know - Live Stream](https://dev.to/schalkneethling/nodejs-security-what-you-need-to-know-live-stream-5ao9)
 - [Dev.to/JS] [I created a simple CLI tool that helps you code FAST!](https://dev.to/farouqaldori/i-created-a-simple-cli-tool-that-helps-you-code-fast-499j)
 - [Dev.to/JS] [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
 - [Dev.to/JS] [Exploring the Magic of JavaScript: Unraveling Its Hidden Powers](https://dev.to/sarath_chandran/exploring-the-magic-of-javascript-unraveling-its-hidden-powers-29c)
+- [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
 - [Dev.to/JS] [How to convert an array into an object in javascript](https://dev.to/sarath_chandran/how-to-convert-an-array-into-an-object-in-javascript-3pgn)
 - [Dev.to/JS] [Understanding client library and database preferences for JS/TS developers](https://dev.to/alexbevi/understanding-client-library-and-database-preferences-for-jsts-developers-j9o)
 - [Dev.to/JS] [Object memory reference in JS](https://dev.to/pulimoodan/object-memory-reference-in-js-2ne7)
+- [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
 - [Dev.to/JS] [Rules for naming variables in JavaScript](https://dev.to/imashwani/rules-for-naming-variables-in-javascript-g54)
 - [Dev.to/JS] [Facial Detection with Filestack — Master the Art of Unveiling Faces](https://dev.to/ideradevtools/facial-detection-with-filestack-master-the-art-of-unveiling-faces-4m16)
 - [Dev.to/JS] [A Deep Dive into the satisfies operator in Typescript](https://dev.to/this-is-learning/a-deep-dive-into-the-satisfies-operator-in-typescript-1b3n)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
 - [Dev.to/JS] [Simplifying API Mocking with Mock Service Worker &lpar;msw&rpar;](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j)
 - [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)
-- [Dev.to/JS] [How to upload images or files on Firebase Cloud Storage with Nextjs 14](https://dev.to/thatanjan/how-to-upload-images-or-files-on-firebase-cloud-storage-with-nextjs-14-3dpf)
 - [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
-- [Dev.to/JS] [Beyond React.js: Exploring Next Steps in Your Front-End Journey](https://dev.to/visavadiyavrushik/beyond-reactjs-exploring-next-steps-in-your-front-end-journey-1e93)
 - [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)
 - [Lifehacker] [Use This Checklist to Spring-Clean Your Kitchen](https://lifehacker.com/home/your-kitchen-cleaning-checklist)
 - [Lifehacker] [The M3 Macbook Air Is Finally as Fast as It Should Be](https://lifehacker.com/tech/apples-base-macbook-air-is-finally-as-fast-as-it-should-be)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Didn&#39;t Want an Apple Car Anyway](https://lifehacker.com/tech/what-the-apple-car-looked-like)
 - [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)
 - [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
-- [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)
-- [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
-- [Lifehacker] [When Renovating Your Rental Is Actually a Good Idea](https://lifehacker.com/money/benefits-of-renovating-your-rental)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)<!-- TECH-POSTS:END -->
 
 ---
 
