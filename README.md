@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meme Coin Hype Over?🤔](https://dev.to/andylarkin677/meme-coin-hype-over-4e8)
 - [Dev.to/JS] [🌟🚀💻 Plataforma Gamificada para Aprender Programação ✨🎮](https://dev.to/edilsonrogeriocuambe/plataforma-gamificada-para-aprender-programacao-3m62)
+- [Lifehacker] [Use This Shortcut to Find the Battery Cycle Count on Any iPhone](https://lifehacker.com/tech/use-this-shortcut-find-the-battery-cycle-count-on-any-iphone)
 - [Dev.to/JS] [Creating Stunning Charts for Your ASP.NET Applications - Part 2](https://dev.to/shegzee/creating-stunning-charts-for-your-aspnet-applications-part-2-2ld3)
 - [Dev.to/JS] [Google Maps/Marker Via Dynamic Library Import [2024] - The latest version](https://dev.to/rajatamil/google-mapsmarker-via-dynamic-library-import-2024-the-latest-version-2k06)
+- [Lifehacker] [You Should Make Rice Krispies Treats, but With Popcorn](https://lifehacker.com/food-drink/popcorn-rice-krispies-treats-recipe)
 - [Dev.to/JS] [Integrating Rust into Next.js: How-To Developer Guide](https://dev.to/capjavert/integrating-rust-into-nextjs-how-to-developer-guide-4jo6)
 - [Dev.to/JS] [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
 - [Dev.to/JS] [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
 - [Dev.to/JS] [Um pouco de mim](https://dev.to/viana/uhiii-l3d)
 - [Dev.to/JS] [What is a Static Site Generator?](https://dev.to/swhabitation/what-is-a-static-site-generator-26ba)
-- [Dev.to/JS] [How to Build and Integrate a React Chatbot with LLMs: A React ChatBotify Guide &lpar;Part 4&rpar;](https://dev.to/tjtanjin/how-to-build-and-integrate-a-react-chatbot-with-llms-a-react-chatbotify-guide-part-4-3gbk)
 - [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
 - [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use AI to Build Your Own Website](https://lifehacker.com/tech/how-to-use-ai-to-build-your-own-website)
 - [Lifehacker] [How to Stop Beating Yourself Up About Your Body Image](https://lifehacker.com/health/how-to-stop-beating-yourself-up-about-your-body-image)
 - [Lifehacker] [The Nanoleaf Smart Ceiling Light Mimics a Skylight](https://lifehacker.com/tech/nanoleaf-skylight-review)
-- [Lifehacker] [You May Need a Permit to Travel Abroad With Your Meds](https://lifehacker.com/travel/you-may-need-permit-to-travel-abroad-with-meds)
-- [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
-- [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You May Need a Permit to Travel Abroad With Your Meds](https://lifehacker.com/travel/you-may-need-permit-to-travel-abroad-with-meds)<!-- TECH-POSTS:END -->
 
 ---
 
