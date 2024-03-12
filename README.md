@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
+- [Dev.to/JS] [Simplifying API Mocking with Mock Service Worker &lpar;msw&rpar;](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j)
+- [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)
 - [Dev.to/JS] [How to upload images or files on Firebase Cloud Storage with Nextjs 14](https://dev.to/thatanjan/how-to-upload-images-or-files-on-firebase-cloud-storage-with-nextjs-14-3dpf)
+- [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
 - [Dev.to/JS] [Beyond React.js: Exploring Next Steps in Your Front-End Journey](https://dev.to/visavadiyavrushik/beyond-reactjs-exploring-next-steps-in-your-front-end-journey-1e93)
 - [Dev.to/JS] [npx lassiecoder – in your terminal?](https://dev.to/lassiecoder/npx-lassiecoder-in-your-terminal-282e)
 - [Dev.to/JS] [Zustand.js - современный, невесомый, производительный и очень гибкий state manager](https://dev.to/budarin/zustandjs-sovriemiennyi-nieviesomyi-proizvoditielnyi-i-ochien-ghibkii-state-manager-1ccb)
+- [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)
 - [Lifehacker] [Use This Checklist to Spring-Clean Your Kitchen](https://lifehacker.com/home/your-kitchen-cleaning-checklist)
 - [Dev.to/JS] [Meme Coin Hype Over?🤔](https://dev.to/andylarkin677/meme-coin-hype-over-4e8)
 - [Lifehacker] [The M3 Macbook Air Is Finally as Fast as It Should Be](https://lifehacker.com/tech/apples-base-macbook-air-is-finally-as-fast-as-it-should-be)
@@ -41,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Rust into Next.js: How-To Developer Guide](https://dev.to/capjavert/integrating-rust-into-nextjs-how-to-developer-guide-4jo6)
 - [Dev.to/JS] [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
 - [Dev.to/JS] [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
-- [Dev.to/JS] [🚀 Exciting news for all developers and tech enthusiasts! 🚀](https://dev.to/proweblook/exciting-news-for-all-developers-and-tech-enthusiasts-2e0c)
 - [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)
 - [Lifehacker] [The 25 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
 - [Lifehacker] [When Renovating Your Rental Is Actually a Good Idea](https://lifehacker.com/money/benefits-of-renovating-your-rental)
 - [Lifehacker] [How Smart Home Tech Is Evolving](https://lifehacker.com/tech/smart-home-tech-is-evolving)
-- [Lifehacker] [Where to Stream the 2024 Oscar Winners Right Now](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-winners)
-- [Lifehacker] [The Google Pixel 7 and 7 Pro Are at Their Lowest Prices Right Now](https://lifehacker.com/google-pixel-7-deal)
-- [Lifehacker] [You Can Get Promova Premium on Sale for $80 Right Now](https://lifehacker.com/entertainment/promova-premium-sale)
-- [Lifehacker] [How to Use AI to Build Your Own Website](https://lifehacker.com/tech/how-to-use-ai-to-build-your-own-website)
-- [Lifehacker] [How to Stop Beating Yourself Up About Your Body Image](https://lifehacker.com/health/how-to-stop-beating-yourself-up-about-your-body-image)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the 2024 Oscar Winners Right Now](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-winners)<!-- TECH-POSTS:END -->
 
 ---
 
