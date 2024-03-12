@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
+- [Dev.to/JS] [Rules for naming variables in JavaScript](https://dev.to/imashwani/rules-for-naming-variables-in-javascript-g54)
+- [Dev.to/JS] [Facial Detection with Filestack — Master the Art of Unveiling Faces](https://dev.to/ideradevtools/facial-detection-with-filestack-master-the-art-of-unveiling-faces-4m16)
+- [Dev.to/JS] [A Deep Dive into the satisfies operator in Typescript](https://dev.to/this-is-learning/a-deep-dive-into-the-satisfies-operator-in-typescript-1b3n)
 - [Dev.to/JS] [Simplifying API Mocking with Mock Service Worker &lpar;msw&rpar;](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j)
-- [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)
 - [Dev.to/JS] [How to upload images or files on Firebase Cloud Storage with Nextjs 14](https://dev.to/thatanjan/how-to-upload-images-or-files-on-firebase-cloud-storage-with-nextjs-14-3dpf)
 - [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
 - [Dev.to/JS] [Beyond React.js: Exploring Next Steps in Your Front-End Journey](https://dev.to/visavadiyavrushik/beyond-reactjs-exploring-next-steps-in-your-front-end-journey-1e93)
@@ -43,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Stunning Charts for Your ASP.NET Applications - Part 2](https://dev.to/shegzee/creating-stunning-charts-for-your-aspnet-applications-part-2-2ld3)
 - [Dev.to/JS] [Google Maps/Marker Via Dynamic Library Import [2024] - The latest version](https://dev.to/rajatamil/google-mapsmarker-via-dynamic-library-import-2024-the-latest-version-2k06)
 - [Lifehacker] [You Should Make Rice Krispies Treats, but With Popcorn](https://lifehacker.com/food-drink/popcorn-rice-krispies-treats-recipe)
-- [Dev.to/JS] [Integrating Rust into Next.js: How-To Developer Guide](https://dev.to/capjavert/integrating-rust-into-nextjs-how-to-developer-guide-4jo6)
-- [Dev.to/JS] [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
-- [Dev.to/JS] [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
 - [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)
 - [Lifehacker] [The 25 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
@@ -65,7 +63,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
 - [Lifehacker] [When Renovating Your Rental Is Actually a Good Idea](https://lifehacker.com/money/benefits-of-renovating-your-rental)
 - [Lifehacker] [How Smart Home Tech Is Evolving](https://lifehacker.com/tech/smart-home-tech-is-evolving)
-- [Lifehacker] [Where to Stream the 2024 Oscar Winners Right Now](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-winners)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the 2024 Oscar Winners Right Now](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-winners)
+- [Lifehacker] [The Google Pixel 7 and 7 Pro Are at Their Lowest Prices Right Now](https://lifehacker.com/google-pixel-7-deal)
+- [Lifehacker] [You Can Get Promova Premium on Sale for $80 Right Now](https://lifehacker.com/entertainment/promova-premium-sale)<!-- TECH-POSTS:END -->
 
 ---
 
