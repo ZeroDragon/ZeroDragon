@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Must-Have APIs for Web Development](https://dev.to/buddhadebchhetri/6-must-have-apis-for-web-development-3233)
+- [Dev.to/JS] [All about JavaScript Execution Context](https://dev.to/olibhiaghosh/all-about-javascript-execution-context-1nc6)
+- [Dev.to/JS] [Unveiling React 19: New hooks Explained!](https://dev.to/khush/unveiling-react-19-new-hooks-explained-cma)
+- [Dev.to/JS] [How the callback function works in sort&lpar;&rpar;](https://dev.to/kansoldev/how-the-callback-function-works-in-sort-2pld)
 - [Dev.to/JS] [How to Implement a Facial Recognition-Based Clock-In/Clock-Out System](https://dev.to/luxandcloud/how-to-implement-a-facial-recognition-based-clock-inclock-out-system-3d1f)
 - [Dev.to/JS] [What role does quantum machine learning play in the Multiverse Computing ecosystem?](https://dev.to/yagnapandya9/what-role-does-quantum-machine-learning-play-in-the-multiverse-computing-ecosystem-5a4k)
 - [Dev.to/JS] [A Dive into Conversational AI](https://dev.to/nluxai/a-dive-into-conversational-ai-j27)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React simple and unique interview questions which some experienced developers also don&#39;t aware](https://dev.to/uthirabalan/react-simple-and-unique-interview-questions-which-some-experienced-developers-also-dont-aware-amc)
 - [Dev.to/JS] [Front-End Developer Essentials: Skills You Can&#39;t Do Without](https://dev.to/princekukreja/front-end-developer-essentials-skills-you-cant-do-without-30kf)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/lewishendersonn1/buy-old-gmail-accounts-1c4p)
-- [Dev.to/JS] [# #WenguiGuo#WashingtonFarm](https://dev.to/hamaa/-wenguiguowashingtonfarm-477g)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lewishendersonn1/buy-google-voice-accounts-802)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Typescript or Else – Why you need to be using TS if you aren’t already](https://dev.to/heyjoshlee/typescript-or-else-why-you-need-to-be-using-ts-if-you-arent-already-37j1)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lewishendersonn1/buy-google-5-star-reviews-955)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
 - [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
