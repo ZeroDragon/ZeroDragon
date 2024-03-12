@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Enums: 5 Real-World Use Cases](https://dev.to/alexefimenko/typescript-enums-5-real-world-use-cases-4idk)
 - [Dev.to/JS] [Craft Your GitHub Profile Page in 60 Seconds with Zero Code, Absolutely Free](https://dev.to/rafaelbmateus/craft-your-github-profile-page-in-60-seconds-with-zero-code-absolutely-free-4b2n)
 - [Dev.to/JS] [Performance Tuning: Optimizing Streams in Node.js](https://dev.to/ruben_alapont/performance-tuning-optimizing-streams-in-nodejs-2b53)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)
 - [Dev.to/JS] [Navigation without reloading - JavaScript Dynamic Loader](https://dev.to/sh20raj/navigation-without-reloading-javascript-dynamic-loader-2ca0)
 - [Dev.to/JS] [I need help](https://dev.to/someoni/i-need-help-486h)
-- [Dev.to/JS] [10 Advanced JavaScript Tricks for Experienced Developers 🚀🚀](https://dev.to/sufian/10-advanced-javascript-tricks-for-experienced-developers-4e8e)
 - [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
 - [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)
 - [Lifehacker] [WhatsApp’s Latest Feature Will Tell You Whether Your Chats Are Securely Encrypted](https://lifehacker.com/tech/whatsapps-end-to-end-encryption-warning-feature)
