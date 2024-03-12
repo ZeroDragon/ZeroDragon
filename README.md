@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌟🚀💻 Plataforma Gamificada para Aprender Programação ✨🎮](https://dev.to/edilsonrogeriocuambe/plataforma-gamificada-para-aprender-programacao-3m62)
+- [Dev.to/JS] [Creating Stunning Charts for Your ASP.NET Applications - Part 2](https://dev.to/shegzee/creating-stunning-charts-for-your-aspnet-applications-part-2-2ld3)
+- [Dev.to/JS] [Google Maps/Marker Via Dynamic Library Import [2024] - The latest version](https://dev.to/rajatamil/google-mapsmarker-via-dynamic-library-import-2024-the-latest-version-2k06)
 - [Dev.to/JS] [Integrating Rust into Next.js: How-To Developer Guide](https://dev.to/capjavert/integrating-rust-into-nextjs-how-to-developer-guide-4jo6)
 - [Dev.to/JS] [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
 - [Dev.to/JS] [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
 - [Dev.to/JS] [🚀 Exciting news for all developers and tech enthusiasts! 🚀](https://dev.to/proweblook/exciting-news-for-all-developers-and-tech-enthusiasts-2e0c)
+- [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)
+- [Lifehacker] [The 25 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Dev.to/JS] [Build Your Markdown Editor with React | My Co.Lab Insights](https://dev.to/ijay/build-your-markdown-editor-with-react-my-colab-insights-47m4)
 - [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
 - [Dev.to/JS] [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
 - [Dev.to/JS] [Um pouco de mim](https://dev.to/viana/uhiii-l3d)
 - [Dev.to/JS] [What is a Static Site Generator?](https://dev.to/swhabitation/what-is-a-static-site-generator-26ba)
 - [Dev.to/JS] [How to Build and Integrate a React Chatbot with LLMs: A React ChatBotify Guide &lpar;Part 4&rpar;](https://dev.to/tjtanjin/how-to-build-and-integrate-a-react-chatbot-with-llms-a-react-chatbotify-guide-part-4-3gbk)
-- [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/keepcoding/material-design-for-bootstrap-version-720-released-3h4i)
-- [Dev.to/JS] [3 Examples of TypeScript Generic React Components](https://dev.to/alexefimenko/3-examples-of-typescript-generic-react-components-4f9)
-- [Dev.to/JS] [Building Simple CRM with Vue: First Firestore Database Integration for User Data Management](https://dev.to/webcraft-notes/building-simple-crm-with-vue-first-firestore-database-integration-for-user-data-management-37ng)
 - [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
 - [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Nanoleaf Smart Ceiling Light Mimics a Skylight](https://lifehacker.com/tech/nanoleaf-skylight-review)
 - [Lifehacker] [You May Need a Permit to Travel Abroad With Your Meds](https://lifehacker.com/travel/you-may-need-permit-to-travel-abroad-with-meds)
 - [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
-- [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
-- [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
-- [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)<!-- TECH-POSTS:END -->
 
 ---
 
