@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Performance Tuning: Optimizing Streams in Node.js](https://dev.to/ruben_alapont/performance-tuning-optimizing-streams-in-nodejs-2b53)
+- [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
 - [Dev.to/JS] [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
 - [Dev.to/JS] [10 JavaScript Array Methods That Will Make You Look Like a Pro](https://dev.to/adexbam/10-javascript-array-methods-that-will-make-you-look-like-a-pro-57dh)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [How to Choose Between the M2 and M3 MacBook Air](https://lifehacker.com/tech/m3-versus-m2-macbook-air)
-- [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
-- [Lifehacker] [You Can Use Progressive Muscle Relaxation to Destress at Work](https://lifehacker.com/work/use-progressive-muscle-relaxation-to-destress-at-work)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)<!-- TECH-POSTS:END -->
 
 ---
 
