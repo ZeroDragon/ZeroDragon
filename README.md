@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement a Facial Recognition-Based Clock-In/Clock-Out System](https://dev.to/luxandcloud/how-to-implement-a-facial-recognition-based-clock-inclock-out-system-3d1f)
+- [Dev.to/JS] [What role does quantum machine learning play in the Multiverse Computing ecosystem?](https://dev.to/yagnapandya9/what-role-does-quantum-machine-learning-play-in-the-multiverse-computing-ecosystem-5a4k)
+- [Dev.to/JS] [A Dive into Conversational AI](https://dev.to/nluxai/a-dive-into-conversational-ai-j27)
 - [Dev.to/JS] [Conquer the Challenge: A Streamlined Guide to Connecting MongoDB to Your Node Application](https://dev.to/zechariah17/conquer-the-challenge-a-streamlined-guide-to-connecting-mongodb-to-your-node-application-48lk)
 - [Dev.to/JS] [Scalable Node.js Architectures for Large-scale Applications](https://dev.to/nitin-rachabathuni/scalable-nodejs-architectures-for-large-scale-applications-2f4)
 - [Dev.to/JS] [React simple and unique interview questions which some experienced developers also don&#39;t aware](https://dev.to/uthirabalan/react-simple-and-unique-interview-questions-which-some-experienced-developers-also-dont-aware-amc)
@@ -33,11 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/lewishendersonn1/buy-old-gmail-accounts-1c4p)
 - [Dev.to/JS] [# #WenguiGuo#WashingtonFarm](https://dev.to/hamaa/-wenguiguowashingtonfarm-477g)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lewishendersonn1/buy-google-voice-accounts-802)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Typescript or Else – Why you need to be using TS if you aren’t already](https://dev.to/heyjoshlee/typescript-or-else-why-you-need-to-be-using-ts-if-you-arent-already-37j1)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lewishendersonn1/buy-google-5-star-reviews-955)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/lewishendersonn1/buy-verified-cash-app-account-1lip)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lewishendersonn1/buy-verified-paxful-account-l4n)
-- [Dev.to/JS] [Using JavaScript to implement a text zoom-in animation.](https://dev.to/wangliwen/using-javascript-to-implement-a-text-zoom-in-animation-1apg)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
 - [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Nanoleaf Smart Ceiling Light Mimics a Skylight](https://lifehacker.com/tech/nanoleaf-skylight-review)
 - [Lifehacker] [You May Need a Permit to Travel Abroad With Your Meds](https://lifehacker.com/travel/you-may-need-permit-to-travel-abroad-with-meds)
 - [Lifehacker] [You Can Get This Mini Ultra Portable SSD on Sale for $44 Right Now](https://lifehacker.com/tech/mini-ultra-portable-ssd-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 11, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
