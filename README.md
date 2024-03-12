@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript or Else – Why you need to be using TS if you aren’t already](https://dev.to/heyjoshlee/typescript-or-else-why-you-need-to-be-using-ts-if-you-arent-already-37j1)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lewishendersonn1/buy-google-5-star-reviews-955)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/lewishendersonn1/buy-verified-cash-app-account-1lip)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lewishendersonn1/buy-verified-paxful-account-l4n)
+- [Dev.to/JS] [Using JavaScript to implement a text zoom-in animation.](https://dev.to/wangliwen/using-javascript-to-implement-a-text-zoom-in-animation-1apg)
 - [Dev.to/JS] [Exploring React 19: A Deep Dive into the Latest Features and Enhancements](https://dev.to/sufian/exploring-react-19-a-deep-dive-into-the-latest-features-and-enhancements-4pb7)
 - [Dev.to/JS] [What role does artificial intelligence play in the LangChain platform?](https://dev.to/yagnapandya9/what-role-does-artificial-intelligence-play-in-the-langchain-platform-46ik)
 - [Dev.to/JS] [Empower SEO with JavaScript SEO Expertise: A Practical Guide](https://dev.to/officialyellowfindigital/empower-seo-with-javascript-seo-expertise-a-practical-guide-5cp7)
@@ -33,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Switch Vs. If else](https://dev.to/amritapadhy/switch-vs-if-else-1aig)
 - [Dev.to/JS] [EncriptorJS is a JavaScript text encryption - decryption library](https://dev.to/sh20raj/encriptorjs-is-a-javascript-text-encryption-decryption-library-2045)
 - [Dev.to/JS] [TypeScript Enums: 5 Real-World Use Cases](https://dev.to/alexefimenko/typescript-enums-5-real-world-use-cases-4idk)
-- [Dev.to/JS] [Craft Your GitHub Profile Page in 60 Seconds with Zero Code, Absolutely Free](https://dev.to/rafaelbmateus/craft-your-github-profile-page-in-60-seconds-with-zero-code-absolutely-free-4b2n)
-- [Dev.to/JS] [Performance Tuning: Optimizing Streams in Node.js](https://dev.to/ruben_alapont/performance-tuning-optimizing-streams-in-nodejs-2b53)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
-- [Dev.to/JS] [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
-- [Dev.to/JS] [10 JavaScript Array Methods That Will Make You Look Like a Pro](https://dev.to/adexbam/10-javascript-array-methods-that-will-make-you-look-like-a-pro-57dh)
 - [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
-- [Dev.to/JS] [Welcome to the Cloud](https://dev.to/tbello/welcome-to-the-cloud-30p3)
 - [Lifehacker] [These Smart Video Doorbells Are up to 62% Off](https://lifehacker.com/tech/arlo-essential-video-doorbell-and-blink-outdoor-4-sale)
 - [Lifehacker] [LG’s New High-end Gaming Monitors Look Nice, and Are Very Expensive](https://lifehacker.com/tech/lgs-new-ultragear-oled-gaming-monitors-release-date-and-price)
 - [Lifehacker] [The Samsung Galaxy Buds Pro 2 Are 53% Off](https://lifehacker.com/tech/samsung-galaxy-buds-pro-2-sale)
