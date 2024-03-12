@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
+- [Dev.to/JS] [Top 22 Must-Have VSCode Extensions for Frontend Developers](https://dev.to/ellis22/top-22-must-have-vscode-extensions-for-frontend-developers-2mme)
 - [Dev.to/JS] [6 Must-Have APIs for Web Development](https://dev.to/buddhadebchhetri/6-must-have-apis-for-web-development-3233)
 - [Dev.to/JS] [All about JavaScript Execution Context](https://dev.to/olibhiaghosh/all-about-javascript-execution-context-1nc6)
 - [Dev.to/JS] [Unveiling React 19: New hooks Explained!](https://dev.to/khush/unveiling-react-19-new-hooks-explained-cma)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conquer the Challenge: A Streamlined Guide to Connecting MongoDB to Your Node Application](https://dev.to/zechariah17/conquer-the-challenge-a-streamlined-guide-to-connecting-mongodb-to-your-node-application-48lk)
 - [Dev.to/JS] [Scalable Node.js Architectures for Large-scale Applications](https://dev.to/nitin-rachabathuni/scalable-nodejs-architectures-for-large-scale-applications-2f4)
 - [Dev.to/JS] [React simple and unique interview questions which some experienced developers also don&#39;t aware](https://dev.to/uthirabalan/react-simple-and-unique-interview-questions-which-some-experienced-developers-also-dont-aware-amc)
-- [Dev.to/JS] [Front-End Developer Essentials: Skills You Can&#39;t Do Without](https://dev.to/princekukreja/front-end-developer-essentials-skills-you-cant-do-without-30kf)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/lewishendersonn1/buy-old-gmail-accounts-1c4p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
