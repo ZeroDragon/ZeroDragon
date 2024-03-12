@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 14 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-4bhi)
 - [Dev.to/JS] [Lessons from open-source: Taskr in Next.js source code.](https://dev.to/ramunarasinga/lessons-from-open-source-taskr-in-nextjs-source-code-1ml7)
 - [Dev.to/JS] [Nodejs Security - What You Need To Know - Live Stream](https://dev.to/schalkneethling/nodejs-security-what-you-need-to-know-live-stream-5ao9)
+- [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
+- [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
 - [Dev.to/JS] [I created a simple CLI tool that helps you code FAST!](https://dev.to/farouqaldori/i-created-a-simple-cli-tool-that-helps-you-code-fast-499j)
 - [Dev.to/JS] [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
 - [Dev.to/JS] [Exploring the Magic of JavaScript: Unraveling Its Hidden Powers](https://dev.to/sarath_chandran/exploring-the-magic-of-javascript-unraveling-its-hidden-powers-29c)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
 - [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)
 - [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
-- [Dev.to/JS] [Simplifying API Mocking with Mock Service Worker &lpar;msw&rpar;](https://dev.to/andrewchaa/simplifying-api-mocking-with-mock-service-worker-msw-4o4j)
 - [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)
 - [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
 - [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [LG’s New High-end Gaming Monitors Look Nice, and Are Very Expensive](https://lifehacker.com/tech/lgs-new-ultragear-oled-gaming-monitors-release-date-and-price)
 - [Lifehacker] [The Samsung Galaxy Buds Pro 2 Are 53% Off](https://lifehacker.com/tech/samsung-galaxy-buds-pro-2-sale)
 - [Lifehacker] [You Didn&#39;t Want an Apple Car Anyway](https://lifehacker.com/tech/what-the-apple-car-looked-like)
-- [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)
-- [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
-- [Lifehacker] [The Pixel 8 Can’t Access Google’s Latest AI Tools for Some Reason](https://lifehacker.com/tech/pixel-8-wont-get-gemini-nano)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)<!-- TECH-POSTS:END -->
 
 ---
 
