@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/keepcoding/material-design-for-bootstrap-version-720-released-3h4i)
+- [Dev.to/JS] [3 Examples of TypeScript Generic React Components](https://dev.to/alexefimenko/3-examples-of-typescript-generic-react-components-4f9)
+- [Dev.to/JS] [Building Simple CRM with Vue: First Firestore Database Integration for User Data Management](https://dev.to/webcraft-notes/building-simple-crm-with-vue-first-firestore-database-integration-for-user-data-management-37ng)
+- [Dev.to/JS] [Spread vs Rest Operators in JavaScript](https://dev.to/baroblesvi/spread-vs-rest-operators-in-javascript-45f3)
+- [Dev.to/JS] [Operadores Spread vs Rest em JavaScript](https://dev.to/barobles/operadores-spread-vs-rest-em-javascript-2d14)
+- [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
+- [Dev.to/JS] [Comprehensive Java Full Stack Training](https://dev.to/ppaannkkaajj9927/comprehensive-java-full-stack-training-5m9)
+- [Dev.to/JS] [New Partnership](https://dev.to/alexroor4/new-partnership-3k41)
+- [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
 - [Dev.to/JS] [⚡️Top 6 Vue.js UI Libraries &lpar;Vue 3&rpar; Trending in 2024 🔥](https://dev.to/ansonch/top-6-vuejs-ui-libraries-vue-3-trending-in-2024-4nf2)
 - [Dev.to/JS] [How to count lines of code](https://dev.to/websilvercraft/how-to-count-lines-of-code-3dnp)
 - [Dev.to/JS] [Uchinchi dars if va else](https://dev.to/zafar7709/uchinchi-dars-if-va-else-56ke)
 - [Dev.to/JS] [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
 - [Dev.to/JS] [Top 22 Must-Have VSCode Extensions for Frontend Developers](https://dev.to/ellis22/top-22-must-have-vscode-extensions-for-frontend-developers-2mme)
-- [Dev.to/JS] [6 Must-Have APIs for Web Development](https://dev.to/buddhadebchhetri/6-must-have-apis-for-web-development-3233)
-- [Dev.to/JS] [All about JavaScript Execution Context](https://dev.to/olibhiaghosh/all-about-javascript-execution-context-1nc6)
-- [Dev.to/JS] [Unveiling React 19: New hooks Explained!](https://dev.to/khush/unveiling-react-19-new-hooks-explained-cma)
-- [Dev.to/JS] [How the callback function works in sort&lpar;&rpar;](https://dev.to/kansoldev/how-the-callback-function-works-in-sort-2pld)
-- [Dev.to/JS] [How to Implement a Facial Recognition-Based Clock-In/Clock-Out System](https://dev.to/luxandcloud/how-to-implement-a-facial-recognition-based-clock-inclock-out-system-3d1f)
-- [Dev.to/JS] [What role does quantum machine learning play in the Multiverse Computing ecosystem?](https://dev.to/yagnapandya9/what-role-does-quantum-machine-learning-play-in-the-multiverse-computing-ecosystem-5a4k)
-- [Dev.to/JS] [A Dive into Conversational AI](https://dev.to/nluxai/a-dive-into-conversational-ai-j27)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Cost of a Peloton](https://lifehacker.com/money/the-real-cost-of-a-peloton)
 - [Lifehacker] [These Are the Best Car Vacuums to Buy in 2024](https://lifehacker.com/home/the-best-car-vacuums)
 - [Lifehacker] [10 Optimistic Podcast to Make You Feel Less Bad About Existing in 2024](https://lifehacker.com/entertainment/the-best-optimistic-podcasts)
-- [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
-- [Lifehacker] [How to Choose Between the M2 and M3 MacBook Air](https://lifehacker.com/tech/m3-versus-m2-macbook-air)
-- [Lifehacker] [How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)<!-- TECH-POSTS:END -->
 
 ---
 
