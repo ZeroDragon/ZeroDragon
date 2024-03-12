@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring React 19: A Deep Dive into the Latest Features and Enhancements](https://dev.to/sufian/exploring-react-19-a-deep-dive-into-the-latest-features-and-enhancements-4pb7)
+- [Dev.to/JS] [What role does artificial intelligence play in the LangChain platform?](https://dev.to/yagnapandya9/what-role-does-artificial-intelligence-play-in-the-langchain-platform-46ik)
+- [Dev.to/JS] [Empower SEO with JavaScript SEO Expertise: A Practical Guide](https://dev.to/officialyellowfindigital/empower-seo-with-javascript-seo-expertise-a-practical-guide-5cp7)
+- [Dev.to/JS] [Asymptotic analysis](https://dev.to/tanmaycode/asymptotic-analysis-37m4)
 - [Dev.to/JS] [Switch Vs. If else](https://dev.to/amritapadhy/switch-vs-if-else-1aig)
 - [Dev.to/JS] [EncriptorJS is a JavaScript text encryption - decryption library](https://dev.to/sh20raj/encriptorjs-is-a-javascript-text-encryption-decryption-library-2045)
 - [Dev.to/JS] [TypeScript Enums: 5 Real-World Use Cases](https://dev.to/alexefimenko/typescript-enums-5-real-world-use-cases-4idk)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
 - [Dev.to/JS] [Welcome to the Cloud](https://dev.to/tbello/welcome-to-the-cloud-30p3)
 - [Lifehacker] [These Smart Video Doorbells Are up to 62% Off](https://lifehacker.com/tech/arlo-essential-video-doorbell-and-blink-outdoor-4-sale)
-- [Dev.to/JS] [My Journey developing my own NPM Package](https://dev.to/andresclua/my-journey-developing-my-own-npm-package-56ff)
 - [Lifehacker] [LG’s New High-end Gaming Monitors Look Nice, and Are Very Expensive](https://lifehacker.com/tech/lgs-new-ultragear-oled-gaming-monitors-release-date-and-price)
-- [Dev.to/JS] [Lessons from open-source: Can you use &quot;require&quot; and &quot;import&quot; in the same file in NodeJs](https://dev.to/ramunarasinga/lessons-from-open-source-can-you-use-require-and-import-in-the-same-file-in-nodejs-2obd)
-- [Dev.to/JS] [The Web Page Rendering Process in Browsers: A Deep Dive](https://dev.to/sewas87/the-web-page-rendering-process-in-browsers-a-deep-dive-4bgd)
 - [Lifehacker] [The Samsung Galaxy Buds Pro 2 Are 53% Off](https://lifehacker.com/tech/samsung-galaxy-buds-pro-2-sale)
-- [Dev.to/JS] [How I would begin a career in software QA](https://dev.to/samelawrence/how-i-would-begin-a-career-in-software-qa-83e)
 - [Lifehacker] [You Didn&#39;t Want an Apple Car Anyway](https://lifehacker.com/tech/what-the-apple-car-looked-like)
 - [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)
 - [Lifehacker] [These Are the Best Backyard Bounce Houses Money Can Buy](https://lifehacker.com/family/best-bounce-houses-for-kids)
