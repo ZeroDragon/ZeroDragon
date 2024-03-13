@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
 - [Dev.to/JS] [Why Redux ?](https://dev.to/dhruvacode/why-redux--3ae5)
 - [Dev.to/JS] [Build an Escape Plan With the Vonage Voice API and Get a Ghost Call](https://dev.to/vonagedev/build-an-escape-plan-with-the-vonage-voice-api-and-get-a-ghost-call-2m3m)
 - [Dev.to/JS] [JavaScript Array Map&lpar;&rpar;](https://dev.to/mikeadelek/javascript-array-map-574h)
 - [Dev.to/JS] [Advantages of Next.JS](https://dev.to/sarath_mithran/advantages-of-nextjs-142m)
+- [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Dev.to/JS] [Como utilizar la API de Mercado Pago con Javascript en 2024](https://dev.to/pabmchn/como-utilizar-la-api-de-mercado-pago-con-javascript-en-2024-dkh)
 - [Dev.to/JS] [How I built a Web based Operating System](https://dev.to/laurensmesure/how-i-build-a-web-based-operating-system-5h8o)
 - [Dev.to/JS] [How to use external libraries in Theme App Extensions for your Shopify App](https://dev.to/joshatflare/how-to-use-external-libraries-in-theme-app-extensions-for-your-shopify-app-5922)
+- [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
 - [Dev.to/JS] [SciChart is the fastest JS Chart library available](https://dev.to/andyb1979/scichart-is-the-fastest-js-chart-library-available-3o3c)
 - [Dev.to/JS] [Next.js Data Fetching with Images: A Comprehensive Guide](https://dev.to/wadizaatour/nextjs-data-fetching-with-images-a-comprehensive-guide-1061)
 - [Dev.to/JS] [DataVisualization in the Oil &amp; Gas Industry using SciChart](https://dev.to/andyb1979/datavisualization-in-the-oil-gas-industry-using-scichart-3dhg)
 - [Dev.to/JS] [Open Source Stock Chart library for iOS &amp; Android](https://dev.to/andyb1979/open-source-stock-chart-library-for-ios-android-5859)
-- [Dev.to/JS] [Pushing the Boundaries of JavaScript Chart Dashboard Performance](https://dev.to/andyb1979/pushing-the-boundaries-of-javascript-chart-dashboard-performance-5enl)
+- [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
 - [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)
 - [Lifehacker] [Five Ways to Make the Most of Your Eero Wifi Network](https://lifehacker.com/tech/five-tips-for-managing-your-eero-wi-fi-network)
 - [Lifehacker] [The 50 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
 - [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)
 - [Lifehacker] [Use This Checklist to Spring-Clean Your Kitchen](https://lifehacker.com/home/your-kitchen-cleaning-checklist)
-- [Lifehacker] [The M3 Macbook Air Is Finally As Fast As It Should Be](https://lifehacker.com/tech/apples-base-macbook-air-is-finally-as-fast-as-it-should-be)
-- [Lifehacker] [Use This Shortcut to Find the Battery Cycle Count on Any iPhone](https://lifehacker.com/tech/use-this-shortcut-find-the-battery-cycle-count-on-any-iphone)
-- [Lifehacker] [You Should Make Rice Krispies Treats, but With Popcorn](https://lifehacker.com/food-drink/popcorn-rice-krispies-treats-recipe)
-- [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The M3 Macbook Air Is Finally As Fast As It Should Be](https://lifehacker.com/tech/apples-base-macbook-air-is-finally-as-fast-as-it-should-be)<!-- TECH-POSTS:END -->
 
 ---
 
