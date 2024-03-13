@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
+- [Lifehacker] [It Looks Like Tiktok Is Launching a Dedicated Photos App](https://lifehacker.com/tech/tiktoks-new-dedicated-photos-app)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 14 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-4bhi)
+- [Lifehacker] [You Can Get AdGuard VPN on Sale for $20 Right Now](https://lifehacker.com/adguard-sale)
 - [Dev.to/JS] [Lessons from open-source: Taskr in Next.js source code.](https://dev.to/ramunarasinga/lessons-from-open-source-taskr-in-nextjs-source-code-1ml7)
 - [Dev.to/JS] [Nodejs Security - What You Need To Know - Live Stream](https://dev.to/schalkneethling/nodejs-security-what-you-need-to-know-live-stream-5ao9)
 - [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
 - [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
 - [Lifehacker] [These Smart Video Doorbells Are up to 62% Off](https://lifehacker.com/tech/arlo-essential-video-doorbell-and-blink-outdoor-4-sale)
-- [Lifehacker] [LG’s New High-end Gaming Monitors Look Nice, and Are Very Expensive](https://lifehacker.com/tech/lgs-new-ultragear-oled-gaming-monitors-release-date-and-price)
-- [Lifehacker] [The Samsung Galaxy Buds Pro 2 Are 53% Off](https://lifehacker.com/tech/samsung-galaxy-buds-pro-2-sale)
-- [Lifehacker] [You Didn&#39;t Want an Apple Car Anyway](https://lifehacker.com/tech/what-the-apple-car-looked-like)
-- [Lifehacker] [Airbnb&#39;s New Security Camera Ban Is a Big Deal](https://lifehacker.com/tech/airbnbs-new-security-camera-ban)<!-- TECH-POSTS:END -->
+- [Lifehacker] [LG’s New High-end Gaming Monitors Look Nice, and Are Very Expensive](https://lifehacker.com/tech/lgs-new-ultragear-oled-gaming-monitors-release-date-and-price)<!-- TECH-POSTS:END -->
 
 ---
 
