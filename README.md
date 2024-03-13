@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
+- [Dev.to/JS] [Frontend Developer Roadmap 2024](https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9)
+- [Dev.to/JS] [Sending Telegram Messages using Node.js and the Telegram API](https://dev.to/basskibo/sending-telegram-messages-using-nodejs-and-the-telegram-api-148h)
+- [Dev.to/JS] [7 Essential JavaScript Unit Testing Frameworks Every Developer Should Know ✅](https://dev.to/alisamirali/7-essential-javascript-unit-testing-frameworks-every-developer-should-know-5c25)
+- [Dev.to/JS] [OAuth 2.0 implementation in Node.js](https://dev.to/permify/oauth-20-implementation-in-nodejs-1k4n)
 - [Dev.to/JS] [Healthy life](https://dev.to/hellobeauty/healthy-life-382p)
 - [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/mz2387/material-design-for-bootstrap-version-720-released-15ik)
 - [Dev.to/JS] [Micro Frontends with Vite and Bit](https://dev.to/giteden/micro-frontends-with-vite-and-bit-22a5)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create Responsive Image Carousel using HTML CSS And Javascript](https://dev.to/mohammed_navas/how-to-create-responsive-image-carousel-using-html-css-and-javascript-2gk7)
 - [Dev.to/JS] [Creando un filtro de busqueda con Javascript](https://dev.to/pabmchn/creando-un-filtro-de-busqueda-con-javascript-35im)
 - [Dev.to/JS] [What is a WYSIWYG Editor? Advanced Features Beyond Basic Formatting](https://dev.to/ideradevtools/what-is-a-wysiwyg-editor-advanced-features-beyond-basic-formatting-32md)
-- [Dev.to/JS] [Web Development Agency | Fullstackmonks](https://dev.to/fullstackmonks/web-development-agency-fullstackmonks-10k4)
-- [Dev.to/JS] [Resources Every Web Developer Needs](https://dev.to/monica_w/resources-every-web-developer-needs-18m0)
-- [Dev.to/JS] [Buy Facebook Accounts-Cheap Bulk Accounts](https://dev.to/nicholaskenny/buy-facebook-accounts-cheap-bulk-accounts-192n)
-- [Dev.to/JS] [Preparing Global Citizens: The Mission of International Schools in Chennai](https://dev.to/asischennai/preparing-global-citizens-the-mission-of-international-schools-in-chennai-56bk)
-- [Dev.to/JS] [What is this if not part of the development?](https://dev.to/andylarkin677/what-is-this-if-not-part-of-the-development-2hhk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
