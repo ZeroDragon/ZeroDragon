@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [App is crashing after APK build is generated from EXPO](https://dev.to/doxuanhieu185/app-is-crashing-after-apk-build-is-generated-from-expo-l0j)
+- [Dev.to/JS] [Dockerize NodeJS](https://dev.to/ilhamsabir/dockerize-nodejs-113b)
 - [Dev.to/JS] [How to use State in React](https://dev.to/deborah/how-to-use-state-in-react-2pah)
 - [Dev.to/JS] [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
 - [Dev.to/JS] [Data Structures and Algorithms: Quick Sort](https://dev.to/faraib/data-structures-and-algorithms-quick-sort-pi)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
 - [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
 - [Dev.to/JS] [I created a simple CLI tool that helps you code FAST!](https://dev.to/farouqaldori/i-created-a-simple-cli-tool-that-helps-you-code-fast-499j)
-- [Dev.to/JS] [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
-- [Dev.to/JS] [Exploring the Magic of JavaScript: Unraveling Its Hidden Powers](https://dev.to/sarath_chandran/exploring-the-magic-of-javascript-unraveling-its-hidden-powers-29c)
 - [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
 - [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
 - [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
