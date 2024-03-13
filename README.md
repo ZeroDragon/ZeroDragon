@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [10 Compelling Reasons to Choose SciChart.js](https://dev.to/andyb1979/10-compelling-reasons-to-choose-scichartjs-43ci)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/cricksonnjustin/buy-verified-paxful-account-5adp)
-- [Dev.to/JS] [How to show 1D colored horizontal bar on a JavaScript Chart](https://dev.to/andyb1979/how-to-show-1d-colored-horizontal-bar-on-a-javascript-chart-l8i)
-- [Dev.to/JS] [How to Make a Progressive Web App](https://dev.to/princegupta/how-to-make-a-progressive-web-app-179i)
-- [Dev.to/JS] [How to Link JavaScript Charts and Synchronise zooming, panning, crosshairs](https://dev.to/andyb1979/how-to-link-javascript-charts-and-synchronise-zooming-panning-crosshairs-5gn9)
-- [Dev.to/JS] [Unit Testing Auth0 Custom Database Scripts](https://dev.to/thiagomini/unit-testing-auth0-custom-database-scripts-2mbi)
-- [Dev.to/JS] [Exploring the useEffect Hook in React: Managing Side Effects](https://dev.to/sayuj/exploring-the-useeffect-hook-in-react-managing-side-effects-3n5)
-- [Dev.to/JS] [Understanding the useState Hook in React: Simplifying State Management](https://dev.to/sayuj/understanding-the-usestate-hook-in-react-simplifying-state-management-3pgn)
-- [Dev.to/JS] [Finally, I did it!! I solved a real-world problem](https://dev.to/hcoco1/finally-i-did-it-i-solved-a-real-world-problem-4ph7)
+- [Dev.to/JS] [Why Redux ?](https://dev.to/dhruvacode/why-redux--3ae5)
+- [Dev.to/JS] [Build an Escape Plan With the Vonage Voice API and Get a Ghost Call](https://dev.to/vonagedev/build-an-escape-plan-with-the-vonage-voice-api-and-get-a-ghost-call-2m3m)
+- [Dev.to/JS] [JavaScript Array Map&lpar;&rpar;](https://dev.to/mikeadelek/javascript-array-map-574h)
+- [Dev.to/JS] [Advantages of Next.JS](https://dev.to/sarath_mithran/advantages-of-nextjs-142m)
+- [Dev.to/JS] [Como utilizar la API de Mercado Pago con Javascript en 2024](https://dev.to/pabmchn/como-utilizar-la-api-de-mercado-pago-con-javascript-en-2024-dkh)
+- [Dev.to/JS] [How I built a Web based Operating System](https://dev.to/laurensmesure/how-i-build-a-web-based-operating-system-5h8o)
+- [Dev.to/JS] [How to use external libraries in Theme App Extensions for your Shopify App](https://dev.to/joshatflare/how-to-use-external-libraries-in-theme-app-extensions-for-your-shopify-app-5922)
+- [Dev.to/JS] [SciChart is the fastest JS Chart library available](https://dev.to/andyb1979/scichart-is-the-fastest-js-chart-library-available-3o3c)
+- [Dev.to/JS] [Next.js Data Fetching with Images: A Comprehensive Guide](https://dev.to/wadizaatour/nextjs-data-fetching-with-images-a-comprehensive-guide-1061)
+- [Dev.to/JS] [DataVisualization in the Oil &amp; Gas Industry using SciChart](https://dev.to/andyb1979/datavisualization-in-the-oil-gas-industry-using-scichart-3dhg)
+- [Dev.to/JS] [Open Source Stock Chart library for iOS &amp; Android](https://dev.to/andyb1979/open-source-stock-chart-library-for-ios-android-5859)
+- [Dev.to/JS] [Pushing the Boundaries of JavaScript Chart Dashboard Performance](https://dev.to/andyb1979/pushing-the-boundaries-of-javascript-chart-dashboard-performance-5enl)
+- [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)
+- [Lifehacker] [Five Ways to Make the Most of Your Eero Wifi Network](https://lifehacker.com/tech/five-tips-for-managing-your-eero-wi-fi-network)
 - [Lifehacker] [The 50 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
-- [Dev.to/JS] [25 Unnoticeable Features of JavaScript](https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1)
-- [Dev.to/JS] [Redis in Node.js 2024](https://dev.to/ifeanyichima/redis-in-nodejs-2024-o5c)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: John Cena&#39;s Naked Oscar Walk](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-john-cenas-naked-oscar-walk)
-- [Dev.to/JS] [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
 - [Lifehacker] [Turn Your To-do List Into Data to Maximize Your Productivity](https://lifehacker.com/work/turn-your-to-do-list-into-data-to-maximize-productivity)
 - [Lifehacker] [Don&#39;t Give up on Your Leftovers, &#39;Pizza&#39; Them](https://lifehacker.com/food-drink/leftovers-pizza-recipe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The M3 Macbook Air Is Finally As Fast As It Should Be](https://lifehacker.com/tech/apples-base-macbook-air-is-finally-as-fast-as-it-should-be)
 - [Lifehacker] [Use This Shortcut to Find the Battery Cycle Count on Any iPhone](https://lifehacker.com/tech/use-this-shortcut-find-the-battery-cycle-count-on-any-iphone)
 - [Lifehacker] [You Should Make Rice Krispies Treats, but With Popcorn](https://lifehacker.com/food-drink/popcorn-rice-krispies-treats-recipe)
-- [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)
-- [Lifehacker] [The 25 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)<!-- TECH-POSTS:END -->
 
 ---
 
