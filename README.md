@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the useEffect Hook in React: Managing Side Effects](https://dev.to/sayuj/exploring-the-useeffect-hook-in-react-managing-side-effects-3n5)
+- [Dev.to/JS] [Understanding the useState Hook in React: Simplifying State Management](https://dev.to/sayuj/understanding-the-usestate-hook-in-react-simplifying-state-management-3pgn)
+- [Dev.to/JS] [Finally, I did it!! I solved a real-world problem](https://dev.to/hcoco1/finally-i-did-it-i-solved-a-real-world-problem-4ph7)
+- [Dev.to/JS] [25 Unnoticeable Features of JavaScript](https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1)
+- [Dev.to/JS] [Redis in Node.js 2024](https://dev.to/ifeanyichima/redis-in-nodejs-2024-o5c)
 - [Dev.to/JS] [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
+- [Lifehacker] [Turn Your To-do List Into Data to Maximize Your Productivity](https://lifehacker.com/work/turn-your-to-do-list-into-data-to-maximize-productivity)
 - [Dev.to/JS] [Frontend Developer Roadmap 2024](https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9)
 - [Dev.to/JS] [Sending Telegram Messages using Node.js and the Telegram API](https://dev.to/basskibo/sending-telegram-messages-using-nodejs-and-the-telegram-api-148h)
 - [Dev.to/JS] [7 Essential JavaScript Unit Testing Frameworks Every Developer Should Know ✅](https://dev.to/alisamirali/7-essential-javascript-unit-testing-frameworks-every-developer-should-know-5c25)
 - [Dev.to/JS] [OAuth 2.0 implementation in Node.js](https://dev.to/permify/oauth-20-implementation-in-nodejs-1k4n)
 - [Dev.to/JS] [Healthy life](https://dev.to/hellobeauty/healthy-life-382p)
 - [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/mz2387/material-design-for-bootstrap-version-720-released-15ik)
-- [Dev.to/JS] [Micro Frontends with Vite and Bit](https://dev.to/giteden/micro-frontends-with-vite-and-bit-22a5)
-- [Dev.to/JS] [Creating a new project on MERN Stack](https://dev.to/aryantiw/creating-a-new-project-on-mern-stack-4cgn)
-- [Dev.to/JS] [How To Create Responsive Image Carousel using HTML CSS And Javascript](https://dev.to/mohammed_navas/how-to-create-responsive-image-carousel-using-html-css-and-javascript-2gk7)
-- [Dev.to/JS] [Creando un filtro de busqueda con Javascript](https://dev.to/pabmchn/creando-un-filtro-de-busqueda-con-javascript-35im)
-- [Dev.to/JS] [What is a WYSIWYG Editor? Advanced Features Beyond Basic Formatting](https://dev.to/ideradevtools/what-is-a-wysiwyg-editor-advanced-features-beyond-basic-formatting-32md)
+- [Lifehacker] [Don&#39;t Give up on Your Leftovers, &#39;Pizza&#39; Them](https://lifehacker.com/food-drink/leftovers-pizza-recipe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 25 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
 - [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
-- [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
-- [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
-- [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)<!-- TECH-POSTS:END -->
 
 ---
 
