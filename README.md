@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Responsive Image Carousel using HTML CSS And Javascript](https://dev.to/mohammed_navas/how-to-create-responsive-image-carousel-using-html-css-and-javascript-2gk7)
 - [Dev.to/JS] [Creando un filtro de busqueda con Javascript](https://dev.to/pabmchn/creando-un-filtro-de-busqueda-con-javascript-35im)
 - [Dev.to/JS] [What is a WYSIWYG Editor? Advanced Features Beyond Basic Formatting](https://dev.to/ideradevtools/what-is-a-wysiwyg-editor-advanced-features-beyond-basic-formatting-32md)
 - [Dev.to/JS] [Web Development Agency | Fullstackmonks](https://dev.to/fullstackmonks/web-development-agency-fullstackmonks-10k4)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Take My Online Classes: The Answer for Scholarly Over-burden](https://dev.to/brooktim222/take-my-online-classes-the-answer-for-scholarly-over-burden-4fj0)
 - [Dev.to/JS] [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Guide: How to Build Emotion Recognition Application with JavaScript](https://dev.to/luxandcloud/guide-how-to-build-emotion-recognition-application-with-javascript-jhj)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
 - [Lifehacker] [Apple Issues Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)
