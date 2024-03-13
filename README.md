@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
+- [Dev.to/JS] [Considering a coding bootcamp? Make sure you&#39;re ready.](https://dev.to/brittleestill/considering-a-coding-bootcamp-make-sure-youre-ready-3cii)
+- [Dev.to/JS] [5 Resources to Improve Your Problem-Solving Skills](https://dev.to/brittleestill/5-resources-to-improve-your-problem-solving-skills-2h3n)
+- [Lifehacker] [You Can Get a $25 Gift Card When You Buy a Nintendo Switch](https://lifehacker.com/entertainment/nintendo-switch-25-dollar-gift-card-target-deal)
 - [Dev.to/JS] [Unleashing the Power of JavaScript](https://dev.to/azurabennett/unleashing-the-power-of-javascript-215n)
 - [Dev.to/JS] [Unlocking Web Development Potential with Next.js](https://dev.to/cybermaxi7/unlocking-web-development-potential-with-nextjs-2mb4)
 - [Dev.to/JS] [Fix: Hydration failed because the initial UI does not match what was rendered on the server](https://dev.to/saranshk/fix-hydration-failed-because-the-initial-ui-does-not-match-what-was-rendered-on-the-server-41di)
 - [Dev.to/JS] [Micro frontend frameworks in 2024](https://dev.to/lakincoder/micro-frontend-frameworks-in-2024-265f)
+- [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)
 - [Lifehacker] [The 10 Best Podcasts for Pet People](https://lifehacker.com/entertainment/best-podcasts-for-pet-people)
 - [Dev.to/JS] [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
 - [Dev.to/JS] [Why Redux ?](https://dev.to/dhruvacode/why-redux--3ae5)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Array Map&lpar;&rpar;](https://dev.to/mikeadelek/javascript-array-map-574h)
 - [Dev.to/JS] [Advantages of Next.JS](https://dev.to/sarath_mithran/advantages-of-nextjs-142m)
 - [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
-- [Dev.to/JS] [Como utilizar la API de Mercado Pago con Javascript en 2024](https://dev.to/pabmchn/como-utilizar-la-api-de-mercado-pago-con-javascript-en-2024-dkh)
-- [Dev.to/JS] [How I built a Web based Operating System](https://dev.to/laurensmesure/how-i-build-a-web-based-operating-system-5h8o)
-- [Dev.to/JS] [How to use external libraries in Theme App Extensions for your Shopify App](https://dev.to/joshatflare/how-to-use-external-libraries-in-theme-app-extensions-for-your-shopify-app-5922)
 - [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
 - [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
 - [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
 - [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)
 - [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
-- [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)
-- [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
-- [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)<!-- TECH-POSTS:END -->
 
 ---
 
