@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of JavaScript](https://dev.to/azurabennett/unleashing-the-power-of-javascript-215n)
+- [Dev.to/JS] [Unlocking Web Development Potential with Next.js](https://dev.to/cybermaxi7/unlocking-web-development-potential-with-nextjs-2mb4)
+- [Dev.to/JS] [Fix: Hydration failed because the initial UI does not match what was rendered on the server](https://dev.to/saranshk/fix-hydration-failed-because-the-initial-ui-does-not-match-what-was-rendered-on-the-server-41di)
+- [Dev.to/JS] [Micro frontend frameworks in 2024](https://dev.to/lakincoder/micro-frontend-frameworks-in-2024-265f)
+- [Lifehacker] [The 10 Best Podcasts for Pet People](https://lifehacker.com/entertainment/best-podcasts-for-pet-people)
 - [Dev.to/JS] [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
 - [Dev.to/JS] [Why Redux ?](https://dev.to/dhruvacode/why-redux--3ae5)
+- [Lifehacker] [How to Win at &#39;Strands,&#39; the NYT&#39;s Latest Word Game](https://lifehacker.com/entertainment/how-to-win-nyts-strands-game)
 - [Dev.to/JS] [Build an Escape Plan With the Vonage Voice API and Get a Ghost Call](https://dev.to/vonagedev/build-an-escape-plan-with-the-vonage-voice-api-and-get-a-ghost-call-2m3m)
 - [Dev.to/JS] [JavaScript Array Map&lpar;&rpar;](https://dev.to/mikeadelek/javascript-array-map-574h)
 - [Dev.to/JS] [Advantages of Next.JS](https://dev.to/sarath_mithran/advantages-of-nextjs-142m)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built a Web based Operating System](https://dev.to/laurensmesure/how-i-build-a-web-based-operating-system-5h8o)
 - [Dev.to/JS] [How to use external libraries in Theme App Extensions for your Shopify App](https://dev.to/joshatflare/how-to-use-external-libraries-in-theme-app-extensions-for-your-shopify-app-5922)
 - [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
-- [Dev.to/JS] [SciChart is the fastest JS Chart library available](https://dev.to/andyb1979/scichart-is-the-fastest-js-chart-library-available-3o3c)
-- [Dev.to/JS] [Next.js Data Fetching with Images: A Comprehensive Guide](https://dev.to/wadizaatour/nextjs-data-fetching-with-images-a-comprehensive-guide-1061)
-- [Dev.to/JS] [DataVisualization in the Oil &amp; Gas Industry using SciChart](https://dev.to/andyb1979/datavisualization-in-the-oil-gas-industry-using-scichart-3dhg)
-- [Dev.to/JS] [Open Source Stock Chart library for iOS &amp; Android](https://dev.to/andyb1979/open-source-stock-chart-library-for-ios-android-5859)
 - [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
 - [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)
 - [Lifehacker] [Five Ways to Make the Most of Your Eero Wifi Network](https://lifehacker.com/tech/five-tips-for-managing-your-eero-wi-fi-network)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
 - [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)
 - [Lifehacker] [The Truth About the Range Rover Tax &#39;Loophole&#39;](https://lifehacker.com/money/range-rover-tax-loophole)
-- [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)
-- [Lifehacker] [Use This Checklist to Spring-Clean Your Kitchen](https://lifehacker.com/home/your-kitchen-cleaning-checklist)
-- [Lifehacker] [The M3 Macbook Air Is Finally As Fast As It Should Be](https://lifehacker.com/tech/apples-base-macbook-air-is-finally-as-fast-as-it-should-be)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Will Let Users Download Apps From the Web &lpar;in the EU&rpar;](https://lifehacker.com/tech/apple-will-let-users-download-apps-from-the-web-in-the-eu)<!-- TECH-POSTS:END -->
 
 ---
 
