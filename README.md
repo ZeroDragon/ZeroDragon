@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from open-source: What is OpenTelemetry](https://dev.to/ramunarasinga/lessons-from-open-source-what-is-opentelemetry-3ed6)
+- [Dev.to/JS] [How to solve the 2 crystal balls problem in JS](https://dev.to/kaxmoglan/how-to-solve-the-2-crystal-balls-problem-in-js-9hm)
+- [Dev.to/JS] [Add 50+ integrations to your React app for free](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
+- [Dev.to/JS] [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
 - [Dev.to/JS] [What Tech Stack Should I use To Build My Portfolio](https://dev.to/monica_w/what-tech-stack-should-i-use-to-build-my-portfolio-1jpf)
+- [Lifehacker] [Nearly 300 Indie iPhone, iPad, and Mac Apps Are on Sale Right Now](https://lifehacker.com/tech/indie-app-sale-on-macos-and-ios)
 - [Dev.to/JS] [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
 - [Lifehacker] [Spotify Has Music Videos Now &lpar;but Not for Everyone&rpar;](https://lifehacker.com/tech/spotify-has-music-videos-now-but-not-for-everyone)
 - [Dev.to/JS] [Considering a coding bootcamp? Make sure you&#39;re ready.](https://dev.to/brittleestill/considering-a-coding-bootcamp-make-sure-youre-ready-3cii)
@@ -39,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Micro frontend frameworks in 2024](https://dev.to/lakincoder/micro-frontend-frameworks-in-2024-265f)
 - [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)
 - [Lifehacker] [The 10 Best Podcasts for Pet People](https://lifehacker.com/entertainment/best-podcasts-for-pet-people)
-- [Dev.to/JS] [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
-- [Dev.to/JS] [Why Redux ?](https://dev.to/dhruvacode/why-redux--3ae5)
 - [Lifehacker] [How to Win at &#39;Strands,&#39; the NYT&#39;s Latest Word Game](https://lifehacker.com/entertainment/how-to-win-nyts-strands-game)
-- [Dev.to/JS] [Build an Escape Plan With the Vonage Voice API and Get a Ghost Call](https://dev.to/vonagedev/build-an-escape-plan-with-the-vonage-voice-api-and-get-a-ghost-call-2m3m)
-- [Dev.to/JS] [JavaScript Array Map&lpar;&rpar;](https://dev.to/mikeadelek/javascript-array-map-574h)
 - [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
 - [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
 - [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
 - [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
-- [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
-- [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)<!-- TECH-POSTS:END -->
 
 ---
 
