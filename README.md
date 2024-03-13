@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take My Online Classes: The Answer for Scholarly Over-burden](https://dev.to/brooktim222/take-my-online-classes-the-answer-for-scholarly-over-burden-4fj0)
+- [Dev.to/JS] [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
 - [Dev.to/JS] [Guide: How to Build Emotion Recognition Application with JavaScript](https://dev.to/luxandcloud/guide-how-to-build-emotion-recognition-application-with-javascript-jhj)
 - [Dev.to/JS] [React Component Libraries](https://dev.to/codedthemes/react-component-libraries-4n8h)
 - [Dev.to/JS] [Need Java Specialist for my website &lpar;10+ Postions all over world&rpar;](https://dev.to/vernon22/need-java-specialist-for-my-website-2a38)
@@ -37,12 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Dev.to/JS] [TypeScript Index Signatures: 4 Examples Type-Safe Dynamic Objects](https://dev.to/alexefimenko/typescript-index-signatures-4-examples-type-safe-dynamic-objects-554o)
-- [Dev.to/JS] [Unleashing the Magic of JavaScript&#39;s Superpowers: Making Code Dance to Its Own Beat](https://dev.to/shyamrajvs/unleashing-the-magic-of-javascripts-superpowers-making-code-dance-to-its-own-beat-3c4p)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
 - [Lifehacker] [Apple Issues Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)
 - [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
 - [Lifehacker] [It Looks Like Tiktok Is Launching a Dedicated Photos App](https://lifehacker.com/tech/tiktoks-new-dedicated-photos-app)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 14 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-4bhi)
 - [Lifehacker] [You Can Get AdGuard VPN on Sale for $20 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
 - [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
