@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guide: How to Build Emotion Recognition Application with JavaScript](https://dev.to/luxandcloud/guide-how-to-build-emotion-recognition-application-with-javascript-jhj)
 - [Dev.to/JS] [React Component Libraries](https://dev.to/codedthemes/react-component-libraries-4n8h)
 - [Dev.to/JS] [Need Java Specialist for my website &lpar;10+ Postions all over world&rpar;](https://dev.to/vernon22/need-java-specialist-for-my-website-2a38)
 - [Dev.to/JS] [App is crashing after APK build is generated from EXPO](https://dev.to/doxuanhieu185/app-is-crashing-after-apk-build-is-generated-from-expo-l0j)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It Looks Like Tiktok Is Launching a Dedicated Photos App](https://lifehacker.com/tech/tiktoks-new-dedicated-photos-app)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 14 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-4bhi)
 - [Lifehacker] [You Can Get AdGuard VPN on Sale for $20 Right Now](https://lifehacker.com/adguard-sale)
-- [Dev.to/JS] [Lessons from open-source: Taskr in Next.js source code.](https://dev.to/ramunarasinga/lessons-from-open-source-taskr-in-nextjs-source-code-1ml7)
 - [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
 - [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
 - [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
