@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
+- [Dev.to/JS] [TypeScript Index Signatures: 4 Examples Type-Safe Dynamic Objects](https://dev.to/alexefimenko/typescript-index-signatures-4-examples-type-safe-dynamic-objects-554o)
+- [Dev.to/JS] [Unleashing the Magic of JavaScript&#39;s Superpowers: Making Code Dance to Its Own Beat](https://dev.to/shyamrajvs/unleashing-the-magic-of-javascripts-superpowers-making-code-dance-to-its-own-beat-3c4p)
+- [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
 - [Lifehacker] [Apple Issues Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)
 - [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
 - [Lifehacker] [It Looks Like Tiktok Is Launching a Dedicated Photos App](https://lifehacker.com/tech/tiktoks-new-dedicated-photos-app)
@@ -43,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding client library and database preferences for JS/TS developers](https://dev.to/alexbevi/understanding-client-library-and-database-preferences-for-jsts-developers-j9o)
 - [Dev.to/JS] [Object memory reference in JS](https://dev.to/pulimoodan/object-memory-reference-in-js-2ne7)
 - [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
-- [Dev.to/JS] [Rules for naming variables in JavaScript](https://dev.to/imashwani/rules-for-naming-variables-in-javascript-g54)
-- [Dev.to/JS] [Facial Detection with Filestack — Master the Art of Unveiling Faces](https://dev.to/ideradevtools/facial-detection-with-filestack-master-the-art-of-unveiling-faces-4m16)
-- [Dev.to/JS] [A Deep Dive into the satisfies operator in Typescript](https://dev.to/this-is-learning/a-deep-dive-into-the-satisfies-operator-in-typescript-1b3n)
 - [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
 - [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)
 - [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
-- [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)
-- [Lifehacker] [These Smart Video Doorbells Are up to 62% Off](https://lifehacker.com/tech/arlo-essential-video-doorbell-and-blink-outdoor-4-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)<!-- TECH-POSTS:END -->
 
 ---
 
