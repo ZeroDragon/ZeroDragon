@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Compelling Reasons to Choose SciChart.js](https://dev.to/andyb1979/10-compelling-reasons-to-choose-scichartjs-43ci)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/cricksonnjustin/buy-verified-paxful-account-5adp)
+- [Dev.to/JS] [How to show 1D colored horizontal bar on a JavaScript Chart](https://dev.to/andyb1979/how-to-show-1d-colored-horizontal-bar-on-a-javascript-chart-l8i)
+- [Dev.to/JS] [How to Make a Progressive Web App](https://dev.to/princegupta/how-to-make-a-progressive-web-app-179i)
+- [Dev.to/JS] [How to Link JavaScript Charts and Synchronise zooming, panning, crosshairs](https://dev.to/andyb1979/how-to-link-javascript-charts-and-synchronise-zooming-panning-crosshairs-5gn9)
+- [Dev.to/JS] [Unit Testing Auth0 Custom Database Scripts](https://dev.to/thiagomini/unit-testing-auth0-custom-database-scripts-2mbi)
 - [Dev.to/JS] [Exploring the useEffect Hook in React: Managing Side Effects](https://dev.to/sayuj/exploring-the-useeffect-hook-in-react-managing-side-effects-3n5)
 - [Dev.to/JS] [Understanding the useState Hook in React: Simplifying State Management](https://dev.to/sayuj/understanding-the-usestate-hook-in-react-simplifying-state-management-3pgn)
 - [Dev.to/JS] [Finally, I did it!! I solved a real-world problem](https://dev.to/hcoco1/finally-i-did-it-i-solved-a-real-world-problem-4ph7)
+- [Lifehacker] [The 50 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
 - [Dev.to/JS] [25 Unnoticeable Features of JavaScript](https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1)
 - [Dev.to/JS] [Redis in Node.js 2024](https://dev.to/ifeanyichima/redis-in-nodejs-2024-o5c)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: John Cena&#39;s Naked Oscar Walk](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-john-cenas-naked-oscar-walk)
 - [Dev.to/JS] [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
 - [Lifehacker] [Turn Your To-do List Into Data to Maximize Your Productivity](https://lifehacker.com/work/turn-your-to-do-list-into-data-to-maximize-productivity)
-- [Dev.to/JS] [Frontend Developer Roadmap 2024](https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9)
-- [Dev.to/JS] [Sending Telegram Messages using Node.js and the Telegram API](https://dev.to/basskibo/sending-telegram-messages-using-nodejs-and-the-telegram-api-148h)
-- [Dev.to/JS] [7 Essential JavaScript Unit Testing Frameworks Every Developer Should Know ✅](https://dev.to/alisamirali/7-essential-javascript-unit-testing-frameworks-every-developer-should-know-5c25)
-- [Dev.to/JS] [OAuth 2.0 implementation in Node.js](https://dev.to/permify/oauth-20-implementation-in-nodejs-1k4n)
-- [Dev.to/JS] [Healthy life](https://dev.to/hellobeauty/healthy-life-382p)
-- [Dev.to/JS] [🚨Material Design for Bootstrap Version 7.2.0, released!🚨](https://dev.to/mz2387/material-design-for-bootstrap-version-720-released-15ik)
 - [Lifehacker] [Don&#39;t Give up on Your Leftovers, &#39;Pizza&#39; Them](https://lifehacker.com/food-drink/leftovers-pizza-recipe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Rice Krispies Treats, but With Popcorn](https://lifehacker.com/food-drink/popcorn-rice-krispies-treats-recipe)
 - [Lifehacker] [How to Use Google Chrome&#39;s Built-in Safety Check &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/how-to-use-google-chrome-built-in-safety-check)
 - [Lifehacker] [The 25 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
-- [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
-- [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)<!-- TECH-POSTS:END -->
 
 ---
 
