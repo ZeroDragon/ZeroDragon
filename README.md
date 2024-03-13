@@ -28,8 +28,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Lessons from open-source: What is OpenTelemetry](https://dev.to/ramunarasinga/lessons-from-open-source-what-is-opentelemetry-3ed6)
 - [Dev.to/JS] [How to solve the 2 crystal balls problem in JS](https://dev.to/kaxmoglan/how-to-solve-the-2-crystal-balls-problem-in-js-9hm)
-- [Dev.to/JS] [Add 50+ integrations to your React app for free](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
+- [Dev.to/JS] [An Integration Guide for Next.js Apps](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
+- [Lifehacker] [You Should Whip Some Honey](https://lifehacker.com/food-drink/whipped-honey-recipe)
 - [Dev.to/JS] [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
+- [Lifehacker] [How to Mirror Your iPhone&#39;s Display to Your TV](https://lifehacker.com/tech/how-to-mirror-iphones-display-to-tv)
 - [Dev.to/JS] [What Tech Stack Should I use To Build My Portfolio](https://dev.to/monica_w/what-tech-stack-should-i-use-to-build-my-portfolio-1jpf)
 - [Lifehacker] [Nearly 300 Indie iPhone, iPad, and Mac Apps Are on Sale Right Now](https://lifehacker.com/tech/indie-app-sale-on-macos-and-ios)
 - [Dev.to/JS] [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get AdGuard VPN on Sale for $20 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
 - [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
-- [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
-- [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
-- [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)<!-- TECH-POSTS:END -->
 
 ---
 
