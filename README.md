@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use State in React](https://dev.to/deborah/how-to-use-state-in-react-2pah)
+- [Dev.to/JS] [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
+- [Dev.to/JS] [Data Structures and Algorithms: Quick Sort](https://dev.to/faraib/data-structures-and-algorithms-quick-sort-pi)
 - [Dev.to/JS] [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Dev.to/JS] [TypeScript Index Signatures: 4 Examples Type-Safe Dynamic Objects](https://dev.to/alexefimenko/typescript-index-signatures-4-examples-type-safe-dynamic-objects-554o)
 - [Dev.to/JS] [Unleashing the Magic of JavaScript&#39;s Superpowers: Making Code Dance to Its Own Beat](https://dev.to/shyamrajvs/unleashing-the-magic-of-javascripts-superpowers-making-code-dance-to-its-own-beat-3c4p)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
@@ -43,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
 - [Dev.to/JS] [Exploring the Magic of JavaScript: Unraveling Its Hidden Powers](https://dev.to/sarath_chandran/exploring-the-magic-of-javascript-unraveling-its-hidden-powers-29c)
 - [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
-- [Dev.to/JS] [How to convert an array into an object in javascript](https://dev.to/sarath_chandran/how-to-convert-an-array-into-an-object-in-javascript-3pgn)
-- [Dev.to/JS] [Understanding client library and database preferences for JS/TS developers](https://dev.to/alexbevi/understanding-client-library-and-database-preferences-for-jsts-developers-j9o)
-- [Dev.to/JS] [Object memory reference in JS](https://dev.to/pulimoodan/object-memory-reference-in-js-2ne7)
 - [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
 - [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
 - [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
-- [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)
-- [Lifehacker] [This PlayStation Bug Will Lock You Out of Your Digital Games](https://lifehacker.com/entertainment/this-playstation-bug-locks-you-out-of-your-digital-games)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)<!-- TECH-POSTS:END -->
 
 ---
 
