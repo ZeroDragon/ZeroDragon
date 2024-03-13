@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Tech Stack Should I use To Build My Portfolio](https://dev.to/monica_w/what-tech-stack-should-i-use-to-build-my-portfolio-1jpf)
 - [Dev.to/JS] [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
+- [Lifehacker] [Spotify Has Music Videos Now &lpar;but Not for Everyone&rpar;](https://lifehacker.com/tech/spotify-has-music-videos-now-but-not-for-everyone)
 - [Dev.to/JS] [Considering a coding bootcamp? Make sure you&#39;re ready.](https://dev.to/brittleestill/considering-a-coding-bootcamp-make-sure-youre-ready-3cii)
 - [Dev.to/JS] [5 Resources to Improve Your Problem-Solving Skills](https://dev.to/brittleestill/5-resources-to-improve-your-problem-solving-skills-2h3n)
+- [Lifehacker] [The Samsung Galaxy A55 Isn&#39;t Coming to the U.S.](https://lifehacker.com/tech/samsung-galaxy-a55-isnt-coming-to-the-us)
 - [Lifehacker] [You Can Get a $25 Gift Card When You Buy a Nintendo Switch](https://lifehacker.com/entertainment/nintendo-switch-25-dollar-gift-card-target-deal)
 - [Dev.to/JS] [Unleashing the Power of JavaScript](https://dev.to/azurabennett/unleashing-the-power-of-javascript-215n)
 - [Dev.to/JS] [Unlocking Web Development Potential with Next.js](https://dev.to/cybermaxi7/unlocking-web-development-potential-with-nextjs-2mb4)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Win at &#39;Strands,&#39; the NYT&#39;s Latest Word Game](https://lifehacker.com/entertainment/how-to-win-nyts-strands-game)
 - [Dev.to/JS] [Build an Escape Plan With the Vonage Voice API and Get a Ghost Call](https://dev.to/vonagedev/build-an-escape-plan-with-the-vonage-voice-api-and-get-a-ghost-call-2m3m)
 - [Dev.to/JS] [JavaScript Array Map&lpar;&rpar;](https://dev.to/mikeadelek/javascript-array-map-574h)
-- [Dev.to/JS] [Advantages of Next.JS](https://dev.to/sarath_mithran/advantages-of-nextjs-142m)
 - [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
 - [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)
 - [Lifehacker] [This New Feature Helps You Get a Better Answer From Gemini](https://lifehacker.com/tech/modify-a-gemini-answer-to-get-the-response-you-want)
 - [Lifehacker] [Samsung Brings Knox Security Vault to New Galaxy A-Series Phones](https://lifehacker.com/tech/knox-security-added-to-samsungs-new-budget-phones)
-- [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)
-- [Lifehacker] [Use the ‘5 Whys’ to Get to the Root of Your Productivity Problems](https://lifehacker.com/work/the-5-whys-productivity-technique)
-- [Lifehacker] [These Meross Smart Plugs, Sensors, and More Are up to 30% Off](https://lifehacker.com/tech/meross-smart-home-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do if the Police Seize Your Cash or Property](https://lifehacker.com/home/what-you-can-do-if-the-police-seize-your-cash-or-property)<!-- TECH-POSTS:END -->
 
 ---
 
