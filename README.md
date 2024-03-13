@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make your hazardous AI safer..](https://dev.to/saikiran76/make-your-hazardous-ai-safer-430b)
+- [Dev.to/JS] [🤯 150 Articles to Satisfy Your Curiosity](https://dev.to/florianrappl/150-articles-to-satisfy-your-curiosity-3c22)
 - [Dev.to/JS] [Take My Online Classes: The Answer for Scholarly Over-burden](https://dev.to/brooktim222/take-my-online-classes-the-answer-for-scholarly-over-burden-4fj0)
 - [Dev.to/JS] [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Guide: How to Build Emotion Recognition Application with JavaScript](https://dev.to/luxandcloud/guide-how-to-build-emotion-recognition-application-with-javascript-jhj)
 - [Dev.to/JS] [React Component Libraries](https://dev.to/codedthemes/react-component-libraries-4n8h)
 - [Dev.to/JS] [Need Java Specialist for my website &lpar;10+ Postions all over world&rpar;](https://dev.to/vernon22/need-java-specialist-for-my-website-2a38)
@@ -36,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use State in React](https://dev.to/deborah/how-to-use-state-in-react-2pah)
 - [Dev.to/JS] [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
 - [Dev.to/JS] [Data Structures and Algorithms: Quick Sort](https://dev.to/faraib/data-structures-and-algorithms-quick-sort-pi)
-- [Dev.to/JS] [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Dev.to/JS] [TypeScript Index Signatures: 4 Examples Type-Safe Dynamic Objects](https://dev.to/alexefimenko/typescript-index-signatures-4-examples-type-safe-dynamic-objects-554o)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
 - [Lifehacker] [Apple Issues Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)
 - [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
@@ -63,7 +64,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Makita Tools Are on Sale for up to 70% Off Right Now](https://lifehacker.com/home/makita-tools-sale)
 - [Lifehacker] [Move Aside, Kettle Corn—Peanut Butter Popcorn Has Arrived](https://lifehacker.com/food-drink/peanut-butter-popcorn-recipe)
 - [Lifehacker] [Use the Pareto Principle to Prioritize Your To-do List](https://lifehacker.com/work/what-is-the-pareto-principle)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 12, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Play NASA’s First Tabletop RPG](https://lifehacker.com/entertainment/how-to-play-the-lost-universe-nasas-first-table-top-rpg)
 - [Lifehacker] [15 of the Best Apple TV+ Exclusive Movies](https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus)<!-- TECH-POSTS:END -->
 
