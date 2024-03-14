@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
+- [Dev.to/JS] [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
+- [Dev.to/JS] [Immutability and why you need to know its importance!](https://dev.to/nithyanandam/immutability-and-why-you-need-to-know-its-importance-3l1h)
+- [Dev.to/JS] [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
 - [Dev.to/JS] [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
 - [Dev.to/JS] [WebRTC. How to establish a p2p connection between browsers](https://dev.to/alexboyko/webrtc-how-to-establish-a-p2p-connection-between-browsers-5cib)
+- [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)
 - [Dev.to/JS] [TypeScript Intermediates - Type Generics](https://dev.to/this-is-learning/typescript-intermediates-type-generics-b84)
+- [Lifehacker] [How to Make Easter Fun for Teenagers](https://lifehacker.com/fun-easter-ideas-for-teens-and-tweens)
 - [Dev.to/JS] [Mastering useRef Hook in React: Unleashing the Power of References](https://dev.to/sayuj/mastering-useref-hook-in-react-unleashing-the-power-of-references-4n07)
 - [Dev.to/JS] [Overcoming Common Coding Obstacles with Creative Solutions](https://dev.to/nitin-rachabathuni/overcoming-common-coding-obstacles-with-creative-solutions-7f9)
 - [Dev.to/JS] [Just Live Today My Portfolio](https://dev.to/shahzaibshah/just-live-today-my-portfolio-2ccd)
+- [Lifehacker] [These Are the Best Interactive Widgets for the iPhone](https://lifehacker.com/tech/the-best-interactive-widgets-iphone)
 - [Dev.to/JS] [Grading students](https://dev.to/kecbm/grading-students-5eok)
 - [Dev.to/JS] [Hello World](https://dev.to/mscode07/hello-world-3lc0)
-- [Dev.to/JS] [Tailwind - Fixed bottom](https://dev.to/coaste/tailwind-fixed-bottom-6ll)
+- [Lifehacker] [What People Are Getting Wrong This Week: The Fruit of the Loom Logo](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-fruit-of-the-loom-logo)
 - [Lifehacker] [This Free App Turns Any Website Into Your Mac Wallpaper](https://lifehacker.com/tech/turn-any-website-into-your-mac-wallpaper)
-- [Dev.to/JS] [Mastering JavaScript&#39;s Array Slicing: A Modern Approach](https://dev.to/chintanonweb/mastering-javascripts-array-slicing-a-modern-approach-4bgi)
 - [Lifehacker] [The Best Bread Box Is Your Freezer](https://lifehacker.com/food-drink/how-to-store-bread-in-the-freezer)
-- [Dev.to/JS] [A better way to display the loading state in Nextjs forms with useFormStatus](https://dev.to/thatanjan/a-better-way-to-display-the-loading-state-in-nextjs-forms-with-useformstatus-28pl)
-- [Dev.to/JS] [All About Google Gemma](https://dev.to/shariqahmed525/all-about-google-gemma-12mf)
 - [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
 - [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
 - [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
-- [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)
-- [Lifehacker] [Five Ways to Make the Most of Your Eero Wifi Network](https://lifehacker.com/tech/five-tips-for-managing-your-eero-wi-fi-network)
-- [Lifehacker] [The 50 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: John Cena&#39;s Naked Oscar Walk](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-john-cenas-naked-oscar-walk)
-- [Lifehacker] [Turn Your To-do List Into Data to Maximize Your Productivity](https://lifehacker.com/work/turn-your-to-do-list-into-data-to-maximize-productivity)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)<!-- TECH-POSTS:END -->
 
 ---
 
