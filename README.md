@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vike vs. SSRx + TanStack Router combo - for SSR with Vite](https://dev.to/this-is-learning/vike-vs-ssrx-tanstack-router-combo-for-ssr-with-vite-n94)
+- [Dev.to/JS] [A Deep Dive into React 19 Update](https://dev.to/fpaghar/a-deep-dive-into-react-19-update-257f)
+- [Dev.to/JS] [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #1](https://dev.to/alisamirali/elevate-your-react-development-15-essential-best-practices-part-1-1mn3)
+- [Dev.to/JS] [How to Excel in the 70-346 Dumps Exam: Expert Advice](https://dev.to/inctwanot/how-to-excel-in-the-70-346-dumps-exam-expert-advice-2dbc)
 - [Dev.to/JS] [Demystifying Machine Learning: A Programmer&#39;s Playground](https://dev.to/primawill/demystifying-machine-learning-a-programmers-playground-40i8)
 - [Dev.to/JS] [Can you ‘Buy Tesla merch with DOGE’ soon? Elon Musk says…](https://dev.to/klimd1389/can-you-buy-tesla-merch-with-doge-soon-elon-musk-says-18a3)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/grahamalvin09/buy-google-5-star-reviews-43f3)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Native App Killer? Why Progressive Web Apps Should Be Your Next Move](https://dev.to/mjubair/native-app-killer-why-progressive-web-apps-should-be-your-next-move-211e)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/grahamalvin09/buy-verified-paxful-account-10mj)
 - [Dev.to/JS] [Mastering Node.js Version Management with NVM](https://dev.to/nitin-rachabathuni/mastering-nodejs-version-management-with-nvm-2lmo)
-- [Dev.to/JS] [tomimarkets](https://dev.to/tomimarkets/tomimarkets-onf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Coroutines in JS](https://dev.to/artydev/coroutines-in-js-4eif)
-- [Dev.to/JS] [How does LangChain foster community engagement and collaboration among language learners?](https://dev.to/yagnapandya9/how-does-langchain-foster-community-engagement-and-collaboration-among-language-learners-317h)
-- [Dev.to/JS] [Request and Response](https://dev.to/otumianempire/request-and-response-1031)
 - [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
 - [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
 - [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)
