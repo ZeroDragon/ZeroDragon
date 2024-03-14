@@ -29,6 +29,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How many variations can be produced by obfuscating a single line of JavaScript code: &#39;var a=1&#39;?](https://dev.to/wangliwen/how-many-variations-can-be-produced-by-obfuscating-a-single-line-of-javascript-code-var-a1-265e)
 - [Dev.to/JS] [30 CONTOH PROJECT JAVASCRIPT](https://dev.to/apppardana/30-contoh-project-javascript-op7)
 - [Dev.to/JS] [A Long Walk](https://dev.to/rmion/a-long-walk-45a4)
+- [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
 - [Dev.to/JS] [How to Create Bookmarklets Using Libraries Like React](https://dev.to/bwca/how-to-create-bookmarklets-using-libraries-like-react-2bhc)
 - [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
 - [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 13, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
-- [Lifehacker] [Apple Issued a Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)
-- [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Issued a Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)<!-- TECH-POSTS:END -->
 
 ---
 
