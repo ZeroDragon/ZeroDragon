@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid Force-Place Insurance on Your Home or Car &lpar;and Why You Should&rpar;](https://lifehacker.com/money/avoiding-force-place-insurance-policy-on-car-home)
 - [Dev.to/JS] [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
 - [Dev.to/JS] [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
 - [Dev.to/JS] [Immutability and why you need to know its importance!](https://dev.to/nithyanandam/immutability-and-why-you-need-to-know-its-importance-3l1h)
 - [Dev.to/JS] [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
+- [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Dev.to/JS] [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
 - [Dev.to/JS] [WebRTC. How to establish a p2p connection between browsers](https://dev.to/alexboyko/webrtc-how-to-establish-a-p2p-connection-between-browsers-5cib)
 - [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)
@@ -62,10 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)
 - [Lifehacker] [The 10 Best Podcasts for Pet People](https://lifehacker.com/entertainment/best-podcasts-for-pet-people)
 - [Lifehacker] [How to Win at &#39;Strands,&#39; the NYT&#39;s Latest Word Game](https://lifehacker.com/entertainment/how-to-win-nyts-strands-game)
-- [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
-- [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)
-- [Lifehacker] [How to Test Your Soil &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-test-soil-and-why-you-should)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
