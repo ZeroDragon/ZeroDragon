@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How many variations can be produced by obfuscating a single line of JavaScript code: &#39;var a=1&#39;?](https://dev.to/wangliwen/how-many-variations-can-be-produced-by-obfuscating-a-single-line-of-javascript-code-var-a1-265e)
+- [Dev.to/JS] [30 CONTOH PROJECT JAVASCRIPT](https://dev.to/apppardana/30-contoh-project-javascript-op7)
+- [Dev.to/JS] [A Long Walk](https://dev.to/rmion/a-long-walk-45a4)
 - [Dev.to/JS] [How to Create Bookmarklets Using Libraries Like React](https://dev.to/bwca/how-to-create-bookmarklets-using-libraries-like-react-2bhc)
+- [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
 - [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)
 - [Lifehacker] [The Google Pixel 6a Is $80 Off Right Now](https://lifehacker.com/tech/google-pixel-6a-sale-woot)
 - [Lifehacker] [Time to Install Another Microsoft Security Patch &lpar;This One Fixes 61 Vulnerabilities&rpar;](https://lifehacker.com/tech/install-microsofts-latest-security-patch-on-your-pc)
@@ -45,9 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Resources to Improve Your Problem-Solving Skills](https://dev.to/brittleestill/5-resources-to-improve-your-problem-solving-skills-2h3n)
 - [Lifehacker] [The Samsung Galaxy A55 Isn&#39;t Coming to the U.S.](https://lifehacker.com/tech/samsung-galaxy-a55-isnt-coming-to-the-us)
 - [Lifehacker] [You Can Get a $25 Gift Card When You Buy a Nintendo Switch](https://lifehacker.com/entertainment/nintendo-switch-25-dollar-gift-card-target-deal)
-- [Dev.to/JS] [Unleashing the Power of JavaScript](https://dev.to/azurabennett/unleashing-the-power-of-javascript-215n)
-- [Dev.to/JS] [Unlocking Web Development Potential with Next.js](https://dev.to/cybermaxi7/unlocking-web-development-potential-with-nextjs-2mb4)
-- [Dev.to/JS] [Fix: Hydration failed because the initial UI does not match what was rendered on the server](https://dev.to/saranshk/fix-hydration-failed-because-the-initial-ui-does-not-match-what-was-rendered-on-the-server-41di)
 - [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)
 - [Lifehacker] [The 10 Best Podcasts for Pet People](https://lifehacker.com/entertainment/best-podcasts-for-pet-people)
 - [Lifehacker] [How to Win at &#39;Strands,&#39; the NYT&#39;s Latest Word Game](https://lifehacker.com/entertainment/how-to-win-nyts-strands-game)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
 - [Lifehacker] [Apple Issued a Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)
-- [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
-- [Lifehacker] [It Looks Like TikTok Is Launching a Dedicated Photos App](https://lifehacker.com/tech/tiktoks-new-dedicated-photos-app)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)<!-- TECH-POSTS:END -->
 
 ---
 
