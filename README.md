@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello World](https://dev.to/mscode07/hello-world-3lc0)
+- [Dev.to/JS] [Tailwind - Fixed bottom](https://dev.to/coaste/tailwind-fixed-bottom-6ll)
+- [Dev.to/JS] [Mastering JavaScript&#39;s Array Slicing: A Modern Approach](https://dev.to/chintanonweb/mastering-javascripts-array-slicing-a-modern-approach-4bgi)
 - [Dev.to/JS] [A better way to display the loading state in Nextjs forms with useFormStatus](https://dev.to/thatanjan/a-better-way-to-display-the-loading-state-in-nextjs-forms-with-useformstatus-28pl)
 - [Dev.to/JS] [All About Google Gemma](https://dev.to/shariqahmed525/all-about-google-gemma-12mf)
+- [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
 - [Dev.to/JS] [Launch Your Web Development Career](https://dev.to/ppaannkkaajj9927/launch-your-web-development-career-5c5k)
 - [Dev.to/JS] [iPhone 14 Gift Card Worth $500](https://dev.to/gift258/iphone-14-gift-card-worth-500-ak8)
 - [Dev.to/JS] [OOP&#39;s JavaScript: Object-Oriented Programming Paradigm 👽 👾](https://dev.to/nameismani/exploring-object-oriented-programming-oop-in-javascript-44e0)
 - [Dev.to/JS] [Streamlining MySQL Deployment Across Multiple Infrastructures with Selenium WebDriver](https://dev.to/magi-magificient/streamlining-mysql-deployment-across-multiple-infrastructures-with-selenium-webdriver-2mco)
 - [Dev.to/JS] [7 Incredible Benefits of Team Building Activities](https://dev.to/marcem121/7-incredible-benefits-of-team-building-activities-1b55)
+- [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)
 - [Dev.to/JS] [Top 10 React js interview questions.](https://dev.to/safdarali/top-10-react-js-interview-questions-2hnk)
 - [Dev.to/JS] [The Art of the API: Building Powerful Integrations for the Modern Developer](https://dev.to/primawill/the-art-of-the-api-building-powerful-integrations-for-the-modern-developer-1ng6)
-- [Dev.to/JS] [Vike vs. &lpar;SSRx + TanStack Router&rpar; - a feature comparison](https://dev.to/this-is-learning/vike-vs-ssrx-tanstack-router-combo-a-feature-comparison-2d18)
-- [Dev.to/JS] [SSRx vs. Vinxi vs. Vike - for SSR with Vite](https://dev.to/this-is-learning/ssrx-vs-vinxi-vs-vike-for-ssr-with-vite-45np)
-- [Dev.to/JS] [Learning JavaScript, Typescript and React](https://dev.to/poojanoza/learning-javascript-typescript-and-react-old)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
 - [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: John Cena&#39;s Naked Oscar Walk](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-john-cenas-naked-oscar-walk)
 - [Lifehacker] [Turn Your To-do List Into Data to Maximize Your Productivity](https://lifehacker.com/work/turn-your-to-do-list-into-data-to-maximize-productivity)
 - [Lifehacker] [Don&#39;t Give up on Your Leftovers, &#39;Pizza&#39; Them](https://lifehacker.com/food-drink/leftovers-pizza-recipe)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Lifehacker] [These Coway Air Purifiers Are up to 38% Off](https://lifehacker.com/home/coway-air-purifier-sale-amazon)
-- [Lifehacker] [Apple Issued a Rare Single-App Security Update](https://lifehacker.com/tech/garageband-security-update)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)<!-- TECH-POSTS:END -->
 
 ---
 
