@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CORS Error Fixed - &quot;no-cors&quot; Mode in the Fetch API](https://dev.to/sh20raj/cors-error-fixed-no-cors-mode-in-the-fetch-api-4kjc)
 - [Dev.to/JS] [How many variations can be produced by obfuscating a single line of JavaScript code: &#39;var a=1&#39;?](https://dev.to/wangliwen/how-many-variations-can-be-produced-by-obfuscating-a-single-line-of-javascript-code-var-a1-265e)
 - [Dev.to/JS] [30 CONTOH PROJECT JAVASCRIPT](https://dev.to/apppardana/30-contoh-project-javascript-op7)
 - [Dev.to/JS] [A Long Walk](https://dev.to/rmion/a-long-walk-45a4)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
 - [Lifehacker] [Spotify Has Music Videos Now &lpar;but Not for Everyone&rpar;](https://lifehacker.com/tech/spotify-has-music-videos-now-but-not-for-everyone)
 - [Dev.to/JS] [Considering a coding bootcamp? Make sure you&#39;re ready.](https://dev.to/brittleestill/considering-a-coding-bootcamp-make-sure-youre-ready-3cii)
-- [Dev.to/JS] [5 Resources to Improve Your Problem-Solving Skills](https://dev.to/brittleestill/5-resources-to-improve-your-problem-solving-skills-2h3n)
 - [Lifehacker] [The Samsung Galaxy A55 Isn&#39;t Coming to the U.S.](https://lifehacker.com/tech/samsung-galaxy-a55-isnt-coming-to-the-us)
 - [Lifehacker] [You Can Get a $25 Gift Card When You Buy a Nintendo Switch](https://lifehacker.com/entertainment/nintendo-switch-25-dollar-gift-card-target-deal)
 - [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)
