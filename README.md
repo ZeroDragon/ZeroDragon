@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automating Image Scraping from Google Lens with Python](https://dev.to/mmw/automating-image-scraping-from-google-lens-with-python-mg0)
+- [Dev.to/JS] [Demystifying React: How does React actually render JSX?](https://dev.to/joe_jngigi/demystifying-react-how-does-react-actually-render-jsx-3099)
+- [Dev.to/JS] [Lessons from open-source: Partytown — a library that uses web worker to run third party scripts.](https://dev.to/ramunarasinga/lessons-from-open-source-partytown-a-library-that-uses-web-worker-to-run-third-party-scripts-4403)
+- [Dev.to/JS] [React UI Component Libraries every developer should know](https://dev.to/sharmaprash/react-ui-component-libraries-every-developer-should-know-me0)
+- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Dev.to/JS] [GeoJSON in Google Maps API](https://dev.to/jgracie52/geojson-in-google-maps-api-453o)
+- [Lifehacker] [Change These Settings to Make Uber More Private](https://lifehacker.com/tech/change-these-settings-to-make-uber-more-private)
 - [Dev.to/JS] [Devin AI: The World’s First AI Software Engineer.](https://dev.to/sufian/devin-ai-the-worlds-first-ai-software-engineer-m3k)
 - [Lifehacker] [Why You Might Need Mechanical Breakdown Insurance for Your Car](https://lifehacker.com/money/what-is-mechanical-breakdown-insurance-and-is-it-worth-it)
 - [Lifehacker] [This Five-ingredient Banoffee Is a Low-Effort Pi Day Treat](https://lifehacker.com/food-drink/5-ingredient-banoffee-pie-recipe)
@@ -43,10 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The HP Pavilion 15t-eg300 Is $450 Off Right Now](https://lifehacker.com/tech/hp-pavilion-15t-eg300-sale)
 - [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)
 - [Lifehacker] [How to Avoid Force-Place Insurance on Your Home or Car &lpar;and Why You Should&rpar;](https://lifehacker.com/money/avoiding-force-place-insurance-policy-on-car-home)
-- [Dev.to/JS] [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
-- [Dev.to/JS] [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
-- [Dev.to/JS] [Immutability and why you need to know its importance!](https://dev.to/nithyanandam/immutability-and-why-you-need-to-know-its-importance-3l1h)
-- [Dev.to/JS] [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
 - [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
 - [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)
 - [Lifehacker] [How to Make Easter Fun for Teenagers](https://lifehacker.com/fun-easter-ideas-for-teens-and-tweens)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Google Pixel 6a Is $80 Off Right Now](https://lifehacker.com/tech/google-pixel-6a-sale-woot)
 - [Lifehacker] [Time to Install Another Microsoft Security Patch &lpar;This One Fixes 61 Vulnerabilities&rpar;](https://lifehacker.com/tech/install-microsofts-latest-security-patch-on-your-pc)
 - [Lifehacker] [The New M3 MacBook Air Is Already on Sale &lpar;a Little&rpar;](https://lifehacker.com/tech/new-m3-macbook-air-first-discount)
-- [Lifehacker] [You Should Whip Some Honey](https://lifehacker.com/food-drink/whipped-honey-recipe)
-- [Lifehacker] [How to Mirror Your iPhone&#39;s Display to Your TV](https://lifehacker.com/tech/how-to-mirror-iphones-display-to-tv)
-- [Lifehacker] [Nearly 300 Indie iPhone, iPad, and Mac Apps Are on Sale Right Now](https://lifehacker.com/tech/indie-app-sale-on-macos-and-ios)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Whip Some Honey](https://lifehacker.com/food-drink/whipped-honey-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
