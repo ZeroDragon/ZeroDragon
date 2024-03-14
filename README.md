@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Time to Install Another Microsoft Security Patch &lpar;This One Fixes 61 Vulnerabilities&rpar;](https://lifehacker.com/tech/install-microsofts-latest-security-patch-on-your-pc)
+- [Lifehacker] [The New M3 MacBook Air Is Already on Sale &lpar;a Little&rpar;](https://lifehacker.com/tech/new-m3-macbook-air-first-discount)
 - [Dev.to/JS] [Lessons from open-source: What is OpenTelemetry](https://dev.to/ramunarasinga/lessons-from-open-source-what-is-opentelemetry-3ed6)
 - [Dev.to/JS] [How to solve the 2 crystal balls problem in JS](https://dev.to/kaxmoglan/how-to-solve-the-2-crystal-balls-problem-in-js-9hm)
 - [Dev.to/JS] [An Integration Guide for Next.js Apps](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Google Pixel 8 Is $160 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
 - [Lifehacker] [It Looks Like TikTok Is Launching a Dedicated Photos App](https://lifehacker.com/tech/tiktoks-new-dedicated-photos-app)
 - [Lifehacker] [You Can Get AdGuard VPN on Sale for $20 Right Now](https://lifehacker.com/adguard-sale)
-- [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)
-- [Lifehacker] [The Apple Watch 7 and Garmin Forerunner Are Both on Sale Right Now](https://lifehacker.com/tech/apple-watch-7-and-garmin-forerunner-sale)
-- [Lifehacker] [Microsoft Edge Will Soon Translate a Video’s Audio or Subtitles With AI](https://lifehacker.com/tech/translate-video-audio-in-microsoft-edge-with-ai)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Might Not Force You to Use Apple Maps in iOS 18](https://lifehacker.com/tech/apple-might-let-you-change-the-default-navigation-app-in-ios-18)<!-- TECH-POSTS:END -->
 
 ---
 
