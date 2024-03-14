@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
+- [Dev.to/JS] [Unraveling the Mysteries of 7Bit Casino: Your Ultimate Guide 🎰✨](https://dev.to/kmdclsczmclmcz/unraveling-the-mysteries-of-7bit-casino-your-ultimate-guide-4cjp)
+- [Dev.to/JS] [Soulmate Romantic Birthday Wishes For Husband From Wife](https://dev.to/nishant-malik/soulmate-romantic-birthday-wishes-for-husband-from-wife-58cc)
+- [Dev.to/JS] [Multi-platform libraries built with Kotlin Multiplatform &lpar;KMP&rpar;](https://dev.to/uakihir0/multi-platform-libraries-built-with-kotlin-multiplatform-kmp-39e1)
+- [Dev.to/JS] [Beginner&#39;s guide to Module Federation and why you need it!](https://dev.to/rt68/beginners-guide-to-module-federation-and-why-you-need-it-5bg3)
 - [Lifehacker] [How to Avoid Force-Place Insurance on Your Home or Car &lpar;and Why You Should&rpar;](https://lifehacker.com/money/avoiding-force-place-insurance-policy-on-car-home)
 - [Dev.to/JS] [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
 - [Dev.to/JS] [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
@@ -37,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)
 - [Dev.to/JS] [TypeScript Intermediates - Type Generics](https://dev.to/this-is-learning/typescript-intermediates-type-generics-b84)
 - [Lifehacker] [How to Make Easter Fun for Teenagers](https://lifehacker.com/fun-easter-ideas-for-teens-and-tweens)
-- [Dev.to/JS] [Mastering useRef Hook in React: Unleashing the Power of References](https://dev.to/sayuj/mastering-useref-hook-in-react-unleashing-the-power-of-references-4n07)
-- [Dev.to/JS] [Overcoming Common Coding Obstacles with Creative Solutions](https://dev.to/nitin-rachabathuni/overcoming-common-coding-obstacles-with-creative-solutions-7f9)
-- [Dev.to/JS] [Just Live Today My Portfolio](https://dev.to/shahzaibshah/just-live-today-my-portfolio-2ccd)
 - [Lifehacker] [These Are the Best Interactive Widgets for the iPhone](https://lifehacker.com/tech/the-best-interactive-widgets-iphone)
-- [Dev.to/JS] [Grading students](https://dev.to/kecbm/grading-students-5eok)
-- [Dev.to/JS] [Hello World](https://dev.to/mscode07/hello-world-3lc0)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fruit of the Loom Logo](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-fruit-of-the-loom-logo)
 - [Lifehacker] [This Free App Turns Any Website Into Your Mac Wallpaper](https://lifehacker.com/tech/turn-any-website-into-your-mac-wallpaper)
 - [Lifehacker] [The Best Bread Box Is Your Freezer](https://lifehacker.com/food-drink/how-to-store-bread-in-the-freezer)
