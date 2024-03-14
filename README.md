@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 React js interview questions.](https://dev.to/safdarali/top-10-react-js-interview-questions-2hnk)
 - [Dev.to/JS] [The Art of the API: Building Powerful Integrations for the Modern Developer](https://dev.to/primawill/the-art-of-the-api-building-powerful-integrations-for-the-modern-developer-1ng6)
 - [Dev.to/JS] [Vike vs. &lpar;SSRx + TanStack Router&rpar; - a feature comparison](https://dev.to/this-is-learning/vike-vs-ssrx-tanstack-router-combo-a-feature-comparison-2d18)
 - [Dev.to/JS] [SSRx vs. Vinxi vs. Vike - for SSR with Vite](https://dev.to/this-is-learning/ssrx-vs-vinxi-vs-vike-for-ssr-with-vite-45np)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Excel in the 70-346 Dumps Exam: Expert Advice](https://dev.to/inctwanot/how-to-excel-in-the-70-346-dumps-exam-expert-advice-2dbc)
 - [Dev.to/JS] [Demystifying Machine Learning: A Programmer&#39;s Playground](https://dev.to/primawill/demystifying-machine-learning-a-programmers-playground-40i8)
 - [Dev.to/JS] [Can you ‘Buy Tesla merch with DOGE’ soon? Elon Musk says…](https://dev.to/klimd1389/can-you-buy-tesla-merch-with-doge-soon-elon-musk-says-18a3)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/grahamalvin09/buy-google-5-star-reviews-43f3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
 - [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
