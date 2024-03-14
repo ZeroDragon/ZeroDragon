@@ -26,11 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Substituindo ternários por switch-case em React-Native](https://dev.to/olucascruz/substituindo-ternarios-por-switch-case-em-react-native-4n2p)
 - [Dev.to/JS] [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
 - [Dev.to/JS] [Unraveling the Mysteries of 7Bit Casino: Your Ultimate Guide 🎰✨](https://dev.to/kmdclsczmclmcz/unraveling-the-mysteries-of-7bit-casino-your-ultimate-guide-4cjp)
+- [Lifehacker] [My Favorite High-powered Portable Charger Is 55% Off](https://lifehacker.com/tech/iniu-portable-charger-sale-woot)
 - [Dev.to/JS] [Soulmate Romantic Birthday Wishes For Husband From Wife](https://dev.to/nishant-malik/soulmate-romantic-birthday-wishes-for-husband-from-wife-58cc)
 - [Dev.to/JS] [Multi-platform libraries built with Kotlin Multiplatform &lpar;KMP&rpar;](https://dev.to/uakihir0/multi-platform-libraries-built-with-kotlin-multiplatform-kmp-39e1)
 - [Dev.to/JS] [Beginner&#39;s guide to Module Federation and why you need it!](https://dev.to/rt68/beginners-guide-to-module-federation-and-why-you-need-it-5bg3)
+- [Lifehacker] [How to Avoid a Tax Audit](https://lifehacker.com/money/how-to-avoid-tax-audit)
+- [Lifehacker] [The HP Pavilion 15t-eg300 Is $450 Off Right Now](https://lifehacker.com/tech/hp-pavilion-15t-eg300-sale)
+- [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)
 - [Lifehacker] [How to Avoid Force-Place Insurance on Your Home or Car &lpar;and Why You Should&rpar;](https://lifehacker.com/money/avoiding-force-place-insurance-policy-on-car-home)
 - [Dev.to/JS] [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
 - [Dev.to/JS] [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
@@ -40,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
 - [Dev.to/JS] [WebRTC. How to establish a p2p connection between browsers](https://dev.to/alexboyko/webrtc-how-to-establish-a-p2p-connection-between-browsers-5cib)
 - [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)
-- [Dev.to/JS] [TypeScript Intermediates - Type Generics](https://dev.to/this-is-learning/typescript-intermediates-type-generics-b84)
 - [Lifehacker] [How to Make Easter Fun for Teenagers](https://lifehacker.com/fun-easter-ideas-for-teens-and-tweens)
 - [Lifehacker] [These Are the Best Interactive Widgets for the iPhone](https://lifehacker.com/tech/the-best-interactive-widgets-iphone)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fruit of the Loom Logo](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-fruit-of-the-loom-logo)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Spotify Has Music Videos Now &lpar;but Not for Everyone&rpar;](https://lifehacker.com/tech/spotify-has-music-videos-now-but-not-for-everyone)
 - [Lifehacker] [The Samsung Galaxy A55 Isn&#39;t Coming to the U.S.](https://lifehacker.com/tech/samsung-galaxy-a55-isnt-coming-to-the-us)
 - [Lifehacker] [You Can Get a $25 Gift Card When You Buy a Nintendo Switch](https://lifehacker.com/entertainment/nintendo-switch-25-dollar-gift-card-target-deal)
-- [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)
-- [Lifehacker] [The 10 Best Podcasts for Pet People](https://lifehacker.com/entertainment/best-podcasts-for-pet-people)
-- [Lifehacker] [How to Win at &#39;Strands,&#39; the NYT&#39;s Latest Word Game](https://lifehacker.com/entertainment/how-to-win-nyts-strands-game)
-- [Lifehacker] [The Best VPNs to Use on an Amazon Fire TV Stick](https://lifehacker.com/tech/the-best-vpns-for-amazon-fire-stick)
-- [Lifehacker] [A Complete Guide to Making a Classic Italian ‘Sunday Sauce’](https://lifehacker.com/food-drink/classic-italian-sunday-sauce-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Turn Any YouTube Video Into an Animated Windows Wallpaper](https://lifehacker.com/tech/how-to-turn-any-youtube-video-into-an-animated-wallpaper-on-windows)<!-- TECH-POSTS:END -->
 
 ---
 
