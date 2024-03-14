@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
+- [Dev.to/JS] [WebRTC. How to establish a p2p connection between browsers](https://dev.to/alexboyko/webrtc-how-to-establish-a-p2p-connection-between-browsers-5cib)
 - [Dev.to/JS] [TypeScript Intermediates - Type Generics](https://dev.to/this-is-learning/typescript-intermediates-type-generics-b84)
 - [Dev.to/JS] [Mastering useRef Hook in React: Unleashing the Power of References](https://dev.to/sayuj/mastering-useref-hook-in-react-unleashing-the-power-of-references-4n07)
 - [Dev.to/JS] [Overcoming Common Coding Obstacles with Creative Solutions](https://dev.to/nitin-rachabathuni/overcoming-common-coding-obstacles-with-creative-solutions-7f9)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A better way to display the loading state in Nextjs forms with useFormStatus](https://dev.to/thatanjan/a-better-way-to-display-the-loading-state-in-nextjs-forms-with-useformstatus-28pl)
 - [Dev.to/JS] [All About Google Gemma](https://dev.to/shariqahmed525/all-about-google-gemma-12mf)
 - [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
-- [Dev.to/JS] [Launch Your Web Development Career](https://dev.to/ppaannkkaajj9927/launch-your-web-development-career-5c5k)
-- [Dev.to/JS] [iPhone 14 Gift Card Worth $500](https://dev.to/gift258/iphone-14-gift-card-worth-500-ak8)
 - [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
