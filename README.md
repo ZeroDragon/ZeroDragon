@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How does LangChain foster community engagement and collaboration among language learners?](https://dev.to/yagnapandya9/how-does-langchain-foster-community-engagement-and-collaboration-among-language-learners-317h)
 - [Dev.to/JS] [Request and Response](https://dev.to/otumianempire/request-and-response-1031)
 - [Dev.to/JS] [Introducción al DOM #4: traversing, creando elementos, fragmentos y templates.](https://dev.to/ulisesafcdev/introduccion-al-dom-4-traversing-creando-elementos-fragmentos-y-templates-8l3)
 - [Dev.to/JS] [CORS Error Fixed - &quot;no-cors&quot; Mode in the Fetch API](https://dev.to/sh20raj/cors-error-fixed-no-cors-mode-in-the-fetch-api-4kjc)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Whip Some Honey](https://lifehacker.com/food-drink/whipped-honey-recipe)
 - [Dev.to/JS] [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
 - [Lifehacker] [How to Mirror Your iPhone&#39;s Display to Your TV](https://lifehacker.com/tech/how-to-mirror-iphones-display-to-tv)
-- [Dev.to/JS] [What Tech Stack Should I use To Build My Portfolio](https://dev.to/monica_w/what-tech-stack-should-i-use-to-build-my-portfolio-1jpf)
 - [Lifehacker] [Nearly 300 Indie iPhone, iPad, and Mac Apps Are on Sale Right Now](https://lifehacker.com/tech/indie-app-sale-on-macos-and-ios)
 - [Lifehacker] [Spotify Has Music Videos Now &lpar;but Not for Everyone&rpar;](https://lifehacker.com/tech/spotify-has-music-videos-now-but-not-for-everyone)
 - [Lifehacker] [The Samsung Galaxy A55 Isn&#39;t Coming to the U.S.](https://lifehacker.com/tech/samsung-galaxy-a55-isnt-coming-to-the-us)
