@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coroutines in JS](https://dev.to/artydev/coroutines-in-js-4eif)
 - [Dev.to/JS] [How does LangChain foster community engagement and collaboration among language learners?](https://dev.to/yagnapandya9/how-does-langchain-foster-community-engagement-and-collaboration-among-language-learners-317h)
 - [Dev.to/JS] [Request and Response](https://dev.to/otumianempire/request-and-response-1031)
 - [Dev.to/JS] [Introducción al DOM #4: traversing, creando elementos, fragmentos y templates.](https://dev.to/ulisesafcdev/introduccion-al-dom-4-traversing-creando-elementos-fragmentos-y-templates-8l3)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to solve the 2 crystal balls problem in JS](https://dev.to/kaxmoglan/how-to-solve-the-2-crystal-balls-problem-in-js-9hm)
 - [Dev.to/JS] [An Integration Guide for Next.js Apps](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
 - [Lifehacker] [You Should Whip Some Honey](https://lifehacker.com/food-drink/whipped-honey-recipe)
-- [Dev.to/JS] [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
 - [Lifehacker] [How to Mirror Your iPhone&#39;s Display to Your TV](https://lifehacker.com/tech/how-to-mirror-iphones-display-to-tv)
 - [Lifehacker] [Nearly 300 Indie iPhone, iPad, and Mac Apps Are on Sale Right Now](https://lifehacker.com/tech/indie-app-sale-on-macos-and-ios)
 - [Lifehacker] [Spotify Has Music Videos Now &lpar;but Not for Everyone&rpar;](https://lifehacker.com/tech/spotify-has-music-videos-now-but-not-for-everyone)
