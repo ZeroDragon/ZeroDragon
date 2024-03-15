@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Responsive Image Overlay](https://dev.to/sameech/css-responsive-image-overlay-3797)
+- [Dev.to/JS] [Open-source Retool for Enterprise Building React Internal Tool](https://dev.to/codingcatdev/open-source-retool-for-enterprise-building-react-internal-tool-5cdn)
+- [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
 - [Dev.to/JS] [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
 - [Dev.to/JS] [Desbloquea tu creatividad con Google Gemini y JavaScript: Guía práctica](https://dev.to/khriztianmoreno/desbloquea-tu-creatividad-con-google-gemini-y-javascript-guia-practica-hel)
+- [Lifehacker] [I Tested Four Smart Espresso Makers, and Here’s What I Found](https://lifehacker.com/tech/smart-espresso-maker-review-roundup)
 - [Dev.to/JS] [Master React by Building these 25 Projects](https://dev.to/sayuj/master-react-by-building-these-25-projects-1535)
-- [Dev.to/JS] [This is a Test Post](https://dev.to/amansrivastava905/this-is-a-test-post-1f8p)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Plantum on Sale for $15 Right Now](https://lifehacker.com/home/plantum-sale)
 - [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)
 - [Dev.to/JS] [Exploratory Testing in Agile: Uncovering Hidden Bugs](https://dev.to/ahanash46390872/exploratory-testing-in-agile-uncovering-hidden-bugs-405i)
 - [Dev.to/JS] [How to Write Your First Cypress Test [With Examples]](https://dev.to/kailashpathak7/how-to-write-your-first-cypress-test-with-examples-mdf)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)
 - [Dev.to/JS] [A case of no value vs no object: Comparing &#39;null&#39;, &#39;undefined&#39; and &#39;undeclared&#39;.](https://dev.to/joshraphael/a-case-of-no-value-vs-no-object-comparing-null-undefined-and-undeclared-419g)
 - [Dev.to/JS] [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
-- [Dev.to/JS] [Angular + Electron: The Dynamic Duo of Desktop Development](https://dev.to/chintanonweb/angular-electron-the-dynamic-duo-of-desktop-development-50dj)
 - [Lifehacker] [The Best Tools and Gadgets for Hybrid Workers](https://lifehacker.com/work/best-tools-for-hybrid-workers)
 - [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite High-powered Portable Charger Is 55% Off](https://lifehacker.com/tech/iniu-portable-charger-sale-woot)
 - [Lifehacker] [How to Avoid a Tax Audit](https://lifehacker.com/money/how-to-avoid-tax-audit)
 - [Lifehacker] [The HP Pavilion 15t-eg300 Is $450 Off Right Now](https://lifehacker.com/tech/hp-pavilion-15t-eg300-sale)
-- [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)
-- [Lifehacker] [How to Avoid Force-Place Insurance on Your Home or Car &lpar;and Why You Should&rpar;](https://lifehacker.com/money/avoiding-force-place-insurance-policy-on-car-home)
-- [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
-- [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)<!-- TECH-POSTS:END -->
 
 ---
 
