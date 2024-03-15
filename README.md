@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
+- [Dev.to/JS] [Desbloquea tu creatividad con Google Gemini y JavaScript: Guía práctica](https://dev.to/khriztianmoreno/desbloquea-tu-creatividad-con-google-gemini-y-javascript-guia-practica-hel)
+- [Dev.to/JS] [Master React by Building these 25 Projects](https://dev.to/sayuj/master-react-by-building-these-25-projects-1535)
 - [Dev.to/JS] [This is a Test Post](https://dev.to/amansrivastava905/this-is-a-test-post-1f8p)
 - [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)
 - [Dev.to/JS] [Exploratory Testing in Agile: Uncovering Hidden Bugs](https://dev.to/ahanash46390872/exploratory-testing-in-agile-uncovering-hidden-bugs-405i)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
 - [Dev.to/JS] [Angular + Electron: The Dynamic Duo of Desktop Development](https://dev.to/chintanonweb/angular-electron-the-dynamic-duo-of-desktop-development-50dj)
 - [Lifehacker] [The Best Tools and Gadgets for Hybrid Workers](https://lifehacker.com/work/best-tools-for-hybrid-workers)
-- [Dev.to/JS] [Route to Success: Building a Dynamic Navbar in Angular](https://dev.to/chintanonweb/route-to-success-building-a-dynamic-navbar-in-angular-58pc)
-- [Dev.to/JS] [L&#39;art de faire un Zoom en Web](https://dev.to/gravisto/lart-de-faire-un-zoom-en-web-3m00)
 - [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
-- [Dev.to/JS] [I am new to dev looking to get job opportunity](https://dev.to/omkarnikam/i-am-new-to-dev-looking-to-get-job-opportunity-bi7)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
