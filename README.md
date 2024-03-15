@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Devin AI vs Other AI Tools: A Paradigm Shift in Software Development](https://dev.to/sufian/devin-ai-vs-other-ai-tools-a-paradigm-shift-in-software-development-40ce)
+- [Dev.to/JS] [OAuth 2.0 Explained In Simple Terms &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/oauth-20-explained-in-simple-terms-with-visuals-30he)
 - [Dev.to/JS] [Lessons from open-source: Typesafe “getInt” utility function in Next.js source code](https://dev.to/ramunarasinga/lessons-from-open-source-typesafe-getint-utility-function-in-nextjs-source-code-32a3)
+- [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)
 - [Dev.to/JS] [Cadê meus zeros? Sobre tipos em banco de dados.](https://dev.to/olucascruz/cade-meus-zeros-sobre-tipos-em-banco-de-dados-1o8l)
 - [Dev.to/JS] [Sendchamp: Simplifying Customer Communication for African Businesses](https://dev.to/devsuite/sendchamp-simplifying-customer-communication-for-african-businesses-18j6)
 - [Dev.to/JS] [Supabase RLS Automated Testing](https://dev.to/aaronblondeau/supabase-rls-automated-testing-nn2)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dollar Kit](https://dev.to/shox2008/dollar-kit-56om)
 - [Dev.to/JS] [Array Mutation Methods in JavaScript](https://dev.to/richardtorres314/array-mutation-methods-in-javascript-ik)
 - [Lifehacker] [How Perplexity AI Stands up to Google and ChatGPT](https://lifehacker.com/tech/perplexity-ai-versus-google-and-chatgpt)
-- [Dev.to/JS] [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
-- [Dev.to/JS] [Scratch Newsletter with Appwrite](https://dev.to/nimit2801/scratch-newsletter-with-appwrite-4efe)
 - [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
 - [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)
 - [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
-- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
-- [Lifehacker] [Change These Settings to Make Uber More Private](https://lifehacker.com/tech/change-these-settings-to-make-uber-more-private)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)<!-- TECH-POSTS:END -->
 
 ---
 
