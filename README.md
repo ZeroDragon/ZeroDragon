@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 0–1 of Subscription App](https://dev.to/hestia/day-0-1-of-subscription-app-3oln)
+- [Dev.to/JS] [Demystifying Software Development: Separating Fact from Fiction](https://dev.to/nitin-rachabathuni/demystifying-software-development-separating-fact-from-fiction-16d0)
+- [Dev.to/JS] [Understanding the Asynchronous Nature of JavaScript - MERN STACK Series](https://dev.to/sadanandgadwal/understanding-the-asynchronous-nature-of-javascript-mern-stack-series-3dan)
+- [Dev.to/JS] [&quot;Foot Therapy Elevated: Nooro&#39;s Blissful Massager&quot;](https://dev.to/healthinfor47/foot-therapy-elevated-nooros-blissful-massager-44d6)
+- [Dev.to/JS] [Constructor Functions in JavaScript 🤖](https://dev.to/nameismani/exploring-constructor-functions-in-javascript-704)
 - [Dev.to/JS] [Unleashing the Power of Spreadsheets: Building a REST API with Google Sheet &amp; Google Apps Script](https://dev.to/sfsajid91/unleashing-the-power-of-spreadsheets-building-a-rest-api-with-google-sheet-google-apps-script-3mi1)
 - [Dev.to/JS] [How to Detect and Fix Circular Dependencies in Typescript](https://dev.to/danywalls/how-to-detect-and-fix-circular-dependencies-in-typescript-27ai)
 - [Dev.to/JS] [Effortless Data Transformation with Node.js: Converting CSV to JSON Made Simple](https://dev.to/webdev-mohdamir/effortless-data-transformation-with-nodejs-converting-csv-to-json-made-simple-5bpi)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beyond Redux - MobX and Zustand](https://dev.to/codeparrot/beyond-redux-mobx-and-zustand-g2a)
 - [Dev.to/JS] [Navigating Asynchronous JavaScript: From Promises to Async/Await and Beyond](https://dev.to/andresclua/navigating-asynchronous-javascript-from-promises-to-asyncawait-and-beyond-13li)
 - [Dev.to/JS] [Most Commonly Asked React Interview Questions 2024 - Part 2](https://dev.to/sayuj/most-commonly-asked-react-interview-questions-2024-part-2-1l17)
-- [Dev.to/JS] [How to create a Popover using Tailwind CSS.](https://dev.to/muhammadjon02/how-to-create-a-popover-using-tailwind-css-27lh)
-- [Dev.to/JS] [How does ChatGPT generate human-like text?](https://dev.to/muhammadjon02/how-does-chatgpt-generate-human-like-text-6gm)
-- [Dev.to/JS] [Temukan Sensasi Terbaik dengan TESLATOTO | SLOT DEPOSIT 5000 di Indonesia!](https://dev.to/slot5000/temukan-sensasi-terbaik-dengan-teslatoto-slot-deposit-5000-di-indonesia-155l)
-- [Dev.to/JS] [Sass and Less: What&#39;s the Difference Between Both?](https://dev.to/shariqahmed525/sass-and-less-whats-the-difference-between-both-5e84)
-- [Dev.to/JS] [I am looking for work as a front-end engineer](https://dev.to/shailennaidoo/i-am-looking-for-work-as-a-front-end-engineer-l5i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
