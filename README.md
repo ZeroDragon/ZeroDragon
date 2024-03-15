@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test](https://dev.to/nicolasquack/test-d7p)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/f6666965/buy-negative-google-reviews-3e2j)
 - [Dev.to/JS] [What are the potential implications of Multiverse Computing for cryptography and cybersecurity?](https://dev.to/yagnapandya9/what-are-the-potential-implications-of-multiverse-computing-for-cryptography-and-cybersecurity-1m7d)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/f6666965/buy-google-reviews-22a0)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automating Image Scraping from Google Lens with Python](https://dev.to/mmw/automating-image-scraping-from-google-lens-with-python-mg0)
 - [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)
 - [Dev.to/JS] [Demystifying React: How does React actually render JSX?](https://dev.to/joe_jngigi/demystifying-react-how-does-react-actually-render-jsx-3099)
-- [Dev.to/JS] [Lessons from open-source: Partytown — a library that uses web worker to run third party scripts.](https://dev.to/ramunarasinga/lessons-from-open-source-partytown-a-library-that-uses-web-worker-to-run-third-party-scripts-4403)
 - [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
