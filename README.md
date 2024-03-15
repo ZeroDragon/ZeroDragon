@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A case of no value vs no object: Comparing &#39;null&#39;, &#39;undefined&#39; and &#39;undeclared&#39;.](https://dev.to/joshraphael/a-case-of-no-value-vs-no-object-comparing-null-undefined-and-undeclared-419g)
+- [Dev.to/JS] [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
+- [Dev.to/JS] [Angular + Electron: The Dynamic Duo of Desktop Development](https://dev.to/chintanonweb/angular-electron-the-dynamic-duo-of-desktop-development-50dj)
+- [Dev.to/JS] [Route to Success: Building a Dynamic Navbar in Angular](https://dev.to/chintanonweb/route-to-success-building-a-dynamic-navbar-in-angular-58pc)
+- [Dev.to/JS] [L&#39;art de faire un Zoom en Web](https://dev.to/gravisto/lart-de-faire-un-zoom-en-web-3m00)
 - [Dev.to/JS] [I am new to dev looking to get job opportunity](https://dev.to/omkarnikam/i-am-new-to-dev-looking-to-get-job-opportunity-bi7)
 - [Dev.to/JS] [Monitoring your Website End to End with Playwright](https://dev.to/stefanhudelmaier/monitoring-your-website-end-to-end-with-playwright-djn)
 - [Dev.to/JS] [Trends and directions for web development in 2024](https://dev.to/sparkouttech/trends-and-directions-for-web-development-in-2024-2d31)
+- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
+- [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)
 - [Dev.to/JS] [Maximizing Your Success: Unveiling the Power of Amazon SAA-C03 Dumps](https://dev.to/billiekaif/maximizing-your-success-unveiling-the-power-of-amazon-saa-c03-dumps-56o1)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/alaa-samy/what-is-javascript-9jl)
 - [Dev.to/JS] [Como melhorar a legibilidade e a escalabilidade do seu projeto?](https://dev.to/hudson3384/como-melhorar-a-legibilidade-e-a-escalabilidade-do-seu-projeto-d2j)
 - [Dev.to/JS] [WebSockets](https://dev.to/subhamdash45/websockets-3nek)
-- [Dev.to/JS] [Mastering Desktop Development: Angular and Tauri Integration Guide](https://dev.to/chintanonweb/mastering-desktop-development-angular-and-tauri-integration-guide-5agd)
-- [Dev.to/JS] [Day 0–1 of Subscription App](https://dev.to/hestia/day-0-1-of-subscription-app-3oln)
-- [Dev.to/JS] [Demystifying Software Development: Separating Fact from Fiction](https://dev.to/nitin-rachabathuni/demystifying-software-development-separating-fact-from-fiction-16d0)
-- [Dev.to/JS] [Understanding the Asynchronous Nature of JavaScript - MERN STACK Series](https://dev.to/sadanandgadwal/understanding-the-asynchronous-nature-of-javascript-mern-stack-series-3dan)
-- [Dev.to/JS] [&quot;Foot Therapy Elevated: Nooro&#39;s Blissful Massager&quot;](https://dev.to/healthinfor47/foot-therapy-elevated-nooros-blissful-massager-44d6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Interactive Widgets for the iPhone](https://lifehacker.com/tech/the-best-interactive-widgets-iphone)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fruit of the Loom Logo](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-fruit-of-the-loom-logo)
 - [Lifehacker] [This Free App Turns Any Website Into Your Mac Wallpaper](https://lifehacker.com/tech/turn-any-website-into-your-mac-wallpaper)
-- [Lifehacker] [The Best Bread Box Is Your Freezer](https://lifehacker.com/food-drink/how-to-store-bread-in-the-freezer)
-- [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
-- [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Bread Box Is Your Freezer](https://lifehacker.com/food-drink/how-to-store-bread-in-the-freezer)<!-- TECH-POSTS:END -->
 
 ---
 
