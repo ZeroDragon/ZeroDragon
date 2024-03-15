@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This Beginner-Friendly 4K Camera Drone on Sale for $70 Right Now](https://lifehacker.com/tech/beginner-drone-sale)
 - [Dev.to/JS] [Sobre Event Loop e música clássica](https://dev.to/davida1ves/sobre-event-loop-e-musica-classica-310g)
 - [Dev.to/JS] [Automating Image Scraping from Google Lens with Python](https://dev.to/mmw/automating-image-scraping-from-google-lens-with-python-mg0)
+- [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)
 - [Dev.to/JS] [Demystifying React: How does React actually render JSX?](https://dev.to/joe_jngigi/demystifying-react-how-does-react-actually-render-jsx-3099)
 - [Dev.to/JS] [Lessons from open-source: Partytown — a library that uses web worker to run third party scripts.](https://dev.to/ramunarasinga/lessons-from-open-source-partytown-a-library-that-uses-web-worker-to-run-third-party-scripts-4403)
 - [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
 - [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
-- [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)
-- [Lifehacker] [The Google Pixel 6a Is $80 Off Right Now](https://lifehacker.com/tech/google-pixel-6a-sale-woot)
-- [Lifehacker] [Time to Install Another Microsoft Security Patch &lpar;This One Fixes 61 Vulnerabilities&rpar;](https://lifehacker.com/tech/install-microsofts-latest-security-patch-on-your-pc)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)<!-- TECH-POSTS:END -->
 
 ---
 
