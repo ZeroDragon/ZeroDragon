@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
+- [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)
 - [Lifehacker] [You Can Get This Beginner-Friendly 4K Camera Drone on Sale for $70 Right Now](https://lifehacker.com/tech/beginner-drone-sale)
 - [Dev.to/JS] [Sobre Event Loop e música clássica](https://dev.to/davida1ves/sobre-event-loop-e-musica-classica-310g)
 - [Dev.to/JS] [Automating Image Scraping from Google Lens with Python](https://dev.to/mmw/automating-image-scraping-from-google-lens-with-python-mg0)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
 - [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)
-- [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
-- [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)<!-- TECH-POSTS:END -->
 
 ---
 
