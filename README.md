@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sobre Event Loop e música clássica](https://dev.to/davida1ves/sobre-event-loop-e-musica-classica-310g)
 - [Dev.to/JS] [Automating Image Scraping from Google Lens with Python](https://dev.to/mmw/automating-image-scraping-from-google-lens-with-python-mg0)
 - [Dev.to/JS] [Demystifying React: How does React actually render JSX?](https://dev.to/joe_jngigi/demystifying-react-how-does-react-actually-render-jsx-3099)
 - [Dev.to/JS] [Lessons from open-source: Partytown — a library that uses web worker to run third party scripts.](https://dev.to/ramunarasinga/lessons-from-open-source-partytown-a-library-that-uses-web-worker-to-run-third-party-scripts-4403)
+- [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
 - [Dev.to/JS] [React UI Component Libraries every developer should know](https://dev.to/sharmaprash/react-ui-component-libraries-every-developer-should-know-me0)
+- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Dev.to/JS] [GeoJSON in Google Maps API](https://dev.to/jgracie52/geojson-in-google-maps-api-453o)
 - [Lifehacker] [Change These Settings to Make Uber More Private](https://lifehacker.com/tech/change-these-settings-to-make-uber-more-private)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite High-powered Portable Charger Is 55% Off](https://lifehacker.com/tech/iniu-portable-charger-sale-woot)
 - [Dev.to/JS] [Soulmate Romantic Birthday Wishes For Husband From Wife](https://dev.to/nishant-malik/soulmate-romantic-birthday-wishes-for-husband-from-wife-58cc)
 - [Dev.to/JS] [Multi-platform libraries built with Kotlin Multiplatform &lpar;KMP&rpar;](https://dev.to/uakihir0/multi-platform-libraries-built-with-kotlin-multiplatform-kmp-39e1)
-- [Dev.to/JS] [Beginner&#39;s guide to Module Federation and why you need it!](https://dev.to/rt68/beginners-guide-to-module-federation-and-why-you-need-it-5bg3)
 - [Lifehacker] [How to Avoid a Tax Audit](https://lifehacker.com/money/how-to-avoid-tax-audit)
 - [Lifehacker] [The HP Pavilion 15t-eg300 Is $450 Off Right Now](https://lifehacker.com/tech/hp-pavilion-15t-eg300-sale)
 - [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Alexa-equipped Smart Wall Dimmer Switch Is Almost Half Off](https://lifehacker.com/tech/leviton-smart-wall-dimmer-switch-sale)
 - [Lifehacker] [Why Mortgage Lenders Charge Prepayment Penalties &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/money/what-is-a-mortgage-prepayment-penalty)
 - [Lifehacker] [The Google Pixel 6a Is $80 Off Right Now](https://lifehacker.com/tech/google-pixel-6a-sale-woot)
-- [Lifehacker] [Time to Install Another Microsoft Security Patch &lpar;This One Fixes 61 Vulnerabilities&rpar;](https://lifehacker.com/tech/install-microsofts-latest-security-patch-on-your-pc)
-- [Lifehacker] [The New M3 MacBook Air Is Already on Sale &lpar;a Little&rpar;](https://lifehacker.com/tech/new-m3-macbook-air-first-discount)
-- [Lifehacker] [You Should Whip Some Honey](https://lifehacker.com/food-drink/whipped-honey-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Time to Install Another Microsoft Security Patch &lpar;This One Fixes 61 Vulnerabilities&rpar;](https://lifehacker.com/tech/install-microsofts-latest-security-patch-on-your-pc)<!-- TECH-POSTS:END -->
 
 ---
 
