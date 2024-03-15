@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This is a Test Post](https://dev.to/amansrivastava905/this-is-a-test-post-1f8p)
+- [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)
+- [Dev.to/JS] [Exploratory Testing in Agile: Uncovering Hidden Bugs](https://dev.to/ahanash46390872/exploratory-testing-in-agile-uncovering-hidden-bugs-405i)
+- [Dev.to/JS] [How to Write Your First Cypress Test [With Examples]](https://dev.to/kailashpathak7/how-to-write-your-first-cypress-test-with-examples-mdf)
+- [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)
 - [Dev.to/JS] [Most Commonly Asked React Interview Questions 2024 - Part 3](https://dev.to/sayuj/most-commonly-asked-react-interview-questions-2024-part-3-551n)
 - [Dev.to/JS] [LeetCode Meditations: Longest Repeating Character Replacement](https://dev.to/rivea0/leetcode-meditations-longest-repeating-character-replacement-1o6m)
 - [Dev.to/JS] [Persist data with Vue Pinia](https://dev.to/zichis/persist-data-with-vue-pinia-4458)
+- [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)
 - [Dev.to/JS] [A case of no value vs no object: Comparing &#39;null&#39;, &#39;undefined&#39; and &#39;undeclared&#39;.](https://dev.to/joshraphael/a-case-of-no-value-vs-no-object-comparing-null-undefined-and-undeclared-419g)
 - [Dev.to/JS] [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
 - [Dev.to/JS] [Angular + Electron: The Dynamic Duo of Desktop Development](https://dev.to/chintanonweb/angular-electron-the-dynamic-duo-of-desktop-development-50dj)
@@ -37,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [L&#39;art de faire un Zoom en Web](https://dev.to/gravisto/lart-de-faire-un-zoom-en-web-3m00)
 - [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
 - [Dev.to/JS] [I am new to dev looking to get job opportunity](https://dev.to/omkarnikam/i-am-new-to-dev-looking-to-get-job-opportunity-bi7)
-- [Dev.to/JS] [Monitoring your Website End to End with Playwright](https://dev.to/stefanhudelmaier/monitoring-your-website-end-to-end-with-playwright-djn)
-- [Dev.to/JS] [Trends and directions for web development in 2024](https://dev.to/sparkouttech/trends-and-directions-for-web-development-in-2024-2d31)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)
-- [Dev.to/JS] [Maximizing Your Success: Unveiling the Power of Amazon SAA-C03 Dumps](https://dev.to/billiekaif/maximizing-your-success-unveiling-the-power-of-amazon-saa-c03-dumps-56o1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)
 - [Lifehacker] [How to Avoid Force-Place Insurance on Your Home or Car &lpar;and Why You Should&rpar;](https://lifehacker.com/money/avoiding-force-place-insurance-policy-on-car-home)
 - [Lifehacker] [TikTok Isn&#39;t Banned &lpar;Yet&rpar;](https://lifehacker.com/tech/tiktok-isnt-banned-yet)
-- [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)
-- [Lifehacker] [How to Make Easter Fun for Teenagers](https://lifehacker.com/fun-easter-ideas-for-teens-and-tweens)
-- [Lifehacker] [These Are the Best Interactive Widgets for the iPhone](https://lifehacker.com/tech/the-best-interactive-widgets-iphone)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Fruit of the Loom Logo](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-the-fruit-of-the-loom-logo)<!-- TECH-POSTS:END -->
+- [Lifehacker] [30 Movies That Could Never Be Made Today](https://lifehacker.com/these-movies-could-never-be-made-today)<!-- TECH-POSTS:END -->
 
 ---
 
