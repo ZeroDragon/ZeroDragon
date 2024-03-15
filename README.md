@@ -26,8 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from open-source: Typesafe “getInt” utility function in Next.js source code](https://dev.to/ramunarasinga/lessons-from-open-source-typesafe-getint-utility-function-in-nextjs-source-code-32a3)
+- [Dev.to/JS] [Cadê meus zeros? Sobre tipos em banco de dados.](https://dev.to/olucascruz/cade-meus-zeros-sobre-tipos-em-banco-de-dados-1o8l)
+- [Dev.to/JS] [Sendchamp: Simplifying Customer Communication for African Businesses](https://dev.to/devsuite/sendchamp-simplifying-customer-communication-for-african-businesses-18j6)
+- [Dev.to/JS] [Supabase RLS Automated Testing](https://dev.to/aaronblondeau/supabase-rls-automated-testing-nn2)
+- [Dev.to/JS] [call, apply &amp; bind](https://dev.to/danishraza/call-apply-bind-16kj)
+- [Lifehacker] [The M1 MacBook Air Drops to $700](https://lifehacker.com/tech/m1-macbook-air-deal)
 - [Dev.to/JS] [Episode 24/09: Testing without TestBed, SSR &amp; Hydration](https://dev.to/this-is-angular/episode-2409-testing-without-testbed-ssr-hydration-2ekh)
+- [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)
 - [Dev.to/JS] [Screen Sharing with WebRTC: Harnessing JavaScript for Seamless Streaming](https://dev.to/filipemelo2002/screen-sharing-with-webrtc-harnessing-javascript-for-seamless-streaming-2d5k)
+- [Lifehacker] [Your Older Samsung Device Might Get AI Features Very Soon](https://lifehacker.com/tech/older-samsung-devices-getting-ai-features-soon)
 - [Lifehacker] [Treat Yourself to an Air Fryer Scotch Egg This Easter](https://lifehacker.com/food-drink/air-fryer-scotch-egg-recipe)
 - [Lifehacker] [Microsoft Wants You to Try Copilot Pro for Free](https://lifehacker.com/tech/microsoft-copilot-pro-one-month-free-trial)
 - [Dev.to/JS] [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #2](https://dev.to/alisamirali/elevate-your-react-development-15-essential-best-practices-part-2-23j8)
@@ -37,14 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
 - [Dev.to/JS] [Scratch Newsletter with Appwrite](https://dev.to/nimit2801/scratch-newsletter-with-appwrite-4efe)
 - [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
-- [Dev.to/JS] [CSS Responsive Image Overlay](https://dev.to/sameech/css-responsive-image-overlay-3797)
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
-- [Dev.to/JS] [Open-source Retool for Enterprise Building React Internal Tool](https://dev.to/codingcatdev/open-source-retool-for-enterprise-building-react-internal-tool-5cdn)
 - [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
-- [Dev.to/JS] [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
-- [Dev.to/JS] [Desbloquea tu creatividad con Google Gemini y JavaScript: Guía práctica](https://dev.to/khriztianmoreno/desbloquea-tu-creatividad-con-google-gemini-y-javascript-guia-practica-hel)
 - [Lifehacker] [I Tested Four Smart Espresso Makers, and Here’s What I Found](https://lifehacker.com/tech/smart-espresso-maker-review-roundup)
-- [Dev.to/JS] [Master React by Building these 25 Projects](https://dev.to/sayuj/master-react-by-building-these-25-projects-1535)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Plantum on Sale for $15 Right Now](https://lifehacker.com/home/plantum-sale)
 - [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)
 - [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
-- [Lifehacker] [Change These Settings to Make Uber More Private](https://lifehacker.com/tech/change-these-settings-to-make-uber-more-private)
-- [Lifehacker] [Why You Might Need Mechanical Breakdown Insurance for Your Car](https://lifehacker.com/money/what-is-mechanical-breakdown-insurance-and-is-it-worth-it)
-- [Lifehacker] [This Five-ingredient Banoffee Is a Low-Effort Pi Day Treat](https://lifehacker.com/food-drink/5-ingredient-banoffee-pie-recipe)
-- [Lifehacker] [What ‘Bitcoin Halving’ Means &lpar;and Why It Matters&rpar;](https://lifehacker.com/money/what-is-bitcoin-halving)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Change These Settings to Make Uber More Private](https://lifehacker.com/tech/change-these-settings-to-make-uber-more-private)<!-- TECH-POSTS:END -->
 
 ---
 
