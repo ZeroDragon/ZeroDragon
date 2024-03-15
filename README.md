@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of Spreadsheets: Building a REST API with Google Sheet &amp; Google Apps Script](https://dev.to/sfsajid91/unleashing-the-power-of-spreadsheets-building-a-rest-api-with-google-sheet-google-apps-script-3mi1)
+- [Dev.to/JS] [How to Detect and Fix Circular Dependencies in Typescript](https://dev.to/danywalls/how-to-detect-and-fix-circular-dependencies-in-typescript-27ai)
+- [Dev.to/JS] [Effortless Data Transformation with Node.js: Converting CSV to JSON Made Simple](https://dev.to/webdev-mohdamir/effortless-data-transformation-with-nodejs-converting-csv-to-json-made-simple-5bpi)
+- [Dev.to/JS] [Common Mistakes in Selecting JavaScript UI Libraries for a Web Project](https://dev.to/plazarev/common-mistakes-in-selecting-javascript-ui-libraries-for-a-web-project-32ei)
 - [Dev.to/JS] [Beyond Redux - MobX and Zustand](https://dev.to/codeparrot/beyond-redux-mobx-and-zustand-g2a)
 - [Dev.to/JS] [Navigating Asynchronous JavaScript: From Promises to Async/Await and Beyond](https://dev.to/andresclua/navigating-asynchronous-javascript-from-promises-to-asyncawait-and-beyond-13li)
 - [Dev.to/JS] [Most Commonly Asked React Interview Questions 2024 - Part 2](https://dev.to/sayuj/most-commonly-asked-react-interview-questions-2024-part-2-1l17)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Temukan Sensasi Terbaik dengan TESLATOTO | SLOT DEPOSIT 5000 di Indonesia!](https://dev.to/slot5000/temukan-sensasi-terbaik-dengan-teslatoto-slot-deposit-5000-di-indonesia-155l)
 - [Dev.to/JS] [Sass and Less: What&#39;s the Difference Between Both?](https://dev.to/shariqahmed525/sass-and-less-whats-the-difference-between-both-5e84)
 - [Dev.to/JS] [I am looking for work as a front-end engineer](https://dev.to/shailennaidoo/i-am-looking-for-work-as-a-front-end-engineer-l5i)
-- [Dev.to/JS] [Top 10 React js interview questions.](https://dev.to/muhammadjon02/top-10-react-js-interview-questions-2jn2)
-- [Dev.to/JS] [What I&#39;ve Learned Transitioning to Private Sector as a Software Engineer](https://dev.to/trinly01/what-ive-learned-transitioning-to-private-sector-as-a-software-engineer-nj1)
-- [Dev.to/JS] [GraphQL vs REST - Key Differences and Use Cases](https://dev.to/refine/graphql-vs-rest-key-differences-and-use-cases-23fn)
-- [Dev.to/JS] [Asynchronous programming in Javascript](https://dev.to/muhammadjon02/asynchronous-programming-in-javascript-3hbk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
