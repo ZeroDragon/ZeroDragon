@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
 - [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)
 - [Lifehacker] [You Can Get This Beginner-Friendly 4K Camera Drone on Sale for $70 Right Now](https://lifehacker.com/tech/beginner-drone-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Bread Box Is Your Freezer](https://lifehacker.com/food-drink/how-to-store-bread-in-the-freezer)
 - [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
 - [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Lifehacker] [How to Track Your Sleep With an Apple Watch](https://lifehacker.com/health/how-to-track-sleep-on-apple-watch)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)<!-- TECH-POSTS:END -->
 
 ---
 
