@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/f6666965/buy-verified-cash-app-account-2701)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/f6666965/buy-verified-paxful-account-2c59)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
 - [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)
@@ -50,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
 - [Dev.to/JS] [Unraveling the Mysteries of 7Bit Casino: Your Ultimate Guide 🎰✨](https://dev.to/kmdclsczmclmcz/unraveling-the-mysteries-of-7bit-casino-your-ultimate-guide-4cjp)
 - [Lifehacker] [My Favorite High-powered Portable Charger Is 55% Off](https://lifehacker.com/tech/iniu-portable-charger-sale-woot)
-- [Dev.to/JS] [Soulmate Romantic Birthday Wishes For Husband From Wife](https://dev.to/nishant-malik/soulmate-romantic-birthday-wishes-for-husband-from-wife-58cc)
-- [Dev.to/JS] [Multi-platform libraries built with Kotlin Multiplatform &lpar;KMP&rpar;](https://dev.to/uakihir0/multi-platform-libraries-built-with-kotlin-multiplatform-kmp-39e1)
 - [Lifehacker] [How to Avoid a Tax Audit](https://lifehacker.com/money/how-to-avoid-tax-audit)
 - [Lifehacker] [The HP Pavilion 15t-eg300 Is $450 Off Right Now](https://lifehacker.com/tech/hp-pavilion-15t-eg300-sale)
 - [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)
