@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #2](https://dev.to/alisamirali/elevate-your-react-development-15-essential-best-practices-part-2-23j8)
+- [Dev.to/JS] [Dollar Kit](https://dev.to/shox2008/dollar-kit-56om)
+- [Dev.to/JS] [Array Mutation Methods in JavaScript](https://dev.to/richardtorres314/array-mutation-methods-in-javascript-ik)
+- [Dev.to/JS] [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
+- [Dev.to/JS] [Scratch Newsletter with Appwrite](https://dev.to/nimit2801/scratch-newsletter-with-appwrite-4efe)
 - [Dev.to/JS] [CSS Responsive Image Overlay](https://dev.to/sameech/css-responsive-image-overlay-3797)
+- [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
+- [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
 - [Dev.to/JS] [Open-source Retool for Enterprise Building React Internal Tool](https://dev.to/codingcatdev/open-source-retool-for-enterprise-building-react-internal-tool-5cdn)
 - [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
 - [Dev.to/JS] [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
@@ -38,12 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploratory Testing in Agile: Uncovering Hidden Bugs](https://dev.to/ahanash46390872/exploratory-testing-in-agile-uncovering-hidden-bugs-405i)
 - [Dev.to/JS] [How to Write Your First Cypress Test [With Examples]](https://dev.to/kailashpathak7/how-to-write-your-first-cypress-test-with-examples-mdf)
 - [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)
-- [Dev.to/JS] [Most Commonly Asked React Interview Questions 2024 - Part 3](https://dev.to/sayuj/most-commonly-asked-react-interview-questions-2024-part-3-551n)
-- [Dev.to/JS] [LeetCode Meditations: Longest Repeating Character Replacement](https://dev.to/rivea0/leetcode-meditations-longest-repeating-character-replacement-1o6m)
-- [Dev.to/JS] [Persist data with Vue Pinia](https://dev.to/zichis/persist-data-with-vue-pinia-4458)
 - [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)
-- [Dev.to/JS] [A case of no value vs no object: Comparing &#39;null&#39;, &#39;undefined&#39; and &#39;undeclared&#39;.](https://dev.to/joshraphael/a-case-of-no-value-vs-no-object-comparing-null-undefined-and-undeclared-419g)
-- [Dev.to/JS] [API documentation using swagger](https://dev.to/ifeanyichima/api-using-swagger-4o0m)
 - [Lifehacker] [The Best Tools and Gadgets for Hybrid Workers](https://lifehacker.com/work/best-tools-for-hybrid-workers)
 - [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What ‘Bitcoin Halving’ Means &lpar;and Why It Matters&rpar;](https://lifehacker.com/money/what-is-bitcoin-halving)
 - [Lifehacker] [Google&#39;s AI Will Play Video Games for You](https://lifehacker.com/tech/what-is-google-deepmind-sima)
 - [Lifehacker] [My Favorite High-powered Portable Charger Is 55% Off](https://lifehacker.com/tech/iniu-portable-charger-sale-woot)
-- [Lifehacker] [How to Avoid a Tax Audit](https://lifehacker.com/money/how-to-avoid-tax-audit)
-- [Lifehacker] [The HP Pavilion 15t-eg300 Is $450 Off Right Now](https://lifehacker.com/tech/hp-pavilion-15t-eg300-sale)
-- [Lifehacker] [How to Connect Any Video Game Controller to Your Android phone](https://lifehacker.com/tech/how-to-connect-any-video-game-controller-to-your-android-phone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Avoid a Tax Audit](https://lifehacker.com/money/how-to-avoid-tax-audit)<!-- TECH-POSTS:END -->
 
 ---
 
