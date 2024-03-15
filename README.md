@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Codecraft: Elevate Your App&#39;s Scalability with Simple Components](https://dev.to/abdulghaffar349/react-codecraft-elevate-your-apps-scalability-with-simple-components-b87)
+- [Dev.to/JS] [Embarking on a Journey: From Aspiring to Experienced Web Developer](https://dev.to/p_ks/embarking-on-a-journey-from-aspiring-to-experienced-web-developer-860)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Test](https://dev.to/nicolasquack/test-d7p)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/f6666965/buy-negative-google-reviews-3e2j)
 - [Dev.to/JS] [What are the potential implications of Multiverse Computing for cryptography and cybersecurity?](https://dev.to/yagnapandya9/what-are-the-potential-implications-of-multiverse-computing-for-cryptography-and-cybersecurity-1m7d)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)
 - [Lifehacker] [You Can Get This Beginner-Friendly 4K Camera Drone on Sale for $70 Right Now](https://lifehacker.com/tech/beginner-drone-sale)
 - [Dev.to/JS] [Sobre Event Loop e música clássica](https://dev.to/davida1ves/sobre-event-loop-e-musica-classica-310g)
-- [Dev.to/JS] [Automating Image Scraping from Google Lens with Python](https://dev.to/mmw/automating-image-scraping-from-google-lens-with-python-mg0)
 - [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)
-- [Dev.to/JS] [Demystifying React: How does React actually render JSX?](https://dev.to/joe_jngigi/demystifying-react-how-does-react-actually-render-jsx-3099)
 - [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Free App Turns Any Website Into Your Mac Wallpaper](https://lifehacker.com/tech/turn-any-website-into-your-mac-wallpaper)
 - [Lifehacker] [The Best Bread Box Is Your Freezer](https://lifehacker.com/food-drink/how-to-store-bread-in-the-freezer)
 - [Lifehacker] [Use the 168-hour Method to Track Your Weekly Productivity](https://lifehacker.com/work/use-the-168-method-for-weekly-productivity)
-- [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 14, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apply Marie Kondo’s Method to Your To-do Lists](https://lifehacker.com/work/konmari-your-to-do-lists)<!-- TECH-POSTS:END -->
 
 ---
 
