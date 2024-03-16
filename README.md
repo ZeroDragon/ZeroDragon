@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Streamlining Your Code: Best Practices for Node.js Streams](https://dev.to/ruben_alapont/streamlining-your-code-best-practices-for-nodejs-streams-1ji0)
+- [Dev.to/JS] [Axios interceptor for JWT validation](https://dev.to/bekon0700/axios-interceptor-for-jwt-validation-3065)
 - [Dev.to/JS] [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
 - [Dev.to/JS] [How to customize the left side menu icon of the Odoo Settings page view](https://dev.to/ixkit/how-to-customize-the-left-side-menu-icon-of-the-odoo-settings-page-view-lja)
 - [Dev.to/JS] [Developing GroupUp Journey](https://dev.to/filipf/developing-groupup-journey-38b3)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎉 iPhone 15 Pro Max Giveaway Session 2 🎉](https://dev.to/mustak12/iphone-15-pro-max-giveaway-session-2-5bca)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/leonlangston223/buy-old-gmail-accounts-3hc1)
 - [Dev.to/JS] [Episode 24/10: Micro-Frontends, Signals ready for Prime Time?](https://dev.to/this-is-angular/episode-2410-49oi)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/leonlangston223/buy-google-voice-accounts-4hbb)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/leonlangston223/buy-google-5-star-reviews-3ola)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
