@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This MagPRO Smartwatch on Sale for $40 Right Now](https://lifehacker.com/tech/magpro-smartwatch-sale)
+- [Lifehacker] [Six Subscriptions Actually Worth Paying for, According to Reddit](https://lifehacker.com/tech/subscriptions-worth-paying-for-according-to-reddit)
 - [Dev.to/JS] [Devin AI vs Other AI Tools: A Paradigm Shift in Software Development](https://dev.to/sufian/devin-ai-vs-other-ai-tools-a-paradigm-shift-in-software-development-40ce)
 - [Dev.to/JS] [OAuth 2.0 Explained In Simple Terms &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/oauth-20-explained-in-simple-terms-with-visuals-30he)
+- [Lifehacker] [The New Blink Mini 2 Camera Works Outside, Too](https://lifehacker.com/tech/amazons-new-blink-mini-2-overview)
 - [Dev.to/JS] [Lessons from open-source: Typesafe “getInt” utility function in Next.js source code](https://dev.to/ramunarasinga/lessons-from-open-source-typesafe-getint-utility-function-in-nextjs-source-code-32a3)
 - [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)
 - [Dev.to/JS] [Cadê meus zeros? Sobre tipos em banco de dados.](https://dev.to/olucascruz/cade-meus-zeros-sobre-tipos-em-banco-de-dados-1o8l)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
 - [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)
 - [Lifehacker] [You Can Get This Beginner-Friendly 4K Camera Drone on Sale for $70 Right Now](https://lifehacker.com/tech/beginner-drone-sale)
-- [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)
-- [Lifehacker] [‘Under New Management’ Alerts You When a Chrome Extension Changes Owners](https://lifehacker.com/tech/under-new-management-alerts-you-when-chrome-extensions-change-owners)
-- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
-- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)<!-- TECH-POSTS:END -->
 
 ---
 
