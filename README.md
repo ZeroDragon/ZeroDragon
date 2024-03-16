@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There’s Finally a Date for Google I/O 2024](https://lifehacker.com/tech/google-io-2024-announced)
+- [Lifehacker] [The TikTok Situation Is a Mess](https://lifehacker.com/tech/the-tiktok-situation-is-a-mess)
 - [Lifehacker] [You Can Get This MagPRO Smartwatch on Sale for $40 Right Now](https://lifehacker.com/tech/magpro-smartwatch-sale)
 - [Lifehacker] [Six Subscriptions Actually Worth Paying for, According to Reddit](https://lifehacker.com/tech/subscriptions-worth-paying-for-according-to-reddit)
 - [Dev.to/JS] [Devin AI vs Other AI Tools: A Paradigm Shift in Software Development](https://dev.to/sufian/devin-ai-vs-other-ai-tools-a-paradigm-shift-in-software-development-40ce)
@@ -45,9 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Treat Yourself to an Air Fryer Scotch Egg This Easter](https://lifehacker.com/food-drink/air-fryer-scotch-egg-recipe)
 - [Lifehacker] [Microsoft Wants You to Try Copilot Pro for Free](https://lifehacker.com/tech/microsoft-copilot-pro-one-month-free-trial)
 - [Dev.to/JS] [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #2](https://dev.to/alisamirali/elevate-your-react-development-15-essential-best-practices-part-2-23j8)
-- [Dev.to/JS] [Dollar Kit](https://dev.to/shox2008/dollar-kit-56om)
 - [Dev.to/JS] [Array Mutation Methods in JavaScript](https://dev.to/richardtorres314/array-mutation-methods-in-javascript-ik)
 - [Lifehacker] [How Perplexity AI Stands up to Google and ChatGPT](https://lifehacker.com/tech/perplexity-ai-versus-google-and-chatgpt)
+- [Dev.to/JS] [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
 - [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
 - [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
 - [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
-- [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)
-- [Lifehacker] [You Can Get This Beginner-Friendly 4K Camera Drone on Sale for $70 Right Now](https://lifehacker.com/tech/beginner-drone-sale)
-- [Lifehacker] [Use This App For a Picture-in-picture Effect on Windows](https://lifehacker.com/tech/windows-picture-in-picture-app)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)<!-- TECH-POSTS:END -->
 
 ---
 
