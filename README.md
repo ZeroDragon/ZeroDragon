@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Will Low-Code Replace Traditional Coding in Software Development?](https://dev.to/syncloop_dev/will-low-code-replace-traditional-coding-in-software-development-19pp)
+- [Dev.to/JS] [Payload CMS: A Developer&#39;s Friend, with Room to Grow](https://dev.to/muzammil-cyber/payload-cms-a-developers-friend-with-room-to-grow-4611)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/ericchaim2/buy-negative-google-reviews-1m4e)
+- [Dev.to/JS] [Enhancing Web Performance with HTML5 Data-* Attributes](https://dev.to/bhanuprasadcherukuvada/enhancing-web-performance-with-html5-data-attributes-1l3a)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/ericchaim2/buy-google-reviews-5fgd)
 - [Dev.to/JS] [Copy Objects Ways in JavaScript](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj)
 - [Dev.to/JS] [Don&#39;t do this with your parameters in functions - functional programming🤢](https://dev.to/pythonisnotasnake/dont-do-this-with-your-parameters-in-functions-functional-programming-18gm)
+- [Lifehacker] [Beat the &#39;Planning Fallacy&#39; to Be More Productive](https://lifehacker.com/work/beat-the-planning-fallacy-to-be-more-productive)
+- [Lifehacker] [Why Apple Fitness Shows You &#39;Total Calories&#39; and &#39;Active Calories&#39;](https://lifehacker.com/health/active-calories-versus-total-calories)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/vilepa6155/buy-old-gmail-accounts-g2j)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/vilepa6155/buy-verified-cash-app-account-1fk)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/vilepa6155/buy-glassdoor-reviews-1f42)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/vilepa6155/buy-amazon-reviews-3o40)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/vilepa6155/buy-google-reviews-513p)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/vifal88438/buy-old-gmail-accounts-5f9b)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/vilepa6155/buy-google-voice-accounts-58eh)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/vifal88438/buy-glassdoor-reviews-1ngd)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/vilepa6155/buy-google-5-star-reviews-43i3)
-- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/vifal88438/buy-amazon-reviews-2pm8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 16, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)
 - [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)
 - [Lifehacker] [The Best Tools and Gadgets for Hybrid Workers](https://lifehacker.com/work/best-tools-for-hybrid-workers)
-- [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)<!-- TECH-POSTS:END -->
 
 ---
 
