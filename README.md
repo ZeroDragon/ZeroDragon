@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Copy Objects Ways in JavaScript](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj)
+- [Dev.to/JS] [Don&#39;t do this with your parameters in functions - functional programming🤢](https://dev.to/pythonisnotasnake/dont-do-this-with-your-parameters-in-functions-functional-programming-18gm)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/vilepa6155/buy-old-gmail-accounts-g2j)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/vilepa6155/buy-verified-cash-app-account-1fk)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/vilepa6155/buy-glassdoor-reviews-1f42)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/vifal88438/buy-glassdoor-reviews-1ngd)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/vilepa6155/buy-google-5-star-reviews-43i3)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/vifal88438/buy-amazon-reviews-2pm8)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/vilepa6155/buy-verified-paxful-account-461a)
-- [Dev.to/JS] [Leveraging Semantic HTML for Enhanced Accessibility and SEO](https://dev.to/nitin-rachabathuni/leveraging-semantic-html-for-enhanced-accessibility-and-seo-2p8b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 16, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
