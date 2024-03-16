@@ -28,6 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [What is Encapsulation](https://dev.to/m__mdy__m/what-is-encapsulation-48b0)
 - [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [The Bose QuietComfort Ultra Headphones Are $180 Off](https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-sale)
 - [Lifehacker] [There’s Finally a Date for Google I/O 2024](https://lifehacker.com/tech/google-io-2024-announced)
 - [Lifehacker] [The TikTok Situation Is a Mess](https://lifehacker.com/tech/the-tiktok-situation-is-a-mess)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)<!-- TECH-POSTS:END -->
 
 ---
 
