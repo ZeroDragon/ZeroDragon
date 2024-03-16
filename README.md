@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Encapsulation](https://dev.to/m__mdy__m/what-is-encapsulation-48b0)
+- [Lifehacker] [The Bose QuietComfort Ultra Headphones Are $180 Off](https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-sale)
 - [Lifehacker] [There’s Finally a Date for Google I/O 2024](https://lifehacker.com/tech/google-io-2024-announced)
 - [Lifehacker] [The TikTok Situation Is a Mess](https://lifehacker.com/tech/the-tiktok-situation-is-a-mess)
 - [Lifehacker] [You Can Get This MagPRO Smartwatch on Sale for $40 Right Now](https://lifehacker.com/tech/magpro-smartwatch-sale)
@@ -49,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #2](https://dev.to/alisamirali/elevate-your-react-development-15-essential-best-practices-part-2-23j8)
 - [Dev.to/JS] [Array Mutation Methods in JavaScript](https://dev.to/richardtorres314/array-mutation-methods-in-javascript-ik)
 - [Lifehacker] [How Perplexity AI Stands up to Google and ChatGPT](https://lifehacker.com/tech/perplexity-ai-versus-google-and-chatgpt)
-- [Dev.to/JS] [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
 - [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
 - [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Google Safe Browsing Just Got Even Safer](https://lifehacker.com/tech/google-safe-browsing-just-got-safer)
-- [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)
-- [Lifehacker] [Proton Mail Has a Desktop App Now](https://lifehacker.com/tech/proton-mail-now-has-a-desktop-app)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The YouTube App on Your TV Is Getting a Facelift](https://lifehacker.com/tech/the-youtube-app-on-your-tv-is-getting-a-facelift)<!-- TECH-POSTS:END -->
 
 ---
 
