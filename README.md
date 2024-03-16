@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue.JS Keep Alive Built-In Component](https://dev.to/itamartati/vuejs-keep-alive-built-in-component-1d20)
+- [Dev.to/JS] [I created YouTube UI Clone](https://dev.to/sh20raj/i-created-youtube-ui-clone-6gi)
 - [Dev.to/JS] [Experience the Magic of Kolkata Escorts Service with My Heaven Models India](https://dev.to/tomcruise/experience-the-magic-of-kolkata-escorts-service-with-my-heaven-models-india-2p75)
 - [Dev.to/JS] [What is Encapsulation](https://dev.to/m__mdy__m/what-is-encapsulation-48b0)
 - [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
@@ -47,11 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The M1 MacBook Air Drops to $700](https://lifehacker.com/tech/m1-macbook-air-deal)
 - [Dev.to/JS] [Episode 24/09: Testing without TestBed, SSR &amp; Hydration](https://dev.to/this-is-angular/episode-2409-testing-without-testbed-ssr-hydration-2ekh)
 - [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)
-- [Dev.to/JS] [Screen Sharing with WebRTC: Harnessing JavaScript for Seamless Streaming](https://dev.to/filipemelo2002/screen-sharing-with-webrtc-harnessing-javascript-for-seamless-streaming-2d5k)
 - [Lifehacker] [Your Older Samsung Device Might Get AI Features Very Soon](https://lifehacker.com/tech/older-samsung-devices-getting-ai-features-soon)
 - [Lifehacker] [Treat Yourself to an Air Fryer Scotch Egg This Easter](https://lifehacker.com/food-drink/air-fryer-scotch-egg-recipe)
 - [Lifehacker] [Microsoft Wants You to Try Copilot Pro for Free](https://lifehacker.com/tech/microsoft-copilot-pro-one-month-free-trial)
-- [Dev.to/JS] [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #2](https://dev.to/alisamirali/elevate-your-react-development-15-essential-best-practices-part-2-23j8)
 - [Lifehacker] [How Perplexity AI Stands up to Google and ChatGPT](https://lifehacker.com/tech/perplexity-ai-versus-google-and-chatgpt)
 - [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
