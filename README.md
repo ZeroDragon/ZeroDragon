@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
+- [Dev.to/JS] [How to customize the left side menu icon of the Odoo Settings page view](https://dev.to/ixkit/how-to-customize-the-left-side-menu-icon-of-the-odoo-settings-page-view-lja)
+- [Dev.to/JS] [Developing GroupUp Journey](https://dev.to/filipf/developing-groupup-journey-38b3)
 - [Dev.to/JS] [Create a beginner-level project Make A Modern Website Using React Js | Hero Section](https://dev.to/ziontutorial/how-to-make-a-modern-website-using-react-js-hero-section-1g00)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/leonlangston223/buy-negative-google-reviews-4bhb)
 - [Dev.to/JS] [Building an Online Restaurant Service REST API with Node.js and MongoDB](https://dev.to/manish7107/building-an-online-restaurant-service-rest-api-with-nodejs-and-mongodb-691)
@@ -35,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 24/10: Micro-Frontends, Signals ready for Prime Time?](https://dev.to/this-is-angular/episode-2410-49oi)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/leonlangston223/buy-google-voice-accounts-4hbb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/leonlangston223/buy-google-5-star-reviews-3ola)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/leonlangston223/buy-verified-cash-app-account-1i6p)
-- [Dev.to/JS] [Zbet Site](https://dev.to/zbettsite/zbet-site-2hi3)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/leonlangston223/buy-verified-paxful-account-47pf)
+- [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
 - [Lifehacker] [Beat the &#39;Planning Fallacy&#39; to Be More Productive](https://lifehacker.com/work/beat-the-planning-fallacy-to-be-more-productive)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Tested Four Smart Espresso Makers, and Here’s What I Found](https://lifehacker.com/tech/smart-espresso-maker-review-roundup)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Plantum on Sale for $15 Right Now](https://lifehacker.com/home/plantum-sale)
 - [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)
-- [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)
-- [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)<!-- TECH-POSTS:END -->
 
 ---
 
