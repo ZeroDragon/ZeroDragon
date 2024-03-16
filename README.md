@@ -26,21 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a beginner-level project Make A Modern Website Using React Js | Hero Section](https://dev.to/ziontutorial/how-to-make-a-modern-website-using-react-js-hero-section-1g00)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/leonlangston223/buy-negative-google-reviews-4bhb)
+- [Dev.to/JS] [Building an Online Restaurant Service REST API with Node.js and MongoDB](https://dev.to/manish7107/building-an-online-restaurant-service-rest-api-with-nodejs-and-mongodb-691)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/leonlangston223/buy-google-reviews-59f3)
+- [Dev.to/JS] [🎉 iPhone 15 Pro Max Giveaway Session 2 🎉](https://dev.to/mustak12/iphone-15-pro-max-giveaway-session-2-5bca)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/leonlangston223/buy-old-gmail-accounts-3hc1)
+- [Dev.to/JS] [Episode 24/10: Micro-Frontends, Signals ready for Prime Time?](https://dev.to/this-is-angular/episode-2410-49oi)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/leonlangston223/buy-google-voice-accounts-4hbb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/leonlangston223/buy-google-5-star-reviews-3ola)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/leonlangston223/buy-verified-cash-app-account-1i6p)
 - [Dev.to/JS] [Zbet Site](https://dev.to/zbettsite/zbet-site-2hi3)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/leonlangston223/buy-verified-paxful-account-47pf)
-- [Dev.to/JS] [Will Low-Code Replace Traditional Coding in Software Development?](https://dev.to/syncloop_dev/will-low-code-replace-traditional-coding-in-software-development-19pp)
-- [Dev.to/JS] [Payload CMS: A Developer&#39;s Friend, with Room to Grow](https://dev.to/muzammil-cyber/payload-cms-a-developers-friend-with-room-to-grow-4611)
-- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/ericchaim2/buy-negative-google-reviews-1m4e)
-- [Dev.to/JS] [Enhancing Web Performance with HTML5 Data-* Attributes](https://dev.to/bhanuprasadcherukuvada/enhancing-web-performance-with-html5-data-attributes-1l3a)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/ericchaim2/buy-google-reviews-5fgd)
+- [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
-- [Dev.to/JS] [Copy Objects Ways in JavaScript](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj)
-- [Dev.to/JS] [Don&#39;t do this with your parameters in functions - functional programming🤢](https://dev.to/pythonisnotasnake/dont-do-this-with-your-parameters-in-functions-functional-programming-18gm)
 - [Lifehacker] [Beat the &#39;Planning Fallacy&#39; to Be More Productive](https://lifehacker.com/work/beat-the-planning-fallacy-to-be-more-productive)
 - [Lifehacker] [Why Apple Fitness Shows You &#39;Total Calories&#39; and &#39;Active Calories&#39;](https://lifehacker.com/health/active-calories-versus-total-calories)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/vilepa6155/buy-old-gmail-accounts-g2j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 16, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Plantum on Sale for $15 Right Now](https://lifehacker.com/home/plantum-sale)
 - [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)
 - [Lifehacker] [You Can Now Hide Your Phone Number on Signal](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal)
-- [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)
-- [Lifehacker] [The Best Tools and Gadgets for Hybrid Workers](https://lifehacker.com/work/best-tools-for-hybrid-workers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You’ll Soon Be Able to See a ‘New’ Star in the Night Sky](https://lifehacker.com/science/how-to-see-new-star-in-night-sky)<!-- TECH-POSTS:END -->
 
 ---
 
