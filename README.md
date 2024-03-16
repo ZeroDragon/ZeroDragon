@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ericchaim2/buy-verified-paxful-account-4jfa)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/sofic62805/buy-verified-paxful-account-4l9o)
+- [Dev.to/JS] [Shielding Your Data: AES-GCM Encryption &amp; Decryption for JavaScript, TypeScript, Java, and Python 🛡️🔐](https://dev.to/ihssmaheel/shielding-your-data-aes-gcm-encryption-decryption-for-javascript-typescript-java-and-python-1cpm)
+- [Dev.to/JS] [Latest Newsletter: Compositing the Sistine Chapel &lpar;Issue #155&rpar;](https://dev.to/mjgs/latest-newsletter-compositing-the-sistine-chapel-issue-155-eef)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 16, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Vue.JS Keep Alive Built-In Component](https://dev.to/itamartati/vuejs-keep-alive-built-in-component-1d20)
 - [Dev.to/JS] [I created YouTube UI Clone](https://dev.to/sh20raj/i-created-youtube-ui-clone-6gi)
 - [Dev.to/JS] [Experience the Magic of Kolkata Escorts Service with My Heaven Models India](https://dev.to/tomcruise/experience-the-magic-of-kolkata-escorts-service-with-my-heaven-models-india-2p75)
@@ -43,11 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons from open-source: Typesafe “getInt” utility function in Next.js source code](https://dev.to/ramunarasinga/lessons-from-open-source-typesafe-getint-utility-function-in-nextjs-source-code-32a3)
 - [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)
 - [Dev.to/JS] [Cadê meus zeros? Sobre tipos em banco de dados.](https://dev.to/olucascruz/cade-meus-zeros-sobre-tipos-em-banco-de-dados-1o8l)
-- [Dev.to/JS] [Sendchamp: Simplifying Customer Communication for African Businesses](https://dev.to/devsuite/sendchamp-simplifying-customer-communication-for-african-businesses-18j6)
-- [Dev.to/JS] [Supabase RLS Automated Testing](https://dev.to/aaronblondeau/supabase-rls-automated-testing-nn2)
-- [Dev.to/JS] [call, apply &amp; bind](https://dev.to/danishraza/call-apply-bind-16kj)
 - [Lifehacker] [The M1 MacBook Air Drops to $700](https://lifehacker.com/tech/m1-macbook-air-deal)
-- [Dev.to/JS] [Episode 24/09: Testing without TestBed, SSR &amp; Hydration](https://dev.to/this-is-angular/episode-2409-testing-without-testbed-ssr-hydration-2ekh)
 - [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)
 - [Lifehacker] [Your Older Samsung Device Might Get AI Features Very Soon](https://lifehacker.com/tech/older-samsung-devices-getting-ai-features-soon)
 - [Lifehacker] [Treat Yourself to an Air Fryer Scotch Egg This Easter](https://lifehacker.com/food-drink/air-fryer-scotch-egg-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tools and Gadgets for Hybrid Workers](https://lifehacker.com/work/best-tools-for-hybrid-workers)
 - [Lifehacker] [You Can Get This 9-Inch Wireless Car Display Screen on Sale for $120 Right Now](https://lifehacker.com/9-inch-wireless-car-display-sale)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 15, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream This Week](https://lifehacker.com/entertainment/best-movies-streaming-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
