@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [asd](https://dev.to/alasd21398/asd-43ha)
+- [Dev.to/JS] [Converting HTML to Image. and GIF](https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn)
+- [Dev.to/JS] [10 TypeScript Tricks to Save Your Coding Time](https://dev.to/sufian/10-typescript-tricks-to-save-your-coding-time-1f9b)
+- [Dev.to/JS] [Minimalizm / Minimalist / TMUX.config](https://dev.to/paulbuzakov/minimalizm-minimalist-tmuxconfig-2d53)
 - [Dev.to/JS] [Never Tell Me The Odds](https://dev.to/rmion/never-tell-me-the-odds-12j4)
 - [Dev.to/JS] [LeetCode Meditations: Minimum Window Substring](https://dev.to/rivea0/leetcode-meditations-minimum-window-substring-3ha8)
 - [Dev.to/JS] [Backend Cockfight 2024 Q1](https://dev.to/noriller/backend-cockfight-2024-q1-1h1c)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Axios interceptor for JWT validation](https://dev.to/bekon0700/axios-interceptor-for-jwt-validation-3065)
 - [Dev.to/JS] [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
 - [Dev.to/JS] [How to customize the left side menu icon of the Odoo Settings page view](https://dev.to/ixkit/how-to-customize-the-left-side-menu-icon-of-the-odoo-settings-page-view-lja)
-- [Dev.to/JS] [Developing GroupUp Journey](https://dev.to/filipf/developing-groupup-journey-38b3)
-- [Dev.to/JS] [Create a beginner-level project Make A Modern Website Using React Js | Hero Section](https://dev.to/ziontutorial/how-to-make-a-modern-website-using-react-js-hero-section-1g00)
-- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/leonlangston223/buy-negative-google-reviews-4bhb)
-- [Dev.to/JS] [Building an Online Restaurant Service REST API with Node.js and MongoDB](https://dev.to/manish7107/building-an-online-restaurant-service-rest-api-with-nodejs-and-mongodb-691)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
