@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Send HTML Form via PHP Mailer](https://dev.to/hmawebdesign/how-to-send-html-form-via-php-mailer-4mf9)
+- [Dev.to/JS] [thammyannhi](https://dev.to/thammyannhi/thammyannhi-2oip)
+- [Dev.to/JS] [Handling input file in Vue](https://dev.to/shunnnet/handle-input-file-in-vue-51je)
 - [Dev.to/JS] [React feature rich Table/Grid Libraries for React](https://dev.to/sharmaprash/react-feature-rich-tablegrid-libraries-for-react-4j2m)
 - [Dev.to/JS] [How to save datetime data that is relevant to multiple countries or time zones?](https://dev.to/linhvuquach/how-to-save-datetime-data-that-is-relevant-to-multiple-countries-or-time-zones-54io)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Running a MERN Stack Application Locally](https://dev.to/rohitashsingh89/a-beginners-guide-to-running-a-mern-stack-application-locally-59o0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Six Novel Features in JavaScript for 2024](https://dev.to/serenepine/six-novel-features-in-javascript-for-2024-25de)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/barrettkeaton423/buy-google-5-star-reviews-dl3)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/barrettkeaton423/buy-verified-cash-app-account-4lg6)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/barrettkeaton423/buy-verified-paxful-account-ag1)
-- [Dev.to/JS] [Trying to use dotnet watch with Svelte](https://dev.to/deyan/trying-to-use-dotnet-watch-with-svelte-55im)
-- [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-4m7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
