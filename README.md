@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hey Developers](https://dev.to/kunal1029/hey-developers-3kf7)
+- [Dev.to/JS] [Home page for home lab](https://dev.to/hywax/home-page-for-home-lab-3lc8)
+- [Dev.to/JS] [Buy GitHub Accounts](https://dev.to/barrettkeaton423/buy-github-accounts-2nme)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/barrettkeaton423/buy-negative-google-reviews-4606)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/barrettkeaton423/buy-google-reviews-53dj)
 - [Dev.to/JS] [Web application features you may not know: Page Visibility API, User Idle API &amp; Page Lifecycle API](https://dev.to/thefranconiancoder/web-application-features-you-may-not-know-page-visibility-api-user-idle-api-page-lifecycle-api-2h13)
 - [Dev.to/JS] [Billionaire Brain Wave. Brand New VSL From 8-Figure Marketer](https://dev.to/samarasinghe/billionaire-brain-wave-brand-new-vsl-from-8-figure-marketer-h8g)
 - [Dev.to/JS] [Building Robust Codebase: A Deep Dive into SOLID Principles](https://dev.to/samidev/building-robust-codebase-a-deep-dive-into-solid-principles-2o5g)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Send HTML Form via PHP Mailer](https://dev.to/hmawebdesign/how-to-send-html-form-via-php-mailer-4mf9)
 - [Dev.to/JS] [thammyannhi](https://dev.to/thammyannhi/thammyannhi-2oip)
 - [Dev.to/JS] [Handling input file in Vue](https://dev.to/shunnnet/handle-input-file-in-vue-51je)
-- [Dev.to/JS] [React feature rich Table/Grid Libraries for React](https://dev.to/sharmaprash/react-feature-rich-tablegrid-libraries-for-react-4j2m)
-- [Dev.to/JS] [How to save datetime data that is relevant to multiple countries or time zones?](https://dev.to/linhvuquach/how-to-save-datetime-data-that-is-relevant-to-multiple-countries-or-time-zones-54io)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Running a MERN Stack Application Locally](https://dev.to/rohitashsingh89/a-beginners-guide-to-running-a-mern-stack-application-locally-59o0)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/barrettkeaton423/buy-old-gmail-accounts-i8d)
-- [Dev.to/JS] [All the tools you need to build an outstanding AI app.](https://dev.to/aditya_raj_1010/all-the-tools-you-need-to-build-an-outstanding-ai-app-1n62)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
