@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Snowverload](https://dev.to/rmion/snowverload-34i)
+- [Dev.to/JS] [How we improved our client-side PDF generation by 5x](https://dev.to/karanjanthe/how-we-improved-our-client-side-pdf-generation-by-5x-3n69)
 - [Dev.to/JS] [asd](https://dev.to/alasd21398/asd-43ha)
 - [Dev.to/JS] [Converting HTML to Image. and GIF](https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn)
 - [Dev.to/JS] [10 TypeScript Tricks to Save Your Coding Time](https://dev.to/sufian/10-typescript-tricks-to-save-your-coding-time-1f9b)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next JS 14 | Optimizing Fonts and Images](https://dev.to/w3tsa/next-js-14-optimizing-fonts-and-images-4pnc)
 - [Dev.to/JS] [Streamlining Your Code: Best Practices for Node.js Streams](https://dev.to/ruben_alapont/streamlining-your-code-best-practices-for-nodejs-streams-1ji0)
 - [Dev.to/JS] [Axios interceptor for JWT validation](https://dev.to/bekon0700/axios-interceptor-for-jwt-validation-3065)
-- [Dev.to/JS] [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
-- [Dev.to/JS] [How to customize the left side menu icon of the Odoo Settings page view](https://dev.to/ixkit/how-to-customize-the-left-side-menu-icon-of-the-odoo-settings-page-view-lja)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
