@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Billionaire Brain Wave. Brand New VSL From 8-Figure Marketer](https://dev.to/samarasinghe/billionaire-brain-wave-brand-new-vsl-from-8-figure-marketer-h8g)
+- [Dev.to/JS] [Building Robust Codebase: A Deep Dive into SOLID Principles](https://dev.to/samidev/building-robust-codebase-a-deep-dive-into-solid-principles-2o5g)
+- [Dev.to/JS] [Robot Street Ultra Upgrades open source HTML5 game](https://dev.to/webgameguy/robot-street-ultra-upgrades-open-source-html5-game-14kg)
 - [Dev.to/JS] [How to Send HTML Form via PHP Mailer](https://dev.to/hmawebdesign/how-to-send-html-form-via-php-mailer-4mf9)
 - [Dev.to/JS] [thammyannhi](https://dev.to/thammyannhi/thammyannhi-2oip)
 - [Dev.to/JS] [Handling input file in Vue](https://dev.to/shunnnet/handle-input-file-in-vue-51je)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/barrettkeaton423/buy-old-gmail-accounts-i8d)
 - [Dev.to/JS] [All the tools you need to build an outstanding AI app.](https://dev.to/aditya_raj_1010/all-the-tools-you-need-to-build-an-outstanding-ai-app-1n62)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/barrettkeaton423/buy-google-voice-accounts-461f)
-- [Dev.to/JS] [Six Novel Features in JavaScript for 2024](https://dev.to/serenepine/six-novel-features-in-javascript-for-2024-25de)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/barrettkeaton423/buy-google-5-star-reviews-dl3)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/barrettkeaton423/buy-verified-cash-app-account-4lg6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
