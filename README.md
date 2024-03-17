@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/edwardkarsyn394/buy-google-reviews-4okm)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/edwardkarsyn394/buy-google-5-star-reviews-2l1h)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/edwardkarsyn394/buy-verified-paxful-account-49kb)
 - [Dev.to/JS] [Routing with React Router](https://dev.to/paulstar200/routing-with-react-router-4kj7)
 - [Dev.to/JS] [Snowverload](https://dev.to/rmion/snowverload-34i)
 - [Dev.to/JS] [How we improved our client-side PDF generation by 5x](https://dev.to/karanjanthe/how-we-improved-our-client-side-pdf-generation-by-5x-3n69)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Minimalizm / Minimalist / TMUX.config](https://dev.to/paulbuzakov/minimalizm-minimalist-tmuxconfig-2d53)
 - [Dev.to/JS] [Never Tell Me The Odds](https://dev.to/rmion/never-tell-me-the-odds-12j4)
 - [Dev.to/JS] [LeetCode Meditations: Minimum Window Substring](https://dev.to/rivea0/leetcode-meditations-minimum-window-substring-3ha8)
-- [Dev.to/JS] [Backend Cockfight 2024 Q1](https://dev.to/noriller/backend-cockfight-2024-q1-1h1c)
-- [Dev.to/JS] [Next JS 14 | Optimizing Fonts and Images](https://dev.to/w3tsa/next-js-14-optimizing-fonts-and-images-4pnc)
-- [Dev.to/JS] [Streamlining Your Code: Best Practices for Node.js Streams](https://dev.to/ruben_alapont/streamlining-your-code-best-practices-for-nodejs-streams-1ji0)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
