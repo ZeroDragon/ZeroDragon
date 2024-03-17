@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a custom function to generate a URL from given parameters &lpar;with TS support&rpar; 💻](https://dev.to/alaa-m1/create-a-custom-function-to-generate-a-url-from-given-parameters-with-ts-support-3om5)
+- [Dev.to/JS] [Event Flow: The Magic Behind Bubbling and Capturing! 🌟](https://dev.to/subhamdash45/event-flow-the-magic-behind-bubbling-and-capturing-3b2f)
+- [Dev.to/JS] [Useful Websites for Cheat Sheets and Programming Resources](https://dev.to/sayuj/useful-websites-for-cheat-sheets-and-programming-resources-3ppk)
 - [Dev.to/JS] [Hey Developers](https://dev.to/kunal1029/hey-developers-3kf7)
 - [Dev.to/JS] [Home page for home lab](https://dev.to/hywax/home-page-for-home-lab-3lc8)
 - [Dev.to/JS] [Buy GitHub Accounts](https://dev.to/barrettkeaton423/buy-github-accounts-2nme)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Billionaire Brain Wave. Brand New VSL From 8-Figure Marketer](https://dev.to/samarasinghe/billionaire-brain-wave-brand-new-vsl-from-8-figure-marketer-h8g)
 - [Dev.to/JS] [Building Robust Codebase: A Deep Dive into SOLID Principles](https://dev.to/samidev/building-robust-codebase-a-deep-dive-into-solid-principles-2o5g)
 - [Dev.to/JS] [Robot Street Ultra Upgrades open source HTML5 game](https://dev.to/webgameguy/robot-street-ultra-upgrades-open-source-html5-game-14kg)
-- [Dev.to/JS] [How to Send HTML Form via PHP Mailer](https://dev.to/hmawebdesign/how-to-send-html-form-via-php-mailer-4mf9)
-- [Dev.to/JS] [thammyannhi](https://dev.to/thammyannhi/thammyannhi-2oip)
-- [Dev.to/JS] [Handling input file in Vue](https://dev.to/shunnnet/handle-input-file-in-vue-51je)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
