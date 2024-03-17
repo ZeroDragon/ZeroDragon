@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Class component &amp; Functional component in React](https://dev.to/04anilr/class-component-functional-component-in-react-k43)
 - [Dev.to/JS] [How to use of Router in React||React Router](https://dev.to/04anilr/how-to-use-of-router-in-reactreact-router-1163)
 - [Dev.to/JS] [Hoisting of Variables, Functions, Classes, Types, Interfaces in JavaScript/TypeScript](https://dev.to/antonzo/hoisting-of-variables-functions-classes-types-interfaces-in-javascripttypescript-3el5)
 - [Dev.to/JS] [Iterators and Generators again... &lpar;asynchronous ones&rpar;](https://dev.to/naineel12/iterators-and-generators-again-asynchronous-ones-2pok)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/tuckermorgan004/buy-negative-google-reviews-chn)
 - [Dev.to/JS] [Web application features you may not know: WebAuthn &amp; Passkeys](https://dev.to/thefranconiancoder/web-application-features-you-may-not-know-webauthn-passkeys-3cd7)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/tuckermorgan004/buy-google-reviews-328i)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/tuckermorgan004/buy-old-gmail-accounts-1cd6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
