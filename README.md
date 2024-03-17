@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Routing with React Router](https://dev.to/paulstar200/routing-with-react-router-4kj7)
 - [Dev.to/JS] [Snowverload](https://dev.to/rmion/snowverload-34i)
 - [Dev.to/JS] [How we improved our client-side PDF generation by 5x](https://dev.to/karanjanthe/how-we-improved-our-client-side-pdf-generation-by-5x-3n69)
 - [Dev.to/JS] [asd](https://dev.to/alasd21398/asd-43ha)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend Cockfight 2024 Q1](https://dev.to/noriller/backend-cockfight-2024-q1-1h1c)
 - [Dev.to/JS] [Next JS 14 | Optimizing Fonts and Images](https://dev.to/w3tsa/next-js-14-optimizing-fonts-and-images-4pnc)
 - [Dev.to/JS] [Streamlining Your Code: Best Practices for Node.js Streams](https://dev.to/ruben_alapont/streamlining-your-code-best-practices-for-nodejs-streams-1ji0)
-- [Dev.to/JS] [Axios interceptor for JWT validation](https://dev.to/bekon0700/axios-interceptor-for-jwt-validation-3065)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
