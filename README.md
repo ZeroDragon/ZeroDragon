@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
 - [Dev.to/JS] [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
 - [Dev.to/JS] [Notifications still disappoint! It needs to be re-invented](https://dev.to/anandrmedia/notifications-still-disappoint-it-needs-to-be-re-invented-2fp2)
 - [Dev.to/JS] [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [building react-mini](https://dev.to/taher33/building-react-mini-98n)
 - [Dev.to/JS] [LeetCode Meditations — Chapter 4: Stack](https://dev.to/rivea0/leetcode-meditations-chapter-4-stack-3e5m)
 - [Dev.to/JS] [AudiPlay : Custom HTML5 Audio Player](https://dev.to/sh20raj/audiplay-custom-html5-audio-player-17ie)
-- [Dev.to/JS] [Creating a Custom Select Component with Tree View in React](https://dev.to/ashmunir/creating-a-custom-select-component-with-tree-view-in-react-l80)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
