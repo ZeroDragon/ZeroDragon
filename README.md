@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React feature rich Table/Grid Libraries for React](https://dev.to/sharmaprash/react-feature-rich-tablegrid-libraries-for-react-4j2m)
+- [Dev.to/JS] [How to save datetime data that is relevant to multiple countries or time zones?](https://dev.to/linhvuquach/how-to-save-datetime-data-that-is-relevant-to-multiple-countries-or-time-zones-54io)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Running a MERN Stack Application Locally](https://dev.to/rohitashsingh89/a-beginners-guide-to-running-a-mern-stack-application-locally-59o0)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/barrettkeaton423/buy-old-gmail-accounts-i8d)
 - [Dev.to/JS] [All the tools you need to build an outstanding AI app.](https://dev.to/aditya_raj_1010/all-the-tools-you-need-to-build-an-outstanding-ai-app-1n62)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/barrettkeaton423/buy-google-voice-accounts-461f)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trying to use dotnet watch with Svelte](https://dev.to/deyan/trying-to-use-dotnet-watch-with-svelte-55im)
 - [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-4m7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/tuckermorgan227/buy-google-reviews-4f9k)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/tuckermorgan227/buy-google-voice-accounts-56oh)
-- [Dev.to/JS] [For intricate state handling, try out the useReducer&lpar;&rpar; Hook](https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
