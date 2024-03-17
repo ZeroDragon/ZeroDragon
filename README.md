@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AudiPlay : Custom HTML5 Audio Player](https://dev.to/sh20raj/audiplay-custom-html5-audio-player-17ie)
+- [Dev.to/JS] [Creating a Custom Select Component with Tree View in React](https://dev.to/ashmunir/creating-a-custom-select-component-with-tree-view-in-react-l80)
+- [Dev.to/JS] [Buy GitHub Accounts](https://dev.to/tuckermorgan004/buy-github-accounts-17lg)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/tuckermorgan004/buy-negative-google-reviews-chn)
 - [Dev.to/JS] [Web application features you may not know: WebAuthn &amp; Passkeys](https://dev.to/thefranconiancoder/web-application-features-you-may-not-know-webauthn-passkeys-3cd7)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/tuckermorgan004/buy-google-reviews-328i)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/tuckermorgan004/buy-old-gmail-accounts-1cd6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build and Send Emails Using React and TypeScript](https://dev.to/sachinchaurasiya/build-and-send-emails-using-react-and-typescript-183g)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/tuckermorgan004/buy-verified-cash-app-account-fai)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/tuckermorgan004/buy-verified-paxful-account-1fhe)
-- [Dev.to/JS] [Create a custom function to generate a URL from given parameters &lpar;with TS support&rpar; 💻](https://dev.to/alaa-m1/create-a-custom-function-to-generate-a-url-from-given-parameters-with-ts-support-3om5)
-- [Dev.to/JS] [Event Flow: The Magic Behind Bubbling and Capturing! 🌟](https://dev.to/subhamdash45/event-flow-the-magic-behind-bubbling-and-capturing-3b2f)
-- [Dev.to/JS] [Useful Websites for Cheat Sheets and Programming Resources](https://dev.to/sayuj/useful-websites-for-cheat-sheets-and-programming-resources-3ppk)
-- [Dev.to/JS] [Hey Developers](https://dev.to/kunal1029/hey-developers-3kf7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
