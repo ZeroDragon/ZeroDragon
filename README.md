@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/barrettkeaton423/buy-verified-paxful-account-ag1)
+- [Dev.to/JS] [Trying to use dotnet watch with Svelte](https://dev.to/deyan/trying-to-use-dotnet-watch-with-svelte-55im)
+- [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-4m7)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/tuckermorgan227/buy-google-reviews-4f9k)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/tuckermorgan227/buy-google-voice-accounts-56oh)
 - [Dev.to/JS] [For intricate state handling, try out the useReducer&lpar;&rpar; Hook](https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Custom Cursor in Next.js 14](https://dev.to/codewithmarish/building-a-custom-cursor-in-nextjs-14-1nlm)
 - [Dev.to/JS] [Simple Elliptical Animation with Canvas in JavaScript](https://dev.to/codewithmarish/simple-elliptical-animation-with-canvas-in-javascript-1l74)
 - [Dev.to/JS] [Building Real-Time Views Component: A Socket.IO and Next.js Tutorial](https://dev.to/codewithmarish/building-real-time-views-component-a-socketio-and-nextjs-tutorial-el0)
-- [Dev.to/JS] [The Last Event Loop Guide you will Ever Need](https://dev.to/thevinitgupta/the-last-event-loop-guide-you-will-ever-need-2c94)
-- [Dev.to/JS] [Build an OTP PIN Input Component for NEXT JS App](https://dev.to/codewithmarish/build-an-otp-pin-input-component-for-next-js-app-3np3)
-- [Dev.to/JS] [Home insurance claim adjuster secret tactics](https://dev.to/qsrmrn88/home-insurance-claim-adjuster-secret-tactics-33b3)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
