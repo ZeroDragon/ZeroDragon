@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web application features you may not know: Page Visibility API, User Idle API &amp; Page Lifecycle API](https://dev.to/thefranconiancoder/web-application-features-you-may-not-know-page-visibility-api-user-idle-api-page-lifecycle-api-2h13)
 - [Dev.to/JS] [Billionaire Brain Wave. Brand New VSL From 8-Figure Marketer](https://dev.to/samarasinghe/billionaire-brain-wave-brand-new-vsl-from-8-figure-marketer-h8g)
 - [Dev.to/JS] [Building Robust Codebase: A Deep Dive into SOLID Principles](https://dev.to/samidev/building-robust-codebase-a-deep-dive-into-solid-principles-2o5g)
 - [Dev.to/JS] [Robot Street Ultra Upgrades open source HTML5 game](https://dev.to/webgameguy/robot-street-ultra-upgrades-open-source-html5-game-14kg)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Running a MERN Stack Application Locally](https://dev.to/rohitashsingh89/a-beginners-guide-to-running-a-mern-stack-application-locally-59o0)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/barrettkeaton423/buy-old-gmail-accounts-i8d)
 - [Dev.to/JS] [All the tools you need to build an outstanding AI app.](https://dev.to/aditya_raj_1010/all-the-tools-you-need-to-build-an-outstanding-ai-app-1n62)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/barrettkeaton423/buy-google-voice-accounts-461f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
