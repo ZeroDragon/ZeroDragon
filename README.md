@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Download PikaShow for iOS/iPhone Free &lpar;Updated 2024&rpar;](https://dev.to/johankarroo/download-pikashow-for-iosiphone-free-updated-2024-3oj1)
+- [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
 - [Dev.to/JS] [React Read Excel and Data Visualize](https://dev.to/enesakk0/react-read-excel-and-data-visualize-1498)
+- [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
 - [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)
 - [Dev.to/JS] [Unlocking the Power of Map, Filter, and Reduce in JavaScript](https://dev.to/alamin49/mastering-map-filter-and-reduce-2nep)
 - [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript&#39;s Finest: Exploring the Top Libraries of 2024&quot;](https://dev.to/sachin915t/javascripts-finest-exploring-the-top-libraries-of-2024-5bkl)
 - [Dev.to/JS] [Array methods in react.js](https://dev.to/04anilr/array-methods-in-reactjs-36jb)
 - [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
-- [Dev.to/JS] [Adding passkey authentication to web apps](https://dev.to/toby_hobson/adding-passkey-authentication-to-web-apps-ai1)
 - [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
 - [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beat the &#39;Planning Fallacy&#39; to Be More Productive](https://lifehacker.com/work/beat-the-planning-fallacy-to-be-more-productive)
 - [Lifehacker] [Why Apple Fitness Shows You &#39;Total Calories&#39; and &#39;Active Calories&#39;](https://lifehacker.com/health/active-calories-versus-total-calories)
 - [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Lifehacker] [The Bose QuietComfort Ultra Headphones Are $180 Off](https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-sale)
-- [Lifehacker] [There’s Finally a Date for Google I/O 2024](https://lifehacker.com/tech/google-io-2024-announced)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)<!-- TECH-POSTS:END -->
 
 ---
 
