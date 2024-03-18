@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GraphQL e Node.js: GraphQL e Node.js: Construindo APIs Poderosas](https://dev.to/vitorrios1001/graphql-e-nodejs-graphql-e-nodejs-construindo-apis-poderosas-36n9)
+- [Dev.to/JS] [Embracing the Tech Future: My Transformation Journey with ATLP.](https://dev.to/princenzmw/embracing-the-tech-future-my-transformation-journey-with-atlp-212b)
 - [Dev.to/JS] [Shallow Copy vs. Deep Copy in Javascript](https://dev.to/jenishdabhi/shallow-copy-vs-deep-copy-in-javascript-2hlh)
 - [Dev.to/JS] [Blending in with Pure-Blend](https://dev.to/ethernmyth/blending-in-with-pure-blend-2kim)
+- [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
 - [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
 - [Dev.to/JS] [How To Attach Multiple Files in PHPMailer Email Using PHP](https://dev.to/hmawebdesign/how-to-attach-multiple-files-in-phpmailer-email-using-php-2mio)
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding passkey authentication to web apps](https://dev.to/toby_hobson/adding-passkey-authentication-to-web-apps-ai1)
 - [Dev.to/JS] [JSX in react.js](https://dev.to/04anilr/jsx-in-reactjs-3f7o)
 - [Dev.to/JS] [TypeScript Journey: A Beginner&#39;s Journey into Typed JavaScript](https://dev.to/amritapadhy/typescript-journey-a-beginners-journey-into-typed-javascript-37l7)
-- [Dev.to/JS] [Build your own little AWS Console in CDK with Buttonize](https://dev.to/filippyrek/build-your-own-little-aws-console-in-cdk-with-buttonize-2g39)
 - [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
-- [Dev.to/JS] [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
 - [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The TikTok Situation Is a Mess](https://lifehacker.com/tech/the-tiktok-situation-is-a-mess)
 - [Lifehacker] [You Can Get This MagPRO Smartwatch on Sale for $40 Right Now](https://lifehacker.com/tech/magpro-smartwatch-sale)
 - [Lifehacker] [Six Subscriptions Actually Worth Paying for, According to Reddit](https://lifehacker.com/tech/subscriptions-worth-paying-for-according-to-reddit)
-- [Lifehacker] [The New Blink Mini 2 Camera Works Outside, Too](https://lifehacker.com/tech/amazons-new-blink-mini-2-overview)
-- [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The New Blink Mini 2 Camera Works Outside, Too](https://lifehacker.com/tech/amazons-new-blink-mini-2-overview)<!-- TECH-POSTS:END -->
 
 ---
 
