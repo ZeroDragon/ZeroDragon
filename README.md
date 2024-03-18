@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build your own little AWS Console in CDK with Buttonize](https://dev.to/filippyrek/build-your-own-little-aws-console-in-cdk-with-buttonize-2g39)
+- [Dev.to/JS] [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
+- [Dev.to/JS] [TURN Server Cloud Hosting](https://dev.to/alakkadshaw/turn-server-cloud-hosting-3kn0)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/charlieamos979/buy-old-gmail-accounts-378m)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/charlieamos979/buy-verified-cash-app-account-2f8j)
 - [Dev.to/JS] [How to create a real estate sales tool using Matterport SDK and SuperViz](https://dev.to/superviz/how-to-create-a-real-estate-sales-tool-using-matterport-sdk-and-superviz-f6i)
@@ -35,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Executable Playground of &quot;typia&quot;, 20000x faster TS validator/serializer](https://dev.to/samchon/executable-playground-of-typia-super-easyfast-typescript-validatorserializer-2ble)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/charlieamos979/buy-amazon-reviews-4hch)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/charlieamos979/buy-google-reviews-bi)
-- [Dev.to/JS] [Github repo](https://dev.to/soumilgit/github-repo-3729)
-- [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)
-- [Dev.to/JS] [GitHub actions example](https://dev.to/ifeanyichima/github-actions-example-29pj)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/charlieamos979/buy-google-voice-accounts-1mc9)
 - [Lifehacker] [Everything You Should Consider Before Buying Smart Home Tech](https://lifehacker.com/tech/everything-to-consider-before-buying-smart-home-tech)
 - [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
 - [Lifehacker] [Risotto Is Easier to Make &lpar;and More Forgiving&rpar; Than You Realize](https://lifehacker.com/food-drink/how-to-make-risotto-at-home)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Perplexity AI Stands up to Google and ChatGPT](https://lifehacker.com/tech/perplexity-ai-versus-google-and-chatgpt)
 - [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
-- [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
+- [Lifehacker] [I Tested Four Smart Espresso Makers, and Here’s What I Found](https://lifehacker.com/tech/smart-espresso-maker-review-roundup)<!-- TECH-POSTS:END -->
 
 ---
 
