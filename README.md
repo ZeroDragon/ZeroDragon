@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/charlieamos979/buy-google-reviews-bi)
+- [Dev.to/JS] [Github repo](https://dev.to/soumilgit/github-repo-3729)
+- [Dev.to/JS] [GitHub actions example](https://dev.to/ifeanyichima/github-actions-example-29pj)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/charlieamos979/buy-google-voice-accounts-1mc9)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/charlieamos979/buy-google-5-star-reviews-4c4m)
+- [Dev.to/JS] [How to use AWS S3 pre-signed URLs to upload and download files](https://dev.to/thesohailjafri/how-to-use-aws-s3-pre-signed-urls-to-upload-and-download-files-4p53)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/charlieamos979/buy-verified-paxful-account-hne)
+- [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
 - [Dev.to/JS] [Trajetória Ascendente: Desenvolvedor Trainee Júnior a Pleno](https://dev.to/izaaccomze/trajetoria-ascendente-desenvolvedor-trainee-junior-a-pleno-2fjl)
 - [Dev.to/JS] [Understand how each method manipulates arrays](https://dev.to/r4nd3l/understand-how-each-method-manipulates-arrays-1pkn)
 - [Dev.to/JS] [Understanding the Essence of Web Development Courses](https://dev.to/ppaannkkaajj9927/understanding-the-essence-of-web-development-courses-23gm)
 - [Lifehacker] [Risotto Is Easier to Make &lpar;and More Forgiving&rpar; Than You Realize](https://lifehacker.com/food-drink/how-to-make-risotto-at-home)
 - [Dev.to/JS] [What&#39;s new in Novu 0.24?](https://dev.to/novu/whats-new-in-novu-024-4eon)
 - [Dev.to/JS] [Event Handling in React](https://dev.to/04anilr/event-handling-in-react-5hc7)
-- [Dev.to/JS] [Arrow functions in React](https://dev.to/04anilr/arrow-functions-in-react-4gb2)
-- [Dev.to/JS] [How to Navigate 70-697 Questions with Braindump](https://dev.to/incy1943/how-to-navigate-70-697-questions-with-braindump-4eha)
-- [Dev.to/JS] [Building plugins in Vue](https://dev.to/jacobandrewsky/building-plugins-in-vue-2i1c)
-- [Dev.to/JS] [Deep Dive into Web Performance: Mastering LCP Optimization for SEO Success](https://dev.to/focusreactive/deep-dive-into-web-performance-mastering-lcp-optimization-for-seo-success-5a5l)
-- [Dev.to/JS] [Unveiling the Power of Biolean: A Natural Path to Weight Management](https://dev.to/bioleanre/unveiling-the-power-of-biolean-a-natural-path-to-weight-management-599g)
-- [Dev.to/JS] [JavaScript Design Patterns - Structural - Adapter](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-adapter-3mip)
-- [Dev.to/JS] [Prodentim: The Vanguard of Dental Fighters](https://dev.to/vibrantmediatekpro/prodentim-the-vanguard-of-dental-fighters-2e6a)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 18, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
 - [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
 - [Lifehacker] [I Tested Four Smart Espresso Makers, and Here’s What I Found](https://lifehacker.com/tech/smart-espresso-maker-review-roundup)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Plantum on Sale for $15 Right Now](https://lifehacker.com/home/plantum-sale)
-- [Lifehacker] [Why You Shouldn&#39;t Bring Firewood With You on a Camping Trip](https://lifehacker.com/science/why-you-shouldnt-bring-firewood-with-you)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Plantum on Sale for $15 Right Now](https://lifehacker.com/home/plantum-sale)<!-- TECH-POSTS:END -->
 
 ---
 
