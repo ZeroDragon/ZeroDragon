@@ -26,18 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Declarative vs. Imperative Programming for Frontend Developers](https://dev.to/visavadiyavrushik/understanding-declarative-vs-imperative-programming-for-frontend-developers-26jc)
+- [Dev.to/JS] [JavaScript&#39;s Finest: Exploring the Top Libraries of 2024&quot;](https://dev.to/sachin915t/javascripts-finest-exploring-the-top-libraries-of-2024-5bkl)
+- [Dev.to/JS] [Array methods in react.js](https://dev.to/04anilr/array-methods-in-reactjs-36jb)
+- [Dev.to/JS] [Adding passkey authentication to web apps](https://dev.to/toby_hobson/adding-passkey-authentication-to-web-apps-ai1)
+- [Dev.to/JS] [JSX in react.js](https://dev.to/04anilr/jsx-in-reactjs-3f7o)
+- [Dev.to/JS] [TypeScript Journey: A Beginner&#39;s Journey into Typed JavaScript](https://dev.to/amritapadhy/typescript-journey-a-beginners-journey-into-typed-javascript-37l7)
 - [Dev.to/JS] [Build your own little AWS Console in CDK with Buttonize](https://dev.to/filippyrek/build-your-own-little-aws-console-in-cdk-with-buttonize-2g39)
 - [Dev.to/JS] [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
+- [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
 - [Dev.to/JS] [TURN Server Cloud Hosting](https://dev.to/alakkadshaw/turn-server-cloud-hosting-3kn0)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/charlieamos979/buy-old-gmail-accounts-378m)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/charlieamos979/buy-verified-cash-app-account-2f8j)
+- [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)
+- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)
+- [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/phigolf-golf-simulator-sale)
 - [Dev.to/JS] [How to create a real estate sales tool using Matterport SDK and SuperViz](https://dev.to/superviz/how-to-create-a-real-estate-sales-tool-using-matterport-sdk-and-superviz-f6i)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/charlieamos979/buy-glassdoor-reviews-2k4k)
 - [Dev.to/JS] [Free Resources Every Web Developer Should Know About](https://dev.to/webdev-mohdamir/free-resources-every-web-developer-should-know-about-17me)
 - [Dev.to/JS] [How to create a blog with next.js and dev.to](https://dev.to/luisfalconmx/how-to-create-a-blog-with-nextjs-and-devto-3an)
-- [Dev.to/JS] [Executable Playground of &quot;typia&quot;, 20000x faster TS validator/serializer](https://dev.to/samchon/executable-playground-of-typia-super-easyfast-typescript-validatorserializer-2ble)
-- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/charlieamos979/buy-amazon-reviews-4hch)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/charlieamos979/buy-google-reviews-bi)
+- [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)
 - [Lifehacker] [Everything You Should Consider Before Buying Smart Home Tech](https://lifehacker.com/tech/everything-to-consider-before-buying-smart-home-tech)
 - [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
 - [Lifehacker] [Risotto Is Easier to Make &lpar;and More Forgiving&rpar; Than You Realize](https://lifehacker.com/food-drink/how-to-make-risotto-at-home)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)
 - [Lifehacker] [Your Older Samsung Device Might Get AI Features Very Soon](https://lifehacker.com/tech/older-samsung-devices-getting-ai-features-soon)
 - [Lifehacker] [Treat Yourself to an Air Fryer Scotch Egg This Easter](https://lifehacker.com/food-drink/air-fryer-scotch-egg-recipe)
-- [Lifehacker] [Microsoft Wants You to Try Copilot Pro for Free](https://lifehacker.com/tech/microsoft-copilot-pro-one-month-free-trial)
-- [Lifehacker] [How Perplexity AI Stands up to Google and ChatGPT](https://lifehacker.com/tech/perplexity-ai-versus-google-and-chatgpt)
-- [Lifehacker] [Copilot Now Lets You Use GPT-4 Turbo for Free](https://lifehacker.com/tech/copilot-now-lets-you-use-gpt-4-turbo-for-free)
-- [Lifehacker] [The Best Tax Filing Services for 2024](https://lifehacker.com/money/best-tax-filing-services)
-- [Lifehacker] [How to Stream Netflix on Discord With Your Friends](https://lifehacker.com/entertainment/how-to-stream-netflix-on-discord)
-- [Lifehacker] [I Tested Four Smart Espresso Makers, and Here’s What I Found](https://lifehacker.com/tech/smart-espresso-maker-review-roundup)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Microsoft Wants You to Try Copilot Pro for Free](https://lifehacker.com/tech/microsoft-copilot-pro-one-month-free-trial)<!-- TECH-POSTS:END -->
 
 ---
 
