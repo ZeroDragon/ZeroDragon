@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Navigate 70-697 Questions with Braindump](https://dev.to/incy1943/how-to-navigate-70-697-questions-with-braindump-4eha)
+- [Dev.to/JS] [Building plugins in Vue](https://dev.to/jacobandrewsky/building-plugins-in-vue-2i1c)
+- [Dev.to/JS] [Deep Dive into Web Performance: Mastering LCP Optimization for SEO Success](https://dev.to/focusreactive/deep-dive-into-web-performance-mastering-lcp-optimization-for-seo-success-5a5l)
+- [Dev.to/JS] [Unveiling the Power of Biolean: A Natural Path to Weight Management](https://dev.to/bioleanre/unveiling-the-power-of-biolean-a-natural-path-to-weight-management-599g)
 - [Dev.to/JS] [JavaScript Design Patterns - Structural - Adapter](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-adapter-3mip)
 - [Dev.to/JS] [Prodentim: The Vanguard of Dental Fighters](https://dev.to/vibrantmediatekpro/prodentim-the-vanguard-of-dental-fighters-2e6a)
 - [Dev.to/JS] [Book Online Beirut Escorts – VIP Pleasure Girls](https://dev.to/zarakhan2024/book-online-beirut-escorts-vip-pleasure-girls-57dc)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/atlaslennon457/buy-google-5-star-reviews-24l7)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/atlaslennon457/buy-verified-paxful-account-241d)
 - [Dev.to/JS] [Beyond the Binary: Demystifying Functional Programming for Curious Coders](https://dev.to/moilerwill/beyond-the-binary-demystifying-functional-programming-for-curious-coders-2gh1)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judahazariah78/buy-verified-paxful-account-3ggn)
-- [Dev.to/JS] [Bring your TypeScript to the next level](https://dev.to/hugaidas/bring-your-typescript-to-the-next-level-217f)
-- [Dev.to/JS] [TypeScript | Beginner](https://dev.to/shubhamtiwari909/typescript-beginner-375o)
-- [Dev.to/JS] [Need some help in php code project for a website](https://dev.to/rocksora/need-some-help-in-php-code-project-for-a-website-26gd)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 18, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
