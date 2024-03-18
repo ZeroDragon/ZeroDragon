@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-i8n)
 - [Dev.to/JS] [NOSTR is not going to fix anything :&lpar; - part 03](https://dev.to/criticalprogrammer/nostr-is-not-going-to-fix-anything-part-03-e7l)
 - [Dev.to/JS] [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
 - [Dev.to/JS] [NOSTR is not going to fix anything :&lpar; - part 02](https://dev.to/criticalprogrammer/nostr-is-not-going-to-fix-anything-part-02-50g4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Notifications still disappoint! It needs to be re-invented](https://dev.to/anandrmedia/notifications-still-disappoint-it-needs-to-be-re-invented-2fp2)
 - [Dev.to/JS] [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
 - [Dev.to/JS] [Understanding HTML Forms and Validations for Beginners.](https://dev.to/tevstark/understanding-html-forms-and-validations-for-beginners-49k3)
-- [Dev.to/JS] [Class component &amp; Functional component in React](https://dev.to/04anilr/class-component-functional-component-in-react-k43)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
