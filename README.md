@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/atlaslennon457/buy-google-5-star-reviews-24l7)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/atlaslennon457/buy-verified-paxful-account-241d)
+- [Dev.to/JS] [Beyond the Binary: Demystifying Functional Programming for Curious Coders](https://dev.to/moilerwill/beyond-the-binary-demystifying-functional-programming-for-curious-coders-2gh1)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judahazariah78/buy-verified-paxful-account-3ggn)
 - [Dev.to/JS] [Bring your TypeScript to the next level](https://dev.to/hugaidas/bring-your-typescript-to-the-next-level-217f)
 - [Dev.to/JS] [TypeScript | Beginner](https://dev.to/shubhamtiwari909/typescript-beginner-375o)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in Angular 17.3](https://dev.to/this-is-angular/whats-new-in-angular-173-1148)
 - [Dev.to/JS] [How to work virtual DOM in React || DOM](https://dev.to/04anilr/how-to-work-virtual-dom-in-react-dom-1b39)
 - [Dev.to/JS] [this is the mysql note for my test](https://dev.to/dengzhuhub/this-is-the-mysql-note-for-my-test-22pf)
-- [Dev.to/JS] [Google Algorithm Updates March 2024: What You Need to Know](https://dev.to/zarakhan2024/google-algorithm-updates-march-2024-what-you-need-to-know-c92)
-- [Dev.to/JS] [How to create react-map&lpar;&rpar;](https://dev.to/04anilr/how-to-create-react-map-24pp)
-- [Dev.to/JS] [Buy GitHub Accounts](https://dev.to/barrettkeaton3/buy-github-accounts-5cif)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
