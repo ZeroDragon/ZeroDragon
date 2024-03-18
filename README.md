@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s new in Novu 0.24?](https://dev.to/novu/whats-new-in-novu-024-4eon)
+- [Dev.to/JS] [Event Handling in React](https://dev.to/04anilr/event-handling-in-react-5hc7)
+- [Dev.to/JS] [Arrow functions in React](https://dev.to/04anilr/arrow-functions-in-react-4gb2)
 - [Dev.to/JS] [How to Navigate 70-697 Questions with Braindump](https://dev.to/incy1943/how-to-navigate-70-697-questions-with-braindump-4eha)
 - [Dev.to/JS] [Building plugins in Vue](https://dev.to/jacobandrewsky/building-plugins-in-vue-2i1c)
 - [Dev.to/JS] [Deep Dive into Web Performance: Mastering LCP Optimization for SEO Success](https://dev.to/focusreactive/deep-dive-into-web-performance-mastering-lcp-optimization-for-seo-success-5a5l)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Book Online Beirut Escorts – VIP Pleasure Girls](https://dev.to/zarakhan2024/book-online-beirut-escorts-vip-pleasure-girls-57dc)
 - [Dev.to/JS] [What are the future prospects and challenges facing Multiverse Computing in the quantum computing industry?](https://dev.to/yagnapandya9/what-are-the-future-prospects-and-challenges-facing-multiverse-computing-in-the-quantum-computing-industry-e17)
 - [Dev.to/JS] [Demystifying Functions: Building Reusable Code Blocks for Powerful Programming](https://dev.to/odinwill/demystifying-functions-building-reusable-code-blocks-for-powerful-programming-1hl8)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/atlaslennon457/buy-google-5-star-reviews-24l7)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/atlaslennon457/buy-verified-paxful-account-241d)
-- [Dev.to/JS] [Beyond the Binary: Demystifying Functional Programming for Curious Coders](https://dev.to/moilerwill/beyond-the-binary-demystifying-functional-programming-for-curious-coders-2gh1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 18, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
