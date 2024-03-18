@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shallow Copy vs. Deep Copy in Javascript](https://dev.to/jenishdabhi/shallow-copy-vs-deep-copy-in-javascript-2hlh)
+- [Dev.to/JS] [Blending in with Pure-Blend](https://dev.to/ethernmyth/blending-in-with-pure-blend-2kim)
+- [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
 - [Dev.to/JS] [How To Attach Multiple Files in PHPMailer Email Using PHP](https://dev.to/hmawebdesign/how-to-attach-multiple-files-in-phpmailer-email-using-php-2mio)
+- [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
 - [Dev.to/JS] [Next JS 14 | Navigating Between Pages](https://dev.to/w3tsa/next-js-14-navigating-between-pages-13h)
 - [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
 - [Dev.to/JS] [Understanding Declarative vs. Imperative Programming for Frontend Developers](https://dev.to/visavadiyavrushik/understanding-declarative-vs-imperative-programming-for-frontend-developers-26jc)
@@ -40,11 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
 - [Dev.to/JS] [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
-- [Dev.to/JS] [TURN Server Cloud Hosting](https://dev.to/alakkadshaw/turn-server-cloud-hosting-3kn0)
 - [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/phigolf-golf-simulator-sale)
-- [Dev.to/JS] [How to create a real estate sales tool using Matterport SDK and SuperViz](https://dev.to/superviz/how-to-create-a-real-estate-sales-tool-using-matterport-sdk-and-superviz-f6i)
 - [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)
 - [Lifehacker] [Everything You Should Consider Before Buying Smart Home Tech](https://lifehacker.com/tech/everything-to-consider-before-buying-smart-home-tech)
 - [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This MagPRO Smartwatch on Sale for $40 Right Now](https://lifehacker.com/tech/magpro-smartwatch-sale)
 - [Lifehacker] [Six Subscriptions Actually Worth Paying for, According to Reddit](https://lifehacker.com/tech/subscriptions-worth-paying-for-according-to-reddit)
 - [Lifehacker] [The New Blink Mini 2 Camera Works Outside, Too](https://lifehacker.com/tech/amazons-new-blink-mini-2-overview)
-- [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)
-- [Lifehacker] [The M1 MacBook Air Drops to $700](https://lifehacker.com/tech/m1-macbook-air-deal)
-- [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)<!-- TECH-POSTS:END -->
 
 ---
 
