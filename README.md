@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/barrettkeaton3/buy-verified-cash-app-account-5eph)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/barrettkeaton3/buy-verified-paxful-account-3e8g)
+- [Dev.to/JS] [I created dev.to clone Using API + NextJS 🚀](https://dev.to/sh20raj/i-created-devto-clone-using-api-nextjs-2ha7)
 - [Dev.to/JS] [How to create dark-mode in React-js](https://dev.to/04anilr/how-to-create-dark-mode-in-react-js-2kn2)
 - [Dev.to/JS] [Things I learned while building projects with NX](https://dev.to/mathuraditya7/things-i-learned-while-building-projects-with-nx-39gm)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judahazariah1/buy-verified-paxful-account-ojg)
 - [Dev.to/JS] [Props and State with example](https://dev.to/04anilr/props-and-state-with-example-1bl1)
+- [Dev.to/JS] [Generating a weekly calendar from JSON data](https://dev.to/huijing/generating-a-weekly-calendar-from-json-data-2gf6)
 - [Dev.to/JS] [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-i8n)
 - [Dev.to/JS] [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
 - [Dev.to/JS] [Using React Select with Formik](https://dev.to/e4c5nf3d6/using-react-select-with-formik-25b5)
 - [Dev.to/JS] [My Personal Portfolio Website](https://dev.to/prabhusub/my-personal-portfolio-website-27k4)
-- [Dev.to/JS] [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
-- [Dev.to/JS] [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
-- [Dev.to/JS] [Notifications still disappoint! It needs to be re-invented](https://dev.to/anandrmedia/notifications-still-disappoint-it-needs-to-be-re-invented-2fp2)
-- [Dev.to/JS] [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
