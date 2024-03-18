@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NOSTR is not going to fix anything :&lpar; - part 03](https://dev.to/criticalprogrammer/nostr-is-not-going-to-fix-anything-part-03-e7l)
 - [Dev.to/JS] [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
 - [Dev.to/JS] [NOSTR is not going to fix anything :&lpar; - part 02](https://dev.to/criticalprogrammer/nostr-is-not-going-to-fix-anything-part-02-50g4)
 - [Dev.to/JS] [Using React Select with Formik](https://dev.to/e4c5nf3d6/using-react-select-with-formik-25b5)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
 - [Dev.to/JS] [Understanding HTML Forms and Validations for Beginners.](https://dev.to/tevstark/understanding-html-forms-and-validations-for-beginners-49k3)
 - [Dev.to/JS] [Class component &amp; Functional component in React](https://dev.to/04anilr/class-component-functional-component-in-react-k43)
-- [Dev.to/JS] [How to use of Router in React||React Router](https://dev.to/04anilr/how-to-use-of-router-in-reactreact-router-1163)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 17, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
