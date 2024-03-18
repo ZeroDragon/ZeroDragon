@@ -26,13 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Attach Multiple Files in PHPMailer Email Using PHP](https://dev.to/hmawebdesign/how-to-attach-multiple-files-in-phpmailer-email-using-php-2mio)
+- [Dev.to/JS] [Next JS 14 | Navigating Between Pages](https://dev.to/w3tsa/next-js-14-navigating-between-pages-13h)
+- [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
 - [Dev.to/JS] [Understanding Declarative vs. Imperative Programming for Frontend Developers](https://dev.to/visavadiyavrushik/understanding-declarative-vs-imperative-programming-for-frontend-developers-26jc)
 - [Dev.to/JS] [JavaScript&#39;s Finest: Exploring the Top Libraries of 2024&quot;](https://dev.to/sachin915t/javascripts-finest-exploring-the-top-libraries-of-2024-5bkl)
 - [Dev.to/JS] [Array methods in react.js](https://dev.to/04anilr/array-methods-in-reactjs-36jb)
+- [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
 - [Dev.to/JS] [Adding passkey authentication to web apps](https://dev.to/toby_hobson/adding-passkey-authentication-to-web-apps-ai1)
 - [Dev.to/JS] [JSX in react.js](https://dev.to/04anilr/jsx-in-reactjs-3f7o)
 - [Dev.to/JS] [TypeScript Journey: A Beginner&#39;s Journey into Typed JavaScript](https://dev.to/amritapadhy/typescript-journey-a-beginners-journey-into-typed-javascript-37l7)
 - [Dev.to/JS] [Build your own little AWS Console in CDK with Buttonize](https://dev.to/filippyrek/build-your-own-little-aws-console-in-cdk-with-buttonize-2g39)
+- [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
 - [Dev.to/JS] [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
 - [Dev.to/JS] [TURN Server Cloud Hosting](https://dev.to/alakkadshaw/turn-server-cloud-hosting-3kn0)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/phigolf-golf-simulator-sale)
 - [Dev.to/JS] [How to create a real estate sales tool using Matterport SDK and SuperViz](https://dev.to/superviz/how-to-create-a-real-estate-sales-tool-using-matterport-sdk-and-superviz-f6i)
-- [Dev.to/JS] [Free Resources Every Web Developer Should Know About](https://dev.to/webdev-mohdamir/free-resources-every-web-developer-should-know-about-17me)
-- [Dev.to/JS] [How to create a blog with next.js and dev.to](https://dev.to/luisfalconmx/how-to-create-a-blog-with-nextjs-and-devto-3an)
 - [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)
 - [Lifehacker] [Everything You Should Consider Before Buying Smart Home Tech](https://lifehacker.com/tech/everything-to-consider-before-buying-smart-home-tech)
 - [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The New Blink Mini 2 Camera Works Outside, Too](https://lifehacker.com/tech/amazons-new-blink-mini-2-overview)
 - [Lifehacker] [The Best Solar Generators You Can Buy Right Now](https://lifehacker.com/home/the-best-solar-generators-for-every-use)
 - [Lifehacker] [The M1 MacBook Air Drops to $700](https://lifehacker.com/tech/m1-macbook-air-deal)
-- [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)
-- [Lifehacker] [Your Older Samsung Device Might Get AI Features Very Soon](https://lifehacker.com/tech/older-samsung-devices-getting-ai-features-soon)
-- [Lifehacker] [Treat Yourself to an Air Fryer Scotch Egg This Easter](https://lifehacker.com/food-drink/air-fryer-scotch-egg-recipe)
-- [Lifehacker] [Microsoft Wants You to Try Copilot Pro for Free](https://lifehacker.com/tech/microsoft-copilot-pro-one-month-free-trial)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Intel’s Newest CPU Boasts Impressive Performance, But You Shouldn’t Buy It](https://lifehacker.com/tech/intel-core-i9-14900ks-impressive-but-you-shouldnt-buy)<!-- TECH-POSTS:END -->
 
 ---
 
