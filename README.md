@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Simple CRM with Vue: Designing and Setting Up a User-friendly Login Interface](https://dev.to/webcraft-notes/building-simple-crm-with-vue-designing-and-setting-up-a-user-friendly-login-interface-1pl6)
+- [Lifehacker] [The New Airthings Smart Air Purifier Is Worth Its $400 Price Tag](https://lifehacker.com/tech/airthings-smart-air-purifier-review)
 - [Dev.to/JS] [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
 - [Dev.to/JS] [Building a High-Performance Website with Next.js and WordPress](https://dev.to/hakukonevelhot/building-a-high-performance-website-with-nextjs-and-wordpress-5pn)
+- [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)
 - [Dev.to/JS] [The Role of a Program Committee Member: A Behind-the-Scenes Look](https://dev.to/jquinten/the-role-of-a-program-committee-member-a-behind-the-scenes-look-2kb9)
 - [Dev.to/JS] [Java in Manufacturing: Streamlining Operations and Enhancing Efficiency](https://dev.to/vikrant_bhalodia/java-in-manufacturing-streamlining-operations-and-enhancing-efficiency-1p9i)
 - [Dev.to/JS] [✨Building a PDF Viewer for Vue.js with PDF.js, vue3-pdf-app and more 🚀](https://dev.to/fangtanbamrung/building-a-pdf-viewer-for-vuejs-with-pdfjs-vue3-pdf-app-and-more-21ii)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I build a desktop simulator](https://dev.to/lier/i-build-a-desktop-simulator-4n89)
 - [Dev.to/JS] [React component cover another component , how can I solve this?](https://dev.to/aaron1120_/react-component-cover-another-component-how-can-i-solve-this-co7)
 - [Dev.to/JS] [Create a Node package on your local Laravel environment](https://dev.to/capsulescodes/create-a-node-package-on-your-local-laravel-environment-1i43)
-- [Dev.to/JS] [Pointer Events :: Web application features you may not know](https://dev.to/thefranconiancoder/web-application-features-you-may-not-know-pointer-events-30o3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/phigolf-golf-simulator-sale)
 - [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)
 - [Lifehacker] [Everything You Should Consider Before Buying Smart Home Tech](https://lifehacker.com/tech/everything-to-consider-before-buying-smart-home-tech)
-- [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
-- [Lifehacker] [Risotto Is Easier to Make &lpar;and More Forgiving&rpar; Than You Realize](https://lifehacker.com/food-drink/how-to-make-risotto-at-home)
-- [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)<!-- TECH-POSTS:END -->
 
 ---
 
