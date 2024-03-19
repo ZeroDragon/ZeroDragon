@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
+- [Dev.to/JS] [Day 2- 4 of subscription App](https://dev.to/hestia/day-2-4-of-subscription-app-1kle)
+- [Dev.to/JS] [6 times faster loops in Javascript](https://dev.to/efpage/6-times-faster-loops-in-javascript-19h4)
+- [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Dev.to/JS] [10 Reasons Why You Should Never Use React Class Components 🙅‍♀️⛔️](https://dev.to/_ndeyefatoudiop/10-reasons-why-you-should-never-use-react-class-components-1h76)
+- [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
 - [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
 - [Dev.to/JS] [Download PikaShow for iOS/iPhone Free &lpar;Updated 2024&rpar;](https://dev.to/johankarroo/download-pikashow-for-iosiphone-free-updated-2024-3oj1)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
@@ -46,10 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
 - [Dev.to/JS] [How To Attach Multiple Files in PHPMailer Email Using PHP](https://dev.to/hmawebdesign/how-to-attach-multiple-files-in-phpmailer-email-using-php-2mio)
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
-- [Dev.to/JS] [Next JS 14 | Navigating Between Pages](https://dev.to/w3tsa/next-js-14-navigating-between-pages-13h)
 - [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
-- [Dev.to/JS] [Understanding Declarative vs. Imperative Programming for Frontend Developers](https://dev.to/visavadiyavrushik/understanding-declarative-vs-imperative-programming-for-frontend-developers-26jc)
-- [Dev.to/JS] [JavaScript&#39;s Finest: Exploring the Top Libraries of 2024&quot;](https://dev.to/sachin915t/javascripts-finest-exploring-the-top-libraries-of-2024-5bkl)
 - [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
 - [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 18, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
-- [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
-- [Lifehacker] [Beat the &#39;Planning Fallacy&#39; to Be More Productive](https://lifehacker.com/work/beat-the-planning-fallacy-to-be-more-productive)
-- [Lifehacker] [Why Apple Fitness Shows You &#39;Total Calories&#39; and &#39;Active Calories&#39;](https://lifehacker.com/health/active-calories-versus-total-calories)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)<!-- TECH-POSTS:END -->
 
 ---
 
