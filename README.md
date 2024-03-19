@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Promises and Callbacks](https://dev.to/jenishdabhi/understanding-javascript-promises-and-callbacks-p2n)
+- [Dev.to/JS] [Modernizing Your Restaurant: Developing an App with Enatega](https://dev.to/alvinal9/modernizing-your-restaurant-developing-an-app-with-enatega-6l6)
+- [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
 - [Dev.to/JS] [MY GITHUB:](https://dev.to/soumilgit/my-github-328n)
+- [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
 - [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Dev.to/JS] [عالم الحياة البرية](https://dev.to/tyvghj/lm-lhy-lbry-381j)
 - [Dev.to/JS] [Appgo88fun](https://dev.to/appgo88funvn/appgo88fun-3lmf)
@@ -44,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Leviton’s New EV Charger Has Plug-in Capability](https://lifehacker.com/travel/leviton-new-ev-charger-plugs-in-regular-outlet)
 - [Lifehacker] [The New Airthings Smart Air Purifier Is Worth Its $400 Price Tag](https://lifehacker.com/tech/airthings-smart-air-purifier-review)
 - [Dev.to/JS] [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
-- [Dev.to/JS] [Building a High-Performance Website with Next.js and WordPress](https://dev.to/hakukonevelhot/building-a-high-performance-website-with-nextjs-and-wordpress-5pn)
 - [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)
-- [Dev.to/JS] [The Role of a Program Committee Member: A Behind-the-Scenes Look](https://dev.to/jquinten/the-role-of-a-program-committee-member-a-behind-the-scenes-look-2kb9)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Timothée Chalamet Memes](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-timothee-chalamet-memes)
 - [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
 - [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
-- [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
-- [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
-- [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)<!-- TECH-POSTS:END -->
 
 ---
 
