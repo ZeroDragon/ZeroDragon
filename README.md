@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Java in Manufacturing: Streamlining Operations and Enhancing Efficiency](https://dev.to/vikrant_bhalodia/java-in-manufacturing-streamlining-operations-and-enhancing-efficiency-1p9i)
+- [Dev.to/JS] [✨Building a PDF Viewer for Vue.js with PDF.js, vue3-pdf-app and more 🚀](https://dev.to/fangtanbamrung/building-a-pdf-viewer-for-vuejs-with-pdfjs-vue3-pdf-app-and-more-21ii)
+- [Dev.to/JS] [JavaScript Libraries That You Should Know](https://dev.to/brojenuel/javascript-libraries-that-you-should-know-4lol)
 - [Dev.to/JS] [Monthiversary Celebration](https://dev.to/s_hadowheart/monthiversary-celebration-hli)
+- [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
 - [Dev.to/JS] [Why to Choose TypeScript over JavaScript : TypeScript vs JavaScript](https://dev.to/walliahmad/why-to-choose-typescript-over-javascript-typescript-vs-javascript-39bi)
 - [Dev.to/JS] [I build a desktop simulator](https://dev.to/lier/i-build-a-desktop-simulator-4n89)
 - [Dev.to/JS] [React component cover another component , how can I solve this?](https://dev.to/aaron1120_/react-component-cover-another-component-how-can-i-solve-this-co7)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Implement Micro Frontends Using SystemJS: A Comprehensive Guide](https://dev.to/confrontend/how-to-implement-micro-frontends-using-systemjs-a-comprehensive-guide-i3a)
 - [Dev.to/JS] [LeetCode Meditations: Valid Parentheses](https://dev.to/rivea0/leetcode-meditations-valid-parentheses-ll5)
 - [Dev.to/JS] [How AI Text Generators Improve Content Creation?](https://dev.to/yagnapandya9/how-ai-text-generators-improve-content-creation-57j2)
-- [Dev.to/JS] [Architecting Resilient Kubernetes Systems: The Power of Taints and Tolerations in Disaster Recovery](https://dev.to/rajeshgheware/architecting-resilient-kubernetes-systems-the-power-of-taints-and-tolerations-in-disaster-recovery-23pi)
-- [Dev.to/JS] [How To Define Typescript onChange Event In React](https://dev.to/lior_amsalem/how-to-define-typescript-onchange-event-in-react-18ik)
-- [Dev.to/JS] [RiotJS Material Design &lpar;how to setup BeerCSS&rpar;🍻](https://dev.to/steeve/riotjs-material-design-how-to-setup-beercss-269c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)
 - [Lifehacker] [Risotto Is Easier to Make &lpar;and More Forgiving&rpar; Than You Realize](https://lifehacker.com/food-drink/how-to-make-risotto-at-home)
 - [Lifehacker] [These Are the Three Best Tricep Exercises](https://lifehacker.com/health/best-tricep-exercises)
-- [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
-- [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)<!-- TECH-POSTS:END -->
 
 ---
 
