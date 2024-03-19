@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bebigob709/buy-google-5-star-reviews-4dem)
+- [Dev.to/JS] [Win up to 250$ for your purchases!](https://dev.to/davidniem/win-up-to-250-for-your-purchases-2l8d)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/bebigob709/buy-verified-cash-app-account-27d1)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/johnmartinezz873/buy-verified-paxful-account-4bk7)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/bebigob709/buy-verified-paxful-account-3b9a)
 - [Dev.to/JS] [How to use async/await](https://dev.to/04anilr/how-to-use-asyncawait-3a3o)
 - [Dev.to/JS] [Purva Aerocity the best place to live](https://dev.to/davidwarnerflats/purva-aerocity-the-best-place-to-live-2geb)
 - [Dev.to/JS] [Boost your Career with Java Certification Courses](https://dev.to/veronicajoseph/boost-your-career-with-java-certification-courses-1khk)
@@ -33,16 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-2b0n)
 - [Dev.to/JS] [Join the Revolution: Codeperium Unveils the Future of Coding and Innovation](https://dev.to/dewale_xpert/join-the-revolution-codeperium-unveils-the-future-of-coding-and-innovation-10p5)
 - [Dev.to/JS] [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
-- [Dev.to/JS] [Day 2- 4 of subscription App](https://dev.to/hestia/day-2-4-of-subscription-app-1kle)
-- [Dev.to/JS] [6 times faster loops in Javascript](https://dev.to/efpage/6-times-faster-loops-in-javascript-19h4)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
-- [Dev.to/JS] [10 Reasons Why You Should Never Use React Class Components 🙅‍♀️⛔️](https://dev.to/_ndeyefatoudiop/10-reasons-why-you-should-never-use-react-class-components-1h76)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
 - [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
-- [Dev.to/JS] [Download PikaShow for iOS/iPhone Free &lpar;Updated 2024&rpar;](https://dev.to/johankarroo/download-pikashow-for-iosiphone-free-updated-2024-3oj1)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
-- [Dev.to/JS] [React Read Excel and Data Visualize](https://dev.to/enesakk0/react-read-excel-and-data-visualize-1498)
 - [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
 - [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)
 - [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)
