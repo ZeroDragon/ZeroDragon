@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from open-source: How to create an array containing 0..N using Array.from?](https://dev.to/ramunarasinga/lessons-from-open-source-how-to-create-an-array-containing-0n-using-arrayfrom-18de)
+- [Dev.to/JS] [Stop making new JavaScript frameworks](https://dev.to/somestranger8/stop-making-javascript-new-frameworks-3obg)
+- [Dev.to/JS] [How to create a Humbuger menu using Html, css and JavaScript](https://dev.to/ifymiracle/how-to-create-a-humbuger-menu-using-html-css-and-javascript-3ehd)
+- [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
 - [Dev.to/JS] [Playing Bad Apple! by throwing Javascript errors](https://dev.to/roveroniandrea/playing-bad-apple-by-throwing-javascript-errors-ip1)
 - [Dev.to/JS] [My Journey with Andela&#39;s Technical Leadership Program: Learning to Thrive in Software Engineering](https://dev.to/thatdudewhocodes/my-journey-with-andelas-technical-leadership-program-learning-to-thrive-in-software-engineering-4dmj)
+- [Lifehacker] [YouTube Now Requires Creators to Label Videos Made With Generative AI](https://lifehacker.com/tech/youtube-requires-creators-to-label-videos-made-with-generative-ai)
 - [Dev.to/JS] [Interview: Post-Bootcamp Success Story](https://dev.to/brittleestill/interview-post-bootcamp-success-story-2ih2)
 - [Dev.to/JS] [Understanding JavaScript Promises and Callbacks](https://dev.to/jenishdabhi/understanding-javascript-promises-and-callbacks-p2n)
 - [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Appgo88fun](https://dev.to/appgo88funvn/appgo88fun-3lmf)
 - [Dev.to/JS] [Help: :React Native Guidance Needed](https://dev.to/sayshark75/help-react-native-guidance-needed-2l0e)
 - [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
-- [Dev.to/JS] [Take control over your media loading](https://dev.to/mbarzeev/take-control-over-your-media-loading-kjl)
 - [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)
-- [Dev.to/JS] [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
-- [Dev.to/JS] [MERN Stack Abilities and Limitations ?](https://dev.to/justinw7/what-mern-stack-can-do-and-cannot--4ogj)
 - [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
 - [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)
 - [Lifehacker] [The Best Gadgets to Make Spring Cleaning Actually Kind of Fun](https://lifehacker.com/home/best-spring-cleaning-products)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)
 - [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)
 - [Lifehacker] [The 60 Best Classic Movies You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming)
-- [Lifehacker] [These 2nd Gen Echo Buds Are up to 54% Off Right Now](https://lifehacker.com/tech/2nd-gen-echo-buds-sale)
-- [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
-- [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These 2nd Gen Echo Buds Are up to 54% Off Right Now](https://lifehacker.com/tech/2nd-gen-echo-buds-sale)<!-- TECH-POSTS:END -->
 
 ---
 
