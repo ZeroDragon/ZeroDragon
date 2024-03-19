@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Robot framework](https://dev.to/algorytmus/robot-framework-41l7)
+- [Dev.to/JS] [Unveiling RecomendeMe.com.br: Revolutionizing Cultural Recommendations](https://dev.to/sampseiol1/unveiling-recomendemecombr-revolutionizing-cultural-recommendations-338b)
+- [Dev.to/JS] [Configurar entorno de desarrollo en Visual Studio Code para hacer Testing con Jest](https://dev.to/ccdosorio/configurar-entorno-de-desarrollo-en-visual-studio-code-para-hacer-testing-con-jest-541d)
+- [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
 - [Dev.to/JS] [Lessons from open-source: How to create an array containing 0..N using Array.from?](https://dev.to/ramunarasinga/lessons-from-open-source-how-to-create-an-array-containing-0n-using-arrayfrom-18de)
 - [Dev.to/JS] [Stop making new JavaScript frameworks](https://dev.to/somestranger8/stop-making-javascript-new-frameworks-3obg)
+- [Lifehacker] [Make a ‘Winter BLT’ With Chunky Tomato Sauce](https://lifehacker.com/food-drink/winter-blt-with-chunky-tomato-sauce)
 - [Dev.to/JS] [How to create a Humbuger menu using Html, css and JavaScript](https://dev.to/ifymiracle/how-to-create-a-humbuger-menu-using-html-css-and-javascript-3ehd)
 - [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
 - [Dev.to/JS] [Playing Bad Apple! by throwing Javascript errors](https://dev.to/roveroniandrea/playing-bad-apple-by-throwing-javascript-errors-ip1)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MY GITHUB:](https://dev.to/soumilgit/my-github-328n)
 - [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
 - [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)
-- [Dev.to/JS] [عالم الحياة البرية](https://dev.to/tyvghj/lm-lhy-lbry-381j)
-- [Dev.to/JS] [Appgo88fun](https://dev.to/appgo88funvn/appgo88fun-3lmf)
-- [Dev.to/JS] [Help: :React Native Guidance Needed](https://dev.to/sayshark75/help-react-native-guidance-needed-2l0e)
 - [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
 - [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)
 - [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
 - [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
 - [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)
-- [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)
-- [Lifehacker] [The 60 Best Classic Movies You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming)
-- [Lifehacker] [These 2nd Gen Echo Buds Are up to 54% Off Right Now](https://lifehacker.com/tech/2nd-gen-echo-buds-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)<!-- TECH-POSTS:END -->
 
 ---
 
