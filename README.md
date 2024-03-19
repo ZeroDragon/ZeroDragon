@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RiotJS Material Design &lpar;how to setup BeerCSS&rpar;🍻](https://dev.to/steeve/riotjs-material-design-how-to-setup-beercss-269c)
+- [Dev.to/JS] [What is Umi.Js? A Complete Guide for Beginners](https://dev.to/swhabitation/what-is-umijs-a-complete-guide-for-beginners-2h71)
+- [Dev.to/JS] [Powerful Date tricks in JavaScript that don&#39;t require any external libraries](https://dev.to/doantrongnam/powerful-date-tricks-in-javascript-that-dont-require-any-external-libraries-3cm8)
 - [Dev.to/JS] [sghf](https://dev.to/impbpatil/sghf-57a0)
 - [Dev.to/JS] [Chillin&#39; with WinterJS: The Need for Speed...or Just Some Cold Air?](https://dev.to/mitchiemt11/chillin-with-winterjs-the-need-for-speedor-just-some-cold-air-3d99)
 - [Dev.to/JS] [How to use array methods in real project &lpar;example&rpar; add new record](https://dev.to/04anilr/how-to-use-array-methods-in-real-project-example-add-new-record-3o82)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From zero to hero: using SQL databases in Node.js made easy](https://dev.to/honeybadger/from-zero-to-hero-using-sql-databases-in-nodejs-made-easy-1phm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Flowchart editor dgrm.net / touchpad gestures](https://dev.to/alexboyko/flowchart-editor-dgrmnet-touchpad-gestures-1c8o)
-- [Dev.to/JS] [BioLean Review: Miracle Water Hack Formula or Totally Worthless Tap Water Ritual?](https://dev.to/bioleanreviewget/biolean-review-miracle-water-hack-formula-or-totally-worthless-tap-water-ritual-21ii)
-- [Dev.to/JS] [Conditional rendering in react || conditional rendering example in react](https://dev.to/04anilr/conditional-rendering-in-react-conditional-rendering-example-in-react-3j46)
-- [Dev.to/JS] [Methods of React children component in react](https://dev.to/04anilr/methods-of-react-children-component-in-react-4ol7)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
 - [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
