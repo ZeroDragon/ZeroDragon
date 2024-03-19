@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Join the Revolution: Codeperium Unveils the Future of Coding and Innovation](https://dev.to/dewale_xpert/join-the-revolution-codeperium-unveils-the-future-of-coding-and-innovation-10p5)
 - [Dev.to/JS] [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
 - [Dev.to/JS] [Day 2- 4 of subscription App](https://dev.to/hestia/day-2-4-of-subscription-app-1kle)
 - [Dev.to/JS] [6 times faster loops in Javascript](https://dev.to/efpage/6-times-faster-loops-in-javascript-19h4)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blending in with Pure-Blend](https://dev.to/ethernmyth/blending-in-with-pure-blend-2kim)
 - [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
 - [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
-- [Dev.to/JS] [How To Attach Multiple Files in PHPMailer Email Using PHP](https://dev.to/hmawebdesign/how-to-attach-multiple-files-in-phpmailer-email-using-php-2mio)
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
 - [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
 - [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
