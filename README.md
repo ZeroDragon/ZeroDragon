@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test](https://dev.to/kristab/test-5ck1)
+- [Dev.to/JS] [Integrating Nodemailer in a Node.js Project](https://dev.to/imashwani/integrating-nodemailer-in-a-nodejs-project-4mfh)
+- [Lifehacker] [The Best Gadgets to Make Spring Cleaning Actually Kind of Fun](https://lifehacker.com/home/best-spring-cleaning-products)
 - [Dev.to/JS] [Building Simple CRM with Vue: Designing and Setting Up a User-friendly Login Interface](https://dev.to/webcraft-notes/building-simple-crm-with-vue-designing-and-setting-up-a-user-friendly-login-interface-1pl6)
+- [Lifehacker] [Leviton’s New EV Charger Plugs Into a Regular Outlet](https://lifehacker.com/travel/leviton-new-ev-charger-plugs-in-regular-outlet)
 - [Lifehacker] [The New Airthings Smart Air Purifier Is Worth Its $400 Price Tag](https://lifehacker.com/tech/airthings-smart-air-purifier-review)
 - [Dev.to/JS] [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
 - [Dev.to/JS] [Building a High-Performance Website with Next.js and WordPress](https://dev.to/hakukonevelhot/building-a-high-performance-website-with-nextjs-and-wordpress-5pn)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
 - [Dev.to/JS] [Why to Choose TypeScript over JavaScript : TypeScript vs JavaScript](https://dev.to/walliahmad/why-to-choose-typescript-over-javascript-typescript-vs-javascript-39bi)
 - [Dev.to/JS] [I build a desktop simulator](https://dev.to/lier/i-build-a-desktop-simulator-4n89)
-- [Dev.to/JS] [React component cover another component , how can I solve this?](https://dev.to/aaron1120_/react-component-cover-another-component-how-can-i-solve-this-co7)
-- [Dev.to/JS] [Create a Node package on your local Laravel environment](https://dev.to/capsulescodes/create-a-node-package-on-your-local-laravel-environment-1i43)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/phigolf-golf-simulator-sale)
-- [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)
-- [Lifehacker] [Everything You Should Consider Before Buying Smart Home Tech](https://lifehacker.com/tech/everything-to-consider-before-buying-smart-home-tech)
-- [Lifehacker] [The Google Scholar Features Every Student Should Know](https://lifehacker.com/tech/google-scholar-search-features-every-student-should-know)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)<!-- TECH-POSTS:END -->
 
 ---
 
