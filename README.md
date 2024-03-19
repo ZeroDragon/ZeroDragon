@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-2b0n)
 - [Dev.to/JS] [Join the Revolution: Codeperium Unveils the Future of Coding and Innovation](https://dev.to/dewale_xpert/join-the-revolution-codeperium-unveils-the-future-of-coding-and-innovation-10p5)
 - [Dev.to/JS] [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
 - [Dev.to/JS] [Day 2- 4 of subscription App](https://dev.to/hestia/day-2-4-of-subscription-app-1kle)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These 2nd Gen Echo Buds Are up to 54% Off Right Now](https://lifehacker.com/tech/2nd-gen-echo-buds-sale)
 - [Dev.to/JS] [Embracing the Tech Future: My Transformation Journey with ATLP.](https://dev.to/princenzmw/embracing-the-tech-future-my-transformation-journey-with-atlp-212b)
 - [Dev.to/JS] [Shallow Copy vs. Deep Copy in Javascript](https://dev.to/jenishdabhi/shallow-copy-vs-deep-copy-in-javascript-2hlh)
-- [Dev.to/JS] [Blending in with Pure-Blend](https://dev.to/ethernmyth/blending-in-with-pure-blend-2kim)
 - [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
 - [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
