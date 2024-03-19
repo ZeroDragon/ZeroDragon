@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Playing Bad Apple! by throwing Javascript errors](https://dev.to/roveroniandrea/playing-bad-apple-by-throwing-javascript-errors-ip1)
+- [Dev.to/JS] [My Journey with Andela&#39;s Technical Leadership Program: Learning to Thrive in Software Engineering](https://dev.to/thatdudewhocodes/my-journey-with-andelas-technical-leadership-program-learning-to-thrive-in-software-engineering-4dmj)
+- [Dev.to/JS] [Interview: Post-Bootcamp Success Story](https://dev.to/brittleestill/interview-post-bootcamp-success-story-2ih2)
 - [Dev.to/JS] [Understanding JavaScript Promises and Callbacks](https://dev.to/jenishdabhi/understanding-javascript-promises-and-callbacks-p2n)
+- [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
 - [Dev.to/JS] [Modernizing Your Restaurant: Developing an App with Enatega](https://dev.to/alvinal9/modernizing-your-restaurant-developing-an-app-with-enatega-6l6)
+- [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
 - [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
 - [Dev.to/JS] [MY GITHUB:](https://dev.to/soumilgit/my-github-328n)
 - [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
@@ -42,12 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MERN Stack Abilities and Limitations ?](https://dev.to/justinw7/what-mern-stack-can-do-and-cannot--4ogj)
 - [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
 - [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)
-- [Dev.to/JS] [Integrating Nodemailer in a Node.js Project](https://dev.to/imashwani/integrating-nodemailer-in-a-nodejs-project-4mfh)
 - [Lifehacker] [The Best Gadgets to Make Spring Cleaning Actually Kind of Fun](https://lifehacker.com/home/best-spring-cleaning-products)
-- [Dev.to/JS] [Building Simple CRM with Vue: Designing and Setting Up a User-friendly Login Interface](https://dev.to/webcraft-notes/building-simple-crm-with-vue-designing-and-setting-up-a-user-friendly-login-interface-1pl6)
 - [Lifehacker] [Leviton’s New EV Charger Has Plug-in Capability](https://lifehacker.com/travel/leviton-new-ev-charger-plugs-in-regular-outlet)
 - [Lifehacker] [The New Airthings Smart Air Purifier Is Worth Its $400 Price Tag](https://lifehacker.com/tech/airthings-smart-air-purifier-review)
-- [Dev.to/JS] [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
 - [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Timothée Chalamet Memes](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-timothee-chalamet-memes)
 - [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 60 Best Classic Movies You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming)
 - [Lifehacker] [These 2nd Gen Echo Buds Are up to 54% Off Right Now](https://lifehacker.com/tech/2nd-gen-echo-buds-sale)
 - [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
-- [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
-- [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
-- [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)<!-- TECH-POSTS:END -->
 
 ---
 
