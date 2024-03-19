@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use async/await](https://dev.to/04anilr/how-to-use-asyncawait-3a3o)
+- [Dev.to/JS] [Purva Aerocity the best place to live](https://dev.to/davidwarnerflats/purva-aerocity-the-best-place-to-live-2geb)
+- [Dev.to/JS] [Boost your Career with Java Certification Courses](https://dev.to/veronicajoseph/boost-your-career-with-java-certification-courses-1khk)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/jefaxoy665/buy-verified-paxful-account-3h5i)
 - [Dev.to/JS] [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-2b0n)
 - [Dev.to/JS] [Join the Revolution: Codeperium Unveils the Future of Coding and Innovation](https://dev.to/dewale_xpert/join-the-revolution-codeperium-unveils-the-future-of-coding-and-innovation-10p5)
 - [Dev.to/JS] [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
@@ -41,13 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Read Excel and Data Visualize](https://dev.to/enesakk0/react-read-excel-and-data-visualize-1498)
 - [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
 - [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)
-- [Dev.to/JS] [Unlocking the Power of Map, Filter, and Reduce in JavaScript](https://dev.to/alamin49/mastering-map-filter-and-reduce-2nep)
 - [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)
 - [Lifehacker] [The 60 Best Classic Movies You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming)
-- [Dev.to/JS] [GraphQL e Node.js: GraphQL e Node.js: Construindo APIs Poderosas](https://dev.to/vitorrios1001/graphql-e-nodejs-graphql-e-nodejs-construindo-apis-poderosas-36n9)
 - [Lifehacker] [These 2nd Gen Echo Buds Are up to 54% Off Right Now](https://lifehacker.com/tech/2nd-gen-echo-buds-sale)
-- [Dev.to/JS] [Embracing the Tech Future: My Transformation Journey with ATLP.](https://dev.to/princenzmw/embracing-the-tech-future-my-transformation-journey-with-atlp-212b)
-- [Dev.to/JS] [Shallow Copy vs. Deep Copy in Javascript](https://dev.to/jenishdabhi/shallow-copy-vs-deep-copy-in-javascript-2hlh)
 - [Lifehacker] [How to Freeze Batches of Sauce Now for Easy Dinners in the Future](https://lifehacker.com/food-drink/how-to-freeze-big-batches-of-sauce)
 - [Lifehacker] [Your Home Might Need External Insulation, Too](https://lifehacker.com/home/external-insulation-pros-and-cons)
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
