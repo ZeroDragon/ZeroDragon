@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Reasons Why You Should Never Use React Class Components 🙅‍♀️⛔️](https://dev.to/_ndeyefatoudiop/10-reasons-why-you-should-never-use-react-class-components-1h76)
+- [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
 - [Dev.to/JS] [Download PikaShow for iOS/iPhone Free &lpar;Updated 2024&rpar;](https://dev.to/johankarroo/download-pikashow-for-iosiphone-free-updated-2024-3oj1)
+- [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
 - [Dev.to/JS] [React Read Excel and Data Visualize](https://dev.to/enesakk0/react-read-excel-and-data-visualize-1498)
 - [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
 - [Dev.to/JS] [Understanding Declarative vs. Imperative Programming for Frontend Developers](https://dev.to/visavadiyavrushik/understanding-declarative-vs-imperative-programming-for-frontend-developers-26jc)
 - [Dev.to/JS] [JavaScript&#39;s Finest: Exploring the Top Libraries of 2024&quot;](https://dev.to/sachin915t/javascripts-finest-exploring-the-top-libraries-of-2024-5bkl)
-- [Dev.to/JS] [Array methods in react.js](https://dev.to/04anilr/array-methods-in-reactjs-36jb)
 - [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
 - [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tools for Surviving Allergy Season](https://lifehacker.com/home/best-tools-for-surviving-allergy-season)
 - [Lifehacker] [Use This App to Back Up Your Apple Music Library and Restore Deleted Songs](https://lifehacker.com/tech/hezel-app-back-up-apple-music)
 - [Lifehacker] [Beat the &#39;Planning Fallacy&#39; to Be More Productive](https://lifehacker.com/work/beat-the-planning-fallacy-to-be-more-productive)
-- [Lifehacker] [Why Apple Fitness Shows You &#39;Total Calories&#39; and &#39;Active Calories&#39;](https://lifehacker.com/health/active-calories-versus-total-calories)
-- [Lifehacker] [That Microsoft Bing Pop-up Probably Isn’t Malware, Just a Tacky Ad](https://lifehacker.com/tech/microsoft-bing-pop-up-probably-isnt-malware)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Apple Fitness Shows You &#39;Total Calories&#39; and &#39;Active Calories&#39;](https://lifehacker.com/health/active-calories-versus-total-calories)<!-- TECH-POSTS:END -->
 
 ---
 
