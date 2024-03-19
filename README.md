@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MY GITHUB:](https://dev.to/soumilgit/my-github-328n)
+- [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Dev.to/JS] [عالم الحياة البرية](https://dev.to/tyvghj/lm-lhy-lbry-381j)
 - [Dev.to/JS] [Appgo88fun](https://dev.to/appgo88funvn/appgo88fun-3lmf)
 - [Dev.to/JS] [Help: :React Native Guidance Needed](https://dev.to/sayshark75/help-react-native-guidance-needed-2l0e)
+- [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
 - [Dev.to/JS] [Take control over your media loading](https://dev.to/mbarzeev/take-control-over-your-media-loading-kjl)
 - [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)
 - [Dev.to/JS] [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a High-Performance Website with Next.js and WordPress](https://dev.to/hakukonevelhot/building-a-high-performance-website-with-nextjs-and-wordpress-5pn)
 - [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)
 - [Dev.to/JS] [The Role of a Program Committee Member: A Behind-the-Scenes Look](https://dev.to/jquinten/the-role-of-a-program-committee-member-a-behind-the-scenes-look-2kb9)
-- [Dev.to/JS] [Java in Manufacturing: Streamlining Operations and Enhancing Efficiency](https://dev.to/vikrant_bhalodia/java-in-manufacturing-streamlining-operations-and-enhancing-efficiency-1p9i)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Timothée Chalamet Memes](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-timothee-chalamet-memes)
 - [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Build Your Own Tiny Backyard Wildlife Pond](https://lifehacker.com/home/how-to-build-a-tiny-backyard-wildlife-pond)
 - [Lifehacker] [Eufy Security Cameras Are up to 46% Off Right Now](https://lifehacker.com/tech/eufy-security-cameras-up-to-46-off)
 - [Lifehacker] [Gemini Might Be Powering iOS 18&#39;s New AI Features](https://lifehacker.com/tech/gemini-might-be-powering-ios-18-ai-features)
-- [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
-- [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
-- [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)<!-- TECH-POSTS:END -->
 
 ---
 
