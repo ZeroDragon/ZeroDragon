@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Test](https://dev.to/kristab/test-5ck1)
+- [Dev.to/JS] [Take control over your media loading](https://dev.to/mbarzeev/take-control-over-your-media-loading-kjl)
+- [Dev.to/JS] [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
+- [Dev.to/JS] [MERN Stack Abilities and Limitations ?](https://dev.to/justinw7/what-mern-stack-can-do-and-cannot--4ogj)
+- [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
+- [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)
 - [Dev.to/JS] [Integrating Nodemailer in a Node.js Project](https://dev.to/imashwani/integrating-nodemailer-in-a-nodejs-project-4mfh)
 - [Lifehacker] [The Best Gadgets to Make Spring Cleaning Actually Kind of Fun](https://lifehacker.com/home/best-spring-cleaning-products)
 - [Dev.to/JS] [Building Simple CRM with Vue: Designing and Setting Up a User-friendly Login Interface](https://dev.to/webcraft-notes/building-simple-crm-with-vue-designing-and-setting-up-a-user-friendly-login-interface-1pl6)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Libraries That You Should Know](https://dev.to/brojenuel/javascript-libraries-that-you-should-know-4lol)
 - [Dev.to/JS] [Monthiversary Celebration](https://dev.to/s_hadowheart/monthiversary-celebration-hli)
 - [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
-- [Dev.to/JS] [Why to Choose TypeScript over JavaScript : TypeScript vs JavaScript](https://dev.to/walliahmad/why-to-choose-typescript-over-javascript-typescript-vs-javascript-39bi)
-- [Dev.to/JS] [I build a desktop simulator](https://dev.to/lier/i-build-a-desktop-simulator-4n89)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Poputar T2 Smart Guitar on Sale for $324 Right Now](https://lifehacker.com/entertainment/poputar-smart-guitar-sale)
 - [Lifehacker] [Ignore This Tax Advice From TikTok](https://lifehacker.com/money/ignore-this-tax-advice-from-tiktok)
 - [Lifehacker] [Eufy’s Latest Wireless Camera Uses LTE and Solar to Go Anywhere](https://lifehacker.com/tech/eufy-4g-lte-cam-s330-review)
-- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)
-- [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/phigolf-golf-simulator-sale)
-- [Lifehacker] [How I Conquered My Podcast Backlog](https://lifehacker.com/tech/how-to-power-through-your-podcast-backlog)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 During This Two-Day Flash Sale](https://lifehacker.com/nix-color-sensor-sale)<!-- TECH-POSTS:END -->
 
 ---
 
