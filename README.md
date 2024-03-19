@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monthiversary Celebration](https://dev.to/s_hadowheart/monthiversary-celebration-hli)
+- [Dev.to/JS] [Why to Choose TypeScript over JavaScript : TypeScript vs JavaScript](https://dev.to/walliahmad/why-to-choose-typescript-over-javascript-typescript-vs-javascript-39bi)
+- [Dev.to/JS] [I build a desktop simulator](https://dev.to/lier/i-build-a-desktop-simulator-4n89)
 - [Dev.to/JS] [React component cover another component , how can I solve this?](https://dev.to/aaron1120_/react-component-cover-another-component-how-can-i-solve-this-co7)
 - [Dev.to/JS] [Create a Node package on your local Laravel environment](https://dev.to/capsulescodes/create-a-node-package-on-your-local-laravel-environment-1i43)
 - [Dev.to/JS] [Pointer Events :: Web application features you may not know](https://dev.to/thefranconiancoder/web-application-features-you-may-not-know-pointer-events-30o3)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Architecting Resilient Kubernetes Systems: The Power of Taints and Tolerations in Disaster Recovery](https://dev.to/rajeshgheware/architecting-resilient-kubernetes-systems-the-power-of-taints-and-tolerations-in-disaster-recovery-23pi)
 - [Dev.to/JS] [How To Define Typescript onChange Event In React](https://dev.to/lior_amsalem/how-to-define-typescript-onchange-event-in-react-18ik)
 - [Dev.to/JS] [RiotJS Material Design &lpar;how to setup BeerCSS&rpar;🍻](https://dev.to/steeve/riotjs-material-design-how-to-setup-beercss-269c)
-- [Dev.to/JS] [What is Umi.Js? A Complete Guide for Beginners](https://dev.to/swhabitation/what-is-umijs-a-complete-guide-for-beginners-2h71)
-- [Dev.to/JS] [Powerful Date tricks in JavaScript that don&#39;t require any external libraries](https://dev.to/doantrongnam/powerful-date-tricks-in-javascript-that-dont-require-any-external-libraries-3cm8)
-- [Dev.to/JS] [sghf](https://dev.to/impbpatil/sghf-57a0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
