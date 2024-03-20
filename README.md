@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Accurate is AI Text Generator in Generating Human-like Text?](https://dev.to/yagnapandya9/how-accurate-is-ai-text-generator-in-generating-human-like-text-2pbp)
+- [Dev.to/JS] [JavaScript / ECMAScript Versions...](https://dev.to/avinashtechlvr/javascript-ecmascript-versions-m9n)
+- [Dev.to/JS] [What’s Preact and What’s the Difference Between Preact and React?](https://dev.to/shariqahmed525/whats-preact-and-whats-the-difference-between-preact-and-react-33pd)
+- [Dev.to/JS] [Unleashing Creativity: The Power of Unity Game Development](https://dev.to/abhiartoonsolutions/unleashing-creativity-the-power-of-unity-game-development-159g)
+- [Dev.to/JS] [What is VSCodium ? Better than VS code ?](https://dev.to/kartiikeyabaleneni/what-is-vscodium-better-than-vs-code--36cl)
 - [Dev.to/JS] [Vanilla JS vs REACT JS](https://dev.to/cristian_alaniz/vanilla-js-vs-react-js-4j4l)
 - [Dev.to/JS] [GraphQL vs REST: Unraveling the Key Differences and Use Cases](https://dev.to/codesensei/graphql-vs-rest-unraveling-the-key-differences-and-use-cases-1pk4)
 - [Dev.to/JS] [seeking help for vanilla js code](https://dev.to/rajbhoyar729/seeking-help-for-vanilla-js-code-48a7)
@@ -35,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
 - [Dev.to/JS] [Unveiling RecomendeMe.com.br: Revolutionizing Cultural Recommendations](https://dev.to/sampseiol1/unveiling-recomendemecombr-revolutionizing-cultural-recommendations-338b)
-- [Dev.to/JS] [Configurar entorno de desarrollo en Visual Studio Code para hacer Testing con Jest](https://dev.to/ccdosorio/configurar-entorno-de-desarrollo-en-visual-studio-code-para-hacer-testing-con-jest-541d)
 - [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
-- [Dev.to/JS] [Lessons from open-source: How to create an array containing 0..N using Array.from?](https://dev.to/ramunarasinga/lessons-from-open-source-how-to-create-an-array-containing-0n-using-arrayfrom-18de)
-- [Dev.to/JS] [Stop making new JavaScript frameworks](https://dev.to/somestranger8/stop-making-javascript-new-frameworks-3obg)
 - [Lifehacker] [Make a ‘Winter BLT’ With Chunky Tomato Sauce](https://lifehacker.com/food-drink/winter-blt-with-chunky-tomato-sauce)
-- [Dev.to/JS] [How to create a Humbuger menu using Html, css and JavaScript](https://dev.to/ifymiracle/how-to-create-a-humbuger-menu-using-html-css-and-javascript-3ehd)
 - [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
-- [Dev.to/JS] [Playing Bad Apple! by throwing Javascript errors](https://dev.to/roveroniandrea/playing-bad-apple-by-throwing-javascript-errors-ip1)
 - [Lifehacker] [YouTube Now Requires Creators to Label Videos Made With Generative AI](https://lifehacker.com/tech/youtube-requires-creators-to-label-videos-made-with-generative-ai)
 - [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
 - [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
