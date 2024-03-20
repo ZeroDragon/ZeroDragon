@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Glam Up My Markup](https://dev.to/ethernmyth/glam-up-my-markup-56i0)
+- [Dev.to/JS] [Fly Web API One Byte Challenge](https://dev.to/srmoola/fly-web-api-one-byte-challenge-202p)
+- [Dev.to/JS] [Screen Orientantation API Byte Challenge](https://dev.to/srmoola/screen-orientantation-api-byte-challenge-gf2)
+- [Dev.to/JS] [What do you major in? I am a student and I need help](https://dev.to/abda24/what-do-you-major-in-i-am-a-student-and-i-need-help-52kh)
+- [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
 - [Dev.to/JS] [Local Storage](https://dev.to/ethernmyth/local-storage-4j48)
 - [Dev.to/JS] [A Developer&#39;s Guide To Setting Boundaries](https://dev.to/r1ch4rd_donovan/a-developers-guide-to-setting-boundaries-4c06)
+- [Lifehacker] [These Fitness Smartwatches Are 25% Off for Amazon’s Big Spring Deals](https://lifehacker.com/health/best-smartwatch-deals-for-amazon-big-spring-day)
 - [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 1](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-1-1cc3)
 - [Dev.to/JS] [Fetch Api](https://dev.to/shivangip285/fetch-api-36oc)
 - [Lifehacker] [26 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)
 - [Dev.to/JS] [Cover Letters &amp; OpenAI](https://dev.to/paolov1928/cover-letters-openai-18g)
 - [Dev.to/JS] [Sensor APIs](https://dev.to/ssukhpinder/sensor-apis-1275)
-- [Dev.to/JS] [Como fiz o Infinite Craft ser multiplayer com algumas linhas de código](https://dev.to/vtnorton/como-fiz-o-infinite-craft-ser-multiplayer-com-algumas-linhas-de-codigo-30d)
-- [Dev.to/JS] [How to Build Wayfair Price Tracker](https://dev.to/crawlbase/how-to-build-wayfair-price-tracker-2dmj)
 - [Lifehacker] [The Best Android Smartphones Deals During Amazon’s Spring Sale](https://lifehacker.com/tech/best-deals-on-android-smartphones-during-amazon-spring-sale)
-- [Dev.to/JS] [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
-- [Dev.to/JS] [Difference between Objects and Arrays in Javascript](https://dev.to/justinw7/difference-between-objects-and-arrays-in-javascript-3ja3)
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
 - [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
 - [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [YouTube Now Requires Creators to Label Videos Made With Generative AI](https://lifehacker.com/tech/youtube-requires-creators-to-label-videos-made-with-generative-ai)
 - [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
 - [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
-- [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
-- [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
-- [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)<!-- TECH-POSTS:END -->
 
 ---
 
