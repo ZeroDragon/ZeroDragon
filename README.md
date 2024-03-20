@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Nirmol: A Bangla Offensive Language Detection API and Dataset](https://dev.to/sigmakib2/building-nirmol-a-bangla-offensive-language-detection-api-and-dataset-3g9e)
+- [Dev.to/JS] [TinyMCE 7 - Revision History, Document Converters, Markdown and more!](https://dev.to/tinymce/tinymce-7-revision-history-document-converters-markdown-and-more-551n)
+- [Dev.to/JS] [Reducing Bundle size of a Frontend application by optimizing Lodash imports](https://dev.to/justanordinaryperson/reducing-bundle-size-of-a-frontend-application-by-optimizing-lodash-imports-4299)
+- [Dev.to/JS] [⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8)
+- [Dev.to/JS] [Descomplicando a Busca Binária](https://dev.to/paulinhoprado/descomplicando-a-busca-binaria-2mbo)
+- [Lifehacker] [Beware of &#39;Deferred Interest&#39; Promotions](https://lifehacker.com/money/beware-deferred-interest-promotions)
+- [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)
+- [Lifehacker] [What People Are Getting Wrong This Week: Good Vs. Bad Movies](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-good-vs-bad-movies)
 - [Dev.to/JS] [Prototype and Prototypical Inheritance](https://dev.to/hesxo/prototype-and-prototypical-inheritance-51e3)
-- [Dev.to/JS] [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
+- [Dev.to/JS] [Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
 - [Dev.to/JS] [Web Development Training: Unlocking the Secrets of Success](https://dev.to/ppaannkkaajj9927/web-development-training-unlocking-the-secrets-of-success-367n)
+- [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)
 - [Dev.to/JS] [Go88vi vip](https://dev.to/go88vivipvn/go88vi-vip-4e5m)
 - [Dev.to/JS] [Advantages of Node js](https://dev.to/mileswebhosting/advantages-of-node-js-18ea)
 - [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)
 - [Dev.to/JS] [Understanding JavaScript Classes: A Beginner&#39;s Guide](https://dev.to/hkp22/understanding-javascript-classes-a-beginners-guide-8ki)
 - [Dev.to/JS] [How Free 70-410 Practice Tests Help You Familiarize with Exam Structure](https://dev.to/hatenjus/how-free-70-410-practice-tests-help-you-familiarize-with-exam-structure-25o8)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $50 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Dev.to/JS] [Top 7 Must-Have JavaScript Web APIs! 🚀🌐](https://dev.to/ihssmaheel/top-7-must-have-javascript-web-apis-5fn8)
-- [Dev.to/JS] [Project Optimisation with Webpack Bundle Analyzer](https://dev.to/melihs/project-optimisation-with-webpack-bundle-analyzer-2bnd)
-- [Dev.to/JS] [Mastering closures in JavaScript](https://dev.to/tahazsh/mastering-closures-in-javascript-1857)
-- [Dev.to/JS] [Evolution of JavaScript Frameworks and Libraries: Catalyzing Web Development](https://dev.to/outstandingvick/evolution-of-javascript-frameworks-and-libraries-catalyzing-web-development-5g35)
-- [Dev.to/JS] [Drawing the Line: When to Use Server and Client Components in Your Next.js App](https://dev.to/cybermaxi7/drawing-the-line-when-to-use-server-and-client-components-in-your-nextjs-app-27nd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The New Airthings Smart Air Purifier Is Worth Its $400 Price Tag](https://lifehacker.com/tech/airthings-smart-air-purifier-review)
 - [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Timothée Chalamet Memes](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-timothee-chalamet-memes)
-- [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
-- [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
-- [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
-- [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
-- [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)<!-- TECH-POSTS:END -->
 
 ---
 
