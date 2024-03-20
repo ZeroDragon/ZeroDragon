@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
+- [Dev.to/JS] [Just learned how to fetch api...](https://dev.to/mimis161x/just-learned-how-to-fetch-api-mic)
+- [Dev.to/JS] [Store and Run your Javascript Online - tryjs.online](https://dev.to/sunilmore690/store-and-run-your-javascript-online-tryjsonline-1400)
+- [Dev.to/JS] [Object vs Map](https://dev.to/7jw92nvd1klaq1/object-vs-map-oj0)
+- [Dev.to/JS] [I want to convert excel file to Json in angular 15 or 16 versions](https://dev.to/ajaysh11/i-want-to-convert-that-excel-file-to-json-in-angular-15-or-16-versions-59he)
+- [Dev.to/JS] [Adding dark mode to your app has never been this easy.](https://dev.to/swastikyadav/adding-dark-mode-to-your-app-has-never-been-this-easy-29dn)
 - [Dev.to/JS] [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Unlock The Future: Revolutionize Power BI With Microsoft Copilot Studio’s Advanced Chatbot Features](https://dev.to/technologycue/unlock-the-future-revolutionize-power-bi-with-microsoft-copilot-studios-advanced-chatbot-features-36nl)
@@ -33,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Started learning to react today any tips for day 1 ??](https://dev.to/aditya229k/started-learning-to-react-today-any-tips-for-day-1--3ncj)
 - [Dev.to/JS] [How Accurate is AI Text Generator in Generating Human-like Text?](https://dev.to/yagnapandya9/how-accurate-is-ai-text-generator-in-generating-human-like-text-2pbp)
 - [Dev.to/JS] [JavaScript / ECMAScript Versions...](https://dev.to/avinashtechlvr/javascript-ecmascript-versions-m9n)
-- [Dev.to/JS] [What’s Preact and What’s the Difference Between Preact and React?](https://dev.to/shariqahmed525/whats-preact-and-whats-the-difference-between-preact-and-react-33pd)
-- [Dev.to/JS] [Unleashing Creativity: The Power of Unity Game Development](https://dev.to/abhiartoonsolutions/unleashing-creativity-the-power-of-unity-game-development-159g)
-- [Dev.to/JS] [What is VSCodium ? Better than VS code ?](https://dev.to/kartiikeyabaleneni/what-is-vscodium-better-than-vs-code--36cl)
-- [Dev.to/JS] [Vanilla JS vs REACT JS](https://dev.to/cristian_alaniz/vanilla-js-vs-react-js-4j4l)
-- [Dev.to/JS] [GraphQL vs REST: Unraveling the Key Differences and Use Cases](https://dev.to/codesensei/graphql-vs-rest-unraveling-the-key-differences-and-use-cases-1pk4)
-- [Dev.to/JS] [seeking help for vanilla js code](https://dev.to/rajbhoyar729/seeking-help-for-vanilla-js-code-48a7)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
 - [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
