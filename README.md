@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 7 Must-Have JavaScript Web APIs! 🚀🌐](https://dev.to/ihssmaheel/top-7-must-have-javascript-web-apis-5fn8)
+- [Dev.to/JS] [Project Optimisation with Webpack Bundle Analyzer](https://dev.to/melihs/project-optimisation-with-webpack-bundle-analyzer-2bnd)
+- [Dev.to/JS] [Mastering closures in JavaScript](https://dev.to/tahazsh/mastering-closures-in-javascript-1857)
 - [Dev.to/JS] [Evolution of JavaScript Frameworks and Libraries: Catalyzing Web Development](https://dev.to/outstandingvick/evolution-of-javascript-frameworks-and-libraries-catalyzing-web-development-5g35)
 - [Dev.to/JS] [Drawing the Line: When to Use Server and Client Components in Your Next.js App](https://dev.to/cybermaxi7/drawing-the-line-when-to-use-server-and-client-components-in-your-nextjs-app-27nd)
 - [Dev.to/JS] [Simple JavaScript Signal Concept](https://dev.to/nhannguyendevjs/simple-javascript-signal-concept-7k4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
 - [Dev.to/JS] [Just learned how to fetch api...](https://dev.to/mimis161x/just-learned-how-to-fetch-api-mic)
 - [Dev.to/JS] [Store and Run your Javascript Online - tryjs.online](https://dev.to/sunilmore690/store-and-run-your-javascript-online-tryjsonline-1400)
-- [Dev.to/JS] [Object vs Map](https://dev.to/7jw92nvd1klaq1/object-vs-map-oj0)
-- [Dev.to/JS] [I want to convert excel file to Json in angular 15 or 16 versions](https://dev.to/ajaysh11/i-want-to-convert-that-excel-file-to-json-in-angular-15-or-16-versions-59he)
-- [Dev.to/JS] [Adding dark mode to your app has never been this easy.](https://dev.to/swastikyadav/adding-dark-mode-to-your-app-has-never-been-this-easy-29dn)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
