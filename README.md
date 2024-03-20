@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Unlock The Future: Revolutionize Power BI With Microsoft Copilot Studio’s Advanced Chatbot Features](https://dev.to/technologycue/unlock-the-future-revolutionize-power-bi-with-microsoft-copilot-studios-advanced-chatbot-features-36nl)
 - [Dev.to/JS] [how to build responsive blogs card](https://dev.to/04anilr/how-to-build-responsive-blogs-card-4gnn)
 - [Dev.to/JS] [Started learning to react today any tips for day 1 ??](https://dev.to/aditya229k/started-learning-to-react-today-any-tips-for-day-1--3ncj)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vanilla JS vs REACT JS](https://dev.to/cristian_alaniz/vanilla-js-vs-react-js-4j4l)
 - [Dev.to/JS] [GraphQL vs REST: Unraveling the Key Differences and Use Cases](https://dev.to/codesensei/graphql-vs-rest-unraveling-the-key-differences-and-use-cases-1pk4)
 - [Dev.to/JS] [seeking help for vanilla js code](https://dev.to/rajbhoyar729/seeking-help-for-vanilla-js-code-48a7)
-- [Dev.to/JS] [Check if the Clipboard API is supported](https://dev.to/phuocng/check-if-the-clipboard-api-is-supported-2h85)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
 - [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Timothée Chalamet Memes](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-timothee-chalamet-memes)
 - [Lifehacker] [What&#39;s New on Hulu in April 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-april-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, March 19, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
 - [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
