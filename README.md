@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Robot framework](https://dev.to/algorytmus/robot-framework-41l7)
+- [Dev.to/JS] [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
+- [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
 - [Dev.to/JS] [Unveiling RecomendeMe.com.br: Revolutionizing Cultural Recommendations](https://dev.to/sampseiol1/unveiling-recomendemecombr-revolutionizing-cultural-recommendations-338b)
 - [Dev.to/JS] [Configurar entorno de desarrollo en Visual Studio Code para hacer Testing con Jest](https://dev.to/ccdosorio/configurar-entorno-de-desarrollo-en-visual-studio-code-para-hacer-testing-con-jest-541d)
 - [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
 - [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
-- [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)
-- [Lifehacker] [Apple Just Released Details About Its New MM1 AI Model](https://lifehacker.com/tech/apple-released-details-about-its-new-mm1-ai-model)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)<!-- TECH-POSTS:END -->
 
 ---
 
