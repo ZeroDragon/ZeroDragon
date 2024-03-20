@@ -26,25 +26,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Glides: Understanding ServiceNow Glide APIs-The Difference between GlideAjax vs GlideRecord](https://dev.to/sophiasemga/the-glides-understanding-servicenow-glide-apis-the-difference-between-glideajax-vs-gliderecord-179m)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/jonascricksonn/buy-negative-google-reviews-2gid)
+- [Dev.to/JS] [Nullinjectorerror no provider for httpclient Angular 17 | How to fix this Error](https://dev.to/anilsingh/nullinjectorerror-no-provider-for-httpclient-angular-17-how-to-fix-this-error-21im)
+- [Dev.to/JS] [5 Things I learned from participating in 25+ hackathons &lpar;winning 7 of them&rpar;](https://dev.to/anurag_kochar/5-things-i-learned-from-participating-in-25-hackathons-winning-7-of-them-39no)
+- [Dev.to/JS] [Input Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/input-component-with-riotjs-material-design-30c4)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jonascricksonn/buy-google-5-star-reviews-4kci)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jonascricksonn/buy-verified-cash-app-account-4iml)
+- [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/jonascricksonn/buy-verified-paxful-account-557d)
+- [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)
 - [Lifehacker] [The Hidden Benefits of a Robotic Lawn Mower](https://lifehacker.com/home/hidden-benefits-of-robotic-lawnmowers)
 - [Dev.to/JS] [Building Nirmol: A Bangla Offensive Language Detection API and Dataset](https://dev.to/sigmakib2/building-nirmol-a-bangla-offensive-language-detection-api-and-dataset-3g9e)
 - [Dev.to/JS] [TinyMCE 7 - Revision History, Document Converters, Markdown and more!](https://dev.to/tinymce/tinymce-7-revision-history-document-converters-markdown-and-more-551n)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/flash-pro-plus-power-bank-sale)
 - [Dev.to/JS] [Reducing Bundle size of a Frontend application by optimizing Lodash imports](https://dev.to/justanordinaryperson/reducing-bundle-size-of-a-frontend-application-by-optimizing-lodash-imports-4299)
 - [Dev.to/JS] [⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8)
-- [Dev.to/JS] [Descomplicando a Busca Binária](https://dev.to/paulinhoprado/descomplicando-a-busca-binaria-2mbo)
 - [Lifehacker] [Beware of &#39;Deferred Interest&#39; Promotions](https://lifehacker.com/money/beware-deferred-interest-promotions)
 - [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)
 - [Lifehacker] [What People Are Getting Wrong This Week: Good Vs. Bad Movies](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-good-vs-bad-movies)
-- [Dev.to/JS] [Prototype and Prototypical Inheritance](https://dev.to/hesxo/prototype-and-prototypical-inheritance-51e3)
-- [Dev.to/JS] [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
-- [Dev.to/JS] [Web Development Training: Unlocking the Secrets of Success](https://dev.to/ppaannkkaajj9927/web-development-training-unlocking-the-secrets-of-success-367n)
 - [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)
-- [Dev.to/JS] [Go88vi vip](https://dev.to/go88vivipvn/go88vi-vip-4e5m)
-- [Dev.to/JS] [Advantages of Node js](https://dev.to/mileswebhosting/advantages-of-node-js-18ea)
 - [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)
-- [Dev.to/JS] [Understanding JavaScript Classes: A Beginner&#39;s Guide](https://dev.to/hkp22/understanding-javascript-classes-a-beginners-guide-8ki)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $50 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
 - [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)
 - [Lifehacker] [The Best Gadgets to Make Spring Cleaning Actually Kind of Fun](https://lifehacker.com/home/best-spring-cleaning-products)
-- [Lifehacker] [Leviton’s New EV Charger Has Plug-in Capability](https://lifehacker.com/travel/leviton-new-ev-charger-plugs-in-regular-outlet)
-- [Lifehacker] [The New Airthings Smart Air Purifier Is Worth Its $400 Price Tag](https://lifehacker.com/tech/airthings-smart-air-purifier-review)
-- [Lifehacker] [Five Surprising Ways You Can Use Plasti Dip Around the House](https://lifehacker.com/home/best-ways-to-use-plasti-dip)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Leviton’s New EV Charger Has Plug-in Capability](https://lifehacker.com/travel/leviton-new-ev-charger-plugs-in-regular-outlet)<!-- TECH-POSTS:END -->
 
 ---
 
