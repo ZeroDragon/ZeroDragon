@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vanilla JS vs REACT JS](https://dev.to/cristian_alaniz/vanilla-js-vs-react-js-4j4l)
+- [Dev.to/JS] [GraphQL vs REST: Unraveling the Key Differences and Use Cases](https://dev.to/codesensei/graphql-vs-rest-unraveling-the-key-differences-and-use-cases-1pk4)
+- [Dev.to/JS] [seeking help for vanilla js code](https://dev.to/rajbhoyar729/seeking-help-for-vanilla-js-code-48a7)
 - [Dev.to/JS] [Check if the Clipboard API is supported](https://dev.to/phuocng/check-if-the-clipboard-api-is-supported-2h85)
 - [Dev.to/JS] [Do you know 0.1 + 0.2 is not 0.3?](https://dev.to/doantrongnam/do-you-know-01-02-is-not-03-5e2o)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
@@ -40,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Humbuger menu using Html, css and JavaScript](https://dev.to/ifymiracle/how-to-create-a-humbuger-menu-using-html-css-and-javascript-3ehd)
 - [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
 - [Dev.to/JS] [Playing Bad Apple! by throwing Javascript errors](https://dev.to/roveroniandrea/playing-bad-apple-by-throwing-javascript-errors-ip1)
-- [Dev.to/JS] [My Journey with Andela&#39;s Technical Leadership Program: Learning to Thrive in Software Engineering](https://dev.to/thatdudewhocodes/my-journey-with-andelas-technical-leadership-program-learning-to-thrive-in-software-engineering-4dmj)
 - [Lifehacker] [YouTube Now Requires Creators to Label Videos Made With Generative AI](https://lifehacker.com/tech/youtube-requires-creators-to-label-videos-made-with-generative-ai)
-- [Dev.to/JS] [Interview: Post-Bootcamp Success Story](https://dev.to/brittleestill/interview-post-bootcamp-success-story-2ih2)
-- [Dev.to/JS] [Understanding JavaScript Promises and Callbacks](https://dev.to/jenishdabhi/understanding-javascript-promises-and-callbacks-p2n)
 - [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
 - [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
 - [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
