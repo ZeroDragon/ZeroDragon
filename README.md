@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cover Letters &amp; OpenAI](https://dev.to/paolov1928/cover-letters-openai-18g)
+- [Dev.to/JS] [Sensor APIs](https://dev.to/ssukhpinder/sensor-apis-1275)
+- [Dev.to/JS] [Como fiz o Infinite Craft ser multiplayer com algumas linhas de código](https://dev.to/vtnorton/como-fiz-o-infinite-craft-ser-multiplayer-com-algumas-linhas-de-codigo-30d)
+- [Dev.to/JS] [How to Build Wayfair Price Tracker](https://dev.to/crawlbase/how-to-build-wayfair-price-tracker-2dmj)
+- [Dev.to/JS] [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
+- [Dev.to/JS] [Difference between Objects and Arrays in Javascript](https://dev.to/justinw7/difference-between-objects-and-arrays-in-javascript-3ja3)
+- [Dev.to/JS] [Javascript for beginners 🚀](https://dev.to/karthik_kumar/javascript-for-beginners-16hk)
+- [Dev.to/JS] [You Just Use console.log? Buckle Up, Console Newbie!](https://dev.to/best_codes/you-just-use-consolelog-buckle-up-console-newbie-31b5)
+- [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
 - [Dev.to/JS] [The Glides: Understanding ServiceNow Glide APIs-The Difference between GlideAjax vs GlideRecord](https://dev.to/sophiasemga/the-glides-understanding-servicenow-glide-apis-the-difference-between-glideajax-vs-gliderecord-179m)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/jonascricksonn/buy-negative-google-reviews-2gid)
 - [Dev.to/JS] [Nullinjectorerror no provider for httpclient Angular 17 | How to fix this Error](https://dev.to/anilsingh/nullinjectorerror-no-provider-for-httpclient-angular-17-how-to-fix-this-error-21im)
 - [Dev.to/JS] [5 Things I learned from participating in 25+ hackathons &lpar;winning 7 of them&rpar;](https://dev.to/anurag_kochar/5-things-i-learned-from-participating-in-25-hackathons-winning-7-of-them-39no)
-- [Dev.to/JS] [Input Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/input-component-with-riotjs-material-design-30c4)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jonascricksonn/buy-google-5-star-reviews-4kci)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jonascricksonn/buy-verified-cash-app-account-4iml)
+- [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
 - [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/jonascricksonn/buy-verified-paxful-account-557d)
 - [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)
 - [Lifehacker] [The Hidden Benefits of a Robotic Lawn Mower](https://lifehacker.com/home/hidden-benefits-of-robotic-lawnmowers)
-- [Dev.to/JS] [Building Nirmol: A Bangla Offensive Language Detection API and Dataset](https://dev.to/sigmakib2/building-nirmol-a-bangla-offensive-language-detection-api-and-dataset-3g9e)
-- [Dev.to/JS] [TinyMCE 7 - Revision History, Document Converters, Markdown and more!](https://dev.to/tinymce/tinymce-7-revision-history-document-converters-markdown-and-more-551n)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/flash-pro-plus-power-bank-sale)
-- [Dev.to/JS] [Reducing Bundle size of a Frontend application by optimizing Lodash imports](https://dev.to/justanordinaryperson/reducing-bundle-size-of-a-frontend-application-by-optimizing-lodash-imports-4299)
-- [Dev.to/JS] [⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8)
 - [Lifehacker] [Beware of &#39;Deferred Interest&#39; Promotions](https://lifehacker.com/money/beware-deferred-interest-promotions)
 - [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)
 - [Lifehacker] [What People Are Getting Wrong This Week: Good Vs. Bad Movies](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-good-vs-bad-movies)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
 - [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)
 - [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
-- [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)
-- [Lifehacker] [The Best Gadgets to Make Spring Cleaning Actually Kind of Fun](https://lifehacker.com/home/best-spring-cleaning-products)
-- [Lifehacker] [Leviton’s New EV Charger Has Plug-in Capability](https://lifehacker.com/travel/leviton-new-ev-charger-plugs-in-regular-outlet)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)<!-- TECH-POSTS:END -->
 
 ---
 
