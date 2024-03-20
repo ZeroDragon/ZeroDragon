@@ -26,22 +26,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intersection Observer API](https://dev.to/ethernmyth/intersection-observer-api-20kd)
+- [Dev.to/JS] [Payment Request API](https://dev.to/ethernmyth/payment-request-api-dkj)
+- [Dev.to/JS] [One Byte Explainer: matchMedia](https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5)
+- [Dev.to/JS] [Web Audio API](https://dev.to/ethernmyth/web-audio-api-bel)
+- [Dev.to/JS] [Shadow DOM API](https://dev.to/sarahokolo/shadow-dom-api-2jim)
+- [Dev.to/JS] [Service Worker API](https://dev.to/ethernmyth/service-worker-api-4a46)
+- [Lifehacker] [The Best Spring Break Travel Essentials From Amazon&#39;s Big Spring Sale](https://lifehacker.com/travel/best-travel-deals-amazon-spring-sale)
 - [Dev.to/JS] [Como usar Eslint](https://dev.to/rafaelcitario/como-usar-eslint-3p9a)
+- [Lifehacker] [These Robot Vacuums Are up to 48% Off During Amazon’s Big Spring Sale](https://lifehacker.com/home/amazon-big-spring-sale-robot-vacuums)
 - [Dev.to/JS] [Lessons from open-source: Algorithm behind `“next buuild” does not exist. Did you mean “next build”?`](https://dev.to/ramunarasinga/lessons-from-open-source-algorithm-behind-next-buuild-does-not-exist-did-you-mean-next-build-36c0)
 - [Dev.to/JS] [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
+- [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)
 - [Dev.to/JS] [My Markup Activity](https://dev.to/ethernmyth/glam-up-my-markup-56i0)
 - [Dev.to/JS] [Fly Web API One Byte Challenge](https://dev.to/srmoola/fly-web-api-one-byte-challenge-202p)
+- [Lifehacker] [These Switchbot Smart Home Devices Are up to 53% Off Right Now](https://lifehacker.com/tech/switchbot-smart-home-products-sale)
 - [Dev.to/JS] [Screen Orientantation API Byte Challenge](https://dev.to/srmoola/screen-orientantation-api-byte-challenge-gf2)
-- [Dev.to/JS] [What do you major in? I am a student and I need help](https://dev.to/abda24/what-do-you-major-in-i-am-a-student-and-i-need-help-52kh)
 - [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
-- [Dev.to/JS] [Local Storage](https://dev.to/ethernmyth/local-storage-4j48)
-- [Dev.to/JS] [A Developer&#39;s Guide To Setting Boundaries](https://dev.to/r1ch4rd_donovan/a-developers-guide-to-setting-boundaries-4c06)
 - [Lifehacker] [These Fitness Smartwatches Are 25% Off for Amazon’s Big Spring Deals](https://lifehacker.com/health/best-smartwatch-deals-for-amazon-big-spring-day)
-- [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 1](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-1-1cc3)
-- [Dev.to/JS] [Fetch Api](https://dev.to/shivangip285/fetch-api-36oc)
 - [Lifehacker] [26 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)
 - [Lifehacker] [My Favorite Kitchen Essentials From Amazon&#39;s Spring Sale](https://lifehacker.com/food-drink/kitchen-essentials-amazon-spring-sale)
-- [Dev.to/JS] [Trie not Tree &lpar;Data structure&rpar;](https://dev.to/ajithr116/trie-not-tree-data-structure-1kaj)
 - [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)
 - [Lifehacker] [The Best Android Smartphones Deals During Amazon’s Spring Sale](https://lifehacker.com/tech/best-deals-on-android-smartphones-during-amazon-spring-sale)
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
 - [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
 - [Lifehacker] [Make a ‘Winter BLT’ With Chunky Tomato Sauce](https://lifehacker.com/food-drink/winter-blt-with-chunky-tomato-sauce)
-- [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
-- [Lifehacker] [YouTube Now Requires Creators to Label Videos Made With Generative AI](https://lifehacker.com/tech/youtube-requires-creators-to-label-videos-made-with-generative-ai)
-- [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
-- [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
-- [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)<!-- TECH-POSTS:END -->
 
 ---
 
