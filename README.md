@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Glam Up My Markup](https://dev.to/ethernmyth/glam-up-my-markup-56i0)
+- [Dev.to/JS] [Como usar Eslint](https://dev.to/rafaelcitario/como-usar-eslint-3p9a)
+- [Dev.to/JS] [Lessons from open-source: Algorithm behind `“next buuild” does not exist. Did you mean “next build”?`](https://dev.to/ramunarasinga/lessons-from-open-source-algorithm-behind-next-buuild-does-not-exist-did-you-mean-next-build-36c0)
+- [Dev.to/JS] [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
+- [Dev.to/JS] [My Markup Activity](https://dev.to/ethernmyth/glam-up-my-markup-56i0)
 - [Dev.to/JS] [Fly Web API One Byte Challenge](https://dev.to/srmoola/fly-web-api-one-byte-challenge-202p)
 - [Dev.to/JS] [Screen Orientantation API Byte Challenge](https://dev.to/srmoola/screen-orientantation-api-byte-challenge-gf2)
 - [Dev.to/JS] [What do you major in? I am a student and I need help](https://dev.to/abda24/what-do-you-major-in-i-am-a-student-and-i-need-help-52kh)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [26 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)
 - [Lifehacker] [My Favorite Kitchen Essentials From Amazon&#39;s Spring Sale](https://lifehacker.com/food-drink/kitchen-essentials-amazon-spring-sale)
 - [Dev.to/JS] [Trie not Tree &lpar;Data structure&rpar;](https://dev.to/ajithr116/trie-not-tree-data-structure-1kaj)
-- [Dev.to/JS] [Drag and Drop feature in React](https://dev.to/coluzziandrea/drag-and-drop-feature-in-react-jpj)
 - [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)
-- [Dev.to/JS] [Cover Letters &amp; OpenAI](https://dev.to/paolov1928/cover-letters-openai-18g)
-- [Dev.to/JS] [Sensor APIs](https://dev.to/ssukhpinder/sensor-apis-1275)
 - [Lifehacker] [The Best Android Smartphones Deals During Amazon’s Spring Sale](https://lifehacker.com/tech/best-deals-on-android-smartphones-during-amazon-spring-sale)
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
 - [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
