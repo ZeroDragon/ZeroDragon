@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Local Storage](https://dev.to/ethernmyth/local-storage-4j48)
+- [Dev.to/JS] [A Developer&#39;s Guide To Setting Boundaries](https://dev.to/r1ch4rd_donovan/a-developers-guide-to-setting-boundaries-4c06)
+- [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 1](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-1-1cc3)
+- [Dev.to/JS] [Fetch Api](https://dev.to/shivangip285/fetch-api-36oc)
+- [Lifehacker] [26 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)
+- [Lifehacker] [My Favorite Kitchen Essentials From Amazon&#39;s Spring Sale](https://lifehacker.com/food-drink/kitchen-essentials-amazon-spring-sale)
 - [Dev.to/JS] [Trie not Tree &lpar;Data structure&rpar;](https://dev.to/ajithr116/trie-not-tree-data-structure-1kaj)
 - [Dev.to/JS] [Drag and Drop feature in React](https://dev.to/coluzziandrea/drag-and-drop-feature-in-react-jpj)
 - [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Android Smartphones Deals During Amazon’s Spring Sale](https://lifehacker.com/tech/best-deals-on-android-smartphones-during-amazon-spring-sale)
 - [Dev.to/JS] [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
 - [Dev.to/JS] [Difference between Objects and Arrays in Javascript](https://dev.to/justinw7/difference-between-objects-and-arrays-in-javascript-3ja3)
-- [Dev.to/JS] [Javascript for beginners 🚀](https://dev.to/karthik_kumar/javascript-for-beginners-16hk)
-- [Dev.to/JS] [You Just Use console.log? Buckle Up, Console Newbie!](https://dev.to/best_codes/you-just-use-consolelog-buckle-up-console-newbie-31b5)
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
-- [Dev.to/JS] [The Glides: Understanding ServiceNow Glide APIs-The Difference between GlideAjax vs GlideRecord](https://dev.to/sophiasemga/the-glides-understanding-servicenow-glide-apis-the-difference-between-glideajax-vs-gliderecord-179m)
-- [Dev.to/JS] [Nullinjectorerror no provider for httpclient Angular 17 | How to fix this Error](https://dev.to/anilsingh/nullinjectorerror-no-provider-for-httpclient-angular-17-how-to-fix-this-error-21im)
 - [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
 - [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
 - [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
 - [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
 - [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
-- [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)
-- [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
-- [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)<!-- TECH-POSTS:END -->
 
 ---
 
