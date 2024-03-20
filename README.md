@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Dev.to/JS] [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
 - [Dev.to/JS] [Unveiling RecomendeMe.com.br: Revolutionizing Cultural Recommendations](https://dev.to/sampseiol1/unveiling-recomendemecombr-revolutionizing-cultural-recommendations-338b)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
-- [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)
-- [Lifehacker] [This Shark IQ Two-in-one Robot Vacuum Is 58% Off](https://lifehacker.com/home/shark-iq-2-in-1-robot-vacuum-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)<!-- TECH-POSTS:END -->
 
 ---
 
