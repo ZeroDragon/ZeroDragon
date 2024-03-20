@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlock The Future: Revolutionize Power BI With Microsoft Copilot Studio’s Advanced Chatbot Features](https://dev.to/technologycue/unlock-the-future-revolutionize-power-bi-with-microsoft-copilot-studios-advanced-chatbot-features-36nl)
+- [Dev.to/JS] [how to build responsive blogs card](https://dev.to/04anilr/how-to-build-responsive-blogs-card-4gnn)
+- [Dev.to/JS] [Started learning to react today any tips for day 1 ??](https://dev.to/aditya229k/started-learning-to-react-today-any-tips-for-day-1--3ncj)
 - [Dev.to/JS] [How Accurate is AI Text Generator in Generating Human-like Text?](https://dev.to/yagnapandya9/how-accurate-is-ai-text-generator-in-generating-human-like-text-2pbp)
 - [Dev.to/JS] [JavaScript / ECMAScript Versions...](https://dev.to/avinashtechlvr/javascript-ecmascript-versions-m9n)
 - [Dev.to/JS] [What’s Preact and What’s the Difference Between Preact and React?](https://dev.to/shariqahmed525/whats-preact-and-whats-the-difference-between-preact-and-react-33pd)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL vs REST: Unraveling the Key Differences and Use Cases](https://dev.to/codesensei/graphql-vs-rest-unraveling-the-key-differences-and-use-cases-1pk4)
 - [Dev.to/JS] [seeking help for vanilla js code](https://dev.to/rajbhoyar729/seeking-help-for-vanilla-js-code-48a7)
 - [Dev.to/JS] [Check if the Clipboard API is supported](https://dev.to/phuocng/check-if-the-clipboard-api-is-supported-2h85)
-- [Dev.to/JS] [Do you know 0.1 + 0.2 is not 0.3?](https://dev.to/doantrongnam/do-you-know-01-02-is-not-03-5e2o)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
-- [Dev.to/JS] [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
-- [Dev.to/JS] [Unveiling RecomendeMe.com.br: Revolutionizing Cultural Recommendations](https://dev.to/sampseiol1/unveiling-recomendemecombr-revolutionizing-cultural-recommendations-338b)
 - [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
 - [Lifehacker] [Make a ‘Winter BLT’ With Chunky Tomato Sauce](https://lifehacker.com/food-drink/winter-blt-with-chunky-tomato-sauce)
 - [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
