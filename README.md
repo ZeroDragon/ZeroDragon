@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prototype and Prototypical Inheritance](https://dev.to/hesxo/prototype-and-prototypical-inheritance-51e3)
+- [Dev.to/JS] [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
+- [Dev.to/JS] [Web Development Training: Unlocking the Secrets of Success](https://dev.to/ppaannkkaajj9927/web-development-training-unlocking-the-secrets-of-success-367n)
+- [Dev.to/JS] [Go88vi vip](https://dev.to/go88vivipvn/go88vi-vip-4e5m)
+- [Dev.to/JS] [Advantages of Node js](https://dev.to/mileswebhosting/advantages-of-node-js-18ea)
+- [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)
 - [Dev.to/JS] [Understanding JavaScript Classes: A Beginner&#39;s Guide](https://dev.to/hkp22/understanding-javascript-classes-a-beginners-guide-8ki)
 - [Dev.to/JS] [How Free 70-410 Practice Tests Help You Familiarize with Exam Structure](https://dev.to/hatenjus/how-free-70-410-practice-tests-help-you-familiarize-with-exam-structure-25o8)
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $50 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Dev.to/JS] [Top 7 Must-Have JavaScript Web APIs! 🚀🌐](https://dev.to/ihssmaheel/top-7-must-have-javascript-web-apis-5fn8)
 - [Dev.to/JS] [Project Optimisation with Webpack Bundle Analyzer](https://dev.to/melihs/project-optimisation-with-webpack-bundle-analyzer-2bnd)
 - [Dev.to/JS] [Mastering closures in JavaScript](https://dev.to/tahazsh/mastering-closures-in-javascript-1857)
 - [Dev.to/JS] [Evolution of JavaScript Frameworks and Libraries: Catalyzing Web Development](https://dev.to/outstandingvick/evolution-of-javascript-frameworks-and-libraries-catalyzing-web-development-5g35)
 - [Dev.to/JS] [Drawing the Line: When to Use Server and Client Components in Your Next.js App](https://dev.to/cybermaxi7/drawing-the-line-when-to-use-server-and-client-components-in-your-nextjs-app-27nd)
-- [Dev.to/JS] [Simple JavaScript Signal Concept](https://dev.to/nhannguyendevjs/simple-javascript-signal-concept-7k4)
-- [Dev.to/JS] [Responsive Navbar in React using shadcn/ui and Tailwind CSS](https://dev.to/shaikathaque/responsive-navbar-in-react-using-shadcnui-and-tailwind-css-4jc9)
-- [Dev.to/JS] [Conquer Every User Journey: Building Robust E2E Tests with Playwright- part 1](https://dev.to/teyim/conquer-every-user-journey-building-robust-e2e-tests-with-playwright-part-1-1nbg)
-- [Dev.to/JS] [Recommend a flexible Node.js multi-functional crawler library —— x-crawl](https://dev.to/coderhxl/recommend-a-flexible-nodejs-multi-functional-crawler-library-9dj)
-- [Dev.to/JS] [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This CARSULE Pop-Up Car Tent Is on Sale for $300 Right Now](https://lifehacker.com/carsule-popup-car-tent-sale)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-april-2024)
 - [Lifehacker] [Everything the Rumors Say About the PS5 Pro](https://lifehacker.com/tech/everything-we-know-about-the-ps5-pro-so-far)
-- [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
-- [Lifehacker] [The Easiest Ways to Make Your Home Network More Secure](https://lifehacker.com/home/how-to-make-your-home-security-system-and-wireless-network-safe)
-- [Lifehacker] [The Best SSDs You Can Buy for the PS5](https://lifehacker.com/tech/best-ssd-for-ps5)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)<!-- TECH-POSTS:END -->
 
 ---
 
