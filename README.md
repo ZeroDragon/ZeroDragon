@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Classes: A Beginner&#39;s Guide](https://dev.to/hkp22/understanding-javascript-classes-a-beginners-guide-8ki)
+- [Dev.to/JS] [How Free 70-410 Practice Tests Help You Familiarize with Exam Structure](https://dev.to/hatenjus/how-free-70-410-practice-tests-help-you-familiarize-with-exam-structure-25o8)
 - [Dev.to/JS] [Top 7 Must-Have JavaScript Web APIs! 🚀🌐](https://dev.to/ihssmaheel/top-7-must-have-javascript-web-apis-5fn8)
 - [Dev.to/JS] [Project Optimisation with Webpack Bundle Analyzer](https://dev.to/melihs/project-optimisation-with-webpack-bundle-analyzer-2bnd)
 - [Dev.to/JS] [Mastering closures in JavaScript](https://dev.to/tahazsh/mastering-closures-in-javascript-1857)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conquer Every User Journey: Building Robust E2E Tests with Playwright- part 1](https://dev.to/teyim/conquer-every-user-journey-building-robust-e2e-tests-with-playwright-part-1-1nbg)
 - [Dev.to/JS] [Recommend a flexible Node.js multi-functional crawler library —— x-crawl](https://dev.to/coderhxl/recommend-a-flexible-nodejs-multi-functional-crawler-library-9dj)
 - [Dev.to/JS] [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
-- [Dev.to/JS] [Just learned how to fetch api...](https://dev.to/mimis161x/just-learned-how-to-fetch-api-mic)
-- [Dev.to/JS] [Store and Run your Javascript Online - tryjs.online](https://dev.to/sunilmore690/store-and-run-your-javascript-online-tryjsonline-1400)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
