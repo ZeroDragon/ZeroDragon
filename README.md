@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Trie not Tree &lpar;Data structure&rpar;](https://dev.to/ajithr116/trie-not-tree-data-structure-1kaj)
+- [Dev.to/JS] [Drag and Drop feature in React](https://dev.to/coluzziandrea/drag-and-drop-feature-in-react-jpj)
+- [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)
 - [Dev.to/JS] [Cover Letters &amp; OpenAI](https://dev.to/paolov1928/cover-letters-openai-18g)
 - [Dev.to/JS] [Sensor APIs](https://dev.to/ssukhpinder/sensor-apis-1275)
 - [Dev.to/JS] [Como fiz o Infinite Craft ser multiplayer com algumas linhas de código](https://dev.to/vtnorton/como-fiz-o-infinite-craft-ser-multiplayer-com-algumas-linhas-de-codigo-30d)
 - [Dev.to/JS] [How to Build Wayfair Price Tracker](https://dev.to/crawlbase/how-to-build-wayfair-price-tracker-2dmj)
+- [Lifehacker] [The Best Android Smartphones Deals During Amazon’s Spring Sale](https://lifehacker.com/tech/best-deals-on-android-smartphones-during-amazon-spring-sale)
 - [Dev.to/JS] [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
 - [Dev.to/JS] [Difference between Objects and Arrays in Javascript](https://dev.to/justinw7/difference-between-objects-and-arrays-in-javascript-3ja3)
 - [Dev.to/JS] [Javascript for beginners 🚀](https://dev.to/karthik_kumar/javascript-for-beginners-16hk)
 - [Dev.to/JS] [You Just Use console.log? Buckle Up, Console Newbie!](https://dev.to/best_codes/you-just-use-consolelog-buckle-up-console-newbie-31b5)
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
 - [Dev.to/JS] [The Glides: Understanding ServiceNow Glide APIs-The Difference between GlideAjax vs GlideRecord](https://dev.to/sophiasemga/the-glides-understanding-servicenow-glide-apis-the-difference-between-glideajax-vs-gliderecord-179m)
-- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/jonascricksonn/buy-negative-google-reviews-2gid)
 - [Dev.to/JS] [Nullinjectorerror no provider for httpclient Angular 17 | How to fix this Error](https://dev.to/anilsingh/nullinjectorerror-no-provider-for-httpclient-angular-17-how-to-fix-this-error-21im)
-- [Dev.to/JS] [5 Things I learned from participating in 25+ hackathons &lpar;winning 7 of them&rpar;](https://dev.to/anurag_kochar/5-things-i-learned-from-participating-in-25-hackathons-winning-7-of-them-39no)
 - [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
 - [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
 - [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
 - [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
-- [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)
-- [Lifehacker] [The Difference Between FIRE and FILE &lpar;and Which Is Right for You&rpar;](https://lifehacker.com/money/difference-between-fire-and-file-which-is-right-for-you)
-- [Lifehacker] [Apple Is Working on a Mid-Range Version of the AirPods](https://lifehacker.com/tech/apple-working-on-mid-range-airpods-version)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Six Ways You Need to Maintain Your Chimney](https://lifehacker.com/home/six-ways-maintain-chimney)<!-- TECH-POSTS:END -->
 
 ---
 
