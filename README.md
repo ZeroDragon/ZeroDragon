@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Check if the Clipboard API is supported](https://dev.to/phuocng/check-if-the-clipboard-api-is-supported-2h85)
+- [Dev.to/JS] [Do you know 0.1 + 0.2 is not 0.3?](https://dev.to/doantrongnam/do-you-know-01-02-is-not-03-5e2o)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Dev.to/JS] [Exploring Inheritance in Object-Oriented Programming](https://dev.to/m__mdy__m/exploring-inheritance-in-object-oriented-programming-k0e)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
@@ -43,10 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interview: Post-Bootcamp Success Story](https://dev.to/brittleestill/interview-post-bootcamp-success-story-2ih2)
 - [Dev.to/JS] [Understanding JavaScript Promises and Callbacks](https://dev.to/jenishdabhi/understanding-javascript-promises-and-callbacks-p2n)
 - [Lifehacker] [The Meta Quest 2 Deals Keep Getting Better](https://lifehacker.com/entertainment/meta-quest-2-bundle-sale-on-amazon)
-- [Dev.to/JS] [Modernizing Your Restaurant: Developing an App with Enatega](https://dev.to/alvinal9/modernizing-your-restaurant-developing-an-app-with-enatega-6l6)
 - [Lifehacker] [Glassdoor Is Less Anonymous Than Ever Before](https://lifehacker.com/work/glassdoor-is-less-anonymous-than-ever-before)
 - [Lifehacker] [The 50 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
-- [Dev.to/JS] [MY GITHUB:](https://dev.to/soumilgit/my-github-328n)
 - [Lifehacker] [Use Tuckman&#39;s &#39;Phases of Development&#39; to Tackle Any Group Project](https://lifehacker.com/work/tuckmans-phases-of-development-for-group-projects)
 - [Lifehacker] [The Apple Watch Series 9 Is $100 Off](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Lifehacker] [MacOS 14.4 May Be Deleting Past Versions of Your Documents](https://lifehacker.com/tech/macos-144-has-a-bug-that-deletes-your-data)
