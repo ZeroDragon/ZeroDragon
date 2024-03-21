@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
+- [Lifehacker] [It&#39;s Not Safe to Click Links on X](https://lifehacker.com/tech/its-not-safe-to-click-links-on-x)
 - [Dev.to/JS] [Css](https://dev.to/muradofftehmez/css-1lb8)
 - [Lifehacker] [A Bunch of Nanoleaf Smart Lights Are 20% Off](https://lifehacker.com/tech/best-deals-nanoleaf-spring-sale)
 - [Dev.to/JS] [Intersection Observer API](https://dev.to/ethernmyth/intersection-observer-api-20kd)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $50 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
-- [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
-- [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)<!-- TECH-POSTS:END -->
 
 ---
 
