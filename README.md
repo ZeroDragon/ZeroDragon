@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The beginning of dsa-scripts](https://dev.to/fobabs/the-beginning-of-dsa-scripts-2kl5)
+- [Dev.to/JS] [EventSource best real-time update API!!](https://dev.to/kartikshukla17/eventsource-best-real-time-update-api-3bmh)
+- [Dev.to/JS] [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
+- [Dev.to/JS] [How does social media usage affect mental health, and what steps can individuals take to maintain a healthy online presence?](https://dev.to/yagnapandya9/how-does-social-media-usage-affect-mental-health-and-what-steps-can-individuals-take-to-maintain-a-healthy-online-presence-pfi)
+- [Dev.to/JS] [Much Compliance and Config](https://dev.to/renuo/much-compliance-and-config-2kda)
 - [Dev.to/JS] [Strategi Bermain Slots Online: Cara Cerdas Meraup Keuntungan Besar](https://dev.to/vilmawiggins/strategi-bermain-slots-online-cara-cerdas-meraup-keuntungan-besar-11ni)
 - [Dev.to/JS] [Harnessing the Power of Real-Time AI Conversations in Web Development](https://dev.to/nluxai/harnessing-the-power-of-real-time-ai-conversations-in-web-development-16l6)
 - [Dev.to/JS] [My new open-source repository to schedule all your content!](https://dev.to/nevodavid/my-new-open-source-repository-to-schedule-all-your-content-1neh)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The essence of { Fetch API JS } in 256 characters.](https://dev.to/juliettkhar/the-essence-of-fetch-api-js-in-256-characters-3ffm)
 - [Dev.to/JS] [Mastering Arrow Functions in JavaScript: Simplify Your Code with Concise Syntax and Lexical `this` Binding](https://dev.to/hkp22/mastering-arrow-functions-in-javascript-simplify-your-code-with-concise-syntax-and-lexical-this-binding-2cc5)
 - [Dev.to/JS] [Unleash the Power of Async/Await: Become a JavaScript Ninja!](https://dev.to/webdev-mohdamir/unleash-the-power-of-asyncawait-become-a-javascript-ninja-5054)
-- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/pocefac229/buy-amazon-reviews-ldi)
-- [Dev.to/JS] [JavaScript Template Literals](https://dev.to/fpaghar/javascript-template-literals-2j1p)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/pocefac229/buy-google-reviews-420f)
-- [Dev.to/JS] [What is Babel.js? Uses, Advantages, and Disadvantages](https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p)
-- [Dev.to/JS] [The Future of JavaScript with WebAssembly: A Beginner&#39;s Guide](https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
