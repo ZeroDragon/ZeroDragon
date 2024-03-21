@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Speech API - Simplified](https://dev.to/mondalsurojit/web-speech-api-simplified-g35)
+- [Dev.to/JS] [Crypto - Not your🐕coin API](https://dev.to/pathyatt/crypto-not-yourcoin-api-58ep)
+- [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
 - [Lifehacker] [It&#39;s Not Safe to Click Links on X](https://lifehacker.com/tech/its-not-safe-to-click-links-on-x)
 - [Dev.to/JS] [Css](https://dev.to/muradofftehmez/css-1lb8)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons from open-source: Algorithm behind `“next buuild” does not exist. Did you mean “next build”?`](https://dev.to/ramunarasinga/lessons-from-open-source-algorithm-behind-next-buuild-does-not-exist-did-you-mean-next-build-36c0)
 - [Dev.to/JS] [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
 - [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)
-- [Dev.to/JS] [My Markup Activity](https://dev.to/ethernmyth/glam-up-my-markup-56i0)
-- [Dev.to/JS] [Fly Web API One Byte Challenge](https://dev.to/srmoola/fly-web-api-one-byte-challenge-202p)
 - [Lifehacker] [These Switchbot Smart Home Devices Are up to 53% Off Right Now](https://lifehacker.com/tech/switchbot-smart-home-products-sale)
 - [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
 - [Lifehacker] [These Fitness Smartwatches Are 25% Off for Amazon’s Big Spring Deals](https://lifehacker.com/health/best-smartwatch-deals-for-amazon-big-spring-day)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)
 - [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $50 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)<!-- TECH-POSTS:END -->
 
 ---
 
