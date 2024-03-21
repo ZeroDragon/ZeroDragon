@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Codewars: Isogram Problem](https://dev.to/cleebenjamin/codewars-isogram-problem-3207)
+- [Dev.to/JS] [What JavaScript Is Used For](https://dev.to/umahichristopher/what-javascript-is-used-for-1e60)
+- [Dev.to/JS] [Headless WordPress vs. Traditional: Which Website is Right for You? A Showdown](https://dev.to/anikrouth/headless-wordpress-vs-traditional-which-website-is-right-for-you-a-showdown-26eh)
+- [Lifehacker] [How to Clean Your Filthy FineWoven iPhone Case](https://lifehacker.com/tech/how-to-clean-finewoven-iphone-case)
 - [Dev.to/JS] [Whispering Across Tabs: Broadcast Channel API Explained](https://dev.to/jaloplo/whispering-across-tabs-broadcast-channel-api-explained-ffe)
 - [Dev.to/JS] [WebRTC - One Byte Explainer](https://dev.to/carineneris/dev-challenge-one-byte-explainer-ig8)
 - [Dev.to/JS] [how to fetch API in react.js](https://dev.to/04anilr/how-to-fetch-api-in-reactjs-1p2k)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Libraries You Should Know if You Build with Angular: A Comedic Guide to Web Dev Enlightenment](https://dev.to/mtayade91/top-libraries-you-should-know-if-you-build-with-angular-a-comedic-guide-to-web-dev-enlightenment-3okg)
 - [Dev.to/JS] [The beginning of dsa-scripts](https://dev.to/fobabs/the-beginning-of-dsa-scripts-2kl5)
 - [Dev.to/JS] [EventSource best real-time update API!!](https://dev.to/kartikshukla17/eventsource-best-real-time-update-api-3bmh)
-- [Dev.to/JS] [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
-- [Dev.to/JS] [How does social media usage affect mental health, and what steps can individuals take to maintain a healthy online presence?](https://dev.to/yagnapandya9/how-does-social-media-usage-affect-mental-health-and-what-steps-can-individuals-take-to-maintain-a-healthy-online-presence-pfi)
-- [Dev.to/JS] [Much Compliance and Config](https://dev.to/renuo/much-compliance-and-config-2kda)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware of &#39;Deferred Interest&#39; Promotions](https://lifehacker.com/money/beware-deferred-interest-promotions)
 - [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)
 - [Lifehacker] [What People Are Getting Wrong This Week: Good Vs. Bad Movies](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-good-vs-bad-movies)
-- [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)
-- [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)<!-- TECH-POSTS:END -->
 
 ---
 
