@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
+- [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 2](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-2-4d56)
+- [Lifehacker] [Khai Dao Is the Sexy Bad Boy of Fried Eggs](https://lifehacker.com/food-drink/best-khai-dao-fried-egg-recipe)
 - [Dev.to/JS] [Sports Management Certification: Worth the Investment?](https://dev.to/sports123kal/sports-management-certification-worth-the-investment-55ik)
 - [Dev.to/JS] [Unlocking Success in Sports Administration: Strategies for Leaders](https://dev.to/sports123kal/unlocking-success-in-sports-administration-strategies-for-leaders-24gi)
 - [Dev.to/JS] [how to use dev.to article API](https://dev.to/04anilr/how-to-use-devto-article-api-i08)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a maintenance page that brings your site back to life when it&#39;s ready](https://dev.to/philw_/building-a-maintenance-page-that-brings-your-site-back-to-life-when-its-ready-2han)
 - [Dev.to/JS] [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
 - [Dev.to/JS] [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
-- [Dev.to/JS] [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
 - [Lifehacker] [When to Get a Tankless Water Heater &lpar;and When Not To&rpar;](https://lifehacker.com/money/when-to-get-a-tankless-water-heater-and-when-not-to)
-- [Dev.to/JS] [Unlocking Asynchronous Adventures with Fetch API](https://dev.to/rohanthamkewebdev/fetch-api-demystified-simplifying-asynchronous-data-retrieval-1gjn)
 - [Lifehacker] [Why the US Department of Justice Is Suing Apple](https://lifehacker.com/tech/department-of-justice-apple-lawsuit)
 - [Lifehacker] [When It’s Actually a Good Idea to Remove a Bathroom](https://lifehacker.com/money/when-to-remove-bathroom)
 - [Lifehacker] [How to Turn Your HomePod Mini Into a ‘Portable’ Speaker](https://lifehacker.com/tech/how-to-turn-homepod-mini-into-portable-speaker)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
 - [Lifehacker] [These Fitness Smartwatches Are 25% Off for Amazon’s Big Spring Deals](https://lifehacker.com/health/best-smartwatch-deals-for-amazon-big-spring-day)
 - [Lifehacker] [26 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)
-- [Lifehacker] [My Favorite Kitchen Essentials From Amazon&#39;s Spring Sale](https://lifehacker.com/food-drink/kitchen-essentials-amazon-spring-sale)
-- [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Favorite Kitchen Essentials From Amazon&#39;s Spring Sale](https://lifehacker.com/food-drink/kitchen-essentials-amazon-spring-sale)<!-- TECH-POSTS:END -->
 
 ---
 
