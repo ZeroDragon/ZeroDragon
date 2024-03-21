@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The essence of { Fetch API JS } in 256 characters.](https://dev.to/juliettkhar/the-essence-of-fetch-api-js-in-256-characters-3ffm)
+- [Dev.to/JS] [Mastering Arrow Functions in JavaScript: Simplify Your Code with Concise Syntax and Lexical `this` Binding](https://dev.to/hkp22/mastering-arrow-functions-in-javascript-simplify-your-code-with-concise-syntax-and-lexical-this-binding-2cc5)
+- [Dev.to/JS] [Unleash the Power of Async/Await: Become a JavaScript Ninja!](https://dev.to/webdev-mohdamir/unleash-the-power-of-asyncawait-become-a-javascript-ninja-5054)
+- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/pocefac229/buy-amazon-reviews-ldi)
+- [Dev.to/JS] [JavaScript Template Literals](https://dev.to/fpaghar/javascript-template-literals-2j1p)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/pocefac229/buy-google-reviews-420f)
 - [Dev.to/JS] [What is Babel.js? Uses, Advantages, and Disadvantages](https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p)
 - [Dev.to/JS] [The Future of JavaScript with WebAssembly: A Beginner&#39;s Guide](https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dev Challenge Completed](https://dev.to/itsjp/dev-challenge-completed-42e6)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/pocefac229/buy-verified-paxful-account-4o9d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Closures in JavaScript: A Simple and Clear Explanation](https://dev.to/nameismani/closures-in-javascript-4ocj)
-- [Dev.to/JS] [Simple Calculator App in HTML CSS and JavaScript](https://dev.to/hmawebdesign/simple-calculator-app-in-html-css-and-javascript-49c0)
-- [Dev.to/JS] [Creating a Responsive Navigation Bar: A Smooth Combination of JavaScript, HTML, and CSS](https://dev.to/ritespan04/creating-a-responsive-navigation-bar-a-smooth-combination-of-javascript-html-and-css-3pmh)
-- [Dev.to/JS] [Create Complete User Registration Form in PHP and MySQL](https://dev.to/hmawebdesign/create-complete-user-registration-form-in-php-and-mysql-3k8i)
-- [Dev.to/JS] [Factory Functions in Javascript: The How and Why](https://dev.to/heyjoshlee/factory-functions-in-javascript-the-how-and-why-1lg7)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
 - [Lifehacker] [It&#39;s Not Safe to Click Links on X](https://lifehacker.com/tech/its-not-safe-to-click-links-on-x)
