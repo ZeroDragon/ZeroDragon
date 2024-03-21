@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Fetch API Demystified: Simplifying Asynchronous Data Retrieval](https://dev.to/rohanthamkewebdev/fetch-api-demystified-simplifying-asynchronous-data-retrieval-1gjn)
+- [Dev.to/JS] [Building a maintenance page that brings your site back to life when it&#39;s ready](https://dev.to/philw_/building-a-maintenance-page-that-brings-your-site-back-to-life-when-its-ready-2han)
+- [Dev.to/JS] [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
+- [Dev.to/JS] [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
+- [Dev.to/JS] [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
+- [Lifehacker] [When to Get a Tankless Water Heater &lpar;and When Not To&rpar;](https://lifehacker.com/money/when-to-get-a-tankless-water-heater-and-when-not-to)
+- [Dev.to/JS] [Unlocking Asynchronous Adventures with Fetch API](https://dev.to/rohanthamkewebdev/fetch-api-demystified-simplifying-asynchronous-data-retrieval-1gjn)
 - [Dev.to/JS] [Graph &lpar;Matrix and list&rpar; Data structures](https://dev.to/ajithr116/graph-matrix-and-list-data-structures-44ga)
 - [Dev.to/JS] [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
+- [Lifehacker] [Why the US Department of Justice Is Suing Apple](https://lifehacker.com/tech/department-of-justice-apple-lawsuit)
 - [Lifehacker] [When It’s Actually a Good Idea to Remove a Bathroom](https://lifehacker.com/money/when-to-remove-bathroom)
 - [Dev.to/JS] [Simplificando o Desenvolvimento: Como Injeção de Dependências e Contêineres Transformam o Código](https://dev.to/joao_neto/simplificando-o-desenvolvimento-como-injecao-de-dependencias-e-conteineres-transformam-o-codigo-o9f)
 - [Dev.to/JS] [Capturing Code Brilliance: A Guide to Polacode - The Ultimate Screenshot Creator for VS Code](https://dev.to/infobijoy/capturing-code-brilliance-a-guide-to-polacode-the-ultimate-screenshot-creator-for-vs-code-57hd)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Your HomePod Mini Into a ‘Portable’ Speaker](https://lifehacker.com/tech/how-to-turn-homepod-mini-into-portable-speaker)
 - [Dev.to/JS] [Buy Verified CoinBase Account](https://dev.to/litomo9251/buy-verified-coinbase-account-3e27)
 - [Dev.to/JS] [Browser&#39;s Hidden Vault: Local Storage API 🗄️](https://dev.to/webdev-mohdamir/browsers-hidden-vault-local-storage-api-1j4n)
-- [Dev.to/JS] [DEV Challenge v24.03.20, Glam Up My Markup: Camp Activities](https://dev.to/sh20raj/dev-challenge-v240320-glam-up-my-markup-camp-activities-3565)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/litomo9251/buy-verified-cash-app-account-3ke9)
-- [Dev.to/JS] [Closures JavaScript](https://dev.to/dinhvankhoideveloper/closures-javascript-nj7)
-- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/litomo9251/buy-negative-google-reviews-1n9k)
 - [Lifehacker] [The Best VPNs If You Still Want to Watch Porn in Texas](https://lifehacker.com/tech/best-vpns-to-watch-porn-in-texas)
 - [Lifehacker] [Use the &#39;Days Since&#39; App to Quit Your Bad Habits](https://lifehacker.com/tech/use-days-since-app-to-quit-bad-habits)
 - [Lifehacker] [The Asus ROG Strix Scar 18 Is One of the Best Gaming Laptops I’ve Ever Used](https://lifehacker.com/tech/asus-rog-strix-scar-18-review-one-of-the-best-gaming-laptops-ive-used)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Tablets Are up to 35% Off During Amazon&#39;s Big Spring Sale](https://lifehacker.com/tech/samsung-lenovo-google-tablets-on-sale-at-amazon)
 - [Lifehacker] [The Best Android Smartphones Deals During Amazon’s Spring Sale](https://lifehacker.com/tech/best-deals-on-android-smartphones-during-amazon-spring-sale)
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
-- [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
-- [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
-- [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)<!-- TECH-POSTS:END -->
 
 ---
 
