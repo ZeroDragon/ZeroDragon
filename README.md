@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Whispering Across Tabs: Broadcast Channel API Explained](https://dev.to/jaloplo/whispering-across-tabs-broadcast-channel-api-explained-ffe)
+- [Dev.to/JS] [WebRTC - One Byte Explainer](https://dev.to/carineneris/dev-challenge-one-byte-explainer-ig8)
+- [Dev.to/JS] [how to fetch API in react.js](https://dev.to/04anilr/how-to-fetch-api-in-reactjs-1p2k)
+- [Lifehacker] [How to Stay Sane at a Culty Tech Company](https://lifehacker.com/work/how-to-stay-sane-at-a-culty-tech-company)
 - [Dev.to/JS] [The History API in 256 characters!](https://dev.to/mateusabelli/the-history-api-in-256-characters-435)
 - [Dev.to/JS] [Glam Up My MarkUp](https://dev.to/inuwa221/glam-up-my-markup-5f6g)
 - [Dev.to/JS] [Excellence Redefined: Best Web Development Training](https://dev.to/ppaannkkaajj9927/excellence-redefined-best-web-development-training-1l9e)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
 - [Dev.to/JS] [How does social media usage affect mental health, and what steps can individuals take to maintain a healthy online presence?](https://dev.to/yagnapandya9/how-does-social-media-usage-affect-mental-health-and-what-steps-can-individuals-take-to-maintain-a-healthy-online-presence-pfi)
 - [Dev.to/JS] [Much Compliance and Config](https://dev.to/renuo/much-compliance-and-config-2kda)
-- [Dev.to/JS] [Strategi Bermain Slots Online: Cara Cerdas Meraup Keuntungan Besar](https://dev.to/vilmawiggins/strategi-bermain-slots-online-cara-cerdas-meraup-keuntungan-besar-11ni)
-- [Dev.to/JS] [Harnessing the Power of Real-Time AI Conversations in Web Development](https://dev.to/nluxai/harnessing-the-power-of-real-time-ai-conversations-in-web-development-16l6)
-- [Dev.to/JS] [My new open-source repository to schedule all your content!](https://dev.to/nevodavid/my-new-open-source-repository-to-schedule-all-your-content-1neh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)
 - [Lifehacker] [What People Are Getting Wrong This Week: Good Vs. Bad Movies](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-good-vs-bad-movies)
 - [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)
-- [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $50 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between an MSI Claw and a Steam Deck](https://lifehacker.com/tech/msi-claw-versus-steam-deck-review)<!-- TECH-POSTS:END -->
 
 ---
 
