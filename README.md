@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Css](https://dev.to/muradofftehmez/css-1lb8)
+- [Lifehacker] [A Bunch of Nanoleaf Smart Lights Are 20% Off](https://lifehacker.com/tech/best-deals-nanoleaf-spring-sale)
 - [Dev.to/JS] [Intersection Observer API](https://dev.to/ethernmyth/intersection-observer-api-20kd)
+- [Lifehacker] [These Portable Generators and Solar Panels Are up to 40% Off During Amazon’s Big Spring Sale](https://lifehacker.com/tech/jackery-portable-generators-amazon-big-spring-sale)
 - [Dev.to/JS] [Payment Request API](https://dev.to/ethernmyth/payment-request-api-dkj)
 - [Dev.to/JS] [One Byte Explainer: matchMedia](https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5)
 - [Dev.to/JS] [Web Audio API](https://dev.to/ethernmyth/web-audio-api-bel)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Markup Activity](https://dev.to/ethernmyth/glam-up-my-markup-56i0)
 - [Dev.to/JS] [Fly Web API One Byte Challenge](https://dev.to/srmoola/fly-web-api-one-byte-challenge-202p)
 - [Lifehacker] [These Switchbot Smart Home Devices Are up to 53% Off Right Now](https://lifehacker.com/tech/switchbot-smart-home-products-sale)
-- [Dev.to/JS] [Screen Orientantation API Byte Challenge](https://dev.to/srmoola/screen-orientantation-api-byte-challenge-gf2)
 - [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
 - [Lifehacker] [These Fitness Smartwatches Are 25% Off for Amazon’s Big Spring Deals](https://lifehacker.com/health/best-smartwatch-deals-for-amazon-big-spring-day)
 - [Lifehacker] [26 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, March 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This 7-Inch Car Display Is on Sale for $79 Right Now](https://lifehacker.com/7-inch-car-display)
 - [Lifehacker] [This Samsung Smart Monitor Is $300 Off](https://lifehacker.com/tech/samsung-smart-monitor-deal)
-- [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)
-- [Lifehacker] [Make a ‘Winter BLT’ With Chunky Tomato Sauce](https://lifehacker.com/food-drink/winter-blt-with-chunky-tomato-sauce)
-- [Lifehacker] [You Can Get This Apple TV Remote With Raised Buttons for $40 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can’t Use AI to ‘Zoom and Enhance’ That Grainy Photo of Kate Middleton](https://lifehacker.com/tech/ai-zoom-and-enhance-doesnt-actually-work)<!-- TECH-POSTS:END -->
 
 ---
 
