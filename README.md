@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fetch API Demystified: Simplifying Asynchronous Data Retrieval](https://dev.to/rohanthamkewebdev/fetch-api-demystified-simplifying-asynchronous-data-retrieval-1gjn)
+- [Dev.to/JS] [Graph &lpar;Matrix and list&rpar; Data structures](https://dev.to/ajithr116/graph-matrix-and-list-data-structures-44ga)
+- [Dev.to/JS] [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
+- [Lifehacker] [When It’s Actually a Good Idea to Remove a Bathroom](https://lifehacker.com/money/when-to-remove-bathroom)
 - [Dev.to/JS] [Simplificando o Desenvolvimento: Como Injeção de Dependências e Contêineres Transformam o Código](https://dev.to/joao_neto/simplificando-o-desenvolvimento-como-injecao-de-dependencias-e-conteineres-transformam-o-codigo-o9f)
 - [Dev.to/JS] [Capturing Code Brilliance: A Guide to Polacode - The Ultimate Screenshot Creator for VS Code](https://dev.to/infobijoy/capturing-code-brilliance-a-guide-to-polacode-the-ultimate-screenshot-creator-for-vs-code-57hd)
 - [Dev.to/JS] [Intersection Observer API - One Byte Explainer](https://dev.to/highflyer910/intersection-observer-api-one-byte-explainer-3f5i)
+- [Lifehacker] [How to Turn Your HomePod Mini Into a ‘Portable’ Speaker](https://lifehacker.com/tech/how-to-turn-homepod-mini-into-portable-speaker)
 - [Dev.to/JS] [Buy Verified CoinBase Account](https://dev.to/litomo9251/buy-verified-coinbase-account-3e27)
 - [Dev.to/JS] [Browser&#39;s Hidden Vault: Local Storage API 🗄️](https://dev.to/webdev-mohdamir/browsers-hidden-vault-local-storage-api-1j4n)
 - [Dev.to/JS] [DEV Challenge v24.03.20, Glam Up My Markup: Camp Activities](https://dev.to/sh20raj/dev-challenge-v240320-glam-up-my-markup-camp-activities-3565)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures JavaScript](https://dev.to/dinhvankhoideveloper/closures-javascript-nj7)
 - [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/litomo9251/buy-negative-google-reviews-1n9k)
 - [Lifehacker] [The Best VPNs If You Still Want to Watch Porn in Texas](https://lifehacker.com/tech/best-vpns-to-watch-porn-in-texas)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/litomo9251/buy-google-5-star-reviews-1fpd)
-- [Dev.to/JS] [Crafting interactive reactions similar to Google Meet using HTML, CSS, and Vanilla JavaScript](https://dev.to/rodrigoantunes/creating-interactive-reactions-like-google-meet-with-html-css-and-vanilla-javascript-5213)
-- [Dev.to/JS] [Keeping HTML and JavaScript &lpar;and CSS&rpar; Fully Separated](https://dev.to/stevepenner/keeping-html-and-javascript-and-css-fully-separated-m6m)
 - [Lifehacker] [Use the &#39;Days Since&#39; App to Quit Your Bad Habits](https://lifehacker.com/tech/use-days-since-app-to-quit-bad-habits)
 - [Lifehacker] [The Asus ROG Strix Scar 18 Is One of the Best Gaming Laptops I’ve Ever Used](https://lifehacker.com/tech/asus-rog-strix-scar-18-review-one-of-the-best-gaming-laptops-ive-used)
 - [Lifehacker] [&#39;Psst&#39; Is a No-Nonsense Spotify Player](https://lifehacker.com/tech/psst-spotify-player-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Vacuums in Amazon&#39;s Big Spring Sale](https://lifehacker.com/home/best-vacuums-in-amazon-big-spring-sale)
 - [Lifehacker] [What&#39;s New on Netflix in April 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-april-2024)
 - [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
-- [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)
-- [Lifehacker] [The Hidden Benefits of a Robotic Lawn Mower](https://lifehacker.com/home/hidden-benefits-of-robotic-lawnmowers)
-- [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/flash-pro-plus-power-bank-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)<!-- TECH-POSTS:END -->
 
 ---
 
