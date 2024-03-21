@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How JSON Web Tokens Power Mobile Driver&#39;s Licenses](https://dev.to/tbdevs/how-json-web-tokens-power-mobile-drivers-licenses-31hp)
+- [Dev.to/JS] [Lessons from open-source: Use picocolors to format terminal output with colors](https://dev.to/ramunarasinga/lessons-from-open-source-use-picocolors-to-format-terminal-output-with-colors-9fp)
+- [Lifehacker] [This Is the Best Fire TV Deal From the Amazon Spring Day Sale](https://lifehacker.com/tech/best-fire-tv-deal-amazon-spring-day-sale)
+- [Dev.to/JS] [How JSON Web Tokens Power Mobile Driver&#39;s Licenses](https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp)
 - [Dev.to/JS] [Glam Up My Markup - Camp Form for kids](https://dev.to/pythonisnotasnake/glam-up-my-markup-camp-form-for-kids-1icd)
+- [Lifehacker] [This Meta Quest 2 Sale Now Includes a $50 Gift Card](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
 - [Lifehacker] [The Best Deals on Fitness Equipment From Amazon’s Big Spring Sale](https://lifehacker.com/health/best-fitness-deals-amazon-big-spring-sale)
 - [Dev.to/JS] [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
 - [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 2](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-2-4d56)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Headphone Deals From the Amazon Big Spring Sale](https://lifehacker.com/tech/best-headphone-deals-amazon-big-spring-sale)
 - [Lifehacker] [Google Just Killed One of Its Best Phone Features](https://lifehacker.com/tech/google-just-killed-one-of-its-best-phone-features)
 - [Lifehacker] [10 Ways to Update Your Porch or Patio on a Budget](https://lifehacker.com/home/10-ways-to-update-porch-patio-on-a-budget)
-- [Dev.to/JS] [Building a maintenance page that brings your site back to life when it&#39;s ready](https://dev.to/philw_/building-a-maintenance-page-that-brings-your-site-back-to-life-when-its-ready-2han)
 - [Lifehacker] [When to Get a Tankless Water Heater &lpar;and When Not To&rpar;](https://lifehacker.com/money/when-to-get-a-tankless-water-heater-and-when-not-to)
 - [Lifehacker] [Why the US Department of Justice Is Suing Apple](https://lifehacker.com/tech/department-of-justice-apple-lawsuit)
 - [Lifehacker] [When It’s Actually a Good Idea to Remove a Bathroom](https://lifehacker.com/money/when-to-remove-bathroom)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Robot Vacuums Are up to 48% Off During Amazon’s Big Spring Sale](https://lifehacker.com/home/amazon-big-spring-sale-robot-vacuums)
 - [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)
 - [Lifehacker] [These Switchbot Smart Home Devices Are up to 53% Off Right Now](https://lifehacker.com/tech/switchbot-smart-home-products-sale)
-- [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
-- [Lifehacker] [These Fitness Smartwatches Are 25% Off for Amazon’s Big Spring Deals](https://lifehacker.com/health/best-smartwatch-deals-for-amazon-big-spring-day)
-- [Lifehacker] [42 Deals in Amazon&#39;s Big Spring Sale Actually Worth Paying Attention To](https://lifehacker.com/tech/best-amazon-big-spring-sale-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)<!-- TECH-POSTS:END -->
 
 ---
 
