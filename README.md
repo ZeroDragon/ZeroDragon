@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m Getting an Error while creating an react app. Please help me to try to solve this error](https://dev.to/seema2000/im-getting-an-error-while-creating-an-react-app-please-help-me-to-try-to-solve-this-error-1c69)
+- [Dev.to/JS] [Deliciously Designed CSS Artistry at Its Finest](https://dev.to/gauharnawab/deliciously-designed-css-artistry-at-its-finest-56ed)
+- [Dev.to/JS] [How can AI &amp; Data Science businesses foster a culture of innovation and collaboration among their teams?](https://dev.to/yagnapandya9/how-can-ai-data-science-businesses-foster-a-culture-of-innovation-and-collaboration-among-their-teams-o6h)
+- [Dev.to/JS] [Simplifying State Management with Zustand: Updating Nested Objects](https://dev.to/fazle-rabbi-dev/simplifying-state-management-with-zustand-updating-nested-objects-521g)
+- [Dev.to/JS] [How to Create Weather App in PHP | OpenWeatherMap API](https://dev.to/hmawebdesign/how-to-create-weather-app-in-php-openweathermap-api-17lb)
 - [Dev.to/JS] [FETCH API](https://dev.to/sharmi2020/fetch-api-7nd)
 - [Dev.to/JS] [Web Storage API](https://dev.to/saivinaygondrala/web-storage-api-oc1)
 - [Dev.to/JS] [Geolocation API in 1min](https://dev.to/agrawalkeshav483/geolocation-api-in-1min-h57)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/fiwimev740/buy-google-reviews-3mic)
 - [Dev.to/JS] [Canvas API](https://dev.to/theabbie/canvas-api-1db7)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/fiwimev740/buy-google-voice-accounts-386i)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/fiwimev740/buy-google-5-star-reviews-1fem)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/fiwimev740/buy-verified-paxful-account-4d88)
-- [Dev.to/JS] [Clipboard API fallback](https://dev.to/phuocng/clipboard-api-fallback-nh7)
-- [Dev.to/JS] [Web Speech API - Simplified](https://dev.to/mondalsurojit/web-speech-api-simplified-g35)
-- [Dev.to/JS] [Crypto - Not your🐕coin API](https://dev.to/pathyatt/crypto-not-yourcoin-api-58ep)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
 - [Lifehacker] [It&#39;s Not Safe to Click Links on X](https://lifehacker.com/tech/its-not-safe-to-click-links-on-x)
