@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/litomo9251/buy-google-5-star-reviews-1fpd)
+- [Dev.to/JS] [Creating Interactive Reactions like Google Meet with HTML, CSS, and Vanilla JavaScript](https://dev.to/rodrigoantunes/creating-interactive-reactions-like-google-meet-with-html-css-and-vanilla-javascript-5213)
+- [Dev.to/JS] [Keeping HTML and JavaScript &lpar;and CSS&rpar; Fully Separated](https://dev.to/stevepenner/keeping-html-and-javascript-and-css-fully-separated-m6m)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/litomo9251/buy-verified-paxful-account-5ce5)
+- [Dev.to/JS] [NextJs and MongoDB setup | Mongoose | App Router](https://dev.to/thatanjan/nextjs-and-mongodb-setup-mongoose-app-router-16ec)
+- [Lifehacker] [The Asus ROG Strix Scar 18 Is One of the Best Gaming Laptops I’ve Ever Used](https://lifehacker.com/tech/asus-rog-strix-scar-18-review-one-of-the-best-gaming-laptops-ive-used)
 - [Dev.to/JS] [Codewars: Isogram Problem](https://dev.to/cleebenjamin/codewars-isogram-problem-3207)
 - [Dev.to/JS] [What JavaScript Is Used For](https://dev.to/umahichristopher/what-javascript-is-used-for-1e60)
+- [Lifehacker] [&#39;Psst&#39; Is a No-Nonsense Spotify Player](https://lifehacker.com/tech/psst-spotify-player-review)
 - [Dev.to/JS] [Headless WordPress vs. Traditional: Which Website is Right for You? A Showdown](https://dev.to/anikrouth/headless-wordpress-vs-traditional-which-website-is-right-for-you-a-showdown-26eh)
 - [Lifehacker] [How to Clean Your Filthy FineWoven iPhone Case](https://lifehacker.com/tech/how-to-clean-finewoven-iphone-case)
 - [Dev.to/JS] [Whispering Across Tabs: Broadcast Channel API Explained](https://dev.to/jaloplo/whispering-across-tabs-broadcast-channel-api-explained-ffe)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to fetch API in react.js](https://dev.to/04anilr/how-to-fetch-api-in-reactjs-1p2k)
 - [Lifehacker] [How to Stay Sane at a Culty Tech Company](https://lifehacker.com/work/how-to-stay-sane-at-a-culty-tech-company)
 - [Dev.to/JS] [The History API in 256 characters!](https://dev.to/mateusabelli/the-history-api-in-256-characters-435)
-- [Dev.to/JS] [Glam Up My MarkUp](https://dev.to/inuwa221/glam-up-my-markup-5f6g)
-- [Dev.to/JS] [Excellence Redefined: Best Web Development Training](https://dev.to/ppaannkkaajj9927/excellence-redefined-best-web-development-training-1l9e)
-- [Dev.to/JS] [Top Libraries You Should Know if You Build with Angular: A Comedic Guide to Web Dev Enlightenment](https://dev.to/mtayade91/top-libraries-you-should-know-if-you-build-with-angular-a-comedic-guide-to-web-dev-enlightenment-3okg)
-- [Dev.to/JS] [The beginning of dsa-scripts](https://dev.to/fobabs/the-beginning-of-dsa-scripts-2kl5)
-- [Dev.to/JS] [EventSource best real-time update API!!](https://dev.to/kartikshukla17/eventsource-best-real-time-update-api-3bmh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Hidden Benefits of a Robotic Lawn Mower](https://lifehacker.com/home/hidden-benefits-of-robotic-lawnmowers)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/flash-pro-plus-power-bank-sale)
 - [Lifehacker] [Beware of &#39;Deferred Interest&#39; Promotions](https://lifehacker.com/money/beware-deferred-interest-promotions)
-- [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)
-- [Lifehacker] [What People Are Getting Wrong This Week: Good Vs. Bad Movies](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-good-vs-bad-movies)
-- [Lifehacker] [Use the Eight Elements of the ‘Flow State’ to Be More Productive](https://lifehacker.com/work/how-to-use-the-flow-state)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)<!-- TECH-POSTS:END -->
 
 ---
 
