@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplificando o Desenvolvimento: Como Injeção de Dependências e Contêineres Transformam o Código](https://dev.to/joao_neto/simplificando-o-desenvolvimento-como-injecao-de-dependencias-e-conteineres-transformam-o-codigo-o9f)
+- [Dev.to/JS] [Capturing Code Brilliance: A Guide to Polacode - The Ultimate Screenshot Creator for VS Code](https://dev.to/infobijoy/capturing-code-brilliance-a-guide-to-polacode-the-ultimate-screenshot-creator-for-vs-code-57hd)
+- [Dev.to/JS] [Intersection Observer API - One Byte Explainer](https://dev.to/highflyer910/intersection-observer-api-one-byte-explainer-3f5i)
+- [Dev.to/JS] [Buy Verified CoinBase Account](https://dev.to/litomo9251/buy-verified-coinbase-account-3e27)
+- [Dev.to/JS] [Browser&#39;s Hidden Vault: Local Storage API 🗄️](https://dev.to/webdev-mohdamir/browsers-hidden-vault-local-storage-api-1j4n)
+- [Dev.to/JS] [DEV Challenge v24.03.20, Glam Up My Markup: Camp Activities](https://dev.to/sh20raj/dev-challenge-v240320-glam-up-my-markup-camp-activities-3565)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/litomo9251/buy-verified-cash-app-account-3ke9)
+- [Dev.to/JS] [Closures JavaScript](https://dev.to/dinhvankhoideveloper/closures-javascript-nj7)
+- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/litomo9251/buy-negative-google-reviews-1n9k)
+- [Lifehacker] [The Best VPNs If You Still Want to Watch Porn in Texas](https://lifehacker.com/tech/best-vpns-to-watch-porn-in-texas)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/litomo9251/buy-google-5-star-reviews-1fpd)
-- [Dev.to/JS] [Creating Interactive Reactions like Google Meet with HTML, CSS, and Vanilla JavaScript](https://dev.to/rodrigoantunes/creating-interactive-reactions-like-google-meet-with-html-css-and-vanilla-javascript-5213)
+- [Dev.to/JS] [Crafting interactive reactions similar to Google Meet using HTML, CSS, and Vanilla JavaScript](https://dev.to/rodrigoantunes/creating-interactive-reactions-like-google-meet-with-html-css-and-vanilla-javascript-5213)
 - [Dev.to/JS] [Keeping HTML and JavaScript &lpar;and CSS&rpar; Fully Separated](https://dev.to/stevepenner/keeping-html-and-javascript-and-css-fully-separated-m6m)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/litomo9251/buy-verified-paxful-account-5ce5)
-- [Dev.to/JS] [NextJs and MongoDB setup | Mongoose | App Router](https://dev.to/thatanjan/nextjs-and-mongodb-setup-mongoose-app-router-16ec)
+- [Lifehacker] [Use the &#39;Days Since&#39; App to Quit Your Bad Habits](https://lifehacker.com/tech/use-days-since-app-to-quit-bad-habits)
 - [Lifehacker] [The Asus ROG Strix Scar 18 Is One of the Best Gaming Laptops I’ve Ever Used](https://lifehacker.com/tech/asus-rog-strix-scar-18-review-one-of-the-best-gaming-laptops-ive-used)
-- [Dev.to/JS] [Codewars: Isogram Problem](https://dev.to/cleebenjamin/codewars-isogram-problem-3207)
-- [Dev.to/JS] [What JavaScript Is Used For](https://dev.to/umahichristopher/what-javascript-is-used-for-1e60)
 - [Lifehacker] [&#39;Psst&#39; Is a No-Nonsense Spotify Player](https://lifehacker.com/tech/psst-spotify-player-review)
-- [Dev.to/JS] [Headless WordPress vs. Traditional: Which Website is Right for You? A Showdown](https://dev.to/anikrouth/headless-wordpress-vs-traditional-which-website-is-right-for-you-a-showdown-26eh)
 - [Lifehacker] [How to Clean Your Filthy FineWoven iPhone Case](https://lifehacker.com/tech/how-to-clean-finewoven-iphone-case)
-- [Dev.to/JS] [Whispering Across Tabs: Broadcast Channel API Explained](https://dev.to/jaloplo/whispering-across-tabs-broadcast-channel-api-explained-ffe)
-- [Dev.to/JS] [WebRTC - One Byte Explainer](https://dev.to/carineneris/dev-challenge-one-byte-explainer-ig8)
-- [Dev.to/JS] [how to fetch API in react.js](https://dev.to/04anilr/how-to-fetch-api-in-reactjs-1p2k)
 - [Lifehacker] [How to Stay Sane at a Culty Tech Company](https://lifehacker.com/work/how-to-stay-sane-at-a-culty-tech-company)
-- [Dev.to/JS] [The History API in 256 characters!](https://dev.to/mateusabelli/the-history-api-in-256-characters-435)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Zapier&#39;s New Features Will Be a Hit With Automation Nerds](https://lifehacker.com/tech/zapier-new-features-hit-with-automation-nerds)
 - [Lifehacker] [Aqara’s New Smart Ceiling Light Can Do More Than Just Brighten a Room](https://lifehacker.com/tech/aqara-smart-ceiling-light-t1m-review)
 - [Lifehacker] [The Hidden Benefits of a Robotic Lawn Mower](https://lifehacker.com/home/hidden-benefits-of-robotic-lawnmowers)
-- [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/flash-pro-plus-power-bank-sale)
-- [Lifehacker] [Beware of &#39;Deferred Interest&#39; Promotions](https://lifehacker.com/money/beware-deferred-interest-promotions)
-- [Lifehacker] [This Year, Try Growing a ‘Goth Garden’](https://lifehacker.com/home/how-to-grow-a-goth-garden)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/flash-pro-plus-power-bank-sale)<!-- TECH-POSTS:END -->
 
 ---
 
