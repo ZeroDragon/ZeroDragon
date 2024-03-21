@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Storage Api](https://dev.to/devlawrence/web-storage-api-5bm1)
+- [Lifehacker] [The Best Deals on Coffee Makers and Accessories During Amazon’s Big Spring Sale](https://lifehacker.com/home/best-amazon-big-spring-sale-deals-on-coffee-makers)
+- [Lifehacker] [These Exercises Burn the Most Calories Per Hour](https://lifehacker.com/health/what-exercise-burns-the-most-calories)
 - [Dev.to/JS] [Lessons from open-source: Use picocolors to format terminal output with colors](https://dev.to/ramunarasinga/lessons-from-open-source-use-picocolors-to-format-terminal-output-with-colors-9fp)
 - [Lifehacker] [This Is the Best Fire TV Deal From the Amazon Spring Day Sale](https://lifehacker.com/tech/best-fire-tv-deal-amazon-spring-day-sale)
 - [Dev.to/JS] [How JSON Web Tokens Power Mobile Driver&#39;s Licenses](https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Browser Selection API 📝](https://dev.to/saakshiraut28/browser-selection-api-25d7)
 - [Dev.to/JS] [Getting Started with Lodash: A Beginner&#39;s Guide to JavaScript Utility Functions](https://dev.to/webjoe/getting-started-with-lodash-a-beginners-guide-to-javascript-utility-functions-386h)
 - [Dev.to/JS] [What JavaScript Is Used For](https://dev.to/umahichristopher/what-javascript-is-used-for-3fke)
-- [Dev.to/JS] [I need help with my wallet connect function for website.](https://dev.to/ykdbyjk/i-need-help-with-my-wallet-connect-function-for-website-fjf)
 - [Lifehacker] [The Best Headphone Deals From the Amazon Big Spring Sale](https://lifehacker.com/tech/best-headphone-deals-amazon-big-spring-sale)
 - [Lifehacker] [Google Just Killed One of Its Best Phone Features](https://lifehacker.com/tech/google-just-killed-one-of-its-best-phone-features)
 - [Lifehacker] [10 Ways to Update Your Porch or Patio on a Budget](https://lifehacker.com/home/10-ways-to-update-porch-patio-on-a-budget)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Portable Generators and Solar Panels Are up to 40% Off During Amazon’s Big Spring Sale](https://lifehacker.com/tech/jackery-portable-generators-amazon-big-spring-sale)
 - [Lifehacker] [The Best Spring Break Travel Essentials From Amazon&#39;s Big Spring Sale](https://lifehacker.com/travel/best-travel-deals-amazon-spring-sale)
 - [Lifehacker] [These Robot Vacuums Are up to 48% Off During Amazon’s Big Spring Sale](https://lifehacker.com/home/amazon-big-spring-sale-robot-vacuums)
-- [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)
-- [Lifehacker] [These Switchbot Smart Home Devices Are up to 53% Off Right Now](https://lifehacker.com/tech/switchbot-smart-home-products-sale)
-- [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)<!-- TECH-POSTS:END -->
 
 ---
 
