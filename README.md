@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The History API in 256 characters!](https://dev.to/mateusabelli/the-history-api-in-256-characters-435)
+- [Dev.to/JS] [Glam Up My MarkUp](https://dev.to/inuwa221/glam-up-my-markup-5f6g)
+- [Dev.to/JS] [Excellence Redefined: Best Web Development Training](https://dev.to/ppaannkkaajj9927/excellence-redefined-best-web-development-training-1l9e)
+- [Dev.to/JS] [Top Libraries You Should Know if You Build with Angular: A Comedic Guide to Web Dev Enlightenment](https://dev.to/mtayade91/top-libraries-you-should-know-if-you-build-with-angular-a-comedic-guide-to-web-dev-enlightenment-3okg)
 - [Dev.to/JS] [The beginning of dsa-scripts](https://dev.to/fobabs/the-beginning-of-dsa-scripts-2kl5)
 - [Dev.to/JS] [EventSource best real-time update API!!](https://dev.to/kartikshukla17/eventsource-best-real-time-update-api-3bmh)
 - [Dev.to/JS] [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strategi Bermain Slots Online: Cara Cerdas Meraup Keuntungan Besar](https://dev.to/vilmawiggins/strategi-bermain-slots-online-cara-cerdas-meraup-keuntungan-besar-11ni)
 - [Dev.to/JS] [Harnessing the Power of Real-Time AI Conversations in Web Development](https://dev.to/nluxai/harnessing-the-power-of-real-time-ai-conversations-in-web-development-16l6)
 - [Dev.to/JS] [My new open-source repository to schedule all your content!](https://dev.to/nevodavid/my-new-open-source-repository-to-schedule-all-your-content-1neh)
-- [Dev.to/JS] [My new open-source repository to schedule all your content!](https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-3lb)
-- [Dev.to/JS] [The essence of { Fetch API JS } in 256 characters.](https://dev.to/juliettkhar/the-essence-of-fetch-api-js-in-256-characters-3ffm)
-- [Dev.to/JS] [Mastering Arrow Functions in JavaScript: Simplify Your Code with Concise Syntax and Lexical `this` Binding](https://dev.to/hkp22/mastering-arrow-functions-in-javascript-simplify-your-code-with-concise-syntax-and-lexical-this-binding-2cc5)
-- [Dev.to/JS] [Unleash the Power of Async/Await: Become a JavaScript Ninja!](https://dev.to/webdev-mohdamir/unleash-the-power-of-asyncawait-become-a-javascript-ninja-5054)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
 - [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
