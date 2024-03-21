@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/fiwimev740/buy-google-5-star-reviews-1fem)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/fiwimev740/buy-verified-paxful-account-4d88)
+- [Dev.to/JS] [Clipboard API fallback](https://dev.to/phuocng/clipboard-api-fallback-nh7)
 - [Dev.to/JS] [Web Speech API - Simplified](https://dev.to/mondalsurojit/web-speech-api-simplified-g35)
 - [Dev.to/JS] [Crypto - Not your🐕coin API](https://dev.to/pathyatt/crypto-not-yourcoin-api-58ep)
 - [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shadow DOM API](https://dev.to/sarahokolo/shadow-dom-api-2jim)
 - [Dev.to/JS] [Service Worker API](https://dev.to/ethernmyth/service-worker-api-4a46)
 - [Lifehacker] [The Best Spring Break Travel Essentials From Amazon&#39;s Big Spring Sale](https://lifehacker.com/travel/best-travel-deals-amazon-spring-sale)
-- [Dev.to/JS] [Como usar Eslint](https://dev.to/rafaelcitario/como-usar-eslint-3p9a)
 - [Lifehacker] [These Robot Vacuums Are up to 48% Off During Amazon’s Big Spring Sale](https://lifehacker.com/home/amazon-big-spring-sale-robot-vacuums)
-- [Dev.to/JS] [Lessons from open-source: Algorithm behind `“next buuild” does not exist. Did you mean “next build”?`](https://dev.to/ramunarasinga/lessons-from-open-source-algorithm-behind-next-buuild-does-not-exist-did-you-mean-next-build-36c0)
-- [Dev.to/JS] [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
 - [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)
 - [Lifehacker] [These Switchbot Smart Home Devices Are up to 53% Off Right Now](https://lifehacker.com/tech/switchbot-smart-home-products-sale)
 - [Lifehacker] [The Samsung Odyssey G9 Gaming Monitor Is $500 Off](https://lifehacker.com/tech/samsung-odyssey-g9-gaming-monitor-sale)
