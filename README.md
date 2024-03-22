@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick Tip: Array of consecutive integers](https://dev.to/cortim/quick-tip-array-of-consecutive-integers-18bl)
+- [Dev.to/JS] [Quick Tip: Array of unique values](https://dev.to/cortim/quick-tip-array-of-unique-values-504b)
+- [Dev.to/JS] [Create PDFs with Tailwind](https://dev.to/onedoc/create-pdfs-with-tailwind-k0)
 - [Dev.to/JS] [Web Storage Api](https://dev.to/devlawrence/web-storage-api-5bm1)
 - [Lifehacker] [The Best Deals on Coffee Makers and Accessories During Amazon’s Big Spring Sale](https://lifehacker.com/home/best-amazon-big-spring-sale-deals-on-coffee-makers)
 - [Lifehacker] [These Exercises Burn the Most Calories Per Hour](https://lifehacker.com/health/what-exercise-burns-the-most-calories)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sports Management Certification: Worth the Investment?](https://dev.to/sports123kal/sports-management-certification-worth-the-investment-55ik)
 - [Dev.to/JS] [Unlocking Success in Sports Administration: Strategies for Leaders](https://dev.to/sports123kal/unlocking-success-in-sports-administration-strategies-for-leaders-24gi)
 - [Dev.to/JS] [how to use dev.to article API](https://dev.to/04anilr/how-to-use-devto-article-api-i08)
-- [Dev.to/JS] [Browser Selection API 📝](https://dev.to/saakshiraut28/browser-selection-api-25d7)
-- [Dev.to/JS] [Getting Started with Lodash: A Beginner&#39;s Guide to JavaScript Utility Functions](https://dev.to/webjoe/getting-started-with-lodash-a-beginners-guide-to-javascript-utility-functions-386h)
-- [Dev.to/JS] [What JavaScript Is Used For](https://dev.to/umahichristopher/what-javascript-is-used-for-3fke)
 - [Lifehacker] [The Best Headphone Deals From the Amazon Big Spring Sale](https://lifehacker.com/tech/best-headphone-deals-amazon-big-spring-sale)
 - [Lifehacker] [Google Just Killed One of Its Best Phone Features](https://lifehacker.com/tech/google-just-killed-one-of-its-best-phone-features)
 - [Lifehacker] [10 Ways to Update Your Porch or Patio on a Budget](https://lifehacker.com/home/10-ways-to-update-porch-patio-on-a-budget)
