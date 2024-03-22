@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement Promises/A+ from scratch](https://dev.to/techsum/implement-promisesa-from-scratch-1hlf)
+- [Dev.to/JS] [JavaScript Essentials Cheat Sheet with Explanations](https://dev.to/04anilr/javascript-essentials-cheat-sheet-with-explanations-n73)
+- [Dev.to/JS] [Typescript 🆚 NodeJS Runtime: Problemas e soluções na importação de módulos](https://dev.to/chlima88/typescript-nodejs-runtime-problemas-e-solucoes-na-importacao-de-modulos-3h14)
 - [Dev.to/JS] [como usar contextApi en react](https://dev.to/bearpoint/como-usar-contextapi-en-react-b2f)
 - [Dev.to/JS] [Squashing Mixed Content in Development with lcl.host](https://dev.to/anchordotdev/squashing-mixed-content-in-development-with-lclhost-17lj)
 - [Dev.to/JS] [How to Download Adobe Firefly Generative Fill Images Without Watermark](https://dev.to/pixelgig/how-to-download-adobe-firefly-generative-fill-images-without-watermark-3880)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DFS vs BFS](https://dev.to/ajithr116/dfs-vs-bfs-2jpd)
 - [Dev.to/JS] [Diving Into the JavaScript Jungle: Top 10 Projects to Tame in 2024 🌟](https://dev.to/rt68/diving-into-the-javascript-jungle-top-10-projects-to-tame-in-2024-1e7p)
 - [Dev.to/JS] [Meme Generator Sample With React](https://dev.to/fpaghar/meme-generator-sample-with-react-5fam)
-- [Dev.to/JS] [Aioewa](https://dev.to/stio/aioewa-2fe5)
-- [Dev.to/JS] [React Summit US](https://dev.to/gitnationorg/react-summit-us-2i18)
-- [Dev.to/JS] [React Advanced London is back on October 25 &amp; 28!](https://dev.to/gitnationorg/react-advanced-london-is-back-on-october-25-28-3eag)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
