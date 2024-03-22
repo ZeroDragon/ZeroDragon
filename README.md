@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master JavaScript Variables: Declare, Initialize, Types, and Naming Secrets!](https://dev.to/sidramaqbool/master-javascript-variables-declare-initialize-types-and-naming-secrets-4lnf)
+- [Dev.to/JS] [Master JavaScript Array Methods Like a Pro &lpar;Part-1&rpar;](https://dev.to/webdev-mohdamir/master-javascript-array-methods-like-a-pro-part-1-1f3j)
+- [Dev.to/JS] [Polymorphism in JavaScript](https://dev.to/nameismani/polymorphism-in-javascript-17p3)
+- [Dev.to/JS] [Riot Component Unit Test with Vitest &lpar;JsDom env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-jsdom-env-182l)
+- [Dev.to/JS] [What are the Challenges in AI Cryptocurrency Trading Bot Development? how it Handle](https://dev.to/rick_grimes/what-are-the-challenges-in-ai-cryptocurrency-trading-bot-development-how-it-handle-25h1)
 - [Dev.to/JS] [Javascript is Funny 😹](https://dev.to/femil/javascript-is-funny-5hfp)
 - [Dev.to/JS] [Sample Search Page with React, Next.js, Tailwind, and Libraries.io API](https://dev.to/fpaghar/sample-search-page-with-react-nextjs-tailwind-and-librariesio-api-4li)
 - [Dev.to/JS] [Web OTP Api - One byte Explainer](https://dev.to/criccode/web-otp-api-one-byte-explainer-50pm)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Innovative Way To Make money Instantly From Home](https://dev.to/reyana/innovative-way-to-make-money-instantly-from-home-nlm)
 - [Dev.to/JS] [Participating in The Collab Lab: Week #5 &amp; #6](https://dev.to/vivitt/participating-in-the-collab-lab-week-5-6-4ngc)
 - [Dev.to/JS] [Inheritance in JavaScript](https://dev.to/nameismani/inheritance-in-javascript-1n7h)
-- [Dev.to/JS] [Classes in JavaScript: Explained OOP&#39;s in JS](https://dev.to/nameismani/classes-in-javascript-explained-oops-in-js-29ia)
-- [Dev.to/JS] [Comparing Strings in JavaScript: How to check for Equal Normalized Values](https://dev.to/vivitt/comparing-strings-in-javascript-how-to-check-for-equal-normalized-values-1hma)
-- [Dev.to/JS] [Unleashing the Power of Actors in Frontend Application Development](https://dev.to/woodmarkdev/unleashing-the-power-of-actors-in-frontend-application-development-a9b)
-- [Dev.to/JS] [Full Service Digital Marketing Agency](https://dev.to/theorangeclub/full-service-digital-marketing-agency-3ajb)
-- [Dev.to/JS] [HOW TO INSTALL ERPNEXT VERSION 14.0 IN UBUNTU 22.04 – A STEP BY STEP GUIDE](https://dev.to/04anilr/how-to-install-erpnext-version-14-in-ubuntu-2204-a-step-by-step-guide-43bn)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
