@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Animations API](https://dev.to/rodrigoantunes/web-animation-api-30h2)
+- [Dev.to/JS] [Quick Tip: Find if array has duplicates](https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80)
+- [Dev.to/JS] [Quick Tip: Flattening a multidimensional array](https://dev.to/cortim/quick-tip-flattening-a-multidimensional-array-453c)
 - [Dev.to/JS] [Quick Tip: Array of consecutive integers](https://dev.to/cortim/quick-tip-array-of-consecutive-integers-18bl)
 - [Dev.to/JS] [Quick Tip: Array of unique values](https://dev.to/cortim/quick-tip-array-of-unique-values-504b)
 - [Dev.to/JS] [Create PDFs with Tailwind](https://dev.to/onedoc/create-pdfs-with-tailwind-k0)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
 - [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 2](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-2-4d56)
 - [Lifehacker] [Khai Dao Is the Sexy Bad Boy of Fried Eggs](https://lifehacker.com/food-drink/best-khai-dao-fried-egg-recipe)
-- [Dev.to/JS] [Sports Management Certification: Worth the Investment?](https://dev.to/sports123kal/sports-management-certification-worth-the-investment-55ik)
-- [Dev.to/JS] [Unlocking Success in Sports Administration: Strategies for Leaders](https://dev.to/sports123kal/unlocking-success-in-sports-administration-strategies-for-leaders-24gi)
-- [Dev.to/JS] [how to use dev.to article API](https://dev.to/04anilr/how-to-use-devto-article-api-i08)
 - [Lifehacker] [The Best Headphone Deals From the Amazon Big Spring Sale](https://lifehacker.com/tech/best-headphone-deals-amazon-big-spring-sale)
 - [Lifehacker] [Google Just Killed One of Its Best Phone Features](https://lifehacker.com/tech/google-just-killed-one-of-its-best-phone-features)
 - [Lifehacker] [10 Ways to Update Your Porch or Patio on a Budget](https://lifehacker.com/home/10-ways-to-update-porch-patio-on-a-budget)
