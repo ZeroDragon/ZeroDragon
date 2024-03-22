@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy GitHub Accounts](https://dev.to/xowem50646/buy-github-accounts-64c)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/xowem50646/buy-old-gmail-accounts-1dlf)
 - [Dev.to/JS] [Buy verified BYBIT account](https://dev.to/xowem50646/buy-verified-bybit-account-1e13)
 - [Dev.to/JS] [Handle 401 errors in a cleaner way with Axios interceptors](https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/xowem50646/buy-amazon-reviews-kdg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/xowem50646/buy-verified-paxful-account-3hm4)
 - [Dev.to/JS] [Next.js 14: Fetching Data](https://dev.to/w3tsa/nextjs-14-fetching-data-elm)
 - [Dev.to/JS] [Web Animations API](https://dev.to/rodrigoantunes/web-animation-api-30h2)
-- [Dev.to/JS] [Quick Tip: Find if array has duplicates](https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80)
-- [Dev.to/JS] [Quick Tip: Flattening a multidimensional array](https://dev.to/cortim/quick-tip-flattening-a-multidimensional-array-453c)
 - [Lifehacker] [The Best Deals on Coffee Makers and Accessories During Amazon’s Big Spring Sale](https://lifehacker.com/home/best-amazon-big-spring-sale-deals-on-coffee-makers)
 - [Lifehacker] [These Exercises Burn the Most Calories Per Hour](https://lifehacker.com/health/what-exercise-burns-the-most-calories)
 - [Lifehacker] [This Is the Best Fire TV Deal From the Amazon Spring Day Sale](https://lifehacker.com/tech/best-fire-tv-deal-amazon-spring-day-sale)
