@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comece API Node.js por aqui](https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k)
+- [Dev.to/JS] [Camping with HTML and CSS](https://dev.to/madsstoumann/camping-with-html-and-css-3en3)
 - [Dev.to/JS] [Promise API In JavaScript](https://dev.to/myogeshchavan97/promise-api-in-javascript-599b)
 - [Dev.to/JS] [Photo puzzle x effect capcut template](https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg)
 - [Dev.to/JS] [History API in One Byte Explanation](https://dev.to/ngdangtu/history-api-in-one-byte-explanation-3o5k)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handle 401 errors in a cleaner way with Axios interceptors](https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/xowem50646/buy-amazon-reviews-kdg)
 - [Dev.to/JS] [Buy Verified CoinBase Account](https://dev.to/xowem50646/buy-verified-coinbase-account-1e1a)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/xowem50646/buy-verified-cash-app-account-10i4)
-- [Dev.to/JS] [Buy Negative Google Reviews](https://dev.to/xowem50646/buy-negative-google-reviews-2dp8)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
