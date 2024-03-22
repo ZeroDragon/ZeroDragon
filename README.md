@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js 14: Fetching Data](https://dev.to/w3tsa/nextjs-14-fetching-data-elm)
 - [Dev.to/JS] [Web Animations API](https://dev.to/rodrigoantunes/web-animation-api-30h2)
 - [Dev.to/JS] [Quick Tip: Find if array has duplicates](https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80)
 - [Dev.to/JS] [Quick Tip: Flattening a multidimensional array](https://dev.to/cortim/quick-tip-flattening-a-multidimensional-array-453c)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Meta Quest 2 Sale Now Includes a $50 Gift Card](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
 - [Lifehacker] [The Best Deals on Fitness Equipment From Amazon’s Big Spring Sale](https://lifehacker.com/health/best-fitness-deals-amazon-big-spring-sale)
 - [Dev.to/JS] [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
-- [Dev.to/JS] [Building a Voice and Eye-Controlled To-Do App - Part 2](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-2-4d56)
 - [Lifehacker] [Khai Dao Is the Sexy Bad Boy of Fried Eggs](https://lifehacker.com/food-drink/best-khai-dao-fried-egg-recipe)
 - [Lifehacker] [The Best Headphone Deals From the Amazon Big Spring Sale](https://lifehacker.com/tech/best-headphone-deals-amazon-big-spring-sale)
 - [Lifehacker] [Google Just Killed One of Its Best Phone Features](https://lifehacker.com/tech/google-just-killed-one-of-its-best-phone-features)
