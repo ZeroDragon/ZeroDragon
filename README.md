@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SO YOU WANT TO BE A WEB DEVELOPER.](https://dev.to/mayhoral8/so-you-want-to-be-a-web-developer-1h53)
 - [Dev.to/JS] [Implement Promises/A+ from scratch](https://dev.to/techsum/implement-promisesa-from-scratch-1hlf)
 - [Dev.to/JS] [JavaScript Essentials Cheat Sheet with Explanations](https://dev.to/04anilr/javascript-essentials-cheat-sheet-with-explanations-n73)
 - [Dev.to/JS] [Typescript 🆚 NodeJS Runtime: Problemas e soluções na importação de módulos](https://dev.to/chlima88/typescript-nodejs-runtime-problemas-e-solucoes-na-importacao-de-modulos-3h14)
@@ -37,17 +38,34 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FullScreen API: Explained in 256 characters](https://dev.to/sourjaya/fullscreen-api-explained-in-256-characters-3fp2)
 - [Dev.to/JS] [DFS vs BFS](https://dev.to/ajithr116/dfs-vs-bfs-2jpd)
 - [Dev.to/JS] [Diving Into the JavaScript Jungle: Top 10 Projects to Tame in 2024 🌟](https://dev.to/rt68/diving-into-the-javascript-jungle-top-10-projects-to-tame-in-2024-1e7p)
-- [Dev.to/JS] [Meme Generator Sample With React](https://dev.to/fpaghar/meme-generator-sample-with-react-5fam)
-- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
-- [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
-- [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
-- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
-- [Crazy Programmer] [Steve Wozniak Biography](https://www.thecrazyprogrammer.com/2024/01/steve-wozniak-biography.html)
-- [Crazy Programmer] [LambdaTest Review 2024 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/11/lambdatest-review.html)
-- [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
-- [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
-- [Crazy Programmer] [9 Best Free Node.js Hosting 2024](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
-- [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2024?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Deals on Coffee Makers and Accessories During Amazon’s Big Spring Sale](https://lifehacker.com/home/best-amazon-big-spring-sale-deals-on-coffee-makers)
+- [Lifehacker] [These Exercises Burn the Most Calories Per Hour](https://lifehacker.com/health/what-exercise-burns-the-most-calories)
+- [Lifehacker] [This Is the Best Fire TV Deal From the Amazon Spring Day Sale](https://lifehacker.com/tech/best-fire-tv-deal-amazon-spring-day-sale)
+- [Lifehacker] [This Meta Quest 2 Sale Now Includes a $50 Gift Card](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
+- [Lifehacker] [The Best Deals on Fitness Equipment From Amazon’s Big Spring Sale](https://lifehacker.com/health/best-fitness-deals-amazon-big-spring-sale)
+- [Lifehacker] [Khai Dao Is the Sexy Bad Boy of Fried Eggs](https://lifehacker.com/food-drink/best-khai-dao-fried-egg-recipe)
+- [Lifehacker] [The Best Headphone Deals From the Amazon Big Spring Sale](https://lifehacker.com/tech/best-headphone-deals-amazon-big-spring-sale)
+- [Lifehacker] [Google Just Killed One of Its Best Phone Features](https://lifehacker.com/tech/google-just-killed-one-of-its-best-phone-features)
+- [Lifehacker] [10 Ways to Update Your Porch or Patio on a Budget](https://lifehacker.com/home/10-ways-to-update-porch-patio-on-a-budget)
+- [Lifehacker] [When to Get a Tankless Water Heater &lpar;and When Not To&rpar;](https://lifehacker.com/money/when-to-get-a-tankless-water-heater-and-when-not-to)
+- [Lifehacker] [Why the US Department of Justice Is Suing Apple](https://lifehacker.com/tech/department-of-justice-apple-lawsuit)
+- [Lifehacker] [When It’s Actually a Good Idea to Remove a Bathroom](https://lifehacker.com/money/when-to-remove-bathroom)
+- [Lifehacker] [How to Turn Your HomePod Mini Into a ‘Portable’ Speaker](https://lifehacker.com/tech/how-to-turn-homepod-mini-into-portable-speaker)
+- [Lifehacker] [The Best VPNs If You Still Want to Watch Porn in Texas](https://lifehacker.com/tech/best-vpns-to-watch-porn-in-texas)
+- [Lifehacker] [Use the &#39;Days Since&#39; App to Quit Your Bad Habits](https://lifehacker.com/tech/use-days-since-app-to-quit-bad-habits)
+- [Lifehacker] [The Asus ROG Strix Scar 18 Is One of the Best Gaming Laptops I’ve Ever Used](https://lifehacker.com/tech/asus-rog-strix-scar-18-review-one-of-the-best-gaming-laptops-ive-used)
+- [Lifehacker] [&#39;Psst&#39; Is a No-Nonsense Spotify Player](https://lifehacker.com/tech/psst-spotify-player-review)
+- [Lifehacker] [How to Clean Your Filthy FineWoven iPhone Case](https://lifehacker.com/tech/how-to-clean-finewoven-iphone-case)
+- [Lifehacker] [How to Stay Sane at a Culty Tech Company](https://lifehacker.com/work/how-to-stay-sane-at-a-culty-tech-company)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, March 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
+- [Lifehacker] [Trending Topics Are Coming to Threads, Starting With the US](https://lifehacker.com/tech/trending-topics-are-coming-to-threads)
+- [Lifehacker] [This Mobile Pixels Glance Portable Monitor Is on Sale for $180 Right Now](https://lifehacker.com/tech/mobile-pixels-glance-portable-monitor-sale)
+- [Lifehacker] [It&#39;s Not Safe to Click Links on X](https://lifehacker.com/tech/its-not-safe-to-click-links-on-x)
+- [Lifehacker] [A Bunch of Nanoleaf Smart Lights Are 20% Off](https://lifehacker.com/tech/best-deals-nanoleaf-spring-sale)
+- [Lifehacker] [These Portable Generators and Solar Panels Are up to 40% Off During Amazon’s Big Spring Sale](https://lifehacker.com/tech/jackery-portable-generators-amazon-big-spring-sale)
+- [Lifehacker] [The Best Spring Break Travel Essentials From Amazon&#39;s Big Spring Sale](https://lifehacker.com/travel/best-travel-deals-amazon-spring-sale)
+- [Lifehacker] [These Robot Vacuums Are up to 48% Off During Amazon’s Big Spring Sale](https://lifehacker.com/home/amazon-big-spring-sale-robot-vacuums)
+- [Lifehacker] [Shopping on Amazon Is About to Get Even Worse](https://lifehacker.com/tech/shopping-on-amazon-is-about-to-get-even-worse)<!-- TECH-POSTS:END -->
 
 ---
 
