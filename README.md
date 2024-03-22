@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of Actors in Frontend Application Development](https://dev.to/woodmarkdev/unleashing-the-power-of-actors-in-frontend-application-development-a9b)
+- [Dev.to/JS] [Full Service Digital Marketing Agency](https://dev.to/theorangeclub/full-service-digital-marketing-agency-3ajb)
+- [Dev.to/JS] [HOW TO INSTALL ERPNEXT VERSION 14.0 IN UBUNTU 22.04 – A STEP BY STEP GUIDE](https://dev.to/04anilr/how-to-install-erpnext-version-14-in-ubuntu-2204-a-step-by-step-guide-43bn)
 - [Dev.to/JS] [How to Develop Online Chess Game &lpar;iOS,Android,Web&rpar; with no budget.](https://dev.to/checkmate/how-to-develop-online-chess-game-iosandroidweb-with-no-budget-45ee)
 - [Dev.to/JS] [Build a &quot;Search in Video&quot; App with React and OpenAI](https://dev.to/codehead_training/build-a-search-in-video-app-with-react-and-openai-1f3k)
 - [Dev.to/JS] [Flutter Vs React Native, What To Choose In 2024?](https://dev.to/swhabitation/flutter-vs-react-native-what-to-choose-in-2024-665)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cookies in Depth using Javascript and NodeJs](https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m)
 - [Dev.to/JS] [Real world asset token development](https://dev.to/harsumil01/real-world-asset-token-development-1lcf)
 - [Dev.to/JS] [Comece API Node.js por aqui](https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k)
-- [Dev.to/JS] [Camping with HTML and CSS](https://dev.to/madsstoumann/camping-with-html-and-css-3en3)
-- [Dev.to/JS] [Promise API In JavaScript](https://dev.to/myogeshchavan97/promise-api-in-javascript-599b)
-- [Dev.to/JS] [Photo puzzle x effect capcut template](https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
