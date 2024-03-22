@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 5-8 of Subscription App](https://dev.to/hestia/day-5-8-of-subscription-app-55i8)
+- [Dev.to/JS] [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
+- [Dev.to/JS] [Simplifying Multilingual React Apps with Custom Hooks and Utility Types](https://dev.to/serifcolakel/simplifying-multilingual-react-apps-with-custom-hooks-and-utility-types-c0n)
+- [Dev.to/JS] [Lessons from open-source: Have you ever used console object like this `console[consoleMethod]&lpar;‘’&rpar;`?](https://dev.to/ramunarasinga/lessons-from-open-source-have-you-ever-used-console-object-like-this-consoleconsolemethod-46c2)
 - [Dev.to/JS] [Secondary school to software developer?](https://dev.to/randomwanderer1/secondary-school-to-software-developer-486n)
 - [Dev.to/JS] [Supercharge Learning to Code with the Feynman Technique](https://dev.to/rwparrish/supercharge-learning-to-code-with-the-feynman-technique-502o)
 - [Dev.to/JS] [React Native Library](https://dev.to/ja_b_24ea9014408/react-native-library-2jg6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Essentials Cheat Sheet with Explanations](https://dev.to/04anilr/javascript-essentials-cheat-sheet-with-explanations-n73)
 - [Dev.to/JS] [Typescript 🆚 NodeJS Runtime: Problemas e soluções na importação de módulos](https://dev.to/chlima88/typescript-nodejs-runtime-problemas-e-solucoes-na-importacao-de-modulos-3h14)
 - [Dev.to/JS] [como usar contextApi en react](https://dev.to/bearpoint/como-usar-contextapi-en-react-b2f)
-- [Dev.to/JS] [Squashing Mixed Content in Development with lcl.host](https://dev.to/anchordotdev/squashing-mixed-content-in-development-with-lclhost-17lj)
-- [Dev.to/JS] [How to Download Adobe Firefly Generative Fill Images Without Watermark](https://dev.to/pixelgig/how-to-download-adobe-firefly-generative-fill-images-without-watermark-3880)
-- [Dev.to/JS] [How to build an API](https://dev.to/justinw7/how-to-build-an-api-403d)
-- [Dev.to/JS] [Scale Like a Pro: Essential Strategies for High-Performance Node.js Applications](https://dev.to/sayuj/scale-like-a-pro-essential-strategies-for-high-performance-nodejs-applications-5fp0)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
