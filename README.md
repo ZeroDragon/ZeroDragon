@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FullScreen API: Explained in 256 characters](https://dev.to/sourjaya/fullscreen-api-explained-in-256-characters-3fp2)
+- [Dev.to/JS] [DFS vs BFS](https://dev.to/ajithr116/dfs-vs-bfs-2jpd)
+- [Dev.to/JS] [Diving Into the JavaScript Jungle: Top 10 Projects to Tame in 2024 🌟](https://dev.to/rt68/diving-into-the-javascript-jungle-top-10-projects-to-tame-in-2024-1e7p)
 - [Dev.to/JS] [Meme Generator Sample With React](https://dev.to/fpaghar/meme-generator-sample-with-react-5fam)
 - [Dev.to/JS] [Aioewa](https://dev.to/stio/aioewa-2fe5)
 - [Dev.to/JS] [React Summit US](https://dev.to/gitnationorg/react-summit-us-2i18)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Get Tomorrow&#39;s Date in JavaScript: A Beginner&#39;s Guide](https://dev.to/falselight/how-to-get-tomorrows-date-in-javascript-a-beginners-guide-3p7e)
 - [Dev.to/JS] [Why { ...defaultValues, ...newValues } can hide a bug](https://dev.to/guimoraes/why-defaultvalues-newvalues-can-hide-a-bug-54hc)
 - [Dev.to/JS] [How to Improve Your 70-410 Skills with Free Practice Tests](https://dev.to/incent1984/how-to-improve-your-70-410-skills-with-free-practice-tests-21p0)
-- [Dev.to/JS] [How to Deploy Your First Smart Contract 📃](https://dev.to/mozes721/how-to-deploy-your-first-smart-contract-4coj)
-- [Dev.to/JS] [Mobile Web Audio: Removing Media Controls from Notifications Tray](https://dev.to/tjtanjin/mobile-web-audio-removing-media-controls-from-notifications-tray-1nl3)
-- [Dev.to/JS] [React useEffect and objects as dependency - 4 approaches to avoid unnecessary executions](https://dev.to/jkettmann/react-useeffect-and-objects-as-dependency-4-approaches-to-avoid-unnecessary-executions-kkn)
 - [Lifehacker] [The Best Deals on Coffee Makers and Accessories During Amazon’s Big Spring Sale](https://lifehacker.com/home/best-amazon-big-spring-sale-deals-on-coffee-makers)
 - [Lifehacker] [These Exercises Burn the Most Calories Per Hour](https://lifehacker.com/health/what-exercise-burns-the-most-calories)
 - [Lifehacker] [This Is the Best Fire TV Deal From the Amazon Spring Day Sale](https://lifehacker.com/tech/best-fire-tv-deal-amazon-spring-day-sale)
