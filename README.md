@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first node API](https://dev.to/mugishasamuella/my-first-node-api-394f)
+- [Dev.to/JS] [Geolocation API: Unlocking Location-Based Magic](https://dev.to/oladigbs18/geolocation-api-unlocking-location-based-magic-4khl)
+- [Dev.to/JS] [GroupUp Unveiled: Frontend Tech Stack](https://dev.to/filipf/groupup-unveiled-frontend-tech-stack-2dho)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/vivik60851/buy-verified-paxful-account-4m3k)
 - [Dev.to/JS] [Avoiding Common Mistakes with useEffect in ReactJS](https://dev.to/afzalimdad9/avoiding-common-mistakes-with-useeffect-in-reactjs-55n8)
 - [Dev.to/JS] [Add Google Analytics to NextJS/React Website](https://dev.to/sh20raj/add-google-analytics-to-nextjs-website-11gp)
 - [Dev.to/JS] [Latest Newsletter: Backlash &lpar;Issue #156&rpar;](https://dev.to/mjgs/latest-newsletter-backlash-issue-156-5bp1)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interesting rules of an emerging user engagement tracker for an open web](https://dev.to/saleemkce/interesting-rules-of-an-emerging-user-engagement-tracker-for-an-open-web-4po2)
 - [Dev.to/JS] [Expert Computer Repair Services: Restoring Your Device&#39;s Performance](https://dev.to/smartphones2334/expert-computer-repair-services-restoring-your-devices-performance-59n9)
 - [Dev.to/JS] [Zirakpur Escorts Service at Cheap Rates, 24*7 100% genuine](https://dev.to/goacelebrities18/zirakpur-escorts-service-at-cheap-rates-247-100-genuine-187m)
-- [Dev.to/JS] [Why Choose Our Jalandhar Escorts Service with 100% Satisfaction?](https://dev.to/goacelebrities18/why-choose-our-jalandhar-escorts-service-with-100-satisfaction-3chi)
-- [Dev.to/JS] [What are the benefits of having buy Google Reviews?](https://dev.to/sean_dennis/what-are-the-benefits-of-having-buy-google-reviews-i0h)
-- [Dev.to/JS] [New member looking for input...](https://dev.to/sterry/new-member-looking-for-input-4lon)
-- [Dev.to/JS] [Learn Basic NodeJS](https://dev.to/appardana/learn-basic-nodejs-3dbl)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
