@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Basic NodeJS](https://dev.to/appardana/learn-basic-nodejs-3dbl)
 - [Dev.to/JS] [Exploring JavaScript Obfuscation in Web Development and Cybersecurity](https://dev.to/khid/exploring-javascript-obfuscation-in-web-development-and-cybersecurity-11af)
 - [Dev.to/JS] [Polymorphism in Javascript](https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84)
 - [Dev.to/JS] [Episode 24/11: Angular 17.3](https://dev.to/this-is-angular/episode-2411-angular-173-28nn)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Secondary school to software developer?](https://dev.to/randomwanderer1/secondary-school-to-software-developer-486n)
 - [Dev.to/JS] [Supercharge Learning to Code with the Feynman Technique](https://dev.to/rwparrish/supercharge-learning-to-code-with-the-feynman-technique-502o)
 - [Dev.to/JS] [React Native Library](https://dev.to/ja_b_24ea9014408/react-native-library-2jg6)
-- [Dev.to/JS] [SO YOU WANT TO BE A WEB DEVELOPER.](https://dev.to/mayhoral8/so-you-want-to-be-a-web-developer-1h53)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
