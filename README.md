@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2 ways to 🔧 set up Nextjs with MongoDB 🛢️ and Mongoose](https://dev.to/thatanjan/2-ways-to-set-up-nextjs-with-mongodb-and-mongoose-4afo)
+- [Dev.to/JS] [Solanas: Pushing the forefront of digital art and cultural value on the Solana blockchain](https://dev.to/daoke/solanas-pushing-the-forefront-of-digital-art-and-cultural-value-on-the-solana-blockchain-2bi5)
+- [Dev.to/JS] [Building an Advanced &amp; Powerful Tables in Frontend](https://dev.to/shreyvijayvargiya/building-an-advanced-powerful-tables-in-frontend-3k39)
 - [Dev.to/JS] [Practical examples of using IntersectionObserver with React](https://dev.to/phuocng/practical-examples-of-using-intersectionobserver-with-react-2d7h)
 - [Dev.to/JS] [My first node API](https://dev.to/mugishasamuella/my-first-node-api-394f)
 - [Dev.to/JS] [Geolocation API: Unlocking Location-Based Magic](https://dev.to/oladigbs18/geolocation-api-unlocking-location-based-magic-4khl)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Google Analytics to NextJS/React Website](https://dev.to/sh20raj/add-google-analytics-to-nextjs-website-11gp)
 - [Dev.to/JS] [Latest Newsletter: Backlash &lpar;Issue #156&rpar;](https://dev.to/mjgs/latest-newsletter-backlash-issue-156-5bp1)
 - [Dev.to/JS] [Unleashing the Speed: Exploring the Power of Bun.js and the Future of JavaScript Runtimes](https://dev.to/afzalimdad9/unleashing-the-speed-exploring-the-power-of-bunjs-and-the-future-of-javascript-runtimes-58p7)
-- [Dev.to/JS] [JavaScript Questions and Answers - core concepts](https://dev.to/ir3ne/javascript-questions-and-answers-core-concepts-46ll)
-- [Dev.to/JS] [Interesting rules of an emerging user engagement tracker for an open web](https://dev.to/saleemkce/interesting-rules-of-an-emerging-user-engagement-tracker-for-an-open-web-4po2)
-- [Dev.to/JS] [Expert Computer Repair Services: Restoring Your Device&#39;s Performance](https://dev.to/smartphones2334/expert-computer-repair-services-restoring-your-devices-performance-59n9)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
