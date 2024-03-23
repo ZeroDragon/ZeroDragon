@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Button Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/button-component-with-riotjs-material-design-174p)
+- [Dev.to/JS] [Managing Concurrent Database Writes in a Distributed System with Redis or PostgreSQL](https://dev.to/nikl/managing-concurrent-database-writes-in-a-distributed-system-with-redis-or-postgresql-4nc9)
+- [Dev.to/JS] [Monolith Architecture and MicroServices](https://dev.to/saikiran76/monolith-architecture-and-microservices-50n1)
 - [Dev.to/JS] [Working Camp Inquiry - Glam Up my Markup](https://dev.to/programordie/working-camp-inquiry-glam-up-my-markup-35og)
 - [Dev.to/JS] [Linear and Binary search](https://dev.to/ajithr116/linear-and-binary-search-2mkc)
 - [Dev.to/JS] [Intro to javascript](https://dev.to/yogeshktm/intro-to-javascript-4bn4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add JSON-LD Structured Data to a Next.js Website](https://dev.to/sh20raj/how-to-add-json-ld-structured-data-to-a-nextjs-website-58hh)
 - [Dev.to/JS] [Big Numbers, No Worries: JavaScript Format Number With Commas](https://dev.to/onlinemsr/big-numbers-no-worries-javascript-format-number-with-commas-n6j)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/donoc75689/buy-google-5-star-reviews-1c9f)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/donoc75689/buy-verified-paxful-account-2mn)
-- [Dev.to/JS] [IndexedDB: Explained In One Byte](https://dev.to/sachinchaurasiya/indexeddb-explained-in-one-byte-14b4)
-- [Dev.to/JS] [[Postman] The variables](https://dev.to/daphne_herve/the-variables-2ihb)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
