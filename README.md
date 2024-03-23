@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 24/11: Angular 17.3](https://dev.to/this-is-angular/episode-2411-angular-173-28nn)
 - [Dev.to/JS] [Help Me Decide My Next Tutorial Topic!](https://dev.to/shawn2208/help-me-decide-my-next-tutorial-topic-187h)
 - [Dev.to/JS] [Day 5-8 of Subscription App](https://dev.to/hestia/day-5-8-of-subscription-app-55i8)
 - [Dev.to/JS] [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SO YOU WANT TO BE A WEB DEVELOPER.](https://dev.to/mayhoral8/so-you-want-to-be-a-web-developer-1h53)
 - [Dev.to/JS] [Implement Promises/A+ from scratch](https://dev.to/techsum/implement-promisesa-from-scratch-1hlf)
 - [Dev.to/JS] [JavaScript Essentials Cheat Sheet with Explanations](https://dev.to/04anilr/javascript-essentials-cheat-sheet-with-explanations-n73)
-- [Dev.to/JS] [Typescript 🆚 NodeJS Runtime: Problemas e soluções na importação de módulos](https://dev.to/chlima88/typescript-nodejs-runtime-problemas-e-solucoes-na-importacao-de-modulos-3h14)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
